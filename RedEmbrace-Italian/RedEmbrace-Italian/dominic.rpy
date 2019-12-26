@@ -1,0 +1,7876 @@
+
+# game/dominic.rpy:4
+translate italian dominic_95da61e9:
+
+    # n "…Dominic doesn't seem to be sticking around, and to be honest, I don't want to either."
+    n ""
+
+            
+# game/dominic.rpy:5
+translate italian dominic_50b58593:
+
+    # n "But he's already close to rounding the corner, so I have to hurry if I want to catch him–!"
+    n ""
+
+            
+# game/dominic.rpy:8
+translate italian dominic_9a0a828e:
+
+    # mcp "\"Some other time, maybe! Bye-bye!\""
+    mcp ""
+
+            
+# game/dominic.rpy:14
+translate italian dominic_9478818a:
+
+    # n "Calling out nervously to the approaching Rex, I turn to dash after Dominic's disappearing figure."
+    n ""
+
+            
+# game/dominic.rpy:15
+translate italian dominic_47433136:
+
+    # n "By the time I make it out of the alleyway, he's already heading down the sidewalk."
+    n ""
+
+            
+# game/dominic.rpy:24
+translate italian dominic_113e7bf3:
+
+    # n "When I jog up to his side, Dominic casts me a curious, skeptical glance."
+    n ""
+
+            
+# game/dominic.rpy:27
+translate italian dominic_624b09d9:
+
+    # mcp "\"Phew…\""
+    mcp ""
+
+            
+# game/dominic.rpy:29
+translate italian dominic_1e47ec7f:
+
+    # mcp "\"Hey. Dominic, right?\""
+    mcp ""
+
+            
+# game/dominic.rpy:30
+translate italian dominic_cb61dd36:
+
+    # mcp "\"I'm [mc], in case you didn't hear my name earlier.\""
+    mcp ""
+
+            
+# game/dominic.rpy:31
+translate italian dominic_6fd97c2c:
+
+    # n "I attempt to start a conversation as I walk beside him, but Dominic gives no reply."
+    n ""
+
+            
+# game/dominic.rpy:34
+translate italian dominic_f61489db:
+
+    # mcp "\"…Where are you heading off to? It was pretty obvious you didn't want to get involved back there.\""
+    mcp ""
+
+            
+# game/dominic.rpy:37
+translate italian dominic_1feefa32:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:38
+translate italian dominic_5a9830f1:
+
+    # n "With his hands stuffed in his pockets, Dominic hesitates briefly."
+    n ""
+
+            
+# game/dominic.rpy:41
+translate italian dominic_98137dca:
+
+    # dp "\"…I'm going to have a smoke.\""
+    dp ""
+
+            
+# game/dominic.rpy:44
+translate italian dominic_4f46a46b:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:45
+translate italian dominic_70c7eb89:
+
+    # n "His blunt reply catches me off guard."
+    n ""
+
+            
+# game/dominic.rpy:46
+translate italian dominic_ffed6ce8:
+
+    # n "He sounds completely apathetic, like he doesn't care one bit about the other vampires or Isaac and Luka…"
+    n ""
+
+            
+# game/dominic.rpy:56
+translate italian dominic_7c6627e3:
+
+    # mc "\"Ah, right. Could I come with you, then?\""
+    mc ""
+
+            
+# game/dominic.rpy:57
+translate italian dominic_790f3efa:
+
+    # mc "\"I have a lot of questions about all this, and I trust you the most out of all the guys I've met so far.\""
+    mc ""
+
+            
+# game/dominic.rpy:61
+translate italian dominic_03cde300:
+
+    # mc "\"Right… Well, do you mind if I tag along?\""
+    mc ""
+
+            
+# game/dominic.rpy:62
+translate italian dominic_3e682f38:
+
+    # mc "\"There's a few questions I'd really like to ask, and you seem to be the only one sane enough to answer them.\""
+    mc ""
+
+            
+# game/dominic.rpy:67
+translate italian dominic_8245e78e:
+
+    # n "After my tentative words, Dominic slows his pace and comes to a halt."
+    n ""
+
+            
+# game/dominic.rpy:68
+translate italian dominic_85a41759:
+
+    # n "He turns to look at me, his eyes widening a little."
+    n ""
+
+            
+# game/dominic.rpy:70
+translate italian dominic_c9a17b1e:
+
+    # n "–I didn't say anything weird, did I? {w}For whatever reason, he seems surprised."
+    n ""
+
+            
+# game/dominic.rpy:73
+translate italian dominic_01baaab5:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:78
+translate italian dominic_93b6df8a:
+
+    # n "Finally, he just shrugs his broad shoulders and starts walking down the street again."
+    n ""
+
+            
+# game/dominic.rpy:80
+translate italian dominic_290c8f76:
+
+    # n "…I'll choose to interpret that as \"sure, whatever\" and not \"go away.\""
+    n ""
+
+            
+# game/dominic.rpy:85
+translate italian dominic_ce7f2493:
+
+    # n "Without any further attempts at conversation, I follow Dominic along a few different roads, heading towards an older part of the city."
+    n ""
+
+            
+# game/dominic.rpy:87
+translate italian dominic_b1c793e8:
+
+    # n "Around fifteen minutes later, we come to an old warehouse.{w}Its peeling paint and decaying exterior make it look like it's been abandoned for some time."
+    n ""
+
+            
+# game/dominic.rpy:88
+translate italian dominic_16380449:
+
+    # n "Dominic ducks under a piece of rotting paneling, disappearing into the dark interior, and I quickly head after him."
+    n ""
+
+            
+# game/dominic.rpy:94
+translate italian dominic_ace07ed9:
+
+    # n "–At last, after going down a few flights of stairs, we emerge into an open space that's dimly lit by fluorescent lights."
+    n ""
+
+            
+# game/dominic.rpy:97
+translate italian dominic_55ff6b96:
+
+    # mcp "\"The electricity's on… Wow, do people actually still use this place?\""
+    mcp ""
+
+            
+# game/dominic.rpy:99
+translate italian dominic_b9e9e1ea:
+
+    # dp "\"…Seems like it.\""
+    dp ""
+
+            
+# game/dominic.rpy:100
+translate italian dominic_463e6bcc:
+
+    # n "Offering that insightful remark, Dominic leans back against the wall and slides down onto the floor."
+    n ""
+
+            
+# game/dominic.rpy:102
+translate italian dominic_0783f109:
+
+    # n "He pulls a pack of cigarettes and a lighter out of his pocket, flicking the latter until a tiny flame sparks up."
+    n ""
+
+            
+# game/dominic.rpy:104
+translate italian dominic_c50045c4:
+
+    # n "After lighting his smoke, he takes a long pull from it, then blows out a thin gray cloud."
+    n ""
+
+            
+# game/dominic.rpy:107
+translate italian dominic_2199780b:
+
+    # dp "\"…Are you gonna sit down?\""
+    dp ""
+
+            
+# game/dominic.rpy:108
+translate italian dominic_f05e2081:
+
+    # n "Dominic raises an eyebrow at me, jerking his chin towards the floor."
+    n ""
+
+            
+# game/dominic.rpy:112
+translate italian dominic_87ee8e98:
+
+    # mcp "\"O-oh, yeah. Sorry.\""
+    mcp ""
+
+            
+# game/dominic.rpy:114
+translate italian dominic_9c840638:
+
+    # n "I hesitantly lower myself down beside him, pulling my knees up to my chest."
+    n ""
+
+            
+# game/dominic.rpy:118
+translate italian dominic_5051ad82:
+
+    # mcp "\"Don't mind if I do.\""
+    mcp ""
+
+            
+# game/dominic.rpy:120
+translate italian dominic_da9865b5:
+
+    # n "With a slightly nervous chuckle, I lower myself down beside him, crossing my legs."
+    n ""
+
+            
+# game/dominic.rpy:128
+translate italian dominic_38d7e161:
+
+    # n "This feels so awkward – {w}and I have absolutely no clue what's going through Dominic's head right now."
+    n ""
+
+            
+# game/dominic.rpy:130
+translate italian dominic_14a03893:
+
+    # n "Well, I'll just get to the point. I don't think there's any use in making small talk with this guy."
+    n ""
+
+            
+# game/dominic.rpy:133
+translate italian dominic_b323a3c7:
+
+    # mcp "\"So… If I'm not crazy, and everything that happened tonight was actually real, then…\""
+    mcp ""
+
+            
+# game/dominic.rpy:135
+translate italian dominic_a232bbcd:
+
+    # mcp "\"…You're a vampire?\""
+    mcp ""
+
+            
+# game/dominic.rpy:138
+translate italian dominic_01baaab5_1:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:140
+translate italian dominic_a3dc780b:
+
+    # n "Dominic stiffly nods."
+    n ""
+
+            
+# game/dominic.rpy:142
+translate italian dominic_e614065a:
+
+    # mcp "\"There are… more of them, then?\""
+    mcp ""
+
+            
+# game/dominic.rpy:144
+translate italian dominic_b58c5f2a:
+
+    # mcp "\"Vampires? In San Fran?\""
+    mcp ""
+
+            
+# game/dominic.rpy:146
+translate italian dominic_15369f8c:
+
+    # n "He nods again, exhaling another small stream of smoke."
+    n ""
+
+            
+# game/dominic.rpy:147
+translate italian dominic_561801ed:
+
+    # n "There's no change in his expression, and he just watches me with a look of mild curiosity."
+    n ""
+
+            
+# game/dominic.rpy:150
+translate italian dominic_4f46a46b_1:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:151
+translate italian dominic_37788860:
+
+    # n "…I pause and bite my lower lip, at a loss for what to make of all this."
+    n ""
+
+            
+# game/dominic.rpy:152
+translate italian dominic_d0b21130:
+
+    # n "It feels like a dream, but there's no sign I'm going to wake up soon…{w} and after what I saw tonight, I'm forced to believe something supernatural is going on."
+    n ""
+
+            
+# game/dominic.rpy:154
+translate italian dominic_e79a0080:
+
+    # n "–Damn it, I really shouldn't have gotten out of bed this morning."
+    n ""
+
+            
+# game/dominic.rpy:157
+translate italian dominic_07863512:
+
+    # mcp "\"That guy Rex was a vampire too, right? Why does he hate you so much?\""
+    mcp ""
+
+            
+# game/dominic.rpy:160
+translate italian dominic_01baaab5_2:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:161
+translate italian dominic_fff59769:
+
+    # n "At that, Dominic averts his eyes for a moment, grimacing slightly."
+    n ""
+
+            
+# game/dominic.rpy:162
+translate italian dominic_cddec9cc:
+
+    # n "There was obviously no love lost between them, but Dominic seemed a lot less eager to fight than Rex did."
+    n ""
+
+            
+# game/dominic.rpy:165
+translate italian dominic_cbe79673:
+
+    # d "\"He's from a different clan.\""
+    d ""
+
+            
+# game/dominic.rpy:166
+translate italian dominic_716783d0:
+
+    # n "Dominic answers in a guarded tone, his gaze hesitantly returning to my face."
+    n ""
+
+            
+# game/dominic.rpy:168
+translate italian dominic_939834c1:
+
+    # mcp "\"Clan? Oh, right, Luka mentioned something like that…\""
+    mcp ""
+
+            
+# game/dominic.rpy:169
+translate italian dominic_964dc445:
+
+    # mcp "\"Rex is from a different one than you?\""
+    mcp ""
+
+            
+# game/dominic.rpy:172
+translate italian dominic_ced6469d:
+
+    # d "\"Yeah. He's Helgen. I'm… with Seirei.\""
+    d ""
+
+            
+# game/dominic.rpy:173
+translate italian dominic_0cdc77dd:
+
+    # n "There's a small hint of disgust in his voice, and his face darkens a little."
+    n ""
+
+            
+# game/dominic.rpy:174
+translate italian dominic_f9b7f695:
+
+    # d "\"He thinks the clans are like family or something. That they're important.\""
+    d ""
+
+            
+# game/dominic.rpy:177
+translate italian dominic_ecf19d84:
+
+    # d "\"…Guess he doesn't see what a joke it all is.\""
+    d ""
+
+            
+# game/dominic.rpy:180
+translate italian dominic_20793c29:
+
+    # mcp "\"So you're not into the whole clan thing, huh.\""
+    mcp ""
+
+            
+# game/dominic.rpy:182
+translate italian dominic_4a9162e0:
+
+    # mcp "\"I get that. I always hated fraternities and shit back in college.\""
+    mcp ""
+
+            
+# game/dominic.rpy:185
+translate italian dominic_01baaab5_3:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:186
+translate italian dominic_5b7b81c7:
+
+    # n "My halfhearted joke makes Dominic crack a little smile, which softens the shadows on his face."
+    n ""
+
+            
+# game/dominic.rpy:188
+translate italian dominic_027d08a5:
+
+    # n "…When I look at his heavily-lidded eyes, I don't see anything that resembles a monster."
+    n ""
+
+            
+# game/dominic.rpy:189
+translate italian dominic_0bc109a2:
+
+    # n "If someone had told me he was a vampire this morning, I would've called them crazy."
+    n ""
+
+            
+# game/dominic.rpy:190
+translate italian dominic_60d3da3d:
+
+    # n "He's quiet and awkward, sure, but he's not scary at all when he smiles like that."
+    n ""
+
+            
+# game/dominic.rpy:199
+translate italian dominic_cf756b6f:
+
+    # mcp "\"Hey…\""
+    mcp ""
+
+            
+# game/dominic.rpy:201
+translate italian dominic_8a17948d:
+
+    # mcp "\"Thanks for saving me earlier, by the way. Back when Rex had me against the wall.\""
+    mcp ""
+
+            
+# game/dominic.rpy:204
+translate italian dominic_bd69df42:
+
+    # mcp "\"Ah, yeah, before I forget…\""
+    mcp ""
+
+            
+# game/dominic.rpy:206
+translate italian dominic_cc5e9cb7:
+
+    # mcp "\"I really appreciate you saving me back there with Rex. You seemed like some kind of superhero, coming to my rescue just in the nick of time.\""
+    mcp ""
+
+            
+# game/dominic.rpy:208
+translate italian dominic_ca072801:
+
+    # n "I shiver as my mind flashes back to the terrifying sight of those fangs, right before they plunged into my neck."
+    n ""
+
+            
+# game/dominic.rpy:211
+translate italian dominic_cd8ea5a8:
+
+    # dp "\"…It's fine. I was just passing through.\""
+    dp ""
+
+            
+# game/dominic.rpy:212
+translate italian dominic_4d7a6741:
+
+    # n "He evasively turns his head away from me, taking another pull from his cigarette and avoiding my gaze."
+    n ""
+
+            
+# game/dominic.rpy:214
+translate italian dominic_cf47d0c5:
+
+    # n "…Is it my imagination, or does he look kind of embarrassed?"
+    n ""
+
+            
+# game/dominic.rpy:215
+translate italian dominic_b8397cf6:
+
+    # extend " No, that can't be right."
+    extend ""
+
+            
+# game/dominic.rpy:218
+translate italian dominic_b51bf40a:
+
+    # mcp "\"Talk about a crazy string of coincidences, though. I can't believe you know Isaac and Luka, too.\""
+    mcp ""
+
+            
+# game/dominic.rpy:221
+translate italian dominic_1feefa32_1:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:222
+translate italian dominic_8108741e:
+
+    # n "When I mention their names, Dominic pulls a face, grinding his cigarette down against the concrete floor."
+    n ""
+
+            
+# game/dominic.rpy:230
+translate italian dominic_89c41c44:
+
+    # d "\"I don't know {i}them.{/i} They know {i}us.{/i}\""
+    d ""
+
+            
+# game/dominic.rpy:231
+translate italian dominic_c3f64f70:
+
+    # n "He grimly stares into the distance, and looks like he doesn't plan to explain further unless I ask."
+    n ""
+
+            
+# game/dominic.rpy:234
+translate italian dominic_8f920bd6:
+
+    # mcp "\"You mean… they know the other vampires in the city?\""
+    mcp ""
+
+            
+# game/dominic.rpy:236
+translate italian dominic_d8d53e4b:
+
+    # d "\"Isaac does. He sells information and guns, playing both clans for money. That kid Luka's his sidekick.\""
+    d ""
+
+            
+# game/dominic.rpy:239
+translate italian dominic_4ee8d2eb:
+
+    # d "\"You shouldn't mess around with them.\""
+    d ""
+
+            
+# game/dominic.rpy:243
+translate italian dominic_671eeb56:
+
+    # n "Dominic runs a hand through his long, messy hair, letting out a tired sigh."
+    n ""
+
+            
+# game/dominic.rpy:245
+translate italian dominic_42d1cd2f:
+
+    # mcp "\"…Yeah, I guess that makes sense. They don't sound like great guys, to be honest.\""
+    mcp ""
+
+            
+# game/dominic.rpy:247
+translate italian dominic_0b2796be:
+
+    # n "I'm not sure why, but I feel sympathy for Dominic, even though he's… {w}not human."
+    n ""
+
+            
+# game/dominic.rpy:248
+translate italian dominic_0b5d97c4:
+
+    # n "If I was caught up in all this craziness, I'd probably just want to escape, too. No wonder he looks so gloomy all the time."
+    n ""
+
+            
+# game/dominic.rpy:250
+translate italian dominic_abc8eae1:
+
+    # d "\"Why were you out there tonight?\""
+    d ""
+
+            
+# game/dominic.rpy:255
+translate italian dominic_e9782316:
+
+    # n "His sudden question breaks the silence, and I glance over to see him gazing at me with interest."
+    n ""
+
+            
+# game/dominic.rpy:257
+translate italian strings:
+
+    old "I was looking for you"
+    new ""
+    
+                
+# game/dominic.rpy:257
+translate italian strings:
+
+    old "I was just curious…"
+    new ""
+    
+                
+# game/dominic.rpy:263
+translate italian dominic_103e286f:
+
+    # mcp "\"…If I'm honest, I think it's because I was looking for you.\""
+    mcp ""
+
+            
+# game/dominic.rpy:266
+translate italian dominic_01baaab5_4:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:267
+translate italian dominic_47c2c6e2:
+
+    # n "He tilts his head in confusion at my response, and I awkwardly laugh."
+    n ""
+
+            
+# game/dominic.rpy:270
+translate italian dominic_a7df8a94:
+
+    # mcp "\"Isaac said something about a customer of mine showing up… and I guess, subconsciously, I thought he meant you.\""
+    mcp ""
+
+            
+# game/dominic.rpy:272
+translate italian dominic_a1b03381:
+
+    # mcp "\"I wanted to say thanks for the generous tip, after all.\""
+    mcp ""
+
+            
+# game/dominic.rpy:275
+translate italian dominic_01baaab5_5:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:277
+translate italian dominic_bf790759:
+
+    # n "–For a moment, Dominic just stares at me with apparent surprise. {w}Had he forgotten about the tip he left…?"
+    n ""
+
+            
+# game/dominic.rpy:280
+translate italian dominic_f8defcbf:
+
+    # n "Eventually, he turns his head away from me – but I can see a faint smirk briefly flicker over his mouth."
+    n ""
+
+            
+# game/dominic.rpy:282
+translate italian dominic_4b3f9a02:
+
+    # d "\"…It was good coffee.\""
+    d ""
+
+            
+# game/dominic.rpy:283
+translate italian dominic_c2fe09a0:
+
+    # n "He mutters something so quietly that I can barely make it out."
+    n ""
+
+            
+# game/dominic.rpy:291
+translate italian dominic_93a9f468:
+
+    # n "Deciding to be a little coy, I give Dominic a taste of his own medicine by offering a casual shrug."
+    n ""
+
+            
+# game/dominic.rpy:293
+translate italian dominic_ade101da:
+
+    # mcp "\"I was just curious, that's all. Isaac told me something interesting was going to happen tonight, so I came to see for myself.\""
+    mcp ""
+
+            
+# game/dominic.rpy:295
+translate italian dominic_f9dfd734:
+
+    # mcp "\"Boy, was that ever a mistake…\""
+    mcp ""
+
+            
+# game/dominic.rpy:298
+translate italian dominic_01baaab5_6:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:300
+translate italian dominic_0390dca5:
+
+    # n "His brow knits together in a slight frown."
+    n ""
+
+            
+# game/dominic.rpy:302
+translate italian dominic_71cea107:
+
+    # mcp "\"Except for the part where I got to see you again, that is. I was a little worried you might never come back to the diner.\""
+    mcp ""
+
+            
+# game/dominic.rpy:305
+translate italian dominic_01baaab5_7:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:306
+translate italian dominic_dad8d203:
+
+    # n "–For a moment, Dominic just stares at me with apparent surprise.{w} Did he think I'd forgotten him or something?"
+    n ""
+
+            
+# game/dominic.rpy:309
+translate italian dominic_f8defcbf_1:
+
+    # n "Eventually, he turns his head away from me – but I can see a faint smirk briefly flicker over his mouth."
+    n ""
+
+            
+# game/dominic.rpy:311
+translate italian dominic_a6065e33:
+
+    # d "\"Yeah… it worked out.\""
+    d ""
+
+            
+# game/dominic.rpy:312
+translate italian dominic_960ef5ca:
+
+    # n "He mutters something more to himself than me, and I can barely hear what he's saying."
+    n ""
+
+            
+# game/dominic.rpy:316
+translate italian dominic_9dd2ea84:
+
+    # mcp "\"Come again?\""
+    mcp ""
+
+            
+# game/dominic.rpy:324
+translate italian dominic_4ae9b0db:
+
+    # n "Instead of replying, though, Dominic rather abruptly pushes himself up to his feet – turning to me with a more serious expression."
+    n ""
+
+            
+# game/dominic.rpy:328
+translate italian dominic_1470462a:
+
+    # n "He hesitates after opening his mouth, lowering his head a little."
+    n ""
+
+            
+# game/dominic.rpy:331
+translate italian dominic_e4f61eef:
+
+    # d "\"…Isaac put you in a lot of danger.\""
+    d ""
+
+            
+# game/dominic.rpy:338
+translate italian dominic_35a28d4c:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:339
+translate italian dominic_03a8878e:
+
+    # n "His slow, husky voice takes on a sharper edge all of a sudden."
+    n ""
+
+            
+# game/dominic.rpy:342
+translate italian dominic_aed3146b:
+
+    # d "\"Humans who know about us are a threat. Rex will tell the other Helgen about you.\""
+    d ""
+
+            
+# game/dominic.rpy:343
+translate italian dominic_dabbd32e:
+
+    # d "\"When that happens, word'll spread fast. Someone will come after you… probably by tomorrow night.\""
+    d ""
+
+            
+# game/dominic.rpy:345
+translate italian dominic_a5fa2bb6:
+
+    # n "Dominic's eyes narrow, and he pauses for a long moment."
+    n ""
+
+            
+# game/dominic.rpy:348
+translate italian dominic_1179157c:
+
+    # d "\"Until they forget you and start hunting someone else, you shouldn't be alone in the dark.\""
+    d ""
+
+            
+# game/dominic.rpy:351
+translate italian dominic_35a28d4c_1:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:353
+translate italian dominic_0d8b3adf:
+
+    # n "–His words send a cold tingle through me, and a knot curls in the pit of my stomach."
+    n ""
+
+            
+# game/dominic.rpy:354
+translate italian dominic_74966d3d:
+
+    # n "Troy's out of town for a little while, so I can't just take off work… {w}and there's no way I can afford a taxi every night."
+    n ""
+
+            
+# game/dominic.rpy:356
+translate italian dominic_b5a8733c:
+
+    # n "And even when he gets back, who's to say they won't still be coming after me? I can't stay inside my house forever."
+    n ""
+
+            
+# game/dominic.rpy:360
+translate italian dominic_6633248c:
+
+    # mc "\"Maybe I should just skip town…"
+    mc ""
+
+            
+# game/dominic.rpy:363
+translate italian dominic_2954069c:
+
+    # d "\"They'll find you before you can leave.\""
+    d ""
+
+            
+# game/dominic.rpy:365
+translate italian dominic_5a88540b:
+
+    # mc "\"Then what am I supposed to do? How can I stand a chance against –\""
+    mc ""
+
+            
+# game/dominic.rpy:369
+translate italian dominic_11e0fac6:
+
+    # mc "\"I'll get a gun, or a knife, or something like that. I'll find some way to defend myself.\""
+    mc ""
+
+            
+# game/dominic.rpy:372
+translate italian dominic_50771839:
+
+    # n "Dominic just shakes his head, letting out a long exhale."
+    n ""
+
+            
+# game/dominic.rpy:374
+translate italian dominic_12e05aae:
+
+    # d "\"That won't work.\""
+    d ""
+
+            
+# game/dominic.rpy:376
+translate italian dominic_fee36dab:
+
+    # mc "\"What do you mean it won't work? You expect me to just –\""
+    mc ""
+
+            
+# game/dominic.rpy:378
+translate italian dominic_3f9ff79d:
+
+    # d "\"I'll help you.\""
+    d ""
+
+            
+# game/dominic.rpy:381
+translate italian dominic_35a28d4c_2:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:382
+translate italian dominic_7ddf38ba:
+
+    # n "At his unexpected offer, I freeze, my mouth hanging open."
+    n ""
+
+            
+# game/dominic.rpy:384
+translate italian dominic_a93e2be0:
+
+    # n "Is… {w}Is he seriously saying he'll protect me?"
+    n ""
+
+            
+# game/dominic.rpy:385
+translate italian dominic_ef772703:
+
+    # extend " Aren't I threat to them? Shouldn't he be working against me?"
+    extend ""
+
+            
+# game/dominic.rpy:391
+translate italian dominic_84a9d123:
+
+    # n "But before I can ask why he'd do something so crazy, Dominic turns his back to me, murmuring a few last words."
+    n ""
+
+            
+# game/dominic.rpy:393
+translate italian dominic_6c717ef8:
+
+    # dp "\"I'll come to the diner tomorrow.\""
+    dp ""
+
+            
+# game/dominic.rpy:396
+translate italian dominic_4d83b420:
+
+    # dp "\"…Don't do anything stupid.\""
+    dp ""
+
+            
+# game/dominic.rpy:399
+translate italian dominic_eb0a7d05:
+
+    # n "–And with that parting command, he stalks off towards the stairs, his long strides carrying him out of sight in a few moments."
+    n ""
+
+            
+# game/dominic.rpy:401
+translate italian dominic_d50dd857:
+
+    # n "I'm left speechless, standing alone with only Dominic's discarded cigarette for company."
+    n ""
+
+            
+# game/dominic.rpy:402
+translate italian dominic_442c486c:
+
+    # n "The hum of dim, fluorescent lights around me is all that disrupts the dead silence."
+    n ""
+
+            
+# game/dominic.rpy:407
+translate italian dominic_35a28d4c_3:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:408
+translate italian dominic_e6536c8a:
+
+    # n "I don't know what to think."
+    n ""
+
+            
+# game/dominic.rpy:409
+translate italian dominic_a86635c8:
+
+    # n "Dominic… I didn't do anything to deserve his help, but he's going to give it to me anyway."
+    n ""
+
+            
+# game/dominic.rpy:411
+translate italian dominic_3b1be245:
+
+    # n "Normally I'd feel indignant, but if I've somehow made myself a target of vampires who are anything like Rex… {w}well, I'd be an idiot to refuse Dominic."
+    n ""
+
+            
+# game/dominic.rpy:413
+translate italian dominic_fa927808:
+
+    # n "Normally I'd refuse, since it's pretty stupid to rely on a creature who sees you as food."
+    n ""
+
+            
+# game/dominic.rpy:414
+translate italian dominic_b3b406e9:
+
+    # n "But if I compare Dominic to vampires like Rex, who act like wild animals…{w} well, I'd be an idiot to refuse the help."
+    n ""
+
+            
+# game/dominic.rpy:416
+translate italian dominic_9f68d049:
+
+    # n "–And, for some reason, I feel like I can trust him."
+    n ""
+
+            
+# game/dominic.rpy:417
+translate italian dominic_4832d062:
+
+    # n "I don't know why, but there's something comforting about being with Dominic. {w}It's like having a guardian wolf, almost."
+    n ""
+
+            
+# game/dominic.rpy:420
+translate italian dominic_6c6edcda:
+
+    # mc "\"Guardian wolf… Man, did I just walk out of some trashy fantasy book?\""
+    mc ""
+
+            
+# game/dominic.rpy:422
+translate italian dominic_ce5aaca4:
+
+    # n "Muttering to myself dryly, I slip out of the warehouse, gripped by a growing fear."
+    n ""
+
+            
+# game/dominic.rpy:427
+translate italian dominic_424255a0:
+
+    # n "All the way back to my apartment, I keep an eye out for anything lurking in the shadows."
+    n ""
+
+            
+# game/dominic.rpy:428
+translate italian dominic_a34c52c2:
+
+    # n "The streets look the same as they always do, but now…"
+    n ""
+
+            
+# game/dominic.rpy:430
+translate italian dominic_f9ea9538:
+
+    # n "They're starting to feel like a battleground instead of my home."
+    n ""
+
+            
+# game/dominic.rpy:436
+translate italian dominic_28c8f192:
+
+    # n "–Home sweet home."
+    n ""
+
+            
+# game/dominic.rpy:437
+translate italian dominic_3217e37e:
+
+    # n "If only I could pretend all of this was a crazy fever dream…"
+    n ""
+
+            
+# game/dominic.rpy:439
+translate italian dominic_755013e2:
+
+    # n "If only it was that easy."
+    n ""
+
+            
+# game/dominic.rpy:443
+translate italian dominic_418a4da3:
+
+    # n "I end up tossing and turning in bed for what feels like ages, until eventually…"
+    n ""
+
+            
+# game/dominic.rpy:445
+translate italian dominic_b659ea90:
+
+    # n "The exhaustion from tonight pulls me into a deep sleep."
+    n ""
+
+            
+# game/dominic.rpy:448
+translate italian dominic_d7bc401d:
+
+    # mc "\"Ngh…\""
+    mc ""
+
+            
+# game/dominic.rpy:450
+translate italian dominic_26e9b4f0:
+
+    # n "The early afternoon sun trickles into my apartment, fighting through storm clouds to arrive on my face."
+    n ""
+
+            
+# game/dominic.rpy:457
+translate italian dominic_d9f0ab1d:
+
+    # n "I push myself up with a yawn."
+    n ""
+
+            
+# game/dominic.rpy:458
+translate italian dominic_6e9385ac:
+
+    # extend " I can't say I feel very refreshed."
+    extend ""
+
+            
+# game/dominic.rpy:460
+translate italian dominic_35a28d4c_4:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:462
+translate italian dominic_237177e3:
+
+    # n "Those events last night, the fight between Dominic and Rex…"
+    n ""
+
+            
+# game/dominic.rpy:464
+translate italian dominic_bff95d2a:
+
+    # n "…The vampires."
+    n ""
+
+            
+# game/dominic.rpy:465
+translate italian dominic_3f4f46d9:
+
+    # n "I was hoping it would be a dream, but –"
+    n ""
+
+            
+# game/dominic.rpy:466
+translate italian dominic_93dca89d:
+
+    # extend " it sticks too vividly in my mind, like a bad taste that won't leave my mouth."
+    extend ""
+
+            
+# game/dominic.rpy:474
+translate italian dominic_c22df253:
+
+    # mc "\"This would make for a great story to write about… except I'd definitely have an anxiety attack while writing it…\""
+    mc ""
+
+            
+# game/dominic.rpy:477
+translate italian dominic_b1971e2f:
+
+    # mc "\"I could mix up an amazing EP inspired by this stuff… although I'm not sure if I'd live long enough to drop it…\""
+    mc ""
+
+            
+# game/dominic.rpy:480
+translate italian dominic_5068a238:
+
+    # mc "\"But I feel like I could draw some amazing vampire shit right now… It would probably land me on the cover of a teen goth magazine, though…\""
+    mc ""
+
+            
+# game/dominic.rpy:483
+translate italian dominic_9b894557:
+
+    # n "Still half-asleep, I mumble to myself as I put on the coffee machine."
+    n ""
+
+            
+# game/dominic.rpy:486
+translate italian dominic_441ca035:
+
+    # n "It's true, all this excitement's definitely inspired me a little – though I'm also too on edge to really channel it right now."
+    n ""
+
+            
+# game/dominic.rpy:491
+translate italian dominic_a20dff27:
+
+    # n "Dominic…"
+    n ""
+
+            
+# game/dominic.rpy:492
+translate italian dominic_f97c92dd:
+
+    # n "His offer from last night still echoes in my ears."
+    n ""
+
+            
+# game/dominic.rpy:493
+translate italian dominic_e6c970c4:
+
+    # n "I can't believe he really wants to help me. Maybe it's just a bad prank, and he's not going to show up tonight after all."
+    n ""
+
+            
+# game/dominic.rpy:494
+translate italian dominic_cc4dd210:
+
+    # n "That would make more sense, anyway. I have a hard time believing a guy like him would just help me out of the kindness of his heart."
+    n ""
+
+            
+# game/dominic.rpy:496
+translate italian dominic_0c6878f2:
+
+    # n "…But after yesterday, I really don't know {i}what{/i} to believe any more."
+    n ""
+
+            
+# game/dominic.rpy:503
+translate italian dominic_83294fed:
+
+    # n "I manage to get some writing commissions finished up during the rest of the day, although they are sorely in need of some editing."
+    n ""
+
+            
+# game/dominic.rpy:505
+translate italian dominic_309f9f7f:
+
+    # n "In the last couple hours before work, I decide to start a new little story, drawing heavily from the crazy stuff that happened last night."
+    n ""
+
+            
+# game/dominic.rpy:506
+translate italian dominic_12e88fc3:
+
+    # n "I change a few details here and there, but it reads more like a diary rather than fiction."
+    n ""
+
+            
+# game/dominic.rpy:509
+translate italian dominic_6f0f48d2:
+
+    # n "I finish a couple of short songs for the indie game I was hired onto, but I know I'll need to go back and give them another listen when I'm more focused."
+    n ""
+
+            
+# game/dominic.rpy:511
+translate italian dominic_ce34df72:
+
+    # n "In the last couple hours before work, I decide to play around with a new track, trying to capture the essence of the tension from last night."
+    n ""
+
+            
+# game/dominic.rpy:512
+translate italian dominic_e4f0d27a:
+
+    # n "It ends up as some dark, trip-hoppy piece with out-of-tune guitar and grungy synths. {w}Sounds like it'd be right at home in a vampire game, at least."
+    n ""
+
+            
+# game/dominic.rpy:515
+translate italian dominic_c1f2238d:
+
+    # n "I spend the rest of the day on a few commissions, my eyes glazing over a little as I color and shade in auto-pilot mode."
+    n ""
+
+            
+# game/dominic.rpy:517
+translate italian dominic_f98b33b3:
+
+    # n "In the last couple hours before work, I decide to draw the new picture filling my head – a looming, shadowy figure in an alleyway."
+    n ""
+
+            
+# game/dominic.rpy:518
+translate italian dominic_e5562486:
+
+    # n "I make sure the light is focused on the figure's bared teeth, using the memory of Rex's fangs as reference. {w}It turns out surprisingly well - almost {i}too{/i} well."
+    n ""
+
+            
+# game/dominic.rpy:525
+translate italian dominic_a6a1e4bb:
+
+    # n "–When I get ready to leave, the sight of the darkening sky outside makes me tense."
+    n ""
+
+            
+# game/dominic.rpy:527
+translate italian dominic_d452c94f:
+
+    # n "I'd better hurry to the diner before it gets too late… and hope that Dominic keeps his word."
+    n ""
+
+            
+# game/dominic.rpy:531
+translate italian dominic_9a199308:
+
+    # n "Luckily, nothing happens on the way to my shift, and I flick on the diner's lights with a sigh of relief."
+    n ""
+
+            
+# game/dominic.rpy:542
+translate italian dominic_c5a690cf:
+
+    # mcp "\"This crap is doing a real number on my stress levels, I'll say…\""
+    mcp ""
+
+            
+# game/dominic.rpy:543
+translate italian dominic_7e159a0f:
+
+    # n "Muttering to myself, I switch the sign to \"Open\" after a little bit of prep work, and the night finally begins."
+    n ""
+
+            
+# game/dominic.rpy:551
+translate italian dominic_58c651c5:
+
+    # u "\"Y-yeah, I'll have, uh… just the fries, uh, yeah…\""
+    u ""
+
+            
+# game/dominic.rpy:553
+translate italian dominic_b224c099:
+
+    # mc "\"Coming right up.\""
+    mc ""
+
+            
+# game/dominic.rpy:555
+translate italian dominic_d92bbdef:
+
+    # n "–Just the normal drunk customers."
+    n ""
+
+            
+# game/dominic.rpy:556
+translate italian dominic_94713439:
+
+    # u "\"Hey dude, can I get… an ice cream frothy… thing?\""
+    u ""
+
+            
+# game/dominic.rpy:559
+translate italian dominic_e3c04c17:
+
+    # mc "\"…You mean a milkshake?\""
+    mc ""
+
+            
+# game/dominic.rpy:560
+translate italian dominic_28de0aca:
+
+    # u "\"Yeah, dude, {i}milkshake!{/i} That's totally what I meant, how'd you know?\""
+    u ""
+
+            
+# game/dominic.rpy:564
+translate italian dominic_d4ca8061:
+
+    # n "–Average, high-as-a-kite teenagers."
+    n ""
+
+            
+# game/dominic.rpy:565
+translate italian dominic_b5bc11dc:
+
+    # n "Nothing out of the ordinary… {w}not yet."
+    n ""
+
+            
+# game/dominic.rpy:569
+translate italian dominic_19f09452:
+
+    # n "Occasionally, I glimpse a shape moving outside the diner's windows, although it's probably just a random passerby."
+    n ""
+
+            
+# game/dominic.rpy:571
+translate italian dominic_9d2dfccf:
+
+    # n "…For some reason, though, I have an uneasy feeling."
+    n ""
+
+            
+# game/dominic.rpy:572
+translate italian dominic_21e86447:
+
+    # n "It's like I'm being watched – and not in the comforting \"guardian angel\" way, either."
+    n ""
+
+            
+# game/dominic.rpy:578
+translate italian dominic_4f46a46b_2:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:581
+translate italian dominic_efe90e10:
+
+    # n "At last, my shift comes to an end, but there's no sign of Dominic."
+    n ""
+
+            
+# game/dominic.rpy:584
+translate italian dominic_36f786cf:
+
+    # n "I want to head home soon, but I really don't feel safe going outside…"
+    n ""
+
+            
+# game/dominic.rpy:585
+translate italian dominic_21d31f99:
+
+    # n "If worst comes to worst, maybe I can just sleep in the diner overnight. Storage crates don't make great pillows, but they're better than coffins."
+    n ""
+
+            
+# game/dominic.rpy:587
+translate italian dominic_8ed4cc7d:
+
+    # n "I want to head home soon, but I wish I'd brought something to defend myself with."
+    n ""
+
+            
+# game/dominic.rpy:588
+translate italian dominic_0cc0742c:
+
+    # n "Even though it'd probably be useless against creatures of that speed and strength… damn it, I shouldn't have thrown my old rosary away."
+    n ""
+
+            
+# game/dominic.rpy:595
+translate italian dominic_f6007deb:
+
+    # mc "\"…!\""
+    mc ""
+
+            
+# game/dominic.rpy:596
+translate italian dominic_97bb6e7d:
+
+    # n "At that moment, the door swings open, and the sight of a new customer interrupts my thoughts."
+    n ""
+
+            
+# game/dominic.rpy:599
+translate italian dominic_c7f6121d:
+
+    # mc "\"Hello! Welcome to the –\""
+    mc ""
+
+            
+# game/dominic.rpy:602
+translate italian dominic_0755f9ae:
+
+    # mc "\"…Dominic?\""
+    mc ""
+
+            
+# game/dominic.rpy:606
+translate italian dominic_f3bb733e:
+
+    # n "Sure enough, the tall and intimidating figure before me is the same one I spoke to last night."
+    n ""
+
+            
+# game/dominic.rpy:609
+translate italian dominic_d128dbc9:
+
+    # n "When he sees my shocked reaction, however, Dominic's expression darkens somewhat."
+    n ""
+
+            
+# game/dominic.rpy:611
+translate italian dominic_255411e6:
+
+    # d "\"Why do you look so surprised?\""
+    d ""
+
+            
+# game/dominic.rpy:612
+translate italian dominic_2686b731:
+
+    # d "\"I told you I'd come.\""
+    d ""
+
+            
+# game/dominic.rpy:613
+translate italian dominic_e2d7d8ed:
+
+    # n "There's a very slight, wounded hint in his voice, as if my lack of trust makes him unhappy."
+    n ""
+
+            
+# game/dominic.rpy:619
+translate italian dominic_f62e9871:
+
+    # mc "\"…I'm sorry. You were just a little late, so I was starting to get worried, that's all.\""
+    mc ""
+
+            
+# game/dominic.rpy:620
+translate italian dominic_1532cd29:
+
+    # n "I mutter a reply under my breath, my cheeks growing a bit hot."
+    n ""
+
+            
+# game/dominic.rpy:623
+translate italian dominic_3af09d63:
+
+    # mc "\"Sorry. I'm a bit too jaded to believe in knights in shining armor…\""
+    mc ""
+
+            
+# game/dominic.rpy:624
+translate italian dominic_d2cb4284:
+
+    # mc "\"Although I guess I could make an exception for knights in baggy jackets.\""
+    mc ""
+
+            
+# game/dominic.rpy:626
+translate italian dominic_893c6695:
+
+    # n "Now I feel guilty for doubting him… even though I think it was pretty justified, all things considered."
+    n ""
+
+            
+# game/dominic.rpy:630
+translate italian dominic_c3affc68:
+
+    # d "\"Are you ready to go?\""
+    d ""
+
+            
+# game/dominic.rpy:631
+translate italian dominic_46af41c5:
+
+    # n "His eyes soften faintly after my apology, but there's still a tense look on his face."
+    n ""
+
+            
+# game/dominic.rpy:632
+translate italian dominic_451485b5:
+
+    # n "He's probably thinking about what'll happen if we get caught by other vampires. {w}\nWell, he's not the only one who's worried."
+    n ""
+
+            
+# game/dominic.rpy:635
+translate italian dominic_02121a9e:
+
+    # mc "\"I'm ready. You want a cup of coffee or something before we leave?\""
+    mc ""
+
+            
+# game/dominic.rpy:638
+translate italian dominic_93713ce6:
+
+    # mc "\"It's not exactly… blood, or anything, but…\""
+    mc ""
+
+            
+# game/dominic.rpy:640
+translate italian dominic_d39162ab:
+
+    # n "Jeez, that sounded stupid. Should've just kept my mouth shut."
+    n ""
+
+            
+# game/dominic.rpy:643
+translate italian dominic_d2ff25a8:
+
+    # d "\"…I'm fine. Thanks.\""
+    d ""
+
+            
+# game/dominic.rpy:644
+translate italian dominic_5bf7242c:
+
+    # n "Dominic gazes at me for a moment, the corners of his lips curling ever so slightly upwards."
+    n ""
+
+            
+# game/dominic.rpy:650
+translate italian dominic_753dc096:
+
+    # n "Then, he turns towards the door, beckoning for me to follow."
+    n ""
+
+            
+# game/dominic.rpy:654
+translate italian dominic_d23299fe:
+
+    # n "After I grab my things, we head outside onto the dark street."
+    n ""
+
+            
+# game/dominic.rpy:665
+translate italian dominic_6070062c:
+
+    # n "It's pretty deserted this time of night, so the only people on the sidewalk are me and Dominic."
+    n ""
+
+            
+# game/dominic.rpy:666
+translate italian dominic_cb894bc4:
+
+    # n "He moves at a pretty fast clip, his eyes darting around us warily, flicking towards any kind of movement – whether it's a stray moth or a fluttering plastic bag."
+    n ""
+
+            
+# game/dominic.rpy:668
+translate italian dominic_55bb49d0:
+
+    # n "I can't help but notice how close he is to my side, too. {w}His arm brushes against mine every couple of seconds."
+    n ""
+
+            
+# game/dominic.rpy:670
+translate italian dominic_82d81b06:
+
+    # n "A little embarrassed, I shift a couple inches away, but he ends up closing the gap again a few moments later."
+    n ""
+
+            
+# game/dominic.rpy:673
+translate italian dominic_5c714bce:
+
+    # dp "\"You're gonna fall off the sidewalk.\""
+    dp ""
+
+            
+# game/dominic.rpy:676
+translate italian dominic_d20d0a43:
+
+    # mcp "\"…!\""
+    mcp ""
+
+            
+# game/dominic.rpy:677
+translate italian dominic_33d09888:
+
+    # n "At his amused comment, I realize I've drifted so close to the curb that I'm almost in the street."
+    n ""
+
+            
+# game/dominic.rpy:682
+translate italian dominic_4f46a46b_3:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:683
+translate italian dominic_6e1a4049:
+
+    # n "Well, if I move any further to the right, I'll crash into his side!"
+    n ""
+
+            
+# game/dominic.rpy:686
+translate italian dominic_60a50fdd:
+
+    # mcp "\"Well, whose fault is that?\""
+    mcp ""
+
+            
+# game/dominic.rpy:687
+translate italian dominic_56a3b2b7:
+
+    # n "This guy… he's got a mean sense of humor."
+    n ""
+
+            
+# game/dominic.rpy:696
+translate italian dominic_685bc3aa:
+
+    # mc "\"Ahem… So, do you have any family around San Fran?\""
+    mc ""
+
+            
+# game/dominic.rpy:700
+translate italian dominic_01baaab5_8:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:701
+translate italian dominic_6d98f01e:
+
+    # n "When I try to change the subject, Dominic shoots me a sharp look."
+    n ""
+
+            
+# game/dominic.rpy:702
+translate italian dominic_e1651eb2:
+
+    # n "–Yeesh, did I stumble on a touchy topic?"
+    n ""
+
+            
+# game/dominic.rpy:706
+translate italian dominic_8755c460:
+
+    # mc "\"…You don't have to answer if you don't want to.\""
+    mc ""
+
+            
+# game/dominic.rpy:707
+translate italian dominic_679f7d52:
+
+    # mc "\"I mean, it's gotta be complicated with the whole vampire thi–\""
+    mc ""
+
+            
+# game/dominic.rpy:710
+translate italian dominic_ffdedff5:
+
+    # mc "\"…I didn't mean to pry, sorry.\""
+    mc ""
+
+            
+# game/dominic.rpy:711
+translate italian dominic_e18fa27c:
+
+    # mc "\"I was just curious about what your life is like, considering you're–\""
+    mc ""
+
+            
+# game/dominic.rpy:713
+translate italian dominic_dfe7befc:
+
+    # d "\"East Coast.\""
+    d ""
+
+            
+# game/dominic.rpy:716
+translate italian dominic_598eca71:
+
+    # mc "\"…?\""
+    mc ""
+
+            
+# game/dominic.rpy:718
+translate italian dominic_856213e5:
+
+    # n "He murmurs flatly, avoiding my gaze for a moment."
+    n ""
+
+            
+# game/dominic.rpy:721
+translate italian dominic_b5448da5:
+
+    # d "\"They're out on the East Coast. They… don't know where I am.\""
+    d ""
+
+            
+# game/dominic.rpy:722
+translate italian dominic_99054bc8:
+
+    # n "He sounds guilty, as if he ran away without saying anything. Did he come out here to get away from his family, then?"
+    n ""
+
+            
+# game/dominic.rpy:723
+translate italian dominic_ffed7033:
+
+    # n "Or maybe he was just trying to protect them – like he's trying to protect me, now."
+    n ""
+
+            
+# game/dominic.rpy:725
+translate italian strings:
+
+    old "It must be hard"
+    new ""
+    
+                
+# game/dominic.rpy:725
+translate italian strings:
+
+    old "It can't be helped"
+    new ""
+    
+                
+# game/dominic.rpy:734
+translate italian dominic_3d3b4de2:
+
+    # mc "\"You must miss them.\""
+    mc ""
+
+            
+# game/dominic.rpy:735
+translate italian dominic_fa6b1153:
+
+    # mc "\"I bet they're worried sick about you, if they don't already think you're dead…\""
+    mc ""
+
+            
+# game/dominic.rpy:738
+translate italian dominic_fe381056:
+
+    # n "After a brief pause, Dominic nods."
+    n ""
+
+            
+# game/dominic.rpy:739
+translate italian dominic_f7cd3b6f:
+
+    # n "I can't help but think he looks terribly lonely, shadows grooving deeply into his tired features."
+    n ""
+
+            
+# game/dominic.rpy:742
+translate italian dominic_dc9b7928:
+
+    # mc "\"I'm sorry. I can't really put myself in your shoes, but…\""
+    mc ""
+
+            
+# game/dominic.rpy:743
+translate italian dominic_286d9d58:
+
+    # mc "\"I know it must be hard.\""
+    mc ""
+
+            
+# game/dominic.rpy:746
+translate italian dominic_01baaab5_9:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:747
+translate italian dominic_fc0bff41:
+
+    # n "He offers me a faint smirk, although there's nothing happy about it."
+    n ""
+
+            
+# game/dominic.rpy:751
+translate italian dominic_e0420370:
+
+    # d "\"…Don't see a point to self-pity.\""
+    d ""
+
+            
+# game/dominic.rpy:752
+translate italian dominic_28076ad4:
+
+    # d "\"It's just how things are, now.\""
+    d ""
+
+            
+# game/dominic.rpy:761
+translate italian dominic_82806c8d:
+
+    # mc "\"It's kind of unavoidable, isn't it?\""
+    mc ""
+
+            
+# game/dominic.rpy:762
+translate italian dominic_fe7c3a30:
+
+    # mc "\"You wouldn't want to drag your family into a world like this.\""
+    mc ""
+
+            
+# game/dominic.rpy:765
+translate italian dominic_fe381056_1:
+
+    # n "After a brief pause, Dominic nods."
+    n ""
+
+            
+# game/dominic.rpy:766
+translate italian dominic_f7cd3b6f_1:
+
+    # n "I can't help but think he looks terribly lonely, shadows grooving deeply into his tired features."
+    n ""
+
+            
+# game/dominic.rpy:769
+translate italian dominic_50a7413b:
+
+    # mc "\"I guess that's part of being… being what you are. Saying goodbye to everyone you once knew.\""
+    mc ""
+
+            
+# game/dominic.rpy:772
+translate italian dominic_0c9de586:
+
+    # n "He turns his head to the side, inhaling deeply."
+    n ""
+
+            
+# game/dominic.rpy:775
+translate italian dominic_6e003d1d:
+
+    # d "\"…Yeah.\""
+    d ""
+
+            
+# game/dominic.rpy:777
+translate italian dominic_27fb8ec3:
+
+    # d "\"Yeah, it is.\""
+    d ""
+
+            
+# game/dominic.rpy:787
+translate italian dominic_92c01297:
+
+    # n "Dominic's eyes drift up to the light-polluted sky as we walk along, and I follow his gaze."
+    n ""
+
+            
+# game/dominic.rpy:788
+translate italian dominic_858ece22:
+
+    # n "There are no stars, just dark, moody clouds that look like billowing smoke."
+    n ""
+
+            
+# game/dominic.rpy:791
+translate italian dominic_bd40fc0b:
+
+    # dp "\"My brother's getting married soon.\""
+    dp ""
+
+            
+# game/dominic.rpy:793
+translate italian dominic_90da1269:
+
+    # mcp "\"Oh? How'd you find out?\""
+    mcp ""
+
+            
+# game/dominic.rpy:796
+translate italian dominic_016d9fbf:
+
+    # dp "\"…Saw it in a newspaper.\""
+    dp ""
+
+            
+# game/dominic.rpy:797
+translate italian dominic_7ef1506d:
+
+    # n "His broad shoulders slump a little, even though his voice remains steady."
+    n ""
+
+            
+# game/dominic.rpy:799
+translate italian dominic_0f388f77:
+
+    # mcp "\"There's no way for you to go?\""
+    mcp ""
+
+            
+# game/dominic.rpy:801
+translate italian dominic_f06bb38c:
+
+    # n "Dominic shakes his head, tightly closing his eyes."
+    n ""
+
+            
+# game/dominic.rpy:804
+translate italian dominic_94c48517:
+
+    # dp "\"I can't face them like this.\""
+    dp ""
+
+            
+# game/dominic.rpy:806
+translate italian dominic_4bd3f371:
+
+    # n "…He sounds so bitter that it makes my chest hurt a little."
+    n ""
+
+            
+# game/dominic.rpy:807
+translate italian dominic_33bf95b2:
+
+    # n "I have a feeling that he doesn't get any joy out of being a vampire. {w}Whatever powers it must give, the costs are probably a lot worse."
+    n ""
+
+            
+# game/dominic.rpy:811
+translate italian dominic_326aba6c:
+
+    # mcp "\"Maybe you could phone him? Send an anonymous note?\""
+    mcp ""
+
+            
+# game/dominic.rpy:813
+translate italian dominic_67eb716b:
+
+    # mcp "\"… Not the same as being there, though, is it… Damn.\""
+    mcp ""
+
+            
+# game/dominic.rpy:814
+translate italian dominic_0e6d916d:
+
+    # n "I frown, trying to think up some alternative for him, but I doubt anything replaces an in-person meeting."
+    n ""
+
+            
+# game/dominic.rpy:817
+translate italian dominic_baea006a:
+
+    # mcp "\"If I were you, I'd just go anyway. Screw the risks.\""
+    mcp ""
+
+            
+# game/dominic.rpy:819
+translate italian dominic_97f15ec4:
+
+    # mcp "\"They don't like you how you are now, tough luck. It's not like you can do anything about it.\""
+    mcp ""
+
+            
+# game/dominic.rpy:821
+translate italian dominic_bf18f494:
+
+    # n "…I realize after the words leave my mouth that I probably sounded a little insensitive.{w}\nOh well."
+    n ""
+
+            
+# game/dominic.rpy:830
+translate italian dominic_01baaab5_10:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:831
+translate italian dominic_d6b43951:
+
+    # n "When I glance over to him, I notice Dominic watching me with a smile."
+    n ""
+
+            
+# game/dominic.rpy:833
+translate italian dominic_bd1e84e4:
+
+    # n "Wasn't he just brooding a second ago? Did I say something stupid again?"
+    n ""
+
+            
+# game/dominic.rpy:837
+translate italian dominic_98fdf5be:
+
+    # mcp "\"–!\""
+    mcp ""
+
+            
+# game/dominic.rpy:838
+translate italian dominic_8e7a6f1f:
+
+    # n "To my shock, Dominic reaches out with one of his large hands, suddenly ruffling my hair."
+    n ""
+
+            
+# game/dominic.rpy:839
+translate italian dominic_3b03b0d8:
+
+    # n "His fingers tousle through the strands, mussing them up playfully."
+    n ""
+
+            
+# game/dominic.rpy:841
+translate italian dominic_96b9f94a:
+
+    # n "The touch of his hand is softer than I'd expect, and I can't even believe it's the same hand that was swinging punches at Rex last night…"
+    n ""
+
+            
+# game/dominic.rpy:843
+translate italian dominic_d0f26ea1:
+
+    # n "–He pulls back before long, though, and I hurry to smooth out my messy hair."
+    n ""
+
+            
+# game/dominic.rpy:848
+translate italian dominic_8828c00e:
+
+    # mcp "\"…What was that all about?\""
+    mcp ""
+
+            
+# game/dominic.rpy:852
+translate italian dominic_2cd016c0:
+
+    # mcp "\"Where'd that come from? Jeez, warn a guy first.\""
+    mcp ""
+
+            
+# game/dominic.rpy:856
+translate italian dominic_88a3b7a0:
+
+    # d "\"Don't worry about it.\""
+    d ""
+
+            
+# game/dominic.rpy:858
+translate italian dominic_3d4ec276:
+
+    # n "Dominic shakes his head, and his smile fades soon afterwards."
+    n ""
+
+            
+# game/dominic.rpy:860
+translate italian dominic_2013a901:
+
+    # n "He really doesn't stay bright for longer than a few seconds, does he…{w}\nLike the sun flickering out between clouds."
+    n ""
+
+            
+# game/dominic.rpy:863
+translate italian dominic_53e7f477:
+
+    # d "\"…You're different.\""
+    d ""
+
+            
+# game/dominic.rpy:866
+translate italian dominic_e1e8da43:
+
+    # mcp "\"Huh?\""
+    mcp ""
+
+            
+# game/dominic.rpy:867
+translate italian dominic_be2562c0:
+
+    # n "Here he goes again, saying stuff out of the blue."
+    n ""
+
+            
+# game/dominic.rpy:868
+translate italian dominic_fee44f7a:
+
+    # n "How am I supposed to keep up…?"
+    n ""
+
+            
+# game/dominic.rpy:871
+translate italian dominic_7d0f5a25:
+
+    # d "\"Yesterday… Rex jumped you because you had a different scent.\""
+    d ""
+
+            
+# game/dominic.rpy:873
+translate italian dominic_314e8071:
+
+    # mcp "\"A different – scent? What do you mean?\""
+    mcp ""
+
+            
+# game/dominic.rpy:877
+translate italian dominic_336947ff:
+
+    # n "Hesitating, Dominic averts his eyes to one side, narrowing them with uncertainty."
+    n ""
+
+            
+# game/dominic.rpy:880
+translate italian dominic_ad113c60:
+
+    # d "\"It's something special… It makes your blood sweeter to us, but…\""
+    d ""
+
+            
+# game/dominic.rpy:883
+translate italian dominic_c9b7b43c:
+
+    # d "\"If you were turned, then…\""
+    d ""
+
+            
+# game/dominic.rpy:886
+translate italian dominic_cf296898:
+
+    # d "\"–!\""
+    d ""
+
+            
+# game/dominic.rpy:890
+translate italian dominic_89d57680:
+
+    # n "Dominic suddenly freezes."
+    n ""
+
+            
+# game/dominic.rpy:891
+translate italian dominic_3e7be064:
+
+    # n "I stop beside him, glancing around in confusion."
+    n ""
+
+            
+# game/dominic.rpy:894
+translate italian dominic_e3437348:
+
+    # mcp "\"Then what…?\""
+    mcp ""
+
+            
+# game/dominic.rpy:896
+translate italian dominic_8492fad4:
+
+    # mcp "\"Dominic? What's going –\""
+    mcp ""
+
+            
+# game/dominic.rpy:900
+translate italian dominic_ddb3c06b:
+
+    # mcp "\"–Uah!\""
+    mcp ""
+
+            
+# game/dominic.rpy:902
+translate italian dominic_d0a937e2:
+
+    # n "The next second, he grabs my hand and breaks into a sprint."
+    n ""
+
+            
+# game/dominic.rpy:903
+translate italian dominic_49b6f9cc:
+
+    # n "Completely baffled, I run with him as fast as I can, and we dash into a nearby alley at top speed."
+    n ""
+
+            
+# game/dominic.rpy:911
+translate italian dominic_f6861019:
+
+    # mcp "\"Dominic! What the hell's going on?\""
+    mcp ""
+
+            
+# game/dominic.rpy:913
+translate italian dominic_5abe657d:
+
+    # dp "\"Behind us.\""
+    dp ""
+
+            
+# game/dominic.rpy:914
+translate italian dominic_eb24d1a3:
+
+    # n "Dominic's voice growls out urgently over the sound of our footsteps."
+    n ""
+
+            
+# game/dominic.rpy:917
+translate italian dominic_98fdf5be_1:
+
+    # mcp "\"–!\""
+    mcp ""
+
+            
+# game/dominic.rpy:918
+translate italian dominic_abee5312:
+
+    # n "When I throw a glance over my shoulder –"
+    n ""
+
+            
+# game/dominic.rpy:919
+translate italian dominic_64b8bfe1:
+
+    # n "There are several figures hurtling towards us, one of them on all fours."
+    n ""
+
+            
+# game/dominic.rpy:921
+translate italian dominic_f79d70fd:
+
+    # u "\"Heeeey~ Where are you guys going?\""
+    u ""
+
+            
+# game/dominic.rpy:922
+translate italian dominic_5feb806f:
+
+    # u "\"Come back!\""
+    u ""
+
+            
+# game/dominic.rpy:924
+translate italian dominic_686d37e0:
+
+    # n "A familiar, sing-song voice calls out to us gleefully, echoing in the alleyway."
+    n ""
+
+            
+# game/dominic.rpy:927
+translate italian dominic_1f7e637f:
+
+    # mcp "\"–Rex?!\""
+    mcp ""
+
+            
+# game/dominic.rpy:930
+translate italian dominic_50130207:
+
+    # dp "\"Ignore them.\""
+    dp ""
+
+            
+# game/dominic.rpy:931
+translate italian dominic_f57b3b26:
+
+    # n "My eyes go wide as I recognize the voice, but Dominic immediately grips my hand harder."
+    n ""
+
+            
+# game/dominic.rpy:938
+translate italian dominic_52d6c77d:
+
+    # rp "\"Are you guys on a date?!\""
+    rp ""
+
+            
+# game/dominic.rpy:940
+translate italian dominic_0181a965:
+
+    # rp "\"You didn't even invite me! Hey, Dom, don't be selfish~\""
+    rp ""
+
+            
+# game/dominic.rpy:941
+translate italian dominic_0ee7d41c:
+
+    # n "Rex's mocking words ring out behind us as we keep running, taking every twist and turn we can."
+    n ""
+
+            
+# game/dominic.rpy:944
+translate italian dominic_bcdbe67e:
+
+    # mcp "\"Ngh…\""
+    mcp ""
+
+            
+# game/dominic.rpy:945
+translate italian dominic_992a4123:
+
+    # n "It's hard for me to keep up with Dominic, whose long legs and powerful body propel him forward with incredible speed."
+    n ""
+
+            
+# game/dominic.rpy:948
+translate italian dominic_a21cc55d:
+
+    # rp "\"You can't get away from me, baby! I could catch that scent from miiiiles away~\""
+    rp ""
+
+            
+# game/dominic.rpy:950
+translate italian dominic_4949a93d:
+
+    # rp "\"Come on, Dom, share him with us! You wanna keep him for yourself, don'tcha?\""
+    rp ""
+
+            
+# game/dominic.rpy:953
+translate italian dominic_84163f57:
+
+    # rp "\"Greedy bastard! Ahahaha!\""
+    rp ""
+
+            
+# game/dominic.rpy:956
+translate italian dominic_1feefa32_2:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:957
+translate italian dominic_214cd9e3:
+
+    # n "Dominic grits his teeth together, his eyes flashing with visible anger."
+    n ""
+
+            
+# game/dominic.rpy:965
+translate italian dominic_9106abb2:
+
+    # n "A cold sweat breaks out on my back as Rex taunts us."
+    n ""
+
+            
+# game/dominic.rpy:967
+translate italian dominic_64adceb7:
+
+    # n "Dominic… {w}No, Dominic's different from them."
+    n ""
+
+            
+# game/dominic.rpy:968
+translate italian dominic_1d62c29d:
+
+    # n "He's not keeping me around for that. There's no way."
+    n ""
+
+            
+# game/dominic.rpy:973
+translate italian dominic_e9da4239:
+
+    # d "\"Quick! Inside!\""
+    d ""
+
+            
+# game/dominic.rpy:975
+translate italian dominic_d20d0a43_1:
+
+    # mcp "\"…!\""
+    mcp ""
+
+            
+# game/dominic.rpy:980
+translate italian dominic_97e90fef:
+
+    # n "Suddenly, Dominic shoves me through the side door of a building."
+    n ""
+
+            
+# game/dominic.rpy:982
+translate italian dominic_e563f6f4:
+
+    # n "I stumble through the darkness, but he pulls my hand to tug me further in."
+    n ""
+
+            
+# game/dominic.rpy:985
+translate italian dominic_68a41553:
+
+    # mc "\"Where – where are we…\""
+    mc ""
+
+            
+# game/dominic.rpy:987
+translate italian dominic_63f614c4:
+
+    # mc "\"…Huh?\""
+    mc ""
+
+            
+# game/dominic.rpy:1003
+translate italian dominic_da177174:
+
+    # n "The dimly-lit space we emerge into is…"
+    n ""
+
+            
+# game/dominic.rpy:1005
+translate italian dominic_fc240773:
+
+    # n "A club?"
+    n ""
+
+            
+# game/dominic.rpy:1008
+translate italian dominic_90a8538d:
+
+    # dp "\"…Blend in.\""
+    dp ""
+
+            
+# game/dominic.rpy:1009
+translate italian dominic_a053c6da:
+
+    # n "He leans down to hiss into my ear, brushing his lips against it so that I can hear his voice over the loud music."
+    n ""
+
+            
+# game/dominic.rpy:1012
+translate italian dominic_4f46a46b_4:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1014
+translate italian dominic_ca86e5ac:
+
+    # n "Without missing a beat, Dominic guides me onto the dance floor, weaving through the throngs of people."
+    n ""
+
+            
+# game/dominic.rpy:1015
+translate italian dominic_110a9edd:
+
+    # n "I glance worriedly over my shoulder to see if Rex and the others are following, but I can't make out anything in the dark."
+    n ""
+
+            
+# game/dominic.rpy:1025
+translate italian dominic_7e428ced:
+
+    # n "–But when I turn back, I realize Dominic isn't pulling me along anymore."
+    n ""
+
+            
+# game/dominic.rpy:1030
+translate italian dominic_c1e3b878:
+
+    # n "Instead, he's facing me… and his blue eyes glimmer faintly in the flashing lights."
+    n ""
+
+            
+# game/dominic.rpy:1032
+translate italian dominic_79f78588:
+
+    # mcp "\"…Dominic? Aren't we going to…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1033
+translate italian dominic_08b6d17b:
+
+    # d "\"Shh.\""
+    d ""
+
+            
+# game/dominic.rpy:1036
+translate italian dominic_bd9160df:
+
+    # n "…And just like that, he starts to curl his arms around my waist, tugging me towards him."
+    n ""
+
+            
+# game/dominic.rpy:1037
+translate italian dominic_36a7a87b:
+
+    # mc "\"–!\""
+    mc ""
+
+            
+# game/dominic.rpy:1042
+translate italian dominic_b7b16423:
+
+    # n "My first reaction is to pull away, but I realize what he's doing after a few seconds."
+    n ""
+
+            
+# game/dominic.rpy:1044
+translate italian dominic_2bab5b6b:
+
+    # n "–He wants to dance here so that the other vampires will lose our scent in the middle of all these people?"
+    n ""
+
+            
+# game/dominic.rpy:1045
+translate italian dominic_c3770d7f:
+
+    # n "They probably can't attack us in this place even if they do find us… {w}I guess it's a pretty smart plan."
+    n ""
+
+            
+# game/dominic.rpy:1051
+translate italian dominic_35a28d4c_5:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1052
+translate italian dominic_adc72050:
+
+    # n "Although my cheeks start to flush a little from our sudden closeness, I hesitantly slide my arms around Dominic, grasping the fabric of his jacket."
+    n ""
+
+            
+# game/dominic.rpy:1054
+translate italian dominic_fe85ae73:
+
+    # n "–He's really tall."
+    n ""
+
+            
+# game/dominic.rpy:1055
+translate italian dominic_9213c4ba:
+
+    # n "And have his eyes always been {i}that{/i} blue? They're so clear that I can see myself in them, almost…"
+    n ""
+
+            
+# game/dominic.rpy:1060
+translate italian dominic_4269db02:
+
+    # d "\"…You have to dance, not just stare.\""
+    d ""
+
+            
+# game/dominic.rpy:1061
+translate italian dominic_e2e4b981:
+
+    # n "He murmurs to me, his deep voice reverberating in my ears over the heavy bass."
+    n ""
+
+            
+# game/dominic.rpy:1067
+translate italian dominic_3903974a:
+
+    # mc "\"I know that! Shut up.\""
+    mc ""
+
+            
+# game/dominic.rpy:1068
+translate italian dominic_32fc6136:
+
+    # n "Mumbling an angry reply, I turn my head away and start to move a little to the music, gripping Dominic tightly."
+    n ""
+
+            
+# game/dominic.rpy:1070
+translate italian dominic_d064a926:
+
+    # mc "\"Ah, yeah, sorry… just been awhile since I did this, that's all.\""
+    mc ""
+
+            
+# game/dominic.rpy:1071
+translate italian dominic_9a8e5bdc:
+
+    # n "I awkwardly start to move a little with the music, avoiding Dominic's gaze."
+    n ""
+
+            
+# game/dominic.rpy:1084
+translate italian dominic_ac4b8e14:
+
+    # n "…I feel like he's enjoying this a lot more than he should be, considering the situation."
+    n ""
+
+            
+# game/dominic.rpy:1085
+translate italian dominic_9942bd13:
+
+    # n "The club is so packed with people that it's practically a zoo, but after awhile, I don't notice them as much."
+    n ""
+
+            
+# game/dominic.rpy:1087
+translate italian dominic_d1a0f47c:
+
+    # n "My heartbeat should be slowing down now that we've stopped running, yet it's still pounding a mile a minute."
+    n ""
+
+            
+# game/dominic.rpy:1088
+translate italian dominic_a10bdcfb:
+
+    # n "Dominic doesn't bother glancing around for the other vampires at all –"
+    n ""
+
+            
+# game/dominic.rpy:1089
+translate italian dominic_227bc0f4:
+
+    # extend " instead, he just watches me."
+    extend ""
+
+            
+# game/dominic.rpy:1090
+translate italian dominic_9c09aca1:
+
+    # n "His eyes seem to glow a little in the dark, gazing at my face with an unusually intense look."
+    n ""
+
+            
+# game/dominic.rpy:1094
+translate italian dominic_cabee4e2:
+
+    # mcp "\"…Now who's staring?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1097
+translate italian dominic_66e4c9af:
+
+    # mcp "\"You're gonna make me self-conscious, watching me like that.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1098
+translate italian dominic_73cf1918:
+
+    # mcp "\"I hope you're staring because my hair's on point, not because I look like dinner…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1101
+translate italian dominic_1feefa32_3:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:1102
+translate italian dominic_f803b543:
+
+    # n "My mutter is swallowed up by the music, but there's a chance Dominic heard me, because his lips curl into a sly grin."
+    n ""
+
+            
+# game/dominic.rpy:1103
+translate italian dominic_86d0d071:
+
+    # n "The tips of his fangs glimmer faintly when they catch the light, simultaneously deadly and beautiful."
+    n ""
+
+            
+# game/dominic.rpy:1109
+translate italian dominic_783d6cad:
+
+    # n "–Normally, I hate clubs, but I'd be lying if I said this wasn't sort of fun."
+    n ""
+
+            
+# game/dominic.rpy:1110
+translate italian dominic_689e13e4:
+
+    # n "There's a chance Rex and the others are inside, watching us, but…"
+    n ""
+
+            
+# game/dominic.rpy:1112
+translate italian dominic_7dfcb0e3:
+
+    # n "It's hard for me to think about that when Dominic squeezes my hips, pressing against me to the beat of the music."
+    n ""
+
+            
+# game/dominic.rpy:1114
+translate italian dominic_db587803:
+
+    # n "…But really, how the hell did this turn out to be some kind of weird date?"
+    n ""
+
+            
+# game/dominic.rpy:1115
+translate italian dominic_28909aed:
+
+    # n "It really doesn't feel like we're just acting to throw off the vampires any more.\n{w}That, or Dominic deserves an Oscar."
+    n ""
+
+            
+# game/dominic.rpy:1117
+translate italian dominic_6d44ab27:
+
+    # n "Shit, I didn't intend for things to end up like this…"
+    n ""
+
+            
+# game/dominic.rpy:1122
+translate italian dominic_cfd080ec:
+
+    # d "\"You want a drink?\""
+    d ""
+
+            
+# game/dominic.rpy:1124
+translate italian dominic_f6007deb_1:
+
+    # mc "\"…!\""
+    mc ""
+
+            
+# game/dominic.rpy:1125
+translate italian dominic_ccdb6afb:
+
+    # n "Dominic casually leans in to murmur a question in my ear."
+    n ""
+
+            
+# game/dominic.rpy:1128
+translate italian dominic_51af82c1:
+
+    # mc "\"–A-ah, no, I'm fine, thanks!\""
+    mc ""
+
+            
+# game/dominic.rpy:1130
+translate italian dominic_3e8bf160:
+
+    # mc "\"W-what kind of question is that?\""
+    mc ""
+
+            
+# game/dominic.rpy:1131
+translate italian dominic_865bd86e:
+
+    # mc "\"We came here to ditch Rex and his crew, not get wasted!\""
+    mc ""
+
+            
+# game/dominic.rpy:1133
+translate italian dominic_8f65faf1:
+
+    # n "…Man, now it {i}seriously{/i} feels like a date. {w}An awkward, spontaneous date."
+    n ""
+
+            
+# game/dominic.rpy:1134
+translate italian dominic_5b9901cf:
+
+    # n "Although, judging from Dominic's smirk at my flustered response, his only goal with that question was to make me embarrassed."
+    n ""
+
+            
+# game/dominic.rpy:1135
+translate italian dominic_fa6f2d6e:
+
+    # n "He's got a sadistic streak to balance out his generosity, all right."
+    n ""
+
+            
+# game/dominic.rpy:1150
+translate italian dominic_247095ce:
+
+    # mcp "\"How about you? You want a drink?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1153
+translate italian dominic_7a983c23:
+
+    # d "\"Now that you mention it…\""
+    d ""
+
+            
+# game/dominic.rpy:1154
+translate italian dominic_43d73c5e:
+
+    # n "My eyes widen when Dominic actually nods, a teasing light flashing in his eyes."
+    n ""
+
+            
+# game/dominic.rpy:1156
+translate italian dominic_5a04f97c:
+
+    # n "Wait, he must mean – {w}no, seriously?!"
+    n ""
+
+            
+# game/dominic.rpy:1159
+translate italian dominic_4f46a46b_5:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1162
+translate italian dominic_54aa027b:
+
+    # d "\"Only if you're offering, though… I won't force you.\""
+    d ""
+
+            
+# game/dominic.rpy:1163
+translate italian dominic_267c3d3c:
+
+    # n "He gently squeezes my waist, making me relax a little, but I still hesitate."
+    n ""
+
+            
+# game/dominic.rpy:1165
+translate italian dominic_a4c27532:
+
+    # n "Can I really trust him like this…?"
+    n ""
+
+            
+# game/dominic.rpy:1167
+translate italian strings:
+
+    old "Let him drink from me"
+    new ""
+    
+                
+# game/dominic.rpy:1167
+translate italian strings:
+
+    old "Refuse"
+    new ""
+    
+                
+# game/dominic.rpy:1173
+translate italian dominic_fda74019:
+
+    # mcp "\"If – If you'd like, sure, I guess.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1174
+translate italian dominic_daa0f237:
+
+    # n "The words spill out before I can stop them."
+    n ""
+
+            
+# game/dominic.rpy:1177
+translate italian dominic_536809de:
+
+    # mcp "\"Well, I'm a little curious about it, I'll admit…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1178
+translate italian dominic_0a1012b6:
+
+    # mcp "\"Just don't drain me dry, okay? That would be a shitty first date.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1181
+translate italian dominic_01baaab5_11:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:1182
+translate italian dominic_1dc4b194:
+
+    # n "For a split second, Dominic looks shocked – like he wasn't even expecting an answer."
+    n ""
+
+            
+# game/dominic.rpy:1189
+translate italian dominic_ee38eb48:
+
+    # n "But before I know it, he reaches out to grab me, tugging my body tightly against his chest."
+    n ""
+
+            
+# game/dominic.rpy:1190
+translate italian dominic_f6007deb_2:
+
+    # mc "\"…!\""
+    mc ""
+
+            
+# game/dominic.rpy:1192
+translate italian dominic_b0af4504:
+
+    # d "\"Just relax.\""
+    d ""
+
+            
+# game/dominic.rpy:1194
+translate italian dominic_1cbd69b1:
+
+    # n "His hot whisper fills my ear, and as if he'd just flipped a switch, my anxiety starts to fade."
+    n ""
+
+            
+# game/dominic.rpy:1196
+translate italian dominic_a1d33e38:
+
+    # n "It gets hard to think about anything other than Dominic, and even when I close my eyes and tilt my head back, all I can envision is his eager gaze."
+    n ""
+
+            
+# game/dominic.rpy:1201
+translate italian dominic_62f3f1c9:
+
+    # n "Something sharp starts to tease along my skin, dragging a line from my collar to the side of my neck."
+    n ""
+
+            
+# game/dominic.rpy:1202
+translate italian dominic_a772a7f8:
+
+    # n "I feel his wet tongue flickering out against a certain spot, followed by the brush of his lips."
+    n ""
+
+            
+# game/dominic.rpy:1204
+translate italian dominic_9ba75aad:
+
+    # n "Then, he pauses, and everything in the world seems to freeze for a moment…"
+    n ""
+
+            
+# game/dominic.rpy:1210
+translate italian dominic_c21b9b61:
+
+    # mc "\"Nnh–!\""
+    mc ""
+
+            
+# game/dominic.rpy:1212
+translate italian dominic_2f8aa95d:
+
+    # n "A stabbing pain shoots through my body, making my eyes water and my stomach do an awful backflip."
+    n ""
+
+            
+# game/dominic.rpy:1213
+translate italian dominic_81af8528:
+
+    # n "My first instinct is to try and shove Dominic away, but I force myself to stay calm."
+    n ""
+
+            
+# game/dominic.rpy:1215
+translate italian dominic_6cb77635:
+
+    # n "And then… {w}Bit by bit, the pain begins to sweeten."
+    n ""
+
+            
+# game/dominic.rpy:1217
+translate italian dominic_01baaab5_12:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:1219
+translate italian dominic_870e3b95:
+
+    # mc "\"A-aah… D-Dominic…\""
+    mc ""
+
+            
+# game/dominic.rpy:1223
+translate italian dominic_fe409b6d:
+
+    # n "As he holds me tightly in his arms, burying his face against my neck, I start to feel a little dizzy."
+    n ""
+
+            
+# game/dominic.rpy:1224
+translate italian dominic_d983a031:
+
+    # n "My skin's growing hotter and hotter, and an unusual heat bubbles at the base of my spine."
+    n ""
+
+            
+# game/dominic.rpy:1226
+translate italian dominic_9b702dc2:
+
+    # d "\"…Sweet…\""
+    d ""
+
+            
+# game/dominic.rpy:1227
+translate italian dominic_528123f1:
+
+    # n "Somehow, I manage to hear Dominic's low growl –{w} but it feels like his voice is almost coming from inside my mind."
+    n ""
+
+            
+# game/dominic.rpy:1231
+translate italian dominic_c5bfd249:
+
+    # n "The pounding bass fades far into the distance, as all I can hear and feel is Dominic, his fangs buried in me as he suckles hungrily at my flesh."
+    n ""
+
+            
+# game/dominic.rpy:1233
+translate italian dominic_1115d26c:
+
+    # mc "\"Mmh… haah…\""
+    mc ""
+
+            
+# game/dominic.rpy:1235
+translate italian dominic_5b984d64:
+
+    # n "This is complete surrender…{w} if he wanted to, he could drain me dry right now, and no one would notice – it's too dark and crowded."
+    n ""
+
+            
+# game/dominic.rpy:1237
+translate italian dominic_6d39ca1b:
+
+    # n "But I don't feel scared.{w} My heart's pounding a mile a minute, but all I can think of is giving myself to him…{w} more, more, more."
+    n ""
+
+            
+# game/dominic.rpy:1242
+translate italian dominic_f4a67c64:
+
+    # mc "\"Nn… aah…\""
+    mc ""
+
+            
+# game/dominic.rpy:1243
+translate italian dominic_05ef2790:
+
+    # n "When Dominic finally pulls back, licking a red drop off his upper lip, I struggle to catch my breath."
+    n ""
+
+            
+# game/dominic.rpy:1245
+translate italian dominic_d0f79fb6:
+
+    # n "He must've noticed my reaction, because he gives me a long, feral smirk and brushes his fingertips against my throat."
+    n ""
+
+            
+# game/dominic.rpy:1247
+translate italian dominic_28666f11:
+
+    # d "\"Was hard keeping ahold of myself.\""
+    d ""
+
+            
+# game/dominic.rpy:1248
+translate italian dominic_ae68380f:
+
+    # d "\"Especially with you squirming against me like that… Can't have been that bad for you, huh?\""
+    d ""
+
+            
+# game/dominic.rpy:1252
+translate italian dominic_4715dc33:
+
+    # mc "\"Nnh… Shit…\""
+    mc ""
+
+            
+# game/dominic.rpy:1253
+translate italian dominic_ff5d1257:
+
+    # n "Acute embarrassment makes my lightheadedness vanish, and I know my face has to be the same color as a cherry."
+    n ""
+
+            
+# game/dominic.rpy:1256
+translate italian dominic_d62e2949:
+
+    # mc "\"S-Sorry if I was jerking around or anything… I hope you got enough.\""
+    mc ""
+
+            
+# game/dominic.rpy:1257
+translate italian dominic_04bcd2a9:
+
+    # d "\"Not sure that's even possible.\""
+    d ""
+
+            
+# game/dominic.rpy:1259
+translate italian dominic_2f973b50:
+
+    # mc "\"D-Damn…\""
+    mc ""
+
+            
+# game/dominic.rpy:1260
+translate italian dominic_6b7ed11a:
+
+    # mc "\"Go easier on me next time, asshole… you just about drained me dry.\""
+    mc ""
+
+            
+# game/dominic.rpy:1262
+translate italian dominic_8f74754d:
+
+    # d "\"Yeah? You didn't seem to mind.\""
+    d ""
+
+            
+# game/dominic.rpy:1264
+translate italian dominic_35a28d4c_6:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1277
+translate italian dominic_1d2863e0:
+
+    # n "As the last traces of that incredible sensation gradually fade away, I can't help but feel happy at Dominic's reaction."
+    n ""
+
+            
+# game/dominic.rpy:1278
+translate italian dominic_43ab7191:
+
+    # n "He pulls me into another dance, and I notice his eyes are burning brighter – his usual cool expression now warm and eager."
+    n ""
+
+            
+# game/dominic.rpy:1280
+translate italian dominic_b8e598d9:
+
+    # n "Even his skin feels a little hot, like part of him's alive again… {w}and there's something strangely bittersweet about that thought."
+    n ""
+
+            
+# game/dominic.rpy:1287
+translate italian dominic_1fa40e74:
+
+    # n "I shake my head apologetically."
+    n ""
+
+            
+# game/dominic.rpy:1288
+translate italian dominic_98be8986:
+
+    # n "As much as I'd like to, it simply feels too unnatural…{w} and I can't just put my life in someone else's hands."
+    n ""
+
+            
+# game/dominic.rpy:1291
+translate italian dominic_5c8bf12a:
+
+    # n "Dominic seems slightly disappointed, but he shrugs playfully, as if to say it's no big deal."
+    n ""
+
+            
+# game/dominic.rpy:1292
+translate italian dominic_34dc0c8a:
+
+    # n "He keeps holding me loosely, and I feel relieved that he doesn't plan to take any blood by force."
+    n ""
+
+            
+# game/dominic.rpy:1294
+translate italian dominic_9f7907af:
+
+    # n "But I'm silly for even thinking he would. He's a man, not a beast."
+    n ""
+
+            
+# game/dominic.rpy:1299
+translate italian dominic_54f6796a:
+
+    # n "–We dance for what feels like hours afterwards, though at the same time, it passes in the blink of an eye."
+    n ""
+
+            
+# game/dominic.rpy:1300
+translate italian dominic_959df79f:
+
+    # n "When I start to get a little tired, I lean against Dominic's chest, and a pleased smile briefly curls on his lips."
+    n ""
+
+            
+# game/dominic.rpy:1304
+translate italian dominic_b23a767b:
+
+    # n "Finally, just as it's getting close to dawn, we reluctantly separate and make our way to the exit."
+    n ""
+
+            
+# game/dominic.rpy:1318
+translate italian dominic_01baaab5_13:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:1320
+translate italian dominic_35a28d4c_7:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1322
+translate italian dominic_9ba745c1:
+
+    # n "It's still dark when we emerge on the street, although probably not for much longer."
+    n ""
+
+            
+# game/dominic.rpy:1323
+translate italian dominic_7ccb9bca:
+
+    # n "With the music now muffled by concrete walls, an awkward silence drifts between us."
+    n ""
+
+            
+# game/dominic.rpy:1326
+translate italian dominic_ea640a5d:
+
+    # d "\"…Let's go.\""
+    d ""
+
+            
+# game/dominic.rpy:1329
+translate italian dominic_598aac73:
+
+    # mc "\"…Right.\""
+    mc ""
+
+            
+# game/dominic.rpy:1336
+translate italian dominic_8a737ff7:
+
+    # n "–Shit, I entirely forgot that he was supposed to be taking me home."
+    n ""
+
+            
+# game/dominic.rpy:1337
+translate italian dominic_657f714f:
+
+    # n "That was the whole point of meeting up, wasn't it? {w}So how did {i}that{/i} just happen?"
+    n ""
+
+            
+# game/dominic.rpy:1345
+translate italian dominic_735cf5fb:
+
+    # n "I bite my lip as we head down the sidewalk again, but Dominic seems completely at ease."
+    n ""
+
+            
+# game/dominic.rpy:1347
+translate italian dominic_ece76741:
+
+    # n "This guy… I guess he's not even worried that the other vampires will come after us.\n{w}Am I the weird one for being so flustered about everything?"
+    n ""
+
+            
+# game/dominic.rpy:1353
+translate italian dominic_b548dc9c:
+
+    # n "We end up making it to my apartment building without any incident."
+    n ""
+
+            
+# game/dominic.rpy:1359
+translate italian dominic_041633c4:
+
+    # n "When we reach the door, Dominic stops, so I come to a halt in front of him."
+    n ""
+
+            
+# game/dominic.rpy:1362
+translate italian dominic_45159fa8:
+
+    # mcp "\"Er… thanks.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1365
+translate italian dominic_ca5e8b26:
+
+    # d "\"It's fine.\""
+    d ""
+
+            
+# game/dominic.rpy:1369
+translate italian dominic_d4b13727:
+
+    # n "With that casual response, he starts to turn away."
+    n ""
+
+            
+# game/dominic.rpy:1372
+translate italian dominic_55806c53:
+
+    # mcp "\"Hey, wait–!\""
+    mcp ""
+
+            
+# game/dominic.rpy:1377
+translate italian dominic_5f1ed69b:
+
+    # n "When I hastily call out to him, Dominic pauses to look back at me."
+    n ""
+
+            
+# game/dominic.rpy:1380
+translate italian dominic_68e006ee:
+
+    # mcp "\"…Are you…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1383
+translate italian dominic_a940f0b3:
+
+    # mcp "\"Were you planning on coming back to the diner tomorrow night?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1385
+translate italian dominic_47b624e8:
+
+    # mcp "\"You don't have to, or anything, but…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1388
+translate italian dominic_02ac56b8:
+
+    # n "He tilts his head to one side, quirking an eyebrow slightly."
+    n ""
+
+            
+# game/dominic.rpy:1390
+translate italian dominic_73f16a06:
+
+    # d "\"I said I'd help you, didn't I?\""
+    d ""
+
+            
+# game/dominic.rpy:1391
+translate italian dominic_f891a2b9:
+
+    # n "He sounds puzzled, as if that was only something natural."
+    n ""
+
+            
+# game/dominic.rpy:1392
+translate italian dominic_29383c5c:
+
+    # n "It probably sounds like I'm questioning his kindness, but after tonight's chase, I wouldn't blame him for wanting to keep his distance."
+    n ""
+
+            
+# game/dominic.rpy:1395
+translate italian dominic_e45253c9:
+
+    # mcp "\"I just wasn't sure how long you would… never mind.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1396
+translate italian dominic_a5fac8c2:
+
+    # n "My response trails off into an awkward mutter, and I avert my gaze, grimacing."
+    n ""
+
+            
+# game/dominic.rpy:1399
+translate italian dominic_ab232740:
+
+    # d "\"…As long as you need me.\""
+    d ""
+
+            
+# game/dominic.rpy:1402
+translate italian dominic_4f46a46b_6:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1403
+translate italian dominic_018eaf69:
+
+    # n "Dominic's words sound unusually gentle, so much that I look up at him in surprise."
+    n ""
+
+            
+# game/dominic.rpy:1407
+translate italian dominic_50054476:
+
+    # n "But he's already turning around again, starting to walk away with his hands shoved in his pockets."
+    n ""
+
+            
+# game/dominic.rpy:1412
+translate italian dominic_4f46a46b_7:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1413
+translate italian dominic_7a8f7fc1:
+
+    # n "This time, I just watch his tall figure gradually head into the distance, until finally he disappears around the corner."
+    n ""
+
+            
+# game/dominic.rpy:1419
+translate italian dominic_9ab8227e:
+
+    # n "His parting words feel like a dream, and I almost have to wonder if I didn't mishear them."
+    n ""
+
+            
+# game/dominic.rpy:1421
+translate italian dominic_d5f1aed2:
+
+    # n "…{i}As long as you need me.{/i}"
+    n ""
+
+            
+# game/dominic.rpy:1424
+translate italian dominic_f514abb9:
+
+    # mcp "\"Seriously… what a weird guy.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1425
+translate italian dominic_1866d45c:
+
+    # n "I mutter to myself in disbelief while climbing the stairs, unable to contain a smile."
+    n ""
+
+            
+# game/dominic.rpy:1432
+translate italian dominic_84a76ec8:
+
+    # n "Unlike last night, a warm feeling bubbles in my chest when I reach my apartment."
+    n ""
+
+            
+# game/dominic.rpy:1433
+translate italian dominic_1ac1e818:
+
+    # n "I don't understand Dominic at all… but deep down, I can see that he has a good heart."
+    n ""
+
+            
+# game/dominic.rpy:1434
+translate italian dominic_42be25f6:
+
+    # n "It's the last thing I'd expect from someone who's supposed to be a blood-sucking monster.{w} I guess you really can't judge a book by its cover, huh?"
+    n ""
+
+            
+# game/dominic.rpy:1440
+translate italian dominic_bb7e3156:
+
+    # n "This time, when I throw myself onto my bed, it doesn't take long for drowsiness to overtake me."
+    n ""
+
+            
+# game/dominic.rpy:1442
+translate italian dominic_db4e7d7d:
+
+    # n "As I slip into unconsciousness, the last image I see is Dominic's bright blue eyes, glittering warmly in the dark – {w}swallowing me in their endless depths."
+    n ""
+
+            
+# game/dominic.rpy:1449
+translate italian dominic_4c29fcc6:
+
+    # n "–And so began my new, bizarre routine."
+    n ""
+
+            
+# game/dominic.rpy:1453
+translate italian dominic_58108031:
+
+    # n "Every night, Dominic would show up at the diner, right as I'd be getting ready to close."
+    n ""
+
+            
+# game/dominic.rpy:1454
+translate italian dominic_bbce9c33:
+
+    # n "After our encounter with Rex, he was a lot more cautious. We'd take hidden alleyways and paths through abandoned buildings, a new mini-adventure each time."
+    n ""
+
+            
+# game/dominic.rpy:1455
+translate italian dominic_161250c5:
+
+    # n "There were a couple close calls, but we managed to avoid getting spotted by roaming vampires – just barely."
+    n ""
+
+            
+# game/dominic.rpy:1460
+translate italian dominic_6c223ae5:
+
+    # n "Neither of us ever speak about what happened in the club."
+    n ""
+
+            
+# game/dominic.rpy:1461
+translate italian dominic_7dc1d0bc:
+
+    # n "It's not like our relationship is awkward, but… {w}every time I think about the way we danced, my face starts to feel hot."
+    n ""
+
+            
+# game/dominic.rpy:1463
+translate italian dominic_1abb6dc8:
+
+    # n "I know it was just a spur-of-the-moment thing, probably meaningless. But no matter how hard I try, I can't forget the look in his eyes back then."
+    n ""
+
+            
+# game/dominic.rpy:1475
+translate italian dominic_26e39095:
+
+    # mc "\"Wow, time to leave already? I must've really been spacing out.\""
+    mc ""
+
+            
+# game/dominic.rpy:1479
+translate italian dominic_34704d3c:
+
+    # n "Today marks a week since Dominic – or Dom, as I've started calling him – first offered to escort me."
+    n ""
+
+            
+# game/dominic.rpy:1481
+translate italian dominic_d15a3e9e:
+
+    # n "But this time, I've decided to man up and ask him if he wants to come up to my apartment tonight."
+    n ""
+
+            
+# game/dominic.rpy:1483
+translate italian dominic_cfbfe3b3:
+
+    # n "Just for a drink and a chat or something… He's not very talkative, but I think he might enjoy the company, and I'd like to get to know him better."
+    n ""
+
+            
+# game/dominic.rpy:1485
+translate italian dominic_4861a3f8:
+
+    # n "It's so easy to forget Dom's a vampire, but the sense of loneliness he carries reminds me of the cold, solitary life he's forced to live in the night."
+    n ""
+
+            
+# game/dominic.rpy:1486
+translate italian dominic_bc42b13c:
+
+    # n "He stays away from his clan, and I can tell he misses his family more than anything.\n{w}From what he's told me, I'm the only friend he has here."
+    n ""
+
+            
+# game/dominic.rpy:1490
+translate italian dominic_c37112ca:
+
+    # n "I want to help ease that loneliness for him – even if it's just a tiny bit."
+    n ""
+
+            
+# game/dominic.rpy:1506
+translate italian dominic_27ff66fe:
+
+    # n "The streets are still slightly lively as I commute to work, compared to their usual abandoned state on my way home."
+    n ""
+
+            
+# game/dominic.rpy:1507
+translate italian dominic_2995b802:
+
+    # n "Normally, I'd keep my head down and be lost in thought during the walk to the diner, but I feel unusually bright today."
+    n ""
+
+            
+# game/dominic.rpy:1509
+translate italian dominic_5a02b5b1:
+
+    # n "Must be the adrenaline from my plan to invite Dom inside… I don't know why it's making me so nervous."
+    n ""
+
+            
+# game/dominic.rpy:1520
+translate italian dominic_35a28d4c_8:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1521
+translate italian dominic_d7cbf489:
+
+    # n "When I take a turn down a side street, I see the shape of a familiar building not far off."
+    n ""
+
+            
+# game/dominic.rpy:1523
+translate italian dominic_c50905fd:
+
+    # n "–Isn't that the abandoned warehouse where Dom went to smoke the other day?"
+    n ""
+
+            
+# game/dominic.rpy:1524
+translate italian dominic_f2cbd25f:
+
+    # n "I wonder if he's there right now… or if that's where he stays before he comes to the diner."
+    n ""
+
+            
+# game/dominic.rpy:1529
+translate italian dominic_e799a0e7:
+
+    # n "I hesitate, but my curiosity winds up being too strong, and I duck inside the warehouse on a whim."
+    n ""
+
+            
+# game/dominic.rpy:1537
+translate italian dominic_3c9e4ae6:
+
+    # n "Downstairs, the dark, dirty interior greets me with the familiar hum of fluorescent lights."
+    n ""
+
+            
+# game/dominic.rpy:1539
+translate italian dominic_c925a03c:
+
+    # n "But it doesn't seem like Dom's here. {w}There are a few fresh cigarette butts lying nearby, which means I might've just missed him."
+    n ""
+
+            
+# game/dominic.rpy:1545
+translate italian dominic_c141385a:
+
+    # mc "\"Ah well…\""
+    mc ""
+
+            
+# game/dominic.rpy:1547
+translate italian dominic_57793843:
+
+    # n "…Damn, why am I so disappointed?"
+    n ""
+
+            
+# game/dominic.rpy:1548
+translate italian dominic_38a4c7cf:
+
+    # n "I'll get to see him tonight, anyway, so it's not like it really matters that much…"
+    n ""
+
+            
+# game/dominic.rpy:1550
+translate italian dominic_f0911d6a:
+
+    # u "\"Looking for Dominic, by chance?\""
+    u ""
+
+            
+# game/dominic.rpy:1553
+translate italian dominic_36a7a87b_1:
+
+    # mc "\"–!\""
+    mc ""
+
+            
+# game/dominic.rpy:1556
+translate italian dominic_b0f9f741:
+
+    # n "Out of nowhere, a powerful voice resonates behind my ears."
+    n ""
+
+            
+# game/dominic.rpy:1561
+translate italian dominic_cfbe4f83:
+
+    # n "I hastily spin around, coming face to face with a towering man"
+    n ""
+
+            
+# game/dominic.rpy:1562
+translate italian dominic_fb1e0463:
+
+    # n "He's in a finely made suit, and he doesn't look like a thug. {w}What's he doing in a place like this?"
+    n ""
+
+            
+# game/dominic.rpy:1563
+translate italian dominic_60d12355:
+
+    # n "I didn't even see him when I came in. Was he hiding?"
+    n ""
+
+            
+# game/dominic.rpy:1566
+translate italian dominic_74a28b01:
+
+    # mcp "\"…I was, yeah. Do you know him?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1569
+translate italian dominic_ff7ffc34:
+
+    # u "\"I do, indeed. He's quite an interesting young man, although… a little misguided.\""
+    u ""
+
+            
+# game/dominic.rpy:1571
+translate italian dominic_31a306f3:
+
+    # n "He slowly rubs a hand along one cheek, watching me with eyes that are –"
+    n ""
+
+            
+# game/dominic.rpy:1574
+translate italian dominic_a1417fe5:
+
+    # n "A vivid, piercing shade of red."
+    n ""
+
+            
+# game/dominic.rpy:1577
+translate italian dominic_4f46a46b_8:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1578
+translate italian dominic_415efe86:
+
+    # n "Wait, does that mean… {w}Could this guy be…"
+    n ""
+
+            
+# game/dominic.rpy:1581
+translate italian dominic_7e2272bb:
+
+    # u "\"Oh, where are my manners? I entirely forgot to introduce myself.\""
+    u ""
+
+            
+# game/dominic.rpy:1584
+translate italian dominic_799d044c:
+
+    # b "\"My name is Bishop. I am, to put it crassly, the 'leader' of San Francisco's two clans.\""
+    b ""
+
+            
+# game/dominic.rpy:1586
+translate italian dominic_b5a9ce7c:
+
+    # n "He bows his head to me a little, his tone polite and reserved."
+    n ""
+
+            
+# game/dominic.rpy:1588
+translate italian dominic_b7680622:
+
+    # n "–If he's the \"leader\" of both clans, that must mean he's the top vampire in the city."
+    n ""
+
+            
+# game/dominic.rpy:1589
+translate italian dominic_a8aa6007:
+
+    # n "The very thought makes me want to dash out of the room as fast as I can, but curiosity and fear keep me pinned in place."
+    n ""
+
+            
+# game/dominic.rpy:1593
+translate italian dominic_e7e37755:
+
+    # mcp "\"A-ah, nice to meet you. I'm [mc]… I guess you must have heard about me from Rex.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1596
+translate italian dominic_3cecac6d:
+
+    # mcp "\"…Bishop, huh?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1598
+translate italian dominic_97a757e0:
+
+    # mcp "\"I'm [mc] – but I'm sure you've already heard my name from Rex.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1601
+translate italian dominic_8a0374fe:
+
+    # n "Bishop slowly nods, narrowing his crimson eyes for a moment."
+    n ""
+
+            
+# game/dominic.rpy:1603
+translate italian dominic_02cbc256:
+
+    # b "\"Oh, yes. He talked about you quite a bit, including all of your special qualities.\""
+    b ""
+
+            
+# game/dominic.rpy:1606
+translate italian dominic_3bf57381:
+
+    # mcp "\"…Special qualities?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1609
+translate italian dominic_1911b525:
+
+    # b "\"Naturally.\""
+    b ""
+
+            
+# game/dominic.rpy:1611
+translate italian dominic_307ea43d:
+
+    # b "\"However, I didn't come here intending to discuss such things now… that can wait for another time.\""
+    b ""
+
+            
+# game/dominic.rpy:1614
+translate italian dominic_fe33bb4f:
+
+    # b "\"The real reason I wanted to speak to you – or Dominic – was a certain {i}rumor{/i} that's been circulating about you two.\""
+    b ""
+
+            
+# game/dominic.rpy:1616
+translate italian dominic_e37bc435:
+
+    # n "Pausing for an extended moment, Bishop lets his gaze drift up and down my body, and I hold back the urge to shiver."
+    n ""
+
+            
+# game/dominic.rpy:1617
+translate italian dominic_525cbc28:
+
+    # n "He gives off a strong, oppressive aura, one that feels like black tendrils wrapping around me and squeezing out my breath."
+    n ""
+
+            
+# game/dominic.rpy:1620
+translate italian dominic_8623621d:
+
+    # b "\"You see, I don't allow my subordinates to engage in… equal relationships with humans.\""
+    b ""
+
+            
+# game/dominic.rpy:1622
+translate italian dominic_24820f41:
+
+    # b "\"It puts us all at great risk of being exposed, just from one tiny slip-up. A misplaced word here or there, and our veil of secrecy might be torn open.\""
+    b ""
+
+            
+# game/dominic.rpy:1623
+translate italian dominic_d96c8d87:
+
+    # n "He gives me a wide, sharklike smile."
+    n ""
+
+            
+# game/dominic.rpy:1627
+translate italian dominic_77a26349:
+
+    # mcp "\"Are you trying to say…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1630
+translate italian dominic_c78b6b2a:
+
+    # mcp "\"…I shouldn't talk to him anymore?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1633
+translate italian dominic_f15d688c:
+
+    # b "\"Hmh.\""
+    b ""
+
+            
+# game/dominic.rpy:1634
+translate italian dominic_7305b509:
+
+    # n "When my voice uncontrollably cracks with disappointment, Bishop laughs, although it doesn't make his expression look any kinder."
+    n ""
+
+            
+# game/dominic.rpy:1637
+translate italian dominic_810ef395:
+
+    # mcp "\"Is that a threat?\""
+    mcp ""
+
+            
+# game/dominic.rpy:1639
+translate italian dominic_8d8cfced:
+
+    # mcp "\"If I don't stop talking to Dom, then…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1642
+translate italian dominic_f15d688c_1:
+
+    # b "\"Hmh.\""
+    b ""
+
+            
+# game/dominic.rpy:1643
+translate italian dominic_70778215:
+
+    # n "When my voice trembles with anger, Bishop laughs, although it doesn't make his expression look any kinder."
+    n ""
+
+            
+# game/dominic.rpy:1647
+translate italian dominic_bf913e30:
+
+    # b "\"Please, don't paint me out as such a villain.\""
+    b ""
+
+            
+# game/dominic.rpy:1648
+translate italian dominic_7c1d3bda:
+
+    # b "\"I have a different proposal in mind, if you wish to hear me out.\""
+    b ""
+
+            
+# game/dominic.rpy:1652
+translate italian dominic_996d21fa:
+
+    # n "Bishop steps a little closer, and even though I want to move back, his crimson stare freezes me to the spot."
+    n ""
+
+            
+# game/dominic.rpy:1656
+translate italian dominic_b5df3517:
+
+    # b "\"You see, we're always looking for new, promising additions to San Francisco's coven.\""
+    b ""
+
+            
+# game/dominic.rpy:1659
+translate italian dominic_f73c6161:
+
+    # b "\"The vampires in Los Angeles, San Jose, even Fresno… their numbers are steadily growing, and soon, they might even pose a threat to us.\""
+    b ""
+
+            
+# game/dominic.rpy:1660
+translate italian dominic_6c814600:
+
+    # n "He reaches out with a claw-like fingernail to point directly at my throat."
+    n ""
+
+            
+# game/dominic.rpy:1662
+translate italian dominic_eddba220:
+
+    # n "I clench my teeth, doing my best not to show any signs of fear, and stare back into Bishop's unblinking eyes."
+    n ""
+
+            
+# game/dominic.rpy:1664
+translate italian dominic_0f0ea00c:
+
+    # b "\"From your scent, I can tell that you're a Strix – a human with strong, receptive blood.\""
+    b ""
+
+            
+# game/dominic.rpy:1667
+translate italian dominic_38402d6b:
+
+    # mcp "\"My scent…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1668
+translate italian dominic_03bd3190:
+
+    # n "Now that I think about it, both Rex and Dom said something like that."
+    n ""
+
+            
+# game/dominic.rpy:1671
+translate italian dominic_311ad473:
+
+    # b "\"If you joined us, I would have no objections to your relationship with Dominic… In fact, I'd even encourage it.\""
+    b ""
+
+            
+# game/dominic.rpy:1673
+translate italian dominic_ed197de1:
+
+    # b "\"After all, he's a very lonely boy. Someone like you could keep him from acting out or causing us any further trouble.\""
+    b ""
+
+            
+# game/dominic.rpy:1674
+translate italian dominic_154a548f:
+
+    # n "Bishop towers over me as he speaks, casting a long shadow that feels like it's swallowing me up."
+    n ""
+
+            
+# game/dominic.rpy:1676
+translate italian dominic_2082c1e6:
+
+    # n "It's all too clear that he's giving me an ultimatum –"
+    n ""
+
+            
+# game/dominic.rpy:1678
+translate italian dominic_3a84b8b3:
+
+    # n "{i}Join us, or forget about us.{/i}"
+    n ""
+
+            
+# game/dominic.rpy:1679
+translate italian dominic_6c365fc6:
+
+    # n "Otherwise…"
+    n ""
+
+            
+# game/dominic.rpy:1680
+translate italian dominic_6af7d085:
+
+    # extend " I'll be killed."
+    extend ""
+
+            
+# game/dominic.rpy:1683
+translate italian dominic_1441ed7e:
+
+    # b "\"What are your thoughts, my dear? I don't like being kept in suspense.\""
+    b ""
+
+            
+# game/dominic.rpy:1686
+translate italian dominic_4f46a46b_9:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1689
+translate italian strings:
+
+    old "Only if Dominic…"
+    new ""
+    
+                
+# game/dominic.rpy:1689
+translate italian strings:
+
+    old "It'd be worth the cost"
+    new ""
+    
+                
+# game/dominic.rpy:1689
+translate italian strings:
+
+    old "Tell him what he wants to hear"
+    new ""
+    
+                
+# game/dominic.rpy:1689
+translate italian strings:
+
+    old "Tell him what he wants to hear (unlocked)"
+    new ""
+    
+                
+# game/dominic.rpy:1693
+translate italian dom_one_2ea082d4:
+
+    # n "To be honest, the idea of never seeing the sun again is a horrible one."
+    n ""
+
+            
+# game/dominic.rpy:1694
+translate italian dom_one_4e415428:
+
+    # n "Everything about my life would change, and I'd be forced into a world of secrets and darkness…"
+    n ""
+
+            
+# game/dominic.rpy:1696
+translate italian dom_one_2f3c772b:
+
+    # n "But if Dom was there for me, then…{w} I think I could endure it."
+    n ""
+
+            
+# game/dominic.rpy:1699
+translate italian dom_one_18bb4c5c:
+
+    # mcp "\"I'd consider your offer, as long as Dominic was the one who…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1702
+translate italian dom_one_6af9083f:
+
+    # mcp "\"…Who turned me.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1708
+translate italian dom_one_5e4dc7f6:
+
+    # n "I really don't know how a mortal is made into a vampire, but if it's anything like the stories, they'd get bitten by another vampire."
+    n ""
+
+            
+# game/dominic.rpy:1709
+translate italian dom_one_2b34042d:
+
+    # n "And if there's a permanent bond between the two afterwards… {w}I'd only let something like that happen with Dom."
+    n ""
+
+            
+# game/dominic.rpy:1716
+translate italian dom_one_e97554c0:
+
+    # b "\"Oh? You're a picky one, I see.\""
+    b ""
+
+            
+# game/dominic.rpy:1717
+translate italian dom_one_33c3e38c:
+
+    # n "Bishop seems greatly amused by my response, and he lets out a chuckle – letting me glimpse his knifelike fangs."
+    n ""
+
+            
+# game/dominic.rpy:1721
+translate italian dom_one_73564dfe:
+
+    # n "I take a deep breath, then murmur the first words that come to mind."
+    n ""
+
+            
+# game/dominic.rpy:1724
+translate italian dom_one_0dc76033:
+
+    # mcp "\"I'd consider it… yes.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1730
+translate italian dom_one_10356195:
+
+    # n "Becoming a monster –"
+    n ""
+
+            
+# game/dominic.rpy:1731
+translate italian dom_one_dc505d21:
+
+    # extend " I never thought I'd willingly agree to something like that."
+    extend ""
+
+            
+# game/dominic.rpy:1733
+translate italian dom_one_72debb81:
+
+    # n "But…{w} I don't have any close family or friends who'd even realize I was gone."
+    n ""
+
+            
+# game/dominic.rpy:1734
+translate italian dom_one_9aa28608:
+
+    # n "And if it meant I could still be around Dominic, then wouldn't that be worth the cost? {w}There's nothing else important keeping me tied to my normal life."
+    n ""
+
+            
+# game/dominic.rpy:1741
+translate italian dom_one_5ce533bb:
+
+    # b "\"Good. I'm happy to see that you're a boy with common sense, [mc].\""
+    b ""
+
+            
+# game/dominic.rpy:1742
+translate italian dom_one_4bf21e6e:
+
+    # n "Bishop's eyes narrow slightly, making him resemble a predatory cat with a satisfied, bloodstained smirk."
+    n ""
+
+            
+# game/dominic.rpy:1749
+translate italian dom_one_3b2c1dda:
+
+    # n "I don't like being threatened. I never have."
+    n ""
+
+            
+# game/dominic.rpy:1750
+translate italian dom_one_c60b28a5:
+
+    # n "But refusing Bishop right now would be suicide. If I tell him what he wants to hear, he'll back off."
+    n ""
+
+            
+# game/dominic.rpy:1753
+translate italian dom_one_32d53382:
+
+    # mcp "\"Yes… I'd be willing to join you.\""
+    mcp ""
+
+            
+# game/dominic.rpy:1759
+translate italian dom_one_e43471c2:
+
+    # n "Yet as the words leave my lips –"
+    n ""
+
+            
+# game/dominic.rpy:1760
+translate italian dom_one_c3d8da4c:
+
+    # extend " I have to wonder if there's not some truth to them."
+    extend ""
+
+            
+# game/dominic.rpy:1762
+translate italian dom_one_c3768005:
+
+    # n "I don't want to leave Dom's side, but I don't want to risk him getting hurt, either."
+    n ""
+
+            
+# game/dominic.rpy:1763
+translate italian dom_one_1726bcf9:
+
+    # n "Is this really the only way out…?"
+    n ""
+
+            
+# game/dominic.rpy:1770
+translate italian dom_one_a8a73153:
+
+    # b "\"What a clever little thing you are.\""
+    b ""
+
+            
+# game/dominic.rpy:1771
+translate italian dom_one_ea24e479:
+
+    # b "\"I hope your words come from the heart, though. I have to say, I quite dislike the falsely loyal.\""
+    b ""
+
+            
+# game/dominic.rpy:1774
+translate italian dom_one_8c7aef2f:
+
+    # n "…I think I can guess what happens to the poor bastards he thinks are \"falsely loyal.\""
+    n ""
+
+            
+# game/dominic.rpy:1786
+translate italian dom_one_baed1ce1:
+
+    # mc "\"Do I have to decide… right now?\""
+    mc ""
+
+            
+# game/dominic.rpy:1787
+translate italian dom_one_5f0089d2:
+
+    # n "When I worriedly look up at Bishop, he smooths a hand through his jet-black hair and offers me a shrug."
+    n ""
+
+            
+# game/dominic.rpy:1790
+translate italian dom_one_9db71e12:
+
+    # b "\"I'll give you a day to think about it.\""
+    b ""
+
+            
+# game/dominic.rpy:1792
+translate italian dom_one_4731f346:
+
+    # b "\"Should you choose to reject my offer, however, I'm afraid I'll have to prohibit you from meeting Dominic…\""
+    b ""
+
+            
+# game/dominic.rpy:1795
+translate italian dom_one_d5194fad:
+
+    # b "\"Through whatever means necessary.\""
+    b ""
+
+            
+# game/dominic.rpy:1798
+translate italian dom_one_35a28d4c:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1800
+translate italian dom_one_2db6e617:
+
+    # n "–He's really not subtle about his threats, this guy."
+    n ""
+
+            
+# game/dominic.rpy:1801
+translate italian dom_one_2f83083d:
+
+    # n "But there's not much I can do to argue, so I offer a hesitant nod in reply."
+    n ""
+
+            
+# game/dominic.rpy:1805
+translate italian dom_one_c6be5053:
+
+    # mc "\"If you really wanted me to join you, though… why didn't you bite me forcefully?\""
+    mc ""
+
+            
+# game/dominic.rpy:1806
+translate italian dom_one_09f3c060:
+
+    # mc "\"I doubt I'd be a match for a vampire.\""
+    mc ""
+
+            
+# game/dominic.rpy:1809
+translate italian dom_one_d3188226:
+
+    # mc "\"Is there a reason you didn't already bite me yourself?\""
+    mc ""
+
+            
+# game/dominic.rpy:1810
+translate italian dom_one_22721d18:
+
+    # mc "\"It's hard to believe someone like you would be scared of a single human fighting back. You probably think of us like cattle.\""
+    mc ""
+
+            
+# game/dominic.rpy:1814
+translate italian dom_one_3c90aa8c:
+
+    # n "My question causes Bishop's eyes to glint with a dangerous, amused light."
+    n ""
+
+            
+# game/dominic.rpy:1816
+translate italian dom_one_54d22515:
+
+    # b "\"Turning an unwilling subject often leads to troublesome side effects, my dear.\""
+    b ""
+
+            
+# game/dominic.rpy:1817
+translate italian dom_one_58cc15a9:
+
+    # b "\"Death is often one such effect… among others. I'd rather not see someone so promising wasted like that – you understand, I'm sure.\""
+    b ""
+
+            
+# game/dominic.rpy:1820
+translate italian dom_one_35cc5167:
+
+    # mc "\"…I see.\""
+    mc ""
+
+            
+# game/dominic.rpy:1821
+translate italian dom_one_5321bc83:
+
+    # n "I grimace, unsure how I feel about being called a \"promising\" candidate for a vampire."
+    n ""
+
+            
+# game/dominic.rpy:1822
+translate italian dom_one_7760fe3c:
+
+    # n "It's a little comforting to know that they wouldn't turn me against my will, but an uneasy feeling's still gnawing at my stomach."
+    n ""
+
+            
+# game/dominic.rpy:1825
+translate italian dom_one_5139d830:
+
+    # b "\"Excellent.\""
+    b ""
+
+            
+# game/dominic.rpy:1826
+translate italian dom_one_109d20f8:
+
+    # b "\"I'm quite pleased that we settled the matter so efficiently. I'll see you tomorrow, then.\""
+    b ""
+
+            
+# game/dominic.rpy:1828
+translate italian dom_one_8b07894b:
+
+    # b "\"Make sure you consider things carefully, as I'm sure neither of us want a disagreeable outcome.\""
+    b ""
+
+            
+# game/dominic.rpy:1834
+translate italian dom_one_51cb2a39:
+
+    # n "Bishop offers me a sweeping bow, then turns around with a flutter of his long, black coat."
+    n ""
+
+            
+# game/dominic.rpy:1835
+translate italian dom_one_1f03e31d:
+
+    # n "He walks towards the stairs, but to my shock –"
+    n ""
+
+            
+# game/dominic.rpy:1838
+translate italian dom_one_35a28d4c_1:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1839
+translate italian dom_one_577960c5:
+
+    # n "The second he steps into the shadows, his form simply disappears."
+    n ""
+
+            
+# game/dominic.rpy:1840
+translate italian dom_one_d2b6fa2b:
+
+    # n "–It must be some kind of power he has… {w}the very thought sends unpleasant shivers down my spine."
+    n ""
+
+            
+# game/dominic.rpy:1844
+translate italian dom_one_2790e7a1:
+
+    # mc "\"What a shady bastard.\""
+    mc ""
+
+            
+# game/dominic.rpy:1845
+translate italian dom_one_c56fb8e8:
+
+    # n "I unthinkingly mutter to myself, then freeze, praying he's not still lurking nearby."
+    n ""
+
+            
+# game/dominic.rpy:1847
+translate italian dom_one_bb6922c8:
+
+    # n "…But there's no reply or angry vampiric hiss, so I guess Bishop's gone."
+    n ""
+
+            
+# game/dominic.rpy:1848
+translate italian dom_one_72a96250:
+
+    # n "His presence was so incredibly icy that the whole warehouse felt a few degrees colder."
+    n ""
+
+            
+# game/dominic.rpy:1851
+translate italian dom_one_5df636c7:
+
+    # mc "\"…Shit.\""
+    mc ""
+
+            
+# game/dominic.rpy:1858
+translate italian dom_one_fe165ccf:
+
+    # n "What kind of awful situation have I gotten myself into?"
+    n ""
+
+            
+# game/dominic.rpy:1860
+translate italian dom_one_c653a46c:
+
+    # n "I don't want to give up my humanity, obviously, but I don't want to leave Dominic all alone, either…"
+    n ""
+
+            
+# game/dominic.rpy:1861
+translate italian dom_one_b1ca34c4:
+
+    # n "And I have a feeling that, even if we tried to keep our meetings secret, Bishop would find out."
+    n ""
+
+            
+# game/dominic.rpy:1863
+translate italian dom_one_c493f9a9:
+
+    # n "How am I supposed to make a choice like this in a single day…?"
+    n ""
+
+            
+# game/dominic.rpy:1868
+translate italian dom_one_9a4cb2ca:
+
+    # n "After a little while, I wearily leave the warehouse and head to the diner."
+    n ""
+
+            
+# game/dominic.rpy:1876
+translate italian dom_one_e0a50247:
+
+    # n "For most of my shift, my head's in a daze. {w}I have to ask customers to repeat themselves a few times, as I'm so distracted that I don't understand what they're trying to say."
+    n ""
+
+            
+# game/dominic.rpy:1877
+translate italian dom_one_d2bd583d:
+
+    # n "Bishop's offer weighs heavily on my mind, and my stomach is tied in an anxious knot, tightening every time I replay our conversation in my head."
+    n ""
+
+            
+# game/dominic.rpy:1885
+translate italian dom_one_bfd3e578:
+
+    # n "Finally, closing time arrives, and I let out a long, relieved sigh."
+    n ""
+
+            
+# game/dominic.rpy:1889
+translate italian dom_one_35a28d4c_2:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:1894
+translate italian dom_one_6fc3ba91:
+
+    # n "As usual, Dom shows up at the door, coming to a stop a few feet in front of the counter."
+    n ""
+
+            
+# game/dominic.rpy:1895
+translate italian dom_one_14f71bb6:
+
+    # n "But this time, he stares at me with a small frown, studying my face intently."
+    n ""
+
+            
+# game/dominic.rpy:1898
+translate italian dom_one_06dfe7ba:
+
+    # d "\"…Are you all right?\""
+    d ""
+
+            
+# game/dominic.rpy:1900
+translate italian dom_one_6edc0894:
+
+    # mc "\"Eh? Y-yeah, I'm fine.\""
+    mc ""
+
+            
+# game/dominic.rpy:1902
+translate italian dom_one_12f9cf01:
+
+    # mc "\"Just kinda worn out, long shift and everything.\""
+    mc ""
+
+            
+# game/dominic.rpy:1904
+translate italian dom_one_01baaab5:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:1905
+translate italian dom_one_b4e32155:
+
+    # n "Dom doesn't look like he's buying my excuse, and he keeps watching me with a worried narrowing of his clear blue eyes."
+    n ""
+
+            
+# game/dominic.rpy:1906
+translate italian dom_one_cf131c2d:
+
+    # n "Either I must look really terrible, or he's incredibly perceptive – or maybe some mix of the two."
+    n ""
+
+            
+# game/dominic.rpy:1909
+translate italian dom_one_d1dad8ea:
+
+    # mc "\"Let's head out. The smell of grease is making me more nauseated than normal.\""
+    mc ""
+
+            
+# game/dominic.rpy:1918
+translate italian dom_one_2ec89783:
+
+    # n "We leave the diner and start walking towards my apartment, completely alone on the deserted street."
+    n ""
+
+            
+# game/dominic.rpy:1919
+translate italian dom_one_f5ff1c99:
+
+    # n "There's an unusually tense silence between us.{w} I'd gotten used to Dom's quietness and normally kept up the conversation myself, but not today."
+    n ""
+
+            
+# game/dominic.rpy:1921
+translate italian dom_one_4a28a70f:
+
+    # n "I should say something about Bishop, but I just can't force any words out right now…{w}\nIt's like there's a lump in my throat."
+    n ""
+
+            
+# game/dominic.rpy:1924
+translate italian dom_one_4f46a46b:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:1927
+translate italian dom_one_1feefa32:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:1929
+translate italian dom_one_d2673bbf:
+
+    # n "Only the sound of our footsteps on the pavement echoes around us."
+    n ""
+
+            
+# game/dominic.rpy:1930
+translate italian dom_one_2c600699:
+
+    # n "Dominic must sense something's wrong, because he avoids my eyes and walks further away from me than normal."
+    n ""
+
+            
+# game/dominic.rpy:1931
+translate italian dom_one_3a6634fe:
+
+    # n "It doesn't seem like there're any vampires hunting us today, either… {w}I almost wish they'd start up a chase, just to break this awkwardness."
+    n ""
+
+            
+# game/dominic.rpy:1937
+translate italian dom_one_b2a79d13:
+
+    # n "We make it to my apartment before long, neither of us speaking a single word on the way there."
+    n ""
+
+            
+# game/dominic.rpy:1941
+translate italian dom_one_2e7582eb:
+
+    # n "Finally, when we arrive at the door, I pause and take in a deep breath."
+    n ""
+
+            
+# game/dominic.rpy:1944
+translate italian dom_one_53504935:
+
+    # mc "\"Hey, Dom… you wanna come inside for a bit?\""
+    mc ""
+
+            
+# game/dominic.rpy:1949
+translate italian dom_one_01baaab5_1:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:1950
+translate italian dom_one_14e6dfb5:
+
+    # n "He blinks at me in astonishment, like I'd just asked him to wear a tiara and have a tea party with me."
+    n ""
+
+            
+# game/dominic.rpy:1954
+translate italian dom_one_ba8d235b:
+
+    # mc "\"Just for a drink, or a… smoke, or something. We don't get to hang out very much, and…\""
+    mc ""
+
+            
+# game/dominic.rpy:1958
+translate italian dom_one_b7b5f456:
+
+    # mc "\"Well, I'd like to talk a little more.\""
+    mc ""
+
+            
+# game/dominic.rpy:1961
+translate italian dom_one_3aa446e1:
+
+    # mc "\"What's with that look? When was the last time you hung out with someone, anyway?\""
+    mc ""
+
+            
+# game/dominic.rpy:1962
+translate italian dom_one_278ae2cc:
+
+    # mc "\"Come upstairs and have a smoke or something. You're a pretty cool guy, vampire or no…\""
+    mc ""
+
+            
+# game/dominic.rpy:1965
+translate italian dom_one_2e50bbfd:
+
+    # mc "\"…And, well, if you've dealt with my company this long, a little more can't hurt, right?\""
+    mc ""
+
+            
+# game/dominic.rpy:1968
+translate italian dom_one_a797e224:
+
+    # n "–Dom hesitates, his eyes dropping from my face to stare at the ground for a long few moments."
+    n ""
+
+            
+# game/dominic.rpy:1971
+translate italian dom_one_250c336c:
+
+    # n "But finally, he raises his head and nods, and I can't help but grin in relief."
+    n ""
+
+            
+# game/dominic.rpy:1973
+translate italian dom_one_deccde0b:
+
+    # mc "\"C'mon, then! Let's not hang outside until the sun comes up, yeah?\""
+    mc ""
+
+            
+# game/dominic.rpy:1975
+translate italian dom_one_6e003d1d:
+
+    # d "\"…Yeah.\""
+    d ""
+
+            
+# game/dominic.rpy:1983
+translate italian dom_one_43aa007c:
+
+    # n "With Dom trailing at my heels, I head up to my apartment, and my heart starts to beat faster and faster."
+    n ""
+
+            
+# game/dominic.rpy:1986
+translate italian dom_one_f6e11abe:
+
+    # n "God, it's really happening. {w}I actually invited him inside."
+    n ""
+
+            
+# game/dominic.rpy:1987
+translate italian dom_one_1a791691:
+
+    # n "I hope he doesn't think I'm acting weird or anything. I mean, this is a natural thing for friends to do, right?"
+    n ""
+
+            
+# game/dominic.rpy:1989
+translate italian dom_one_7c0e31a9:
+
+    # n "…Damn it, who am I kidding? {w}I obviously like him as more than a friend. A lot more."
+    n ""
+
+            
+# game/dominic.rpy:2001
+translate italian dom_one_f147f7ae:
+
+    # mc "\"Well, this is it!\""
+    mc ""
+
+            
+# game/dominic.rpy:2003
+translate italian dom_one_347322bb:
+
+    # mc "\"Not Buckingham Palace or anything, but hey, it's home.\""
+    mc ""
+
+            
+# game/dominic.rpy:2007
+translate italian dom_one_308f776b:
+
+    # mc "\"W-well, here it is.\""
+    mc ""
+
+            
+# game/dominic.rpy:2008
+translate italian dom_one_e5fc7267:
+
+    # mc "\"Make yourself at home!… Ah, sorry in advance for any clothes lying around.\""
+    mc ""
+
+            
+# game/dominic.rpy:2010
+translate italian dom_one_b91de5a6:
+
+    # n "I nervously chuckle after leading Dom inside, watching him while his eyes dart around my apartment."
+    n ""
+
+            
+# game/dominic.rpy:2015
+translate italian dom_one_16d02017:
+
+    # d "\"…I like it.\""
+    d ""
+
+            
+# game/dominic.rpy:2016
+translate italian dom_one_e7544532:
+
+    # n "A faint smile curls on his lips, lightening the shadow that's been there all night."
+    n ""
+
+            
+# game/dominic.rpy:2019
+translate italian dom_one_53468a6d:
+
+    # mc "\"O-oh, really?\""
+    mc ""
+
+            
+# game/dominic.rpy:2021
+translate italian dom_one_c4fb5ea0:
+
+    # mc "\"I mean, thanks! Needs some serious spring cleaning, though…\""
+    mc ""
+
+            
+# game/dominic.rpy:2025
+translate italian dom_one_af37b766:
+
+    # n "As I scratch the back of my neck, uncertain of what to do next, Dom lowers himself onto the edge of my bed."
+    n ""
+
+            
+# game/dominic.rpy:2026
+translate italian dom_one_11e3cd4a:
+
+    # n "The mattress springs creak a little under his weight, but he doesn't seem to notice."
+    n ""
+
+            
+# game/dominic.rpy:2029
+translate italian dom_one_e2341366:
+
+    # mc "\"So, how about a drink? I've got some wine in the fridge, a couple cans of beer too.\""
+    mc ""
+
+            
+# game/dominic.rpy:2031
+translate italian dom_one_cfd5aea4:
+
+    # mc "\"You drank that cup of coffee, so alcohol's good too, right? Eheh.\""
+    mc ""
+
+            
+# game/dominic.rpy:2033
+translate italian dom_one_ff430d9a:
+
+    # n "Dom shakes his head at my offer."
+    n ""
+
+            
+# game/dominic.rpy:2034
+translate italian dom_one_baa9fc99:
+
+    # n "Instead, he just motions for me to come closer, beckoning with one hand."
+    n ""
+
+            
+# game/dominic.rpy:2037
+translate italian dom_one_0fa204f0:
+
+    # dp "\"Sit down.\""
+    dp ""
+
+            
+# game/dominic.rpy:2040
+translate italian dom_one_35a28d4c_3:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:2044
+translate italian dom_one_5f7bda85:
+
+    # n "Swallowing, I step closer to him, not exactly sure if I should sit on the bed or pull up my office chair."
+    n ""
+
+            
+# game/dominic.rpy:2045
+translate italian dom_one_976d165b:
+
+    # n "Did he mean sit beside him, or…?"
+    n ""
+
+            
+# game/dominic.rpy:2048
+translate italian dom_one_32e4958b:
+
+    # dp "\"…On my lap, idiot.\""
+    dp ""
+
+            
+# game/dominic.rpy:2052
+translate italian dom_one_115f72fd:
+
+    # mcp "\"Wh– Wait, what? You mean…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2054
+translate italian dom_one_7359f127:
+
+    # dp "\"If you don't hurry up, the sun's gonna rise.\""
+    dp ""
+
+            
+# game/dominic.rpy:2057
+translate italian dom_one_4f46a46b_1:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2063
+translate italian dom_one_a8a96b78:
+
+    # n "After Dom's coaxing words, I finally end up settling in his lap, squirming a bit."
+    n ""
+
+            
+# game/dominic.rpy:2064
+translate italian dom_one_00bd220a:
+
+    # n "It's not like I'm new to this kind of thing… but I can't calm myself down."
+    n ""
+
+            
+# game/dominic.rpy:2069
+translate italian dom_one_21b98693:
+
+    # d "\"Why are you so nervous?\""
+    d ""
+
+            
+# game/dominic.rpy:2072
+translate italian dom_one_4f46a46b_2:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2073
+translate italian dom_one_6b0f0685:
+
+    # n "Dom asks me in a curious, low voice, and a blush instantly rises to my face."
+    n ""
+
+            
+# game/dominic.rpy:2074
+translate italian dom_one_13764e00:
+
+    # n "He noticed, damn it."
+    n ""
+
+            
+# game/dominic.rpy:2077
+translate italian dom_one_f1ae9b91:
+
+    # d "\"You're pretty bad at hiding how you feel.\""
+    d ""
+
+            
+# game/dominic.rpy:2079
+translate italian dom_one_126afbe9:
+
+    # d "\"I think my third-grade textbooks were harder to read.\""
+    d ""
+
+            
+# game/dominic.rpy:2083
+translate italian dom_one_d54ea282:
+
+    # mcp "\"…Shut up. It's not my fault that I'm honest.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2085
+translate italian dom_one_e4bfd493:
+
+    # mcp "\"And what else am I supposed to do when you're looking at me like that, anyway?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2088
+translate italian dom_one_8293f1b2:
+
+    # mcp "\"…Now you're just being mean for no reason.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2090
+translate italian dom_one_ec11233b:
+
+    # mcp "\"Maybe I wasn't trying to hide it.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2093
+translate italian dom_one_699a1606:
+
+    # d "\"Sorry, sorry.\""
+    d ""
+
+            
+# game/dominic.rpy:2099
+translate italian dom_one_585b0845:
+
+    # n "When I mumble an indignant reply, Dom just snickers, tightening his arms around me."
+    n ""
+
+            
+# game/dominic.rpy:2100
+translate italian dom_one_d7babbe6:
+
+    # n "The gentle, but firm, way he hugs my body against him is oddly comforting, and I find myself relaxing before I even know it."
+    n ""
+
+            
+# game/dominic.rpy:2101
+translate italian dom_one_e9b2b39a:
+
+    # n "I guess he shares my feelings, at least a little bit. {w}The thought makes a happy warmth flood through my chest."
+    n ""
+
+            
+# game/dominic.rpy:2104
+translate italian dom_one_0af225b6:
+
+    # mcp "\"Can I ask you a question, Dom?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2106
+translate italian dom_one_4fc3163a:
+
+    # mcp "\"You… How did you turn into a vampire?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2109
+translate italian dom_one_1feefa32_1:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:2111
+translate italian dom_one_6cadfa88:
+
+    # n "He goes silent for a long moment."
+    n ""
+
+            
+# game/dominic.rpy:2113
+translate italian dom_one_37637123:
+
+    # n "I feel him squeeze the fabric of my jacket – with fingers that tremble ever so slightly."
+    n ""
+
+            
+# game/dominic.rpy:2116
+translate italian dom_one_5283cd7e:
+
+    # dp "\"I got bitten ten years ago against my will. Wrong place at the wrong time.\""
+    dp ""
+
+            
+# game/dominic.rpy:2118
+translate italian dom_one_abb74c08:
+
+    # n "He speaks with a resigned calmness, not the bitter tone I was expecting."
+    n ""
+
+            
+# game/dominic.rpy:2119
+translate italian dom_one_1291998e:
+
+    # n "Ten years ago… {w}he's been living like this for ten years?"
+    n ""
+
+            
+# game/dominic.rpy:2122
+translate italian dom_one_74c2d51e:
+
+    # dp "\"Once I realized what I was – a monster – I cut myself off from everyone, everything.\""
+    dp ""
+
+            
+# game/dominic.rpy:2124
+translate italian dom_one_d0d4671b:
+
+    # dp "\"{w=0.3}I hoped I'd just disappear, swallowed up by the shadows one night, and everyone would forget about me.\""
+    dp ""
+
+            
+# game/dominic.rpy:2127
+translate italian dom_one_1fc9967c:
+
+    # dp "\"The vampires here forced me into a 'clan', but it's all a joke. Creatures like us shouldn't even exist – there's no pride in what we are.\""
+    dp ""
+
+            
+# game/dominic.rpy:2135
+translate italian dom_one_3cc0c72d:
+
+    # d "\"I was tired, [mc].\""
+    d ""
+
+            
+# game/dominic.rpy:2136
+translate italian dom_one_175deb25:
+
+    # d "\"I came to your diner that night because… {w=0.3}I wanted to pretend I was human, one last time.\""
+    d ""
+
+            
+# game/dominic.rpy:2137
+translate italian dom_one_7738bc1d:
+
+    # d "\"Rex was nearby, waiting to ambush me, and so…\""
+    d ""
+
+            
+# game/dominic.rpy:2140
+translate italian dom_one_87d2f589:
+
+    # d "\"I was planning to let him tear me apart after I left.\""
+    d ""
+
+            
+# game/dominic.rpy:2143
+translate italian dom_one_4f46a46b_3:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2146
+translate italian dom_one_2c6aba73:
+
+    # d "\"I thought I'd revisit an old favorite spot, have my first cup of coffee in ten years…\""
+    d ""
+
+            
+# game/dominic.rpy:2148
+translate italian dom_one_4e26862b:
+
+    # d "\"And then head out for a final night.\""
+    d ""
+
+            
+# game/dominic.rpy:2151
+translate italian dom_one_90431c72:
+
+    # mcp "\"Dom…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2154
+translate italian dom_one_a653baa2:
+
+    # d "\"But… when you treated me just like a regular customer, like a man rather than a monster…\""
+    d ""
+
+            
+# game/dominic.rpy:2156
+translate italian dom_one_a48e89c4:
+
+    # d "\"And after you didn't mention me to Luka, as if you were trying to protect me…\""
+    d ""
+
+            
+# game/dominic.rpy:2159
+translate italian dom_one_d2ca1901:
+
+    # d "\"I guess I thought it'd be worth sticking around a little longer, just to see what you might get up to.\""
+    d ""
+
+            
+# game/dominic.rpy:2162
+translate italian dom_one_4f46a46b_4:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2164
+translate italian dom_one_1d857605:
+
+    # n "My eyes burn, and a lump forms in my throat."
+    n ""
+
+            
+# game/dominic.rpy:2166
+translate italian dom_one_5b03a767:
+
+    # n "If I hadn't…{w} Dom could've…"
+    n ""
+
+            
+# game/dominic.rpy:2169
+translate italian dom_one_e346ebd7:
+
+    # d "\"Shh… it doesn't matter anymore, [mc].\""
+    d ""
+
+            
+# game/dominic.rpy:2171
+translate italian dom_one_1ad619d4:
+
+    # d "\"It's all right.\""
+    d ""
+
+            
+# game/dominic.rpy:2172
+translate italian dom_one_35790996:
+
+    # n "He strokes a hand through my hair with a tenderness that makes my held-back emotion almost burst free."
+    n ""
+
+            
+# game/dominic.rpy:2174
+translate italian dom_one_f41e45cd:
+
+    # n "But I manage to swallow it back, and once I give Dom a little nod, he smiles at me reassuringly."
+    n ""
+
+            
+# game/dominic.rpy:2176
+translate italian dom_one_55cdb0d6:
+
+    # n "I don't understand his strength…{w} He's been living in solitude all this time, part of a world he doesn't belong in, and yet he's still so gentle… so kind."
+    n ""
+
+            
+# game/dominic.rpy:2177
+translate italian dom_one_e7d9fee5:
+
+    # n "If I had known all this back at the diner, how would things have been different…?"
+    n ""
+
+            
+# game/dominic.rpy:2183
+translate italian dom_one_2536d24d:
+
+    # dp "\"[mc]…\""
+    dp ""
+
+            
+# game/dominic.rpy:2184
+translate italian dom_one_16ca83ce:
+
+    # dp "\"Something happened to you today, didn't it?\""
+    dp ""
+
+            
+# game/dominic.rpy:2185
+translate italian dom_one_35f61199:
+
+    # n "He tilts my chin up so that our gazes meet, and his sky-blue eyes gaze into mine with a look of concern."
+    n ""
+
+            
+# game/dominic.rpy:2188
+translate italian dom_one_313779c2:
+
+    # mcp "\"…Yeah. I… Earlier this evening…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2191
+translate italian dom_one_195de8e5:
+
+    # mcp "\"…I met Bishop.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2194
+translate italian dom_one_1feefa32_2:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:2202
+translate italian dom_one_7720b5aa:
+
+    # n "Dom's face immediately darkens when I mention Bishop's name."
+    n ""
+
+            
+# game/dominic.rpy:2203
+translate italian dom_one_fc9676f0:
+
+    # n "I'm guessing he isn't too fond of him… and I can see why."
+    n ""
+
+            
+# game/dominic.rpy:2206
+translate italian dom_one_434196a0:
+
+    # d "\"What did he say to you?\""
+    d ""
+
+            
+# game/dominic.rpy:2207
+translate italian dom_one_c0ff4db0:
+
+    # n "His voice grows urgent, rising slightly with suspicion."
+    n ""
+
+            
+# game/dominic.rpy:2210
+translate italian dom_one_b23e4faa:
+
+    # mcp "\"He said that I shouldn't meet with you any more, unless I…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2213
+translate italian dom_one_29b3f960:
+
+    # mcp "\"Unless I joined the coven.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2216
+translate italian dom_one_01baaab5_2:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:2218
+translate italian dom_one_6567c540:
+
+    # n "Dom's fingers curl more tightly in the fabric of my jacket."
+    n ""
+
+            
+# game/dominic.rpy:2219
+translate italian dom_one_644bb307:
+
+    # n "He watches me with an intense, unwavering stare, as if he's trying to search the contents of my soul."
+    n ""
+
+            
+# game/dominic.rpy:2220
+translate italian dom_one_e9137d93:
+
+    # n "Unsure of those contents myself, I gaze back into his eyes, glimpsing my own reflection."
+    n ""
+
+            
+# game/dominic.rpy:2223
+translate italian dom_one_df46baee:
+
+    # d "\"Is that what you want?\""
+    d ""
+
+            
+# game/dominic.rpy:2226
+translate italian dom_one_4f46a46b_5:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2227
+translate italian dom_one_c9739494:
+
+    # n "His earnest question makes me pause."
+    n ""
+
+            
+# game/dominic.rpy:2229
+translate italian dom_one_2762278b:
+
+    # n "The truth is, I don't really know… {w}and I don't know if I'm brave enough to accept a new life, hiding away from the sun forever."
+    n ""
+
+            
+# game/dominic.rpy:2232
+translate italian strings:
+
+    old "No, it isn't (unlocked)"
+    new ""
+    
+                
+# game/dominic.rpy:2232
+translate italian strings:
+
+    old "No, it isn't"
+    new ""
+    
+                
+# game/dominic.rpy:2232
+translate italian strings:
+
+    old "Yes, it's what I want"
+    new ""
+    
+                
+# game/dominic.rpy:2232
+translate italian strings:
+
+    old "I'll take the risk…"
+    new ""
+    
+                
+# game/dominic.rpy:2239
+translate italian dom_two_feb2b2d5:
+
+    # mcp "\"…No, it isn't.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2240
+translate italian dom_two_029933ef:
+
+    # mcp "\"I don't want to hide away from the sun forever… I don't want to hunt down other people to survive.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2242
+translate italian dom_two_755b7178:
+
+    # n "I chew my bottom lip, trying to summon enough courage to finish my words."
+    n ""
+
+            
+# game/dominic.rpy:2245
+translate italian dom_two_d726bfa2:
+
+    # mcp "\"But I might not have a choice. If Bishop's only going to give me one way out…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2248
+translate italian dom_two_1bb39c70:
+
+    # mcp "\"Then I'll have to take it.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2251
+translate italian dom_two_01baaab5:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:2252
+translate italian dom_two_65acb0ef:
+
+    # n "For some reason, the corners of Dom's lips curl just a little bit upwards."
+    n ""
+
+            
+# game/dominic.rpy:2254
+translate italian dom_two_b774c922:
+
+    # n "He gazes at me with that curious smile for a few moments, but soon, his brow darkens with worry again."
+    n ""
+
+            
+# game/dominic.rpy:2263
+translate italian dom_two_14ac1233:
+
+    # n "…But the more I think about it, maybe I don't really belong here at all."
+    n ""
+
+            
+# game/dominic.rpy:2264
+translate italian dom_two_fd30b080:
+
+    # n "Maybe becoming a vampire would break me out of this lonely, unchanging life I've been living for God-knows-how-long."
+    n ""
+
+            
+# game/dominic.rpy:2266
+translate italian dom_two_c4801b81:
+
+    # n "Maybe I'd be more alive as a vampire than I would as a human… {w}and maybe I could finally have someone else at my side."
+    n ""
+
+            
+# game/dominic.rpy:2269
+translate italian dom_two_4ff9717d:
+
+    # mcp "\"Yes, it is.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2271
+translate italian dom_two_a53478b0:
+
+    # mcp "\"I… don't think that I'd mind.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2274
+translate italian dom_two_01baaab5_1:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:2276
+translate italian dom_two_b241a034:
+
+    # n "For a moment, I sense a conflicted feeling in Dom's expression."
+    n ""
+
+            
+# game/dominic.rpy:2277
+translate italian dom_two_8db7c983:
+
+    # n "He tightens his grip on my back, pulling me closer."
+    n ""
+
+            
+# game/dominic.rpy:2283
+translate italian dom_two_140e1dd0:
+
+    # n "…In reality, I feel like it doesn't truly matter to me whether I end up staying as a human or not."
+    n ""
+
+            
+# game/dominic.rpy:2284
+translate italian dom_two_4ab1f055:
+
+    # n "If someone as gentle as Dom can be a vampire, then what is there to be afraid of?"
+    n ""
+
+            
+# game/dominic.rpy:2285
+translate italian dom_two_b06b280b:
+
+    # n "Despite what he says, I know he's not a monster – {w}I understand, now, that unlife doesn't mean becoming a beast."
+    n ""
+
+            
+# game/dominic.rpy:2288
+translate italian dom_two_381b3486:
+
+    # mcp "\"I'm… scared of losing myself, I'll admit, but I think…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2290
+translate italian dom_two_a5896663:
+
+    # mcp "\"Well, I'd be willing to take that risk.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2293
+translate italian dom_two_778b7b38:
+
+    # mcp "\"Because more than anything, I just… I don't want you to be alone any more.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2294
+translate italian dom_two_633afccf:
+
+    # mcp "\"I want to be by your side, Dom. Even if it means giving up everything else.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2298
+translate italian dom_two_37f51e34:
+
+    # n "Ashamed of my own cheesy words, however honest they are, I bow my head slightly."
+    n ""
+
+            
+# game/dominic.rpy:2301
+translate italian dom_two_1feefa32:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:2303
+translate italian dom_two_68ea4321:
+
+    # n "Although I avoid looking at Dom's face, I get the sense that he's smiling."
+    n ""
+
+            
+# game/dominic.rpy:2304
+translate italian dom_two_14bde7f3:
+
+    # n "My heart leaps up again, and I barely resist the urge to bury my face against his shoulder."
+    n ""
+
+            
+# game/dominic.rpy:2309
+translate italian dom_two_38427867:
+
+    # n "…But when I look at him next, his features have darkened again, and his arms squeeze protectively around me."
+    n ""
+
+            
+# game/dominic.rpy:2312
+translate italian dom_two_2c04a83b:
+
+    # d "\"If you accept his offer, you have to make me a promise.\""
+    d ""
+
+            
+# game/dominic.rpy:2314
+translate italian dom_two_c3b45615:
+
+    # mcp "\"…Oh? What's that?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2315
+translate italian dom_two_aab6e1d9:
+
+    # n "The look in his eyes is so serious that I instinctively tense up a little."
+    n ""
+
+            
+# game/dominic.rpy:2318
+translate italian dom_two_c80b8e34:
+
+    # d "\"Don't accept the bite of anyone besides me. Don't let anyone else turn you.\""
+    d ""
+
+            
+# game/dominic.rpy:2321
+translate italian dom_two_3a77e02b:
+
+    # d "\"Otherwise, something… might happen.\""
+    d ""
+
+            
+# game/dominic.rpy:2322
+translate italian dom_two_d331bf6c:
+
+    # n "Part of his words sound uncertain, but the hesitance in his voice makes me wonder if he's hiding something from me."
+    n ""
+
+            
+# game/dominic.rpy:2323
+translate italian dom_two_29b43603:
+
+    # n "Earlier this week, he was talking about something different in my blood… could this be related to that?"
+    n ""
+
+            
+# game/dominic.rpy:2324
+translate italian dom_two_8a9d36ca:
+
+    # n "Bishop, too, mentioned the same thing – \"Strix,\" he called it."
+    n ""
+
+            
+# game/dominic.rpy:2327
+translate italian dom_two_d0b5fff8:
+
+    # d "\"Promise me, [mc].\""
+    d ""
+
+            
+# game/dominic.rpy:2328
+translate italian dom_two_313e3b41:
+
+    # n "Dom interrupts my thoughts with an urgent murmur, as if he's worried I might forget what he's saying."
+    n ""
+
+            
+# game/dominic.rpy:2331
+translate italian dom_two_18c2bf1a:
+
+    # mcp "\"R-right, of course. I promise.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2334
+translate italian dom_two_73261027:
+
+    # n "My reply seems to set Dom somewhat at ease, and his impatient gaze softens."
+    n ""
+
+            
+# game/dominic.rpy:2338
+translate italian dom_two_c40aa803:
+
+    # n "Puzzled, I start to open my mouth to ask what's so important about accepting someone's bite –"
+    n ""
+
+            
+# game/dominic.rpy:2342
+translate italian dom_two_36a7a87b:
+
+    # mc "\"–!\""
+    mc ""
+
+            
+# game/dominic.rpy:2343
+translate italian dom_two_bc926b15:
+
+    # n "But at that moment, Dom presses his face towards mine."
+    n ""
+
+            
+# game/dominic.rpy:2348
+translate italian dom_two_bd74582c:
+
+    # n "It takes me a second to realize that his cool, soft lips are smashed against my own."
+    n ""
+
+            
+# game/dominic.rpy:2349
+translate italian dom_two_c5f26fcb:
+
+    # n "But it takes even less time for me to realize that I don't mind, not one bit."
+    n ""
+
+            
+# game/dominic.rpy:2351
+translate italian dom_two_e4092248:
+
+    # mc "\"…mh…\""
+    mc ""
+
+            
+# game/dominic.rpy:2352
+translate italian dom_two_28af617a:
+
+    # n "I curl my arms around Dom, pressing back tenderly into the kiss."
+    n ""
+
+            
+# game/dominic.rpy:2353
+translate italian dom_two_e11c058c:
+
+    # n "He pulls me down against him with an overwhelming rush of passion."
+    n ""
+
+            
+# game/dominic.rpy:2355
+translate italian dom_two_c199263a:
+
+    # d "\"Everything about you drives me wild…\""
+    d ""
+
+            
+# game/dominic.rpy:2356
+translate italian dom_two_360d2f19:
+
+    # d "\"Your scent, your kindness, your pretty face… all of it.\""
+    d ""
+
+            
+# game/dominic.rpy:2357
+translate italian dom_two_31e4cb22:
+
+    # n "Dom breathes those low words against my skin, quickly sealing my lips again with another fierce, hungry kiss."
+    n ""
+
+            
+# game/dominic.rpy:2362
+translate italian dom_two_2996c48a:
+
+    # n "His tongue insistently presses its way forward, and I let it tease inside my mouth, sliding along my own."
+    n ""
+
+            
+# game/dominic.rpy:2363
+translate italian dom_two_9fa646f8:
+
+    # n "There's a sweetly smoky taste on his breath, tingling my senses delightfully as our tongues dance and twirl together."
+    n ""
+
+            
+# game/dominic.rpy:2365
+translate italian dom_two_fdb40727:
+
+    # mc "\"Dom…\""
+    mc ""
+
+            
+# game/dominic.rpy:2366
+translate italian dom_two_fbe13a97:
+
+    # n "I let out a soft whimper when his hand slips under my shirt, drifting across my skin."
+    n ""
+
+            
+# game/dominic.rpy:2367
+translate italian dom_two_7a04f655:
+
+    # n "When he captures my bottom lip between his fangs and playfully nips it, a delicious tingle shoots down my spine, and I clutch onto him tighter."
+    n ""
+
+            
+# game/dominic.rpy:2368
+translate italian dom_two_ef60de08:
+
+    # n "In those beautifully clear blue eyes, there's a heated glimmer that watches me longingly."
+    n ""
+
+            
+# game/dominic.rpy:2370
+translate italian dom_two_896a2ba8:
+
+    # n "If only that gaze was fixed on me forever."
+    n ""
+
+            
+# game/dominic.rpy:2375
+translate italian dom_two_0e7a7203:
+
+    # d "\"You're so warm… every inch of you…\""
+    d ""
+
+            
+# game/dominic.rpy:2376
+translate italian dom_two_47cf906c:
+
+    # n "He purrs out with a mixture of awe and delight, his cool fingers tracing up and down my spine."
+    n ""
+
+            
+# game/dominic.rpy:2377
+translate italian dom_two_4c496a30:
+
+    # n "They explore all the curves and dips of my body, teasing around my hips, slipping around to my chest."
+    n ""
+
+            
+# game/dominic.rpy:2379
+translate italian dom_two_b5acfe18:
+
+    # mc "\"Nnh… a-ah…\""
+    mc ""
+
+            
+# game/dominic.rpy:2380
+translate italian dom_two_d38b9fb0:
+
+    # mc "\"Well… what good is body heat if there's… no one to share it with?\""
+    mc ""
+
+            
+# game/dominic.rpy:2385
+translate italian dom_two_25d1f033:
+
+    # n "I close my eyes, drowning in the sweetness of his tongue tracing the corners of my lips, while those large, gentle hands caress my entire figure."
+    n ""
+
+            
+# game/dominic.rpy:2387
+translate italian dom_two_f0f60422:
+
+    # n "This rush of excitement –"
+    n ""
+
+            
+# game/dominic.rpy:2388
+translate italian dom_two_1014209e:
+
+    # extend " it's not just from physical stimulation."
+    extend ""
+
+            
+# game/dominic.rpy:2389
+translate italian dom_two_c3ea44de:
+
+    # n "It's a deep and comforting warmth, as if every ounce of tension's gone from my body."
+    n ""
+
+            
+# game/dominic.rpy:2391
+translate italian dom_two_8adcfcf6:
+
+    # n "I feel like I can entrust every part of myself to Dom, like I don't need to keep any secrets or hold anything back."
+    n ""
+
+            
+# game/dominic.rpy:2393
+translate italian dom_two_03360592:
+
+    # d "\"Please…\""
+    d ""
+
+            
+# game/dominic.rpy:2394
+translate italian dom_two_0c8272ce:
+
+    # d "\"…Please stay with me, [mc].\""
+    d ""
+
+            
+# game/dominic.rpy:2395
+translate italian dom_two_835add8d:
+
+    # n "Dom whispers against my lips, his words so soft that I can barely hear them."
+    n ""
+
+            
+# game/dominic.rpy:2397
+translate italian dom_two_eab6915d:
+
+    # n "But the pleading tremble in his voice makes my chest ache, and I nuzzle against his cheek affectionately."
+    n ""
+
+            
+# game/dominic.rpy:2399
+translate italian dom_two_eb2341b7:
+
+    # mc "\"I will, Dom… no matter what happens.\""
+    mc ""
+
+            
+# game/dominic.rpy:2401
+translate italian dom_two_01baaab5_2:
+
+    # d "\"…\""
+    d ""
+
+            
+# game/dominic.rpy:2402
+translate italian dom_two_f9986c9c:
+
+    # n "He heatedly kisses me again as soon as I reply, like he's desperate to seal my promise into an unbreakable bond."
+    n ""
+
+            
+# game/dominic.rpy:2403
+translate italian dom_two_b786e141:
+
+    # n "I squeeze my arms around his neck, wanting to reassure him that I don't plan on letting him go anytime soon."
+    n ""
+
+            
+# game/dominic.rpy:2407
+translate italian dom_two_ec8d3480:
+
+    # n "The rest of the night becomes a blur after that, filled with so much passion that I can barely keep up."
+    n ""
+
+            
+# game/dominic.rpy:2409
+translate italian dom_two_6bfc4e78:
+
+    # n "Finally, I drift off to sleep, intoxicated by Dom's scent and the comforting embrace of his arms."
+    n ""
+
+            
+# game/dominic.rpy:2412
+translate italian dom_two_84a60d93:
+
+    # n "The only thought in my mind is a desperate hope for this to last forever…"
+    n ""
+
+            
+# game/dominic.rpy:2414
+translate italian dom_two_26565e27:
+
+    # n "…And a prayer that I'll be strong enough to make the right choice."
+    n ""
+
+            
+# game/dominic.rpy:2417
+translate italian dom_two_681d9b7c:
+
+    # mc "\"Mmh…\""
+    mc ""
+
+            
+# game/dominic.rpy:2419
+translate italian dom_two_710250d5:
+
+    # n "I roll over in my bed, trying to curl up against Dom."
+    n ""
+
+            
+# game/dominic.rpy:2421
+translate italian dom_two_598eca71:
+
+    # mc "\"…?\""
+    mc ""
+
+            
+# game/dominic.rpy:2423
+translate italian dom_two_db78dc93:
+
+    # n "He's not here?"
+    n ""
+
+            
+# game/dominic.rpy:2428
+translate italian dom_two_ac55cf8b:
+
+    # n "When I sit up straight, I realize that sunlight's streaming faintly in through my apartment window."
+    n ""
+
+            
+# game/dominic.rpy:2429
+translate italian dom_two_43ddeeac:
+
+    # n "No sign of Dom, either. {w}He must've left before dawn."
+    n ""
+
+            
+# game/dominic.rpy:2431
+translate italian dom_two_bf452002:
+
+    # mc "\"…Shit…\""
+    mc ""
+
+            
+# game/dominic.rpy:2432
+translate italian dom_two_8a4a4c5b:
+
+    # n "The memories of last night flood back when an ache runs through my body."
+    n ""
+
+            
+# game/dominic.rpy:2434
+translate italian dom_two_9f847541:
+
+    # n "Ngh… he {i}is{/i} a monster in some ways, I'll give him that."
+    n ""
+
+            
+# game/dominic.rpy:2436
+translate italian dom_two_6fb40777:
+
+    # mc "\"The sheets are gonna need to be changed… mmh, I'll do it later.\""
+    mc ""
+
+            
+# game/dominic.rpy:2443
+translate italian dom_two_04537abc:
+
+    # n "I roll out of bed and put on some coffee before settling down to work, all while wearing a happily sleep-deprived smile."
+    n ""
+
+            
+# game/dominic.rpy:2446
+translate italian dom_two_8c776ee7:
+
+    # n "As I write, though, my mind keeps drifting between Dom and Bishop."
+    n ""
+
+            
+# game/dominic.rpy:2450
+translate italian dom_two_730741e3:
+
+    # n "The mood of the words I type grows steadily darker, like it's mirroring the uncertainty in my heart."
+    n ""
+
+            
+# game/dominic.rpy:2451
+translate italian dom_two_d84f8374:
+
+    # n "I have to keep myself from turning my light-hearted romance commissions into horror stories… that'd be bad for business."
+    n ""
+
+            
+# game/dominic.rpy:2454
+translate italian dom_two_485ab8e9:
+
+    # n "As I work on my newest composition, though, my mind keeps drifting between Dom and Bishop."
+    n ""
+
+            
+# game/dominic.rpy:2458
+translate italian dom_two_9e9b5954:
+
+    # n "The tone of my piece grows steadily darker, like it's mirroring the uncertainty in my heart."
+    n ""
+
+            
+# game/dominic.rpy:2459
+translate italian dom_two_1d812f6e:
+
+    # n "I have to actively focus to keep it from turning into something grim and moody, more fitting for a horror game than a fantasy one."
+    n ""
+
+            
+# game/dominic.rpy:2463
+translate italian dom_two_837b0376:
+
+    # n "As I work on my latest commission, though, my mind keeps drifting between Dom and Bishop."
+    n ""
+
+            
+# game/dominic.rpy:2467
+translate italian dom_two_0f4df056:
+
+    # n "The colors of my drawing grow steadily darker, like they're mirroring the uncertainty in my heart."
+    n ""
+
+            
+# game/dominic.rpy:2468
+translate italian dom_two_87e3caab:
+
+    # n "I have to keep myself from adding grim shadows and moody lighting, otherwise this picture of a cute couple is gonna turn into a gothic metal album cover."
+    n ""
+
+            
+# game/dominic.rpy:2473
+translate italian dom_two_9b98dc3f:
+
+    # n "Even as night draws close, and I head out on my way to work, I keep nervously weighing Bishop's offer in my head."
+    n ""
+
+            
+# game/dominic.rpy:2479
+translate italian dom_two_8c2e5310:
+
+    # n "How the hell am I supposed to make a decision like this in one day?"
+    n ""
+
+            
+# game/dominic.rpy:2480
+translate italian dom_two_36af02be:
+
+    # n "He gave me that ultimatum yesterday, so I guess he'll come seek me out tonight. {w}The very thought sends shivers down my spine."
+    n ""
+
+            
+# game/dominic.rpy:2481
+translate italian dom_two_eae0c9aa:
+
+    # n "Bishop isn't outright aggressive like Rex, but he's ten times more unsettling – and radiates that frigid, intimidating aura that makes it hard to think straight."
+    n ""
+
+            
+# game/dominic.rpy:2483
+translate italian dom_two_7b0a34c4:
+
+    # n "Damn it…{w} There's no easy way out of this, is there?"
+    n ""
+
+            
+# game/dominic.rpy:2494
+translate italian dom_two_9a331280:
+
+    # mc "\"Coffee? Sure, coming right up.\""
+    mc ""
+
+            
+# game/dominic.rpy:2495
+translate italian dom_two_74fd2558:
+
+    # n "I put on a forced grin as I take a customer's order."
+    n ""
+
+            
+# game/dominic.rpy:2498
+translate italian dom_two_35a28d4c:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:2508
+translate italian dom_two_66c89e86:
+
+    # n "…When I start brewing a fresh pot, my mind flashes back to when Dom first came to this run-down place."
+    n ""
+
+            
+# game/dominic.rpy:2510
+translate italian dom_two_7b2d662c:
+
+    # n "The way he seemed so confused about what to do… {w}I guess that'd happen if your diet doesn't normally include anything except blood, huh?"
+    n ""
+
+            
+# game/dominic.rpy:2513
+translate italian dom_two_f9c054d1:
+
+    # n "I think that was the moment I really started to fall head over heels for him and his cute, quiet ways."
+    n ""
+
+            
+# game/dominic.rpy:2524
+translate italian dom_two_cdfc7d31:
+
+    # mc "\"…I have to do it.\""
+    mc ""
+
+            
+# game/dominic.rpy:2526
+translate italian dom_two_c89551e8:
+
+    # n "I mutter unconsciously to myself as I pour the black liquid into an empty mug."
+    n ""
+
+            
+# game/dominic.rpy:2530
+translate italian dom_two_91e04647:
+
+    # n "I have to accept Bishop's offer… {w}I won't leave Dom alone."
+    n ""
+
+            
+# game/dominic.rpy:2536
+translate italian dom_two_28957468:
+
+    # n "My determination grows stronger and stronger as my shift continues, and by closing time, I feel grimly confident."
+    n ""
+
+            
+# game/dominic.rpy:2539
+translate italian dom_two_4f46a46b:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2541
+translate italian dom_two_b8d3d1ed:
+
+    # n "–Why is Dom not showing up, though?"
+    n ""
+
+            
+# game/dominic.rpy:2542
+translate italian dom_two_fe8473ff:
+
+    # n "He usually always walks through the door right now. {w}Did he get delayed?"
+    n ""
+
+            
+# game/dominic.rpy:2547
+translate italian dom_two_9ddb89c7:
+
+    # n "I lean against the counter to wait, drumming my fingers impatiently on the grimy surface."
+    n ""
+
+            
+# game/dominic.rpy:2549
+translate italian dom_two_4d0dd04e:
+
+    # n "…But as time goes on, and there's no sign of Dom, a foreboding feeling sinks in my chest."
+    n ""
+
+            
+# game/dominic.rpy:2552
+translate italian dom_two_fdb40727_1:
+
+    # mc "\"Dom…\""
+    mc ""
+
+            
+# game/dominic.rpy:2554
+translate italian dom_two_2bae6a50:
+
+    # n "Damn it! Something must have happened to him…"
+    n ""
+
+            
+# game/dominic.rpy:2555
+translate italian dom_two_ba289ba1:
+
+    # n "What if he's injured? {w}Or… what if he's trying to avoid me? That doesn't seem like him, but…"
+    n ""
+
+            
+# game/dominic.rpy:2558
+translate italian dom_two_72610377:
+
+    # mc "\"The warehouse–!\""
+    mc ""
+
+            
+# game/dominic.rpy:2559
+translate italian dom_two_93330718:
+
+    # n "If he's not here, then that's the only other place he could be."
+    n ""
+
+            
+# game/dominic.rpy:2564
+translate italian dom_two_a3bd4ed3:
+
+    # n "Grabbing my keys, I rush out of the diner, only barely remembering to lock the door behind me."
+    n ""
+
+            
+# game/dominic.rpy:2565
+translate italian dom_two_f58b83b3:
+
+    # n "I dash down the empty street, tearing my way towards the warehouse as fast as I can."
+    n ""
+
+            
+# game/dominic.rpy:2567
+translate italian dom_two_f7042f93:
+
+    # n "{i}Please be all right, please be all right…{/i}"
+    n ""
+
+            
+# game/dominic.rpy:2568
+translate italian dom_two_0515aee8:
+
+    # n "Repeating those words like a prayer, I run down the dark alleys as a cold sweat breaks out on my back."
+    n ""
+
+            
+# game/dominic.rpy:2575
+translate italian dom_two_214ca275:
+
+    # n "Finally, I arrive at the warehouse and frantically tear inside."
+    n ""
+
+            
+# game/dominic.rpy:2577
+translate italian dom_two_e5a8e972:
+
+    # mcp "\"Dom!\""
+    mcp ""
+
+            
+# game/dominic.rpy:2578
+translate italian dom_two_763e4f16:
+
+    # mcp "\"Dom, are you h–\""
+    mcp ""
+
+            
+# game/dominic.rpy:2579
+translate italian dom_two_fe941cdc:
+
+    # u "\"[mc]!\""
+    u ""
+
+            
+# game/dominic.rpy:2581
+translate italian dom_two_6857950e:
+
+    # n "A pained voice calls out to me, and I freeze in my tracks."
+    n ""
+
+            
+# game/dominic.rpy:2583
+translate italian dom_two_1ace3b7e:
+
+    # u "\"Ah, you're late.\""
+    u ""
+
+            
+# game/dominic.rpy:2584
+translate italian dom_two_6f17ce5e:
+
+    # u "\"I'm glad that you could make it, regardless.\""
+    u ""
+
+            
+# game/dominic.rpy:2592
+translate italian dom_two_1a364006:
+
+    # n "Bishop steps from the shadows, approaching me with long, purposeful steps."
+    n ""
+
+            
+# game/dominic.rpy:2594
+translate italian dom_two_caa89e7c:
+
+    # mcp "\"Bishop…?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2597
+translate italian dom_two_c03b4fba:
+
+    # mcp "\"Why are you… what's happening?\""
+    mcp ""
+
+            
+# game/dominic.rpy:2610
+translate italian dom_two_0a60905c:
+
+    # n "–Two large, heavily-built men are holding Dom in place, grasping onto his arms."
+    n ""
+
+            
+# game/dominic.rpy:2611
+translate italian dom_two_f7b579a1:
+
+    # n "He struggles in their grip, but even his powerful physique is no match for two vampires – their fanged grins gives that much away."
+    n ""
+
+            
+# game/dominic.rpy:2620
+translate italian dom_two_192dacf4:
+
+    # b "\"I believe I explained this already, but our beloved Dominic here was – very knowingly – breaking the rules of our coven by playing around with a mortal.\""
+    b ""
+
+            
+# game/dominic.rpy:2621
+translate italian dom_two_476822ea:
+
+    # b "\"He was evidently planning to escape with you tonight, despite being fully aware of the agreement we discussed…\""
+    b ""
+
+            
+# game/dominic.rpy:2628
+translate italian dom_two_f182d601:
+
+    # n "Bishop grasps my chin with a cold hand, forcing me to turn away from Dom and look up at him instead."
+    n ""
+
+            
+# game/dominic.rpy:2631
+translate italian dom_two_435c4eba:
+
+    # b "\"You didn't think I'd let him get away without proper punishment, did you?\""
+    b ""
+
+            
+# game/dominic.rpy:2636
+translate italian dom_two_38fa99db:
+
+    # mcp "\"No, please…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2639
+translate italian dom_two_4ab5e2b7:
+
+    # mcp "\"I'll do whatever you want, just let him go!\""
+    mcp ""
+
+            
+# game/dominic.rpy:2640
+translate italian dom_two_2d85510b:
+
+    # n "I stare pleadingly into those blood-red eyes, trying to fight off the crushing aura that surrounds Bishop."
+    n ""
+
+            
+# game/dominic.rpy:2643
+translate italian dom_two_74e4484f:
+
+    # mcp "\"You… you really are a monster.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2646
+translate italian dom_two_6b704c12:
+
+    # mcp "\"What do you want from me? I'll do whatever it is, as long as you let Dom go.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2647
+translate italian dom_two_8a08cfb3:
+
+    # n "Too furious to plead with Bishop, I glare back into his blood-red eyes, doing my best to fight off his oppressive aura."
+    n ""
+
+            
+# game/dominic.rpy:2651
+translate italian dom_two_b8405e9f:
+
+    # b "\"Is that so?\""
+    b ""
+
+            
+# game/dominic.rpy:2652
+translate italian dom_two_e83bb3eb:
+
+    # b "\"Well, I might be persuaded to release him…\""
+    b ""
+
+            
+# game/dominic.rpy:2653
+translate italian dom_two_c5edb680:
+
+    # n "His voice drops a little, taking on a hint of a provocative growl."
+    n ""
+
+            
+# game/dominic.rpy:2656
+translate italian dom_two_e2f73639:
+
+    # b "\"Provided you accept my offer… and let me be the one to turn you.\""
+    b ""
+
+            
+# game/dominic.rpy:2658
+translate italian dom_two_8ba089a0:
+
+    # dp "\"–!\""
+    dp ""
+
+            
+# game/dominic.rpy:2659
+translate italian dom_two_10173887:
+
+    # n "Dominic seems to catch Bishop's low words, and he starts to struggle even harder, gritting his teeth together furiously."
+    n ""
+
+            
+# game/dominic.rpy:2661
+translate italian dom_two_0bd37fb8:
+
+    # dp "\"No, [mc]! Don't listen to him!\""
+    dp ""
+
+            
+# game/dominic.rpy:2663
+translate italian dom_two_159077aa:
+
+    # dp "\"You can't! You'll turn into –\""
+    dp ""
+
+            
+# game/dominic.rpy:2664
+translate italian dom_two_05a07ea4:
+
+    # n "One of the men holding Dom abruptly kicks his stomach, causing his words to turn into a gasp of pain."
+    n ""
+
+            
+# game/dominic.rpy:2667
+translate italian dom_two_60159957:
+
+    # b "\"Don't interrupt, Dominic. I thought I taught you better manners than that.\""
+    b ""
+
+            
+# game/dominic.rpy:2669
+translate italian dom_two_f6814606:
+
+    # b "\"This is a matter between myself and our lovely [mc], here, and I believe you forfeited your right to have a say in the matter.\""
+    b ""
+
+            
+# game/dominic.rpy:2670
+translate italian dom_two_9e4c181b:
+
+    # n "After scolding Dom in a quiet, taunting voice, Bishop turns back towards me – waiting for my answer with an expectant smirk."
+    n ""
+
+            
+# game/dominic.rpy:2674
+translate italian strings:
+
+    old "I'll do anything to help Dom"
+    new ""
+    
+                
+# game/dominic.rpy:2674
+translate italian strings:
+
+    old "I can't trust him"
+    new ""
+    
+                
+# game/dominic.rpy:2690
+translate italian dom_bad_b238342c:
+
+    # n "…There's only one way I can help Dom."
+    n ""
+
+            
+# game/dominic.rpy:2692
+translate italian dom_bad_ff2aa7f5:
+
+    # n "I'll let Bishop turn me, and maybe he'll let Dom go – or I'll gain powers that I can use to free him."
+    n ""
+
+            
+# game/dominic.rpy:2695
+translate italian dom_bad_4ef930f6:
+
+    # mcp "\"Fine…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2698
+translate italian dom_bad_e04a0ffd:
+
+    # mcp "\"…I accept.\""
+    mcp ""
+
+            
+# game/dominic.rpy:2701
+translate italian dom_bad_8ba089a0:
+
+    # dp "\"–!\""
+    dp ""
+
+            
+# game/dominic.rpy:2703
+translate italian dom_bad_b9f13c6e:
+
+    # n "Biting my lip, I nod reluctantly at Bishop, whose eyes light up with clear satisfaction."
+    n ""
+
+            
+# game/dominic.rpy:2704
+translate italian dom_bad_7205bd43:
+
+    # b "\"Wonderful.\""
+    b ""
+
+            
+# game/dominic.rpy:2706
+translate italian dom_bad_a78844a6:
+
+    # b "\"I knew you had excellent judgment, [mc]… I'm glad it won't go to waste.\""
+    b ""
+
+            
+# game/dominic.rpy:2714
+translate italian dom_bad_5d1b3657:
+
+    # n "Bishop pulls me into his arms, tilting my head back to expose my neck."
+    n ""
+
+            
+# game/dominic.rpy:2717
+translate italian dom_bad_b67cd888:
+
+    # dp "\"[mc], you can't!\""
+    dp ""
+
+            
+# game/dominic.rpy:2718
+translate italian dom_bad_72edf7c2:
+
+    # dp "\"Let him go, Bishop, or I'll–!\""
+    dp ""
+
+            
+# game/dominic.rpy:2721
+translate italian dom_bad_acd2250a:
+
+    # mcp "\"Dom… don't worry…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2723
+translate italian dom_bad_ed55d6b4:
+
+    # n "I murmur under my breath as I close my eyes, allowing Bishop to embrace me."
+    n ""
+
+            
+# game/dominic.rpy:2724
+translate italian dom_bad_5b0da744:
+
+    # n "His lips brush over my skin, but I block out the sensation, trying to think of Dom instead."
+    n ""
+
+            
+# game/dominic.rpy:2726
+translate italian dom_bad_7b729efa:
+
+    # b "\"Now… just relax…\""
+    b ""
+
+            
+# game/dominic.rpy:2727
+translate italian dom_bad_07da3e5d:
+
+    # n "Soft, hypnotic words purr into my ear, and all tension leaves my body."
+    n ""
+
+            
+# game/dominic.rpy:2731
+translate italian dom_bad_35199015:
+
+    # n "A moment of unnatural silence passes…"
+    n ""
+
+            
+# game/dominic.rpy:2733
+translate italian dom_bad_fa7db940:
+
+    # n "–And then."
+    n ""
+
+            
+# game/dominic.rpy:2736
+translate italian dom_bad_36a7a87b:
+
+    # mc "\"–!\""
+    mc ""
+
+            
+# game/dominic.rpy:2737
+translate italian dom_bad_fe19387e:
+
+    # n "A splitting agony runs through me."
+    n ""
+
+            
+# game/dominic.rpy:2739
+translate italian dom_bad_98700480:
+
+    # n "It starts out as overwhelming pain, but gradually, it begins to subside."
+    n ""
+
+            
+# game/dominic.rpy:2743
+translate italian dom_bad_c881bb6e:
+
+    # n "…Bit by bit, as Bishop drains my blood, a tingle of pleasure courses along my spine."
+    n ""
+
+            
+# game/dominic.rpy:2744
+translate italian dom_bad_efc81289:
+
+    # n "I start to lose consciousness, succumbing to the hot, delightful sensations that make me feel numb and lightheaded."
+    n ""
+
+            
+# game/dominic.rpy:2746
+translate italian dom_bad_0e9bbd90:
+
+    # n "And just before I completely black out…"
+    n ""
+
+            
+# game/dominic.rpy:2748
+translate italian dom_bad_3718c1a3:
+
+    # b "\"Open your mouth… drink.\""
+    b ""
+
+            
+# game/dominic.rpy:2750
+translate italian dom_bad_fc5dc15e:
+
+    # n "Drops of something sweet and metallic fall onto my tongue."
+    n ""
+
+            
+# game/dominic.rpy:2752
+translate italian dom_bad_42461b53:
+
+    # n "It tastes… {w}amazing."
+    n ""
+
+            
+# game/dominic.rpy:2754
+translate italian dom_bad_35a28d4c:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:2761
+translate italian dom_bad_23ecfefa:
+
+    # n "I can feel it pumping through my veins, bringing me back."
+    n ""
+
+            
+# game/dominic.rpy:2763
+translate italian dom_bad_0752f94c:
+
+    # n "The hunger…"
+    n ""
+
+            
+# game/dominic.rpy:2764
+translate italian dom_bad_169f1667:
+
+    # n "It's so strong."
+    n ""
+
+            
+# game/dominic.rpy:2765
+translate italian dom_bad_0dfa7d7b:
+
+    # n "It's aching, burning…"
+    n ""
+
+            
+# game/dominic.rpy:2767
+translate italian dom_bad_71c2fb80:
+
+    # n "Like I'm going to burst if I don't feed."
+    n ""
+
+            
+# game/dominic.rpy:2772
+translate italian dom_bad_4f46a46b:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2773
+translate italian dom_bad_fd0fc9a6:
+
+    # n "My own ragged breathing echoes in my ears."
+    n ""
+
+            
+# game/dominic.rpy:2775
+translate italian dom_bad_7692159c:
+
+    # u "\"This is what you wanted, isn't it, Dominic?\""
+    u ""
+
+            
+# game/dominic.rpy:2777
+translate italian dom_bad_eb3a4307:
+
+    # u "\"No…\""
+    u ""
+
+            
+# game/dominic.rpy:2779
+translate italian dom_bad_9632a47d:
+
+    # u "\"No–!!\""
+    u ""
+
+            
+# game/dominic.rpy:2781
+translate italian dom_bad_cf8aed8d:
+
+    # n "A distant cry."
+    n ""
+
+            
+# game/dominic.rpy:2782
+translate italian dom_bad_f89c9abd:
+
+    # n "But more importantly…"
+    n ""
+
+            
+# game/dominic.rpy:2784
+translate italian dom_bad_9164d92c:
+
+    # n "A delicious scent."
+    n ""
+
+            
+# game/dominic.rpy:2785
+translate italian dom_bad_5dfd44d3:
+
+    # n "Sweeter than anything I've ever smelled before…"
+    n ""
+
+            
+# game/dominic.rpy:2787
+translate italian dom_bad_e2e51436:
+
+    # n "I want it."
+    n ""
+
+            
+# game/dominic.rpy:2789
+translate italian dom_bad_f8a956f9:
+
+    # u "\"[mc]… [mc], no…!\""
+    u ""
+
+            
+# game/dominic.rpy:2795
+translate italian dom_bad_0187b655:
+
+    # n "So red… {w}so sweet."
+    n ""
+
+            
+# game/dominic.rpy:2796
+translate italian dom_bad_123ee03b:
+
+    # n "I drink and drink, feeling the body go limp in my hands."
+    n ""
+
+            
+# game/dominic.rpy:2798
+translate italian dom_bad_9a290558:
+
+    # u "\"How admirable… my new, perfect creation.\""
+    u ""
+
+            
+# game/dominic.rpy:2799
+translate italian dom_bad_e82a3e17:
+
+    # n "A hand gently strokes the back of my head."
+    n ""
+
+            
+# game/dominic.rpy:2800
+translate italian dom_bad_10a97fa9:
+
+    # n "But I ignore it, instead focusing on draining every last drop."
+    n ""
+
+            
+# game/dominic.rpy:2802
+translate italian dom_bad_82c2790c:
+
+    # u "\"Once you're tamed, you'll make for a lovely addition, indeed…\""
+    u ""
+
+            
+# game/dominic.rpy:2803
+translate italian dom_bad_3c3e5efb:
+
+    # u "\"Although it's a shame you lost your wits, after all.\""
+    u ""
+
+            
+# game/dominic.rpy:2807
+translate italian dom_bad_54da1d54:
+
+    # n "–The hunger subsides a little."
+    n ""
+
+            
+# game/dominic.rpy:2808
+translate italian dom_bad_7a972ce2:
+
+    # n "The corpse of a tall man in a dark jacket lies before my feet."
+    n ""
+
+            
+# game/dominic.rpy:2812
+translate italian dom_bad_9b384b2f:
+
+    # n "…But I'm still hungry."
+    n ""
+
+            
+# game/dominic.rpy:2813
+translate italian dom_bad_c5aae7ef:
+
+    # n "I want more… {w}more."
+    n ""
+
+            
+# game/dominic.rpy:2814
+translate italian dom_bad_64071c26:
+
+    # n "I want to drain the whole world dry."
+    n ""
+
+            
+# game/dominic.rpy:2815
+translate italian dom_bad_439aeab5:
+
+    # n "There's a hole inside me now, and I don't think it will ever be filled."
+    n ""
+
+            
+# game/dominic.rpy:2817
+translate italian dom_bad_6418ce58:
+
+    # n "That's right…{w} I'm missing something, aren't I?"
+    n ""
+
+            
+# game/dominic.rpy:2819
+translate italian dom_bad_35a28d4c_1:
+
+    # mc "\"…\""
+    mc ""
+
+            
+# game/dominic.rpy:2821
+translate italian dom_bad_ac8359f3:
+
+    # n "No… {w}it doesn't matter."
+    n ""
+
+            
+# game/dominic.rpy:2822
+translate italian dom_bad_c28ffcf0:
+
+    # n "Nothing matters any more, except the hunger."
+    n ""
+
+            
+# game/dominic.rpy:2823
+translate italian dom_bad_9e4f81a2:
+
+    # n "More, and more, and more…"
+    n ""
+
+            
+# game/dominic.rpy:2828
+translate italian dom_bad_572d4e3a:
+
+    # n "…Until the whole world is dyed a wonderful, painful {w}red."
+    n ""
+
+            
+# game/dominic.rpy:2839
+translate italian dom_good_4f46a46b:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2846
+translate italian dom_good_2431ea5c:
+
+    # n "–It's impossible."
+    n ""
+
+            
+# game/dominic.rpy:2847
+translate italian dom_good_46bd3a1a:
+
+    # n "There's no way that Bishop will let Dom go, even if I do let him turn me…"
+    n ""
+
+            
+# game/dominic.rpy:2848
+translate italian dom_good_f81ede85:
+
+    # n "And more than anything, if Dom says I shouldn't give in, then I trust him."
+    n ""
+
+            
+# game/dominic.rpy:2851
+translate italian dom_good_e30cd626:
+
+    # n "If nothing else, I'd like to hold Dom one last time."
+    n ""
+
+            
+# game/dominic.rpy:2853
+translate italian dom_good_2a566de7:
+
+    # n "This might be the end, but if they kill us together –"
+    n ""
+
+            
+# game/dominic.rpy:2854
+translate italian dom_good_15bcde9e:
+
+    # extend " {w=0.5}I think I'd be able to endure that."
+    extend ""
+
+            
+# game/dominic.rpy:2856
+translate italian dom_good_8ad6a64b:
+
+    # n "I don't care if they rip us to shreds."
+    n ""
+
+            
+# game/dominic.rpy:2858
+translate italian dom_good_ceb33e55:
+
+    # n "I'll fight them for Dom until my last breath –"
+    n ""
+
+            
+# game/dominic.rpy:2860
+translate italian dom_good_dc7fab7c:
+
+    # n " {w=0.5}And not have a single regret."
+    n ""
+
+            
+# game/dominic.rpy:2867
+translate italian dom_good_2b3c77c8:
+
+    # mc "\"Dom–!\""
+    mc ""
+
+            
+# game/dominic.rpy:2871
+translate italian dom_good_67fd2832:
+
+    # n "Breaking away from a startled Bishop, I rush towards Dom as fast as my legs will take me."
+    n ""
+
+            
+# game/dominic.rpy:2873
+translate italian dom_good_8ba089a0:
+
+    # dp "\"–!\""
+    dp ""
+
+            
+# game/dominic.rpy:2874
+translate italian dom_good_02fa3130:
+
+    # n "Dom's eyes widen when he sees me run up to him, and the vampires guarding him blink in surprise, as well."
+    n ""
+
+            
+# game/dominic.rpy:2877
+translate italian dom_good_98975fcc:
+
+    # n "I take a deep breath, getting ready to throw myself at him for a last embrace –"
+    n ""
+
+            
+# game/dominic.rpy:2880
+translate italian dom_good_f6007deb:
+
+    # mc "\"…!\""
+    mc ""
+
+            
+# game/dominic.rpy:2882
+translate italian dom_good_2d3e074e:
+
+    # n "–When suddenly, my feet lift off the ground."
+    n ""
+
+            
+# game/dominic.rpy:2884
+translate italian dom_good_ca2fb64f:
+
+    # n "Dom is –"
+    n ""
+
+            
+# game/dominic.rpy:2886
+translate italian dom_good_f4f51c19:
+
+    # n "I'm being carried…?"
+    n ""
+
+            
+# game/dominic.rpy:2888
+translate italian dom_good_62073c55:
+
+    # b "\"What are you fools doing?!\""
+    b ""
+
+            
+# game/dominic.rpy:2889
+translate italian dom_good_2d4f8efc:
+
+    # b "\"Get them!\""
+    b ""
+
+            
+# game/dominic.rpy:2896
+translate italian dom_good_ca2b412b:
+
+    # n "Bishop's angry hiss jolts me back to my senses."
+    n ""
+
+            
+# game/dominic.rpy:2897
+translate italian dom_good_a87cae81:
+
+    # n "Dom has me in his arms, and he's dashing towards the warehouse exit."
+    n ""
+
+            
+# game/dominic.rpy:2900
+translate italian dom_good_9c590303:
+
+    # mcp "\"Dom… you…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2902
+translate italian dom_good_1feefa32:
+
+    # dp "\"…\""
+    dp ""
+
+            
+# game/dominic.rpy:2903
+translate italian dom_good_e0337232:
+
+    # n "With a sudden burst of strength, he must've thrown off the guards in their moment of shock."
+    n ""
+
+            
+# game/dominic.rpy:2906
+translate italian dom_good_6521db7f:
+
+    # n "I hear their hurried footsteps rushing behind us, and I cling tightly onto Dom as he sprints up the stairs."
+    n ""
+
+            
+# game/dominic.rpy:2907
+translate italian dom_good_7c7a4a0d:
+
+    # mc "\"Where are you going?\""
+    mc ""
+
+            
+# game/dominic.rpy:2908
+translate italian dom_good_95d8efb0:
+
+    # mc "\"Dom!\""
+    mc ""
+
+            
+# game/dominic.rpy:2909
+translate italian dom_good_4e482285:
+
+    # n "He keeps running up more and more flights, racing towards the building's roof."
+    n ""
+
+            
+# game/dominic.rpy:2917
+translate italian dom_good_490c05ec:
+
+    # n "It isn't long before we burst outside, and Dom brings us all the way to the edge of the rooftop –"
+    n ""
+
+            
+# game/dominic.rpy:2919
+translate italian dom_good_e5a8e972:
+
+    # mcp "\"Dom!\""
+    mcp ""
+
+            
+# game/dominic.rpy:2920
+translate italian dom_good_e2d1bacc:
+
+    # mcp "\"Don't jump, you idiot! We'll –\""
+    mcp ""
+
+            
+# game/dominic.rpy:2925
+translate italian dom_good_51ade684:
+
+    # d "\"Just trust me…\""
+    d ""
+
+            
+# game/dominic.rpy:2928
+translate italian dom_good_0c53d9b7:
+
+    # d "\"…Like you did back there.\""
+    d ""
+
+            
+# game/dominic.rpy:2931
+translate italian dom_good_4f46a46b_1:
+
+    # mcp "\"…\""
+    mcp ""
+
+            
+# game/dominic.rpy:2932
+translate italian dom_good_5cd22163:
+
+    # n "For a split second, Dom smiles down at me, an incredibly gentle look welling in his clear blue gaze."
+    n ""
+
+            
+# game/dominic.rpy:2934
+translate italian dom_good_28e8c822:
+
+    # n "Somehow, that confident smile melts away every fear I have."
+    n ""
+
+            
+# game/dominic.rpy:2936
+translate italian dom_good_cdece563:
+
+    # n "I trust him…"
+    n ""
+
+            
+# game/dominic.rpy:2938
+translate italian dom_good_1c86bbbf:
+
+    # n "More than anything."
+    n ""
+
+            
+# game/dominic.rpy:2943
+translate italian dom_good_d4a4cc06:
+
+    # n "As Dom readies himself to jump to a faraway roof –"
+    n ""
+
+            
+# game/dominic.rpy:2945
+translate italian dom_good_ea94f17a:
+
+    # n "I close my eyes, and hold onto him as tightly as I can."
+    n ""
+
+            
+# game/dominic.rpy:2953
+translate italian dom_good_6773a9db:
+
+    # u "\"…take this man… wedded husband…\""
+    u ""
+
+            
+# game/dominic.rpy:2955
+translate italian dom_good_6d399dac:
+
+    # u "\"…I do!\""
+    u ""
+
+            
+# game/dominic.rpy:2957
+translate italian dom_good_6a9a862d:
+
+    # n "–If I strain my ears, I can hear happy voices not far in the distance."
+    n ""
+
+            
+# game/dominic.rpy:2958
+translate italian dom_good_eb83304d:
+
+    # n "A tall man in a suit and a slender lady in a white dress stand side-by-side before a priest."
+    n ""
+
+            
+# game/dominic.rpy:2964
+translate italian dom_good_03518ab2:
+
+    # mc "\"I can't believe they decided to hold their wedding at night!\""
+    mc ""
+
+            
+# game/dominic.rpy:2965
+translate italian dom_good_f4d573f5:
+
+    # mc "\"It's almost as if they knew, huh?\""
+    mc ""
+
+            
+# game/dominic.rpy:2966
+translate italian dom_good_8a4b875b:
+
+    # n "Whispering excitedly, I elbow the man crouching beside me, who offers a little smirk."
+    n ""
+
+            
+# game/dominic.rpy:2968
+translate italian dom_good_15dd72a3:
+
+    # d "\"My brother always liked the night… guess it runs in the family.\""
+    d ""
+
+            
+# game/dominic.rpy:2969
+translate italian dom_good_8166c423:
+
+    # n "Dom reaches out to gently press his forehead against my own, chuckling under his breath."
+    n ""
+
+            
+# game/dominic.rpy:2978
+translate italian dom_good_8fa43109:
+
+    # n "–Back in San Francisco, Dom and I somehow managed to escape Bishop and his men."
+    n ""
+
+            
+# game/dominic.rpy:2979
+translate italian dom_good_4d0de4ae:
+
+    # n "Dom pulled off some stunts that were way too close for comfort, leaping from roof to roof, making impossible jumps that nearly gave me a heart attack."
+    n ""
+
+            
+# game/dominic.rpy:2986
+translate italian dom_good_7282e591:
+
+    # n "We were almost caught several times, but as soon as we got to the nearest bus station, we fled the city as fast as we could."
+    n ""
+
+            
+# game/dominic.rpy:2987
+translate italian dom_good_e86df73e:
+
+    # n "To get as far away from San Fran as possible, we headed east, doing bits of work here and there to make ends meet."
+    n ""
+
+            
+# game/dominic.rpy:2988
+translate italian dom_good_ae9a2199:
+
+    # n "A vampire's strength can really be a valuable asset for heavy lifting jobs, let me tell you."
+    n ""
+
+            
+# game/dominic.rpy:2992
+translate italian dom_good_449a5e01:
+
+    # n "When I remembered that Dom's brother was going to be married soon, I convinced him we should try and visit."
+    n ""
+
+            
+# game/dominic.rpy:2993
+translate italian dom_good_3705ddd4:
+
+    # n "It took awhile to reassure him we'd stay hidden, but he finally gave in, much to my satisfaction."
+    n ""
+
+            
+# game/dominic.rpy:3002
+translate italian dom_good_9fbfc9fc:
+
+    # n "…And now, I can tell how happy he is that we actually came."
+    n ""
+
+            
+# game/dominic.rpy:3003
+translate italian dom_good_27d29836:
+
+    # n "Even if his brother doesn't know he's here – or even alive – I think Dom just wants to watch over him, to see him off into being a \"true adult.\""
+    n ""
+
+            
+# game/dominic.rpy:3005
+translate italian dom_good_2530f057:
+
+    # d "\"He's all grown up now… ten years makes a hell of a difference.\""
+    d ""
+
+            
+# game/dominic.rpy:3007
+translate italian dom_good_633d3329:
+
+    # d "\"I just wish I could shake his hand.\""
+    d ""
+
+            
+# game/dominic.rpy:3008
+translate italian dom_good_0dc90b6d:
+
+    # n "Dom murmurs to me with a wistful smile, but there's only a little sadness in his voice."
+    n ""
+
+            
+# game/dominic.rpy:3009
+translate italian dom_good_67c1afa8:
+
+    # n "I stroke a hand through his feathery hair, letting out a soft sigh."
+    n ""
+
+            
+# game/dominic.rpy:3011
+translate italian dom_good_6bb35ddf:
+
+    # mc "\"Maybe you can, one day.\""
+    mc ""
+
+            
+# game/dominic.rpy:3012
+translate italian dom_good_59cc62f8:
+
+    # mc "\"Maybe you won't have to hide away from the world… one day.\""
+    mc ""
+
+            
+# game/dominic.rpy:3014
+translate italian dom_good_ee96e962:
+
+    # n "–Dom hasn't turned me yet, saying he thinks I need more time before I decide to seal my life away forever."
+    n ""
+
+            
+# game/dominic.rpy:3015
+translate italian dom_good_efb4e2e2:
+
+    # n "I'm grateful for it, too. It's a heavy curse to bear, and he doesn't want me to end up doing something I'll eternally regret."
+    n ""
+
+            
+# game/dominic.rpy:3017
+translate italian dom_good_c47b1f1a:
+
+    # n "…But I think I'll end up saying yes. {w}After all – I don't think I could bear the thought of facing death and leaving this adorably gloomy man all alone."
+    n ""
+
+            
+# game/dominic.rpy:3019
+translate italian dom_good_e61a8f0e:
+
+    # u "\"I now pronounce you… man and wife!\""
+    u ""
+
+            
+# game/dominic.rpy:3020
+translate italian dom_good_07b28b68:
+
+    # n "The priest's announcement rings out in the gardens, followed by enthusiastic cheers."
+    n ""
+
+            
+# game/dominic.rpy:3025
+translate italian dom_good_c935ca8e:
+
+    # mc "\"…Well, should I try and catch the bouquet? I'll be expecting a giant diamond ring from you,\nso be prepared.\""
+    mc ""
+
+            
+# game/dominic.rpy:3026
+translate italian dom_good_bec1ee2a:
+
+    # d "\"You're pretty needy for a guy who was working in a diner.\""
+    d ""
+
+            
+# game/dominic.rpy:3027
+translate italian dom_good_7915fc57:
+
+    # mc "\"Jeez, how rude.\""
+    mc ""
+
+            
+# game/dominic.rpy:3029
+translate italian dom_good_5522ee60:
+
+    # n "Dom leans in to press a little kiss onto my pouting lips."
+    n ""
+
+            
+# game/dominic.rpy:3031
+translate italian dom_good_4793535c:
+
+    # n "For a moment, I glimpse a look of pure, gentle contentment in his eyes, and all the lingering shadows on his face are completely lifted."
+    n ""
+
+            
+# game/dominic.rpy:3033
+translate italian dom_good_98fc6e19:
+
+    # d "\"Hey, [mc]…\""
+    d ""
+
+            
+# game/dominic.rpy:3035
+translate italian dom_good_dcad10bc:
+
+    # mc "\"Yeah?\""
+    mc ""
+
+            
+# game/dominic.rpy:3037
+translate italian dom_good_aaca5514:
+
+    # d "\"…Thanks.\""
+    d ""
+
+            
+# game/dominic.rpy:3039
+translate italian dom_good_645a33c7:
+
+    # mc "\"Huh? For what?\""
+    mc ""
+
+            
+# game/dominic.rpy:3041
+translate italian dom_good_95f52496:
+
+    # n "Letting out a little chuckle, Dom shakes his head, gazing down affectionately into my eyes."
+    n ""
+
+            
+# game/dominic.rpy:3042
+translate italian dom_good_88a3b7a0:
+
+    # d "\"Don't worry about it.\""
+    d ""
+
+            
+# game/dominic.rpy:3044
+translate italian dom_good_e948bea9:
+
+    # n "Man, after all this time, I can still barely read him…{w} but I guess that's just part of his charm, stoic bastard that he is."
+    n ""
+
+            
+# game/dominic.rpy:3051
+translate italian dom_good_ad9dde6c:
+
+    # n "I curl against Dom's side while we watch the joyful reception, eventually letting my eyes drift closed."
+    n ""
+
+            
+# game/dominic.rpy:3053
+translate italian dom_good_41cc8584:
+
+    # n "In our shared silence, there's a warm, comforting sense of togetherness, like we're one body, one soul, rather than two."
+    n ""
+
+            
+# game/dominic.rpy:3055
+translate italian dom_good_284cf429:
+
+    # n "And for all the world, that might as well be the case. Since, back in San Francisco –"
+    n ""
+
+            
+# game/dominic.rpy:3062
+translate italian dom_good_cc72213f:
+
+    # n "I promised Dom that I wouldn't leave his side, no matter what…"
+    n ""
+
+            
+# game/dominic.rpy:3064
+translate italian dom_good_76ee8077:
+
+    # n "…And I'll be damned if I ever go back on that promise."
+    n ""
+
+            

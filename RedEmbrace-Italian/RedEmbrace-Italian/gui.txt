@@ -1,0 +1,187 @@
+Back
+<Indietro>
+Save
+<Salva>
+Load
+<Carica>
+Pref
+<Impostazioni>
+Menu
+<Menu>
+Start
+<Nuova Partita>
+Extra
+<Extra>
+Exit
+<Esci>
+Buy (1.99)
+(Acquista 1,99)
+
+Yes
+<Si>
+No
+<No>
+
+Continue
+<Continua>
+Return
+<Chiudi>
+Endings
+<Finali>
+
+Profiles
+<Profili>
+Endings
+<Finali>
+Gallery
+<Galleria>
+OP
+<Sigla>
+
+Load
+<Carica>
+
+Full Game (All 3 routes)
+<Gioco completo (Tutti i 3 percorsi)
+Free!
+<Gratis!>
+Buy the full game?
+<Acquista il gioco completo?>
+Continue the story?
+<Continua la storia?>
+
+Preferences
+<Impostazioni>
+Skipping
+<Saltare>
+Seen Text
+<Testo visualizzato>
+All Text
+<Tutto il testo>
+Text Speed
+<Velocità del testo>
+Music
+<Musica>
+Textbox
+<Casella di testo>
+Clear
+<Trasparente>
+Opaque
+<Opaca>
+Auto Speed
+<Velocità automatica>
+SFX
+<Suoni>
+Display
+<Schermo>
+Fullscreen
+<Interno>
+Window
+<Finestra>
+
+Credits
+<Crediti>
+Designer & Developer
+<Designer e Sviluppatore>
+Management
+<Gestione>
+Translation
+<Traduzione>
+Art
+<Disegni>
+Music
+<Musica>
+Patrons
+<Patron>
+Special Thanks
+<Ringraziamenti speciali>
+And you!
+<e anche tu!>
+
+Select a profile
+<Seleziona un profilo>
+
+Dominic
+<Dominic>
+Don't accept anyone else's bite...only mine.
+<Non accettare il morso di qualcun'altro...solo il mio.>
+Age: 24, Height: 6'3, Race: Vampire
+<Età: 24, Altezza: 1,90, Razza: Vampiro>
+Scary-looking guy. I've never seen him talk to a human before... He's always by himself.
+<Un tipo da brividi. Non l'ho mai visto parlare con un umano prima d'ora... Se ne sta sempre per le sue> 
+What a worthless bastard. It's like he hates what we are! Why?! Doesn't he care about his clan?
+<Che inutile bastardo. Sembra che odi quello che siamo! Perché?! Non gli frega niente del suo clan?>
+Quiet, cold, intimidating--how can you get close to a man like Dom?
+<Calmo, freddo, minaccioso: come ci si può avvicinare a uno come Dom?>
+However, there seems to be a gentle loneliness beyond his silent exterior...
+<Eppure, il suo severe aspetto sembra nascondere una leggera solitudine...>
+
+
+Isaac
+<Isaac>
+Don't you think that's a tempting agreement...?
+<Non ti sembra una proposta allettante...?>
+Age: 27, Height: 6'1, Race: Human
+<Età: 27, Altezza: 1,85, Razza: Umano>
+Nothing fazes that guy. He's too laid-back for a human playin' with vampires.
+<Niente lo intimorisce. E' troppo rilassato per essere un umano che gioca coi vampiri.>
+He's always plotting something. I don't trust him, and you shouldn't either.
+<Sta sempre progettando qualcosa. Non mi fido di lui, e neanche tu dovresti.>
+A sly, flirtatious businessman who masks his intentions behind a dark smile. 
+<Un uomo d'affari asututo e provocante che maschera le sue vere intezioni dietro a un ingannevole sorriso>
+But why does he show such an interest in you? Can you uncover his devious plans...?
+<Ma perchè mostra tanto interesse nei tuoi confronti? Saprai svelare i suoi subdoli piani...?>
+
+Luka
+<Luka>
+Would you hate me if I still asked for your help?
+<mi odieresti se chiedessi ancora una volta il tuo aiuto?> 
+Age: 21, Height: 5'7, Race: Human
+<Età: 21, Altezza: 1,70, Razza: Umano>
+I don't trust his motives. There's something haunted in his eyes.
+<Non mi fido di quello che dice. C'é qualcosa di oscuro nei suoi occhi.>
+Luka's clever but still too naive. Don't let him get hurt.
+Proud and determined, Luka seems to be hunting for someone obsessively. 
+He can't express how he feels, but actions speak louder than words...
+
+Rex
+I'll keep 'em away from you, baby, don't worry.
+Age: 21, Height: 5'10, Race: Vampire
+He's still just a kid. Doesn't know how to control his bloodlust...walking time bomb.
+Cute, reckless, dangerously loyal. Keep him on a short leash, and you'll be fine--probably.
+A wild, aggressive vampire who wants you to be his personal pet!
+He starts to see you as more than just food--but when your taboo relationship is discovered, what will happen?
+
+Personality Tutorial
+[Example] +Charming
+In _Red Embrace_, most choices will impact MC's personality. {b}The text in the top-right{/b} will show how your personality has changed!
+{b}Dialogue{/b} and {b}choices{/b} unlock based on your personality.
+Play routes multiple times to see different reactions from the love interests!
+
+Can't we all just get along?
+Violence isn't (always) the answer.
+
+Silver Tongue
+Turn up the charm at every opportunity.
+
+I don't mince words
+Don't mince words.
+
+Tough Love
+Don't take things lying down.
+
+I'll bite you back
+The tables have been turned!
+
+Assistant of the year
+And so the student instructs the master.
+
+I'll miss the sun
+There's no going back.
+
+Plagiarism
+
+But I'm no butcher, boss
+...Are you?
+
+Antediluvian
