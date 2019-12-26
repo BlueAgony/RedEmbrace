@@ -39,7 +39,7 @@ translate italian start_63aef1c8:
 translate italian start_c9bde788:
 
     # n "It's Troy, my boss."
-    n "E' Troy, il mio capo."
+    n "È Troy, il mio capo."
 
             
 # game/common.rpy:44
@@ -151,560 +151,561 @@ translate italian common_35a28d4c:
 translate italian common_0c137dcd:
 
     # n "With a sigh, I reach for a rag and start to rub down the counter."
-    n ""
-
+    n "Sospirando, prendo uno straccio e inizio a passarlo sul bancone."
+"
             
 # game/common.rpy:104
 translate italian common_f9f5dd9c:
 
     # n "Gonna be a long night."
-    n ""
+    n "Sarà una lunga serata."
 
             
 # game/common.rpy:110
 translate italian common_807be6ff:
 
     # mcp "\"…?\""
-    mcp ""
+    mcp "\"…?\""
 
             
 # game/common.rpy:111
 translate italian common_86072c28:
 
     # n "At that moment – {w}I realize there's a customer in one of the booths."
-    n ""
+    n "In quel momento - {w}Mi rendo conto che c'è un cliente ad uno dei tavoli."
 
             
 # game/common.rpy:112
 translate italian common_f894e407:
 
     # n "…When did he get here? {w}I definitely didn't see him walk in."
-    n ""
+    n "...Quando è arrivato? {w}Sono sicuro di non averlo visto entrare."
 
             
 # game/common.rpy:113
 translate italian common_2b90168d:
 
     # n "It's a guy in a dark hoodie with a slightly hunched posture. Probably around my age, maybe a year or two older."
-    n ""
+    n "È un ragazzo con una felpa scura e una postura leggermente curva. Probabilmente ha circa la mia età, magari uno o due anni più grande."
 
             
 # game/common.rpy:114
 translate italian common_cd5dd5c0:
 
     # n "Even though he's sitting down, I can tell he's pretty tall, and he looks intimidatingly muscular despite the baggy jacket."
-    n ""
+    n "Nonostane sia seduto, si capisce che è piuttosto alto. Sotto la giacca larga si intuisce la presenza in un corpo minacciosamente muscoloso."
 
             
 # game/common.rpy:119
 translate italian common_f12a2e42:
 
     # n "Well, shady or not, a customer's a customer. {w}I tuck a menu under my arm and stroll out from behind the counter, heading towards him."
-    n ""
+    n "Beh, losco o meno, un cliente è sempre un cliente. {w}Prendo un menù sotto il braccio ed esco da dietro il bancone, dirigendomi verso di lui. "
 
             
 # game/common.rpy:123
 translate italian common_8479b4f3:
 
     # u "\"…\""
-    u ""
+    u "\"…\""
 
             
 # game/common.rpy:124
 translate italian common_e36b7b56:
 
     # n "He glances up when I get close, gazing at me sharply with two bright blue eyes."
-    n ""
+    n "Alza lo sguardo quando mi avvicino, i suoi luminosi occhi blu mi scrutano con attenzione."
 
             
 # game/common.rpy:126
 translate italian common_e9bd2ed0:
 
     # n "But he doesn't say anything.{w} He just stares."
-    n ""
+    n "Eppure non dice nulla.{w} Mi fissa e basta." 
+
 
             
 # game/common.rpy:128
 translate italian common_7f77a406:
 
     # n "…What the hell? Is he coming off a bad trip or something?{w} Or is he just another rude college kid?"
-    n ""
+    n "...Ma che cavolo? Sta uscendo da qualche brutto trip o cosa?{w} O magari è solo un altro ragazzino maleducato."
 
             
 # game/common.rpy:131
 translate italian strings:
 
     old "Greet him politely"
-    new ""
+    new "Salutalo cordialmente"
     
                 
 # game/common.rpy:131
 translate italian strings:
 
     old "Ask what he wants"
-    new ""
+    new "Chiedi cosa vuole"
     
                 
 # game/common.rpy:139
 translate italian common_9c2f4144:
 
     # n "Putting on my most welcoming smile, I slide the menu onto the table."
-    n ""
+    n "Mostrando il mio sorriso più caloroso, poggio il menù sul tavolo."
 
             
 # game/common.rpy:143
 translate italian common_6d2f8c64:
 
     # mcp "\"Hello, sir. Can I get you anything tonight? A coke, burger, milkshake?\""
-    mcp ""
+    mcp "\Salve, signore. Posso portarle qualcosa? Una coca, un hamburger, un milkshake?\"
 
             
 # game/common.rpy:147
 translate italian common_76335e7c:
 
     # u "\"…!\""
-    u ""
+    u "\"…!\""
 
             
 # game/common.rpy:148
 translate italian common_36160454:
 
     # n "The man blinks at me, looking taken aback by my words."
-    n ""
+    n "L'uomo sgrana gli occhi, sorpreso dalle mie parole."
 
             
 # game/common.rpy:150
 translate italian common_799ec740:
 
     # n "…Did I say something strange? {w}I didn't think I was being too friendly, but maybe I should've acted more casually…"
-    n ""
+    n "...Ho detto qualcosa di strano? {w}Non mi sembra di essere stato troppo amichevole... Forse dovevo approcciarmi con più naturalezza."
 
             
 # game/common.rpy:159
 translate italian common_3a6cdb55:
 
     # n "Annoyed at this guy's attitude, I force down the urge to roll my eyes and just clear my throat instead."
-    n ""
+    n "Infastidito dal comportamento di questo tizio, trattengo l'instinto di alzare gli occhi al cielo e mi schiarisco la gola."
 
             
 # game/common.rpy:163
 translate italian common_dfee9048:
 
     # mcp "\"What are you here for? Coffee? A burger? Sobering up before going home to your girlfriend?\""
-    mcp ""
+    mcp "\"Perché sei qui? Vuoi un caffé? Un hamburger? O ti serviva solo un posto per smaltire la sbornia prima di tornare a casa dalla tua ragazza?\""
 
             
 # game/common.rpy:165
 translate italian common_0d56ca6e:
 
     # mcp "\"If you're just looking for somewhere to brood, I hear the bus stops are really cozy.\""
-    mcp ""
+    mcp "\"Se cerchi un posto per rannicchiarti e schiacciare un pisolino, dicono che le fermate degli autobus siano davvero confortevoli.\""
 
             
 # game/common.rpy:168
 translate italian common_8479b4f3_1:
 
     # u "\"…\""
-    u ""
+    u "\"…\""
 
             
 # game/common.rpy:169
 translate italian common_e6d2ae0b:
 
     # n "The man lets out a quiet exhale, staring at me in silence for a moment longer."
-    n ""
+    n "L'uomo emette un leggero sospiro, fissandomi ancora per un secondo."
 
             
 # game/common.rpy:175
 translate italian common_a4c4ca21:
 
     # u "\"…Just coffee.\""
-    u ""
+    u "\"...Solo un caffé.\""
 
             
 # game/common.rpy:176
 translate italian common_dd87acc5:
 
     # n "Murmuring a response under his breath, he finally averts his gaze from my face."
-    n ""
+    n "Mormorando una risposta, finalmente distoglie lo sguardo dalla mia faccia."
 
             
 # game/common.rpy:177
 translate italian common_56005062:
 
     # n "His voice is low and husky – not unpleasant, but it makes him sound a bit older than he looks."
-    n ""
+    n "La sua voce è profonda e roca. Non è fastidiosa, ma lo fa suonare più vecchio di quello che sembra."
 
             
 # game/common.rpy:179
 translate italian common_7aa35692:
 
     # n "Why does he seem so tense? {w}I wonder if there's a reason why he's acting all gloomy or if this is just his normal self…"
-    n ""
+    n "Perché sembra così teso? {w}Mi chiedo se abbia un motivo per fare il cupo o se sia semplicemente fatto così... "
 
             
 # game/common.rpy:186
 translate italian common_2eff4a13:
 
     # mcp "\"Coffee it is, then. I'll be right back!\""
-    mcp ""
+    mcp "\"Un caffé, allora. Torno subito!\""
 
             
 # game/common.rpy:189
 translate italian common_6d80813d:
 
     # mcp "\"Coffee. Got it.\""
-    mcp ""
+    mcp "\"Caffé. Ok.\""
 
             
 # game/common.rpy:193
 translate italian common_c89e5ee3:
 
     # n "I turn to head back towards the kitchen, wondering if this guy will even leave a tip."
-    n ""
+    n "Mi giro per tornare in cucina, domandandomi se questo tizio lascerà almeno una mancia."
 
             
 # game/common.rpy:194
 translate italian common_0f79be50:
 
     # n "But before I can so much as take a step –"
-    n ""
+    n "Ma prima che io possa anche solo fare un passo -"
 
             
 # game/common.rpy:202
 translate italian common_d20d0a43:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"…!\"
 
             
 # game/common.rpy:203
 translate italian common_133d277b:
 
     # n "A hand grabs my shirt, tugging me back."
-    n ""
+    n "Una mano afferra la mia maglietta, trattenendomi."
 
             
 # game/common.rpy:209
 translate italian common_4e74f869:
 
     # n "Flustered, I quickly glance over my shoulder at the strange man, who narrows his eyes at me."
-    n ""
+    n "Confuso, getto un'occhiata da sopra la spalla verso l'uomo, che mi guarda con le palpebre socchiuse."
 
             
 # game/common.rpy:212
 translate italian common_127ce949:
 
     # u "\"…Has anyone else come in here tonight?\""
-    u ""
+    u "\"...È venuto qualcun'altro qui stanotte?\""
 
             
 # game/common.rpy:213
 translate italian common_ae7c0d47:
 
     # u "\"A man in a leather jacket… with a tattoo on his cheek.\""
-    u ""
+    u "\"Un uomo con una giacca di pelle... e un tatuaggio sulla guancia.\""
 
             
 # game/common.rpy:214
 translate italian common_c4bf9b71:
 
     # n "He murmurs under his breath, staring at me so intensely that I swallow a nervous lump in my throat."
-    n ""
+    n "Sussura, fissandomi così intensamente da farmi venire un groppo in gola che cerco nervosamente di buttare giù."
 
             
 # game/common.rpy:216
 translate italian common_4b4fb043:
 
     # n "Shit. Maybe I should've forced some politeness earlier."
-    n ""
+    n "Merda. Forse mi sarei dovuto sforzare per essere un po' più cordiale prima."
 
             
 # game/common.rpy:217
 translate italian common_722b2816:
 
     # n "Troy, this would be a great time for you to walk out of the kitchen…!"
-    n ""
+    n "Troy, sarebbe proprio perfetto se adessi uscissi dalla cucina...!"
 
             
 # game/common.rpy:222
 translate italian common_d5f0ae71:
 
     # mcp "\"N-no, no one like that's come in tonight. Why?\""
-    mcp ""
+    mcp "\"N-no, non è venuto nessuno del genere stanotte. Perché?\""
 
             
 # game/common.rpy:228
 translate italian common_8479b4f3_2:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:231
 translate italian common_21d24073:
 
     # n "He sinks back against the seat cushions at my reply, tightly balling one hand into a fist."
-    n ""
+    n "Alla mia risposta, si lascia cadere sui cuscini della seduta, chiudendo la mano in uno stretto pugno."
 
             
 # game/common.rpy:233
 translate italian common_3704236e:
 
     # n "…After a moment, he pulls a cigarette from his pocket and clenches it between his teeth."
-    n ""
+    n "...Dopo qualche secondo, tira fuori una sigaretta dalla tasca e la stringe fra i denti."
 
             
 # game/common.rpy:235
 translate italian common_3cefe4b8:
 
     # n "The flame from his lighter briefly flickers in his bright blue eyes, a guilty look flashing over his face."
-    n ""
+    n "La fiamma del suo accendino brilla brevemente sui suoi luminosi occhi blu, uno sguardo colpevole appare sul suo viso."
 
             
 # game/common.rpy:246
 translate italian common_0e9b3b6f:
 
     # u "\"…Sorry.\""
-    u ""
+    u "\"...Scusa\""
 
             
 # game/common.rpy:247
 translate italian common_709687f7:
 
     # u "\"I'll get out of here.\""
-    u ""
+    u "\"Me ne vado.\""
 
             
 # game/common.rpy:248
 translate italian common_03a355ff:
 
     # n "Muttering quietly, he starts to push himself out of the booth –"
-    n ""
+    n "Borbottando sottovoce, inizia a cercare di alzarsi dalla panca- "
 
             
 # game/common.rpy:254
 translate italian common_be4e5e35:
 
     # extend " but I shove my arm out to stop him."
-    extend ""
+    extend " ma alzo velocemente il braccio per bloccarlo."
 
             
 # game/common.rpy:258
 translate italian common_76335e7c_1:
 
     # u "\"…!\""
-    u ""
+    u "\"…!\""
 
             
 # game/common.rpy:261
 translate italian common_fdf46277:
 
     # mc "\"At least wait until you finish your coffee!\""
-    mc ""
+    mc "\"Rimani almeno finché non fisisci il caffé!\""
 
             
 # game/common.rpy:264
 translate italian common_b85248aa:
 
     # mc "\"It's pretty rude to come into a diner and leave without ordering anything, after all.\""
-    mc ""
+    mc "\"È piuttosto maleducato entrare in una tavolacalda e andarsene senza ordinare nulla, dopotutto.\""
 
             
 # game/common.rpy:266
 translate italian common_f5d4d284:
 
     # n "He's a weird customer, but I'm kind of curious about why he's so uneasy…"
-    n ""
+    n "È un cliente un po' strano, ma sono in un certo senso curioso di capire perché sia così a disagio..."
 
             
 # game/common.rpy:267
 translate italian common_42dab4ff:
 
     # n "And this is the most interesting thing that's happened on any of my shifts, too."
-    n ""
+    n "E poi, è la cosa più interessante che sia mai successa durante uno dei miei turni."
 
             
 # game/common.rpy:272
 translate italian common_8479b4f3_3:
 
     # u "\"…\""
-    u ""
+    u "\"…\""
 
             
 # game/common.rpy:273
 translate italian common_0621d07b:
 
     # n "The man hesitates, studying me with a suspicious look."
-    n ""
+    n "L'uomo esita, studiandomi con uno sguardo sospettoso."
 
             
 # game/common.rpy:274
 translate italian common_9b6a98df:
 
     # n "Maybe he thinks I'm teamed up with this 'leather jacket' guy he's all worked up about. They must really have a history."
-    n ""
+    n "Forse pensa che sto con quel tizio con la giacca in pelle che lo agita tanto. Devono avere un bel passato insieme."
 
             
 # game/common.rpy:276
 translate italian strings:
 
     old "Offer a casual shrug"
-    new ""
+    new "Alza le spalle con nonchalance."
     
                 
 # game/common.rpy:276
 translate italian strings:
 
     old "Calm him down"
-    new ""
+    new "Calmalo."
     
                 
 # game/common.rpy:284
 translate italian common_c15147b0:
 
     # n "I shrug my shoulders nonchalantly."
-    n ""
+    n "Alzo le spalle con nonchalance."
 
             
 # game/common.rpy:285
 translate italian common_a1dca31a:
 
     # mc "\"Listen, I don't wanna be involved in your guys' spat or anything.\""
-    mc ""
+    mc "\"Senti, non voglio avere nulla a che fare con il votro litigio o quello che è.\""
 
             
 # game/common.rpy:286
 translate italian common_5dc5ae71:
 
     # mc "\"I'm just trying to make some tips, okay? Calm down.\""
-    mc ""
+    mc "\"Sto solo cercado di guadagnarmi qualche mancia, d'accordo? Calmati."
 
             
 # game/common.rpy:296
 translate italian common_12223ec7:
 
     # n "I shake my head a little, letting out a patient sigh."
-    n ""
+    n "Scuoto leggermente la testa, lasciando andare un sospiro tollerante."
 
             
 # game/common.rpy:297
 translate italian common_08c936ea:
 
     # mc "\"Don't worry, I have no clue who Mr. Tattoo-Face is.\""
-    mc ""
+    mc "\"Tranquillo, non ho idea di chi sia Mr. Faccia-Tatuata.\""
 
             
 # game/common.rpy:298
 translate italian common_52ec84d1:
 
     # mc "\"But my boss would get mad at me if I didn't ask a customer to stay, so… why don't you stick around?\""
-    mc ""
+    mc "\"Ma il mio capo si arrabbierebbe con me non chiedessi ad un cliente di restare, quindi... perché non rimani un po'?\""
 
             
 # game/common.rpy:304
 translate italian common_8479b4f3_4:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:305
 translate italian common_3ce8e8bc:
 
     # n "He pauses for a moment longer, and his blue eyes burn into me searchingly – as if he's trying to read my true intentions."
-    n ""
+    n "Rimane fermo ancora qualche secondo. I suoi occhi blu penetrano dentro di me con fare inquisitorio, come se stesse cercando di carpire le mie vere intenzioni."
 
             
 # game/common.rpy:309
 translate italian common_f506ff2c:
 
     # n "…But finally, he lowers himself back into the booth, giving a reluctant nod."
-    n ""
+    n "...Ma finalmente, si siede di nuovo sulla panca, annuendo con riluttanza."
 
             
 # game/common.rpy:314
 translate italian common_166d288e:
 
     # mc "\"I'll get that coffee, then.\""
-    mc ""
+    mc "\"Ti faccio quel caffé, allora.\""
 
             
 # game/common.rpy:316
 translate italian common_e7248d1c:
 
     # mc "\"Don't run away while I'm gone!\""
-    mc ""
+    mc "\"Non scappare via mentre non ci sono!\""
 
             
 # game/common.rpy:321
 translate italian common_761e7dff:
 
     # udp "\"…Right.\""
-    udp ""
+    udp "\"...D'accordo.\""
 
             
 # game/common.rpy:327
 translate italian common_7e4e4ecb:
 
     # n "With that, I hurry towards the kitchen, setting up a pot of fresh coffee to brew."
-    n ""
+    n "E così, mi affretto in direzione della cucina, mettendo su una caffettiera di caffé fresco."
 
             
 # game/common.rpy:328
 translate italian common_2194a0b7:
 
     # n "Troy's on his phone, chatting away with his new girlfriend, so I can't ask him if he knows that guy in the booth."
-    n ""
+    n "Troy è al telefono, sta chiacchierando con la sua nuova ragazza, quindi non posso chiedergli se conosce quel tizio. "
 
             
 # game/common.rpy:332
 translate italian common_f0c97f61:
 
     # n "He's a strange customer, even for this hour, but… {w}he doesn't seem like a bad person."
-    n ""
+    n "Un cliente strano, persino per quest'ora della notte, eppure...{w}non sembra una brutta persona."
 
             
 # game/common.rpy:333
 translate italian common_4a481687:
 
     # n "I don't want to play therapist or anything, but part of me wants to ask what he's brooding about. Would he tell a stranger, though?"
-    n ""
+    n "Non voglio giocare a fare lo psicologo o altro, ma una parte di me vuole chiedergli come mai è tanto agitato. Però, perchè dovrebbe dirlo ad uno sconosciuto?"
 
             
 # game/common.rpy:339
 translate italian common_00be03fb:
 
     # n "When the coffee's done, I grab the cup and head back to the booth, cream and sugar tucked under my free arm."
-    n ""
+    n "Una volta pronto il caffè, prendo la tazza e ritorno al tavolo, latte e zucchero ficcati sotto il braccio libero."
 
             
 # game/common.rpy:345
 translate italian common_62550a91:
 
     # n "–To my surprise, the man is still there."
-    n ""
+    n "-Sorprendentemente, l'uomo è ancora lì."
 
             
 # game/common.rpy:347
 translate italian common_144ef2a0:
 
     # n "He was staring off into space before, but when I get close, his head jerks towards me."
-    n ""
+    n "Aveva lo sguardo perso nel vuoto, ma quando mi avvicino, la sua testa si gira rapidamente verso di me."
 
             
 # game/common.rpy:352
 translate italian common_31e5275b:
 
     # u "\"…Thanks.\""
-    u ""
+    u "\"...Grazie.\""
 
             
 # game/common.rpy:353
 translate italian common_1c8f5ae5:
 
     # n "He mumbles awkwardly, pulling his cigarette from his lips and snuffing it out in the ashtray."
-    n ""
+    n "Borbotta con imbarazzo, togliendosi la sigaretta da                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            "
 
             
 # game/common.rpy:364
