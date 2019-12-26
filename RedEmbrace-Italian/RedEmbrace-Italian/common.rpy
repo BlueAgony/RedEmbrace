@@ -712,7 +712,7 @@ translate italian common_1c8f5ae5:
 translate italian common_168b749f:
 
     # mc "\"No problem.\""
-    mc ""
+    mc "\"Nessun problema.\""
 
             
 # game/common.rpy:366
