@@ -3,5 +3,5 @@
 translate italian strings:
 
     old "Red Embrace"
-    new ""
+    new "Red Embrace"
     
