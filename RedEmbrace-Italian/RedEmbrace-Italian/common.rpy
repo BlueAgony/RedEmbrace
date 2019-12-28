@@ -1720,371 +1720,371 @@ translate italian common_9288fd2d:
 translate italian common_8e4de9cc:
 
     # n "It's actually pretty fun seeing him get all flustered, especially after he tries to act so confident and cool."
-    n ""
+    n "In realtà è davvero divertente verdelo tutto infastidio, specialmente dopo che cerca di fare il figo sicuro di sé."
 
             
 # game/common.rpy:864
 translate italian common_a54790f0:
 
     # n "I roll my eyes, crumpling up the napkin and shoving it in my pocket."
-    n ""
+    n "Alzo gli occhi, appallottolando il fazzoletto e infilandomelo in tasca."
 
             
 # game/common.rpy:868
 translate italian common_a486f805:
 
     # mcp "\"Sure, sure. I'll try to remember.\""
-    mcp ""
+    mcp "\"va bene, d'accordo. Cercherò di ricordarmene.\""
 
             
 # game/common.rpy:869
 translate italian common_a1d61479:
 
     # l "\"Good. Make sure you –\""
-    l ""
+    l "\"Ottimo, assicurati di -\""
 
             
 # game/common.rpy:873
 translate italian common_61cd59f5:
 
     # mcp "\"Although, all things considered, I'm more likely to drunk dial you, thinking your number was from some girl I met at a bar…\""
-    mcp ""
+    mcp "\"Tuttavia, se prendiamo in considerazione chi sono, è più probabile che ti telefoni ubrico fradicio convinto che il tuo numero sia quello di qualche ragazza conosciuta in un bar...\""
 
             
 # game/common.rpy:878
 translate italian common_71423380:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/common.rpy:879
 translate italian common_157efd93:
 
     # n "He scowls at me with his teeth gritted together, and I have to bite back laughter."
-    n ""
+    n "Mi guarda con aria di riprovero, digrignando i denti. Faccio difficoltà a trattenere una risata."
 
             
 # game/common.rpy:880
 translate italian common_d18b7dc4:
 
     # n "Man, talk about sensitive. {w}He must have an ego made of glass!"
-    n ""
+    n "Wow, altro che sensibile. {w}Deve avere un ego di cristallo!."
 
             
 # game/common.rpy:885
 translate italian common_50970f76:
 
     # mcp "\"Listen, I'll help you out, all right? Lighten up a little.\""
-    mcp ""
+    mcp "\"Senti, te la do una mano, ok? Rilassati un pochino.\""
 
             
 # game/common.rpy:890
 translate italian common_e65a7b06:
 
     # l "\"…If you don't want to, just say so. No need to be such a jerk about it.\""
-    l ""
+    l "\"...Se non vuoi farlo, basta dirlo. Non c'è bisogno di fare lo stronzo.\""
 
             
 # game/common.rpy:891
 translate italian common_ff4167c8:
 
     # n "He mumbles under his breath sourly, crumpling the wrapper of his straw in one hand."
-    n ""
+    n "Borbotta acidamente, accortocciando la carta della cannuccia con una mano."
 
             
 # game/common.rpy:895
 translate italian common_93423e69:
 
     # mcp "\"Really, I don't mind. You were the one who said I didn't have anything better to do with my time, remember?\""
-    mcp ""
+    mcp "\"Davvero, non è un problema per me. L'hai detto anche te che non ho molto di meglio da fare, ricordi?\""
 
             
 # game/common.rpy:898
 translate italian common_a178bbf8:
 
     # n "When I give Luka a reassuring wink, he flicks his eyes away and scowls, obviously embarrassed."
-    n ""
+    n "Guando gli rivolgo un occhiolino di rassicurazione, Luka, arrabbiato, svia subito il mio sguardo, chiaramente in imbarazzo."
 
             
 # game/common.rpy:900
 translate italian common_85420acc:
 
     # n "Then, he takes a last sip of his drink before hopping off the barstool."
-    n ""
+    n "Poi, prende un ultimo sorso dalla sua bibita e salta giù dallo sgabello."
 
             
 # game/common.rpy:905
 translate italian common_c95499ba:
 
     # lp "\"I'd better not get any weird calls from you…\""
-    lp ""
+    lp "\"Meglio per te che non riceva nessuna chiamata strana da parte tua.\""
 
             
 # game/common.rpy:909
 translate italian common_1aaf1d5e:
 
     # lp "\"I'll block you the second you start saying gross crap to me!\""
-    lp ""
+    lp "\"O ti blocco nel momento esatto in cui inizi a dirmi cose sconce!\""
 
             
 # game/common.rpy:910
 translate italian common_e1e8d59b:
 
     # n "Luka shouts over his shoulder on his way to the door."
-    n ""
+    n "Urla Luka dirigendosi verso la porta."
 
             
 # game/common.rpy:918
 translate italian common_b1b8f0b5:
 
     # n "Chuckling, I wave a dishtowel at him casually, watching him disappear into the thick of night."
-    n ""
+    n "Ridacchiando, sventolo un straccio in segno di saluto e lo guardo sparire nel buio pesto della notte."
 
             
 # game/common.rpy:919
 translate italian common_6869fdc3:
 
     # n "Silly kid… {w}who knows what kind of trouble he's trying to work his way into."
-    n ""
+    n "CHe ragazzino stupido...{w}chissà in che guai sta cercando di ficcarsi."
 
             
 # game/common.rpy:924
 translate italian common_60861946:
 
     # n "I hope he gets home safely, though. He really looks like a perfect target for muggers or some of the more unsavory types who hang around these parts."
-    n ""
+    n "Spero torni a casa al sicuro, però. Sembra proprio l'obbiettivo perfetto per rapinatori o alcuni dei personaggi meno raccomandabili che si aggirano da queste parti."
 
             
 # game/common.rpy:925
 translate italian common_07096694:
 
     # n "Maybe I should've offered to get him a taxi… oh well."
-    n ""
+    n "Forse avrei dovuto offrigli di chiamare un taxi... E vabbeh."
 
             
 # game/common.rpy:929
 translate italian common_334035d3:
 
     # n "When I'm left alone with my thoughts, I suddenly remember the man in the hoodie."
-    n ""
+    n "Una volta solo con i miei pensieri, all'improvviso mi ricordo del ragazzo con la felpa."
 
             
 # game/common.rpy:933
 translate italian common_36a7a87b:
 
     # mc "\"–!\""
-    mc ""
+    mc "\"–!\""
 
             
 # game/common.rpy:938
 translate italian common_36e4e1c8:
 
     # n "But when I glance over to where he was sitting at the booth –"
-    n ""
+    n "Ma quando mi giro per guardare dove era seduto -"
 
             
 # game/common.rpy:940
 translate italian common_a6783812:
 
     # n "No one's there."
-    n ""
+    n "Non c'è più nessuno."
 
             
 # game/common.rpy:941
 translate italian common_d31c86a8:
 
     # n "He must have snuck out when I was talking to Luka. Damn."
-    n ""
+    n "Deve essere sgattaiolato via mentre parlavo con Luka. Cacchio."
 
             
 # game/common.rpy:948
 translate italian common_8d2f2d22:
 
     # n "A little disappointed, I return to his booth to take his coffee cup, but I notice something lying on the table."
-    n ""
+    n "Un po' deluso, torno al suo tavolo per portare via la tazza, ma noto qualcosa poggiato lì accanto."
 
             
 # game/common.rpy:950
 translate italian common_b352d6ef:
 
     # n "–A $10 dollar bill and a bunch of change, just for a cup of coffee?"
-    n ""
+    n " - Una banconota da 10 dollari e qualche spiccio, per una tazza di caffè?"
 
             
 # game/common.rpy:951
 translate italian common_d2595226:
 
     # n "That's pretty generous… and now I feel terrible for doubting if he was going to tip or not.{w} It looks like he just dumped everything in his wallet onto the table. "
-    n ""
+    n "Parecchio generoso... Ora mi sento terribilmente in colpa per aver dubitato che avrebbe lascaito la mancia.{w}Sembra che abbia semplicemente rovesciato tutto quello che aveva nel portafogli sul tavolo."
 
             
 # game/common.rpy:952
 translate italian common_50c6517c:
 
     # n "He drank every last drop of the coffee, though. I'm not sure why, but knowing that he liked it so much makes me kind of happy."
-    n ""
+    n "Ha bevuto il suo caffè fino all'ultima goccia, però. Non so bene perchè, ma sapere che gli è piaciuto tanto mi rende contento, in un certo senso."
 
             
 # game/common.rpy:957
 translate italian common_656d8c17:
 
     # mc "\"What a weird night…\""
-    mc ""
+    mc "\"Che serata strana...\""
 
             
 # game/common.rpy:961
 translate italian common_cbc61859:
 
     # n "Shaking my head, I pocket the tip and head back to the kitchen with a puzzled smile."
-    n ""
+    n "Scuotendo la testa, mi intasco la mia mancia e torno in cucina con uno sorriso da ebete. "
 
             
 # game/common.rpy:967
 translate italian common_454e53c0:
 
     # n "The rest of my shift passes uneventfully."
-    n ""
+    n "Il resto del mio turno passa senza che succeda niente di interessante."
 
             
 # game/common.rpy:968
 translate italian common_01d5ac6c:
 
     # n "People trickle in and out for a couple more hours, but no one else unusual shows up."
-    n ""
+    n "Le persone arrivano e se ne vanno poco alla volta per ancora un paio d'ore, ma nessun altro tipo strano entra."
 
             
 # game/common.rpy:976
 translate italian common_b8c996a5:
 
     # n "Finally, I wave goodbye to Troy and step outside, letting out a long yawn."
-    n ""
+    n "Finalmente, saluto Troy ed esco con un lungo sbadiglio."
 
             
 # game/common.rpy:977
 translate italian common_05ba2fc5:
 
     # n "Time to walk home. Man, I'm tired…"
-    n ""
+    n "Ora di tornare a casa. Cavolo, sono distrutto..."
 
             
 # game/common.rpy:979
 translate italian common_a9e8aa3e:
 
     # u "\"…Same spot… tomorrow…\""
-    u ""
+    u "\"...Stesso posto... domani...\""
 
             
 # game/common.rpy:980
 translate italian common_dc7f85ef:
 
     # u "\"Of course, don't you trust me?\""
-    u ""
+    u "\"Certo, che c'è non ti fidi di me?\""
 
             
 # game/common.rpy:986
 translate italian common_35a28d4c_2:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/common.rpy:987
 translate italian common_4f6a08d9:
 
     # n "Bits and pieces of conversation float from a nearby alleyway."
-    n ""
+    n "Qualche pezzo di una conversazione raggiunge il mio orecchio da un vicolo lì vicino."
 
             
 # game/common.rpy:989
 translate italian common_8cef326f:
 
     # u "\"Yeah, yeah… make sure you bring all the stuff.\""
-    u ""
+    u "\"Sì, si... Assicurati di portare tutta la roba.\""
 
             
 # game/common.rpy:991
 translate italian common_2fdbf9c0:
 
     # n "…My curiosity immediately spikes."
-    n ""
+    n "...La mia curiosità si accende immediatamente."
 
             
 # game/common.rpy:992
 translate italian common_af671d39:
 
     # extend "\nAre they talking about a drug deal or something? Next to {i}my{/i} diner?"
-    extend ""
+    extend "\nStanno parlando di qualche scambio di droga o roba del genere? Accando al {i}mio{/i} locale?"
 
             
 # game/common.rpy:998
 translate italian common_136202e7:
 
     # n "I press myself against the wall, straining to hear more of the conversation."
-    n ""
+    n "Mi appiattisco contro la parete, sfornzandomi per sentire di più."
 
             
 # game/common.rpy:1000
 translate italian common_cef12add:
 
     # n "Maybe I can catch one of these guys and teach them a lesson or two. I won't have some dopeheads putting Troy or the customers in danger."
-    n ""
+    n "Magari posso acchiappare uno di questi tipo e insegnargli una lezione o due. Non permetterò a dei fattoni di mettere in pericolo Troy o i clienti."
 
             
 # game/common.rpy:1001
 translate italian common_b57a3da0:
 
     # n "Or if I listen in, I can call the police at just the right time…"
-    n ""
+    n "Oppure se ascolto meglio, potrei riferire alla polizia l'orario esatto..."
 
             
 # game/common.rpy:1003
 translate italian common_9f432920:
 
     # n "If something dangerous is going on tomorrow, I need to tell Troy. Hell, maybe I shouldn't even come into work…"
-    n ""
+    n "Se stanno organizzando qualcosa di pericoloso per domani, devo dirlo a Troy. Cavolo, forse non dovrei proprio venire a lavoro..."
 
             
 # game/common.rpy:1010
 translate italian common_d20d0a43_2:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"…!\""
 
             
 # game/common.rpy:1012
 translate italian common_134f1c7d:
 
     # n "Are those footsteps?{w} They must be heading this way…"
-    n ""
+    n "Sono passi quelli che sento?{w} Stanno venendo da questa parte..."
 
             
 # game/common.rpy:1014
 translate italian common_367a6bda:
 
     # u "\"Naturally. Payment up front, though. You wouldn't want your number one supplier to switch sides, would you?\""
-    u ""
+    u "\"Naturalmente. Pagamento in anticipo, però. Non vorresti mai che il tuo fornitore numero uno cambi lato, giusto\""
 
             
 # game/common.rpy:1015
 translate italian common_110ab214_1:
 
     # u "\"…Hah.\""
-    u ""
+    u "\"…Hah.\""
 
             
 # game/common.rpy:1016
 translate italian common_df75cbb4:
 
     # n "As one of the two men talking lets out a scornful laugh, the footsteps grow closer."
-    n ""
+    n "Mentre uno dei due uomi esplode in una fragorosa risata, i passi si fanno più vicini."
 
             
 # game/common.rpy:1020
 translate italian common_4f46a46b_4:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/common.rpy:1021
