@@ -1223,245 +1223,245 @@ translate italian common_a980108d:
 translate italian common_d6aed22e:
 
     # mcp "\"We're open during the day, too. Most people tend to come here when it's not, you know, 2:00 AM.\""
-    mcp ""
+    mcp "\"Siamo aperti anche di giorno. Molte persone tendono a venire, beh, quando non sono le 2 del mattino\""
 
             
 # game/common.rpy:628
 translate italian common_b89826b8:
 
     # u "\"Oh… yeah, I guess that makes sense.\""
-    u ""
+    u "\"Oh... Sì, ha senso immagino.\""
 
             
 # game/common.rpy:630
 translate italian common_96d56cd6:
 
     # u "\"Isn't it boring when nobody comes in, though?\""
-    u ""
+    u "Non è noioso quando non viene nessuno, però?"
 
             
 # game/common.rpy:636
 translate italian common_4f46a46b_2:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/common.rpy:637
 translate italian common_2d3f010d:
 
     # n "He sounds so innocent and curious that my irritation melts away a little bit."
-    n ""
+    n "Sembra così innocente e curioso che mi si rilassano un po'i nervi."
 
             
 # game/common.rpy:641
 translate italian common_d88b1235:
 
     # mcp "\"It's pretty damn boring. Most of our 'clientèle' at this hour are just a few folks who are high, drunk, or both.\""
-    mcp ""
+    mcp "\"É davvero noiosissimo. Gran parte della nostra clientela a quest'ora sono solo qualche tizio drogato, ubriaco o entrambe le cose.\""
 
             
 # game/common.rpy:644
 translate italian common_482493df:
 
     # mcp "\"They don't make for great conversation partners, let me tell you.\""
-    mcp ""
+    mcp "\"Non sono le persone migliori con cui intraprendere una conversazione, fattelo dire.\""
 
             
 # game/common.rpy:647
 translate italian common_110ab214:
 
     # u "\"…Hah.\""
-    u ""
+    u "\"…Ah.\""
 
             
 # game/common.rpy:648
 translate italian common_18b43768:
 
     # n "The blond snickers, pulling his straw out of its wrapper and shoving it into his glass."
-    n ""
+    n "Il biondino sogghigna, tirando fuori la cannuccia dalla carta e ficcandola nel bicchiere."
 
             
 # game/common.rpy:650
 translate italian common_73253bce:
 
     # n "He sips a bit of the soda, then idly swirls the straw around with one finger, propping his chin up on his hand."
-    n ""
+    n "Sorseggia un po' la sua bibita, poi si mette a rigirare pigramente la cannuccia con un dito, poggiando il mento su una mano."
 
             
 # game/common.rpy:652
 translate italian common_c0a6217d:
 
     # n "His eyes are a lively, sparkling green, and they watch me with interest."
-    n ""
+    n "I suoi occhi sono di un vivace verde brillante e mi guardano con interesse."
 
             
 # game/common.rpy:656
 translate italian common_309eb6cc:
 
     # u "\"How about any… weird types?\""
-    u ""
+    u "\"Viene anche..qualche tipo strano?\""
 
             
 # game/common.rpy:661
 translate italian common_99441333:
 
     # mcp "\"…Weird types? You'll have to be more specific than that.\""
-    mcp ""
+    mcp "\"...Tipo strano? Dovresti essere più specifica di così\""
 
             
 # game/common.rpy:666
 translate italian common_8479b4f3_9:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:667
 translate italian common_74a06abb:
 
     # n "Rolling his eyes, he pauses for a moment, as if he's thinking over his words more carefully."
-    n ""
+    n "Girando gli occhi al cielo, si ferma per un momento, come se stesse valutando a fondo le parole da pronunciare."
 
             
 # game/common.rpy:671
 translate italian common_ab290750:
 
     # u "\"Like… people who don't really fit in.\""
-    u ""
+    u "\"Tipo...persone fuori dal comune, un po' disadattate magari.\""
 
             
 # game/common.rpy:672
 translate italian common_83950826:
 
     # u "\"Don't order food or anything like that, just kind of lurk around, act shady… that type.\""
-    u ""
+    u "Che non ordinano il cibo o cose del genere. Stanno semplicemente appostati qui, sospetti... quel tipo di persone\""
 
             
 # game/common.rpy:677
 translate italian common_4f46a46b_3:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/common.rpy:687
 translate italian common_09b4a032:
 
     # n "At the blond's description, I find my gaze shifting towards the hoodie-wearing man in the corner."
-    n ""
+    n "Alla descrizione del biondino, mi ritrovo a poggiare lo sguardo sul ragazzo con le felpa seduto all'angolo."
 
             
 # game/common.rpy:688
 translate italian common_8152f3eb:
 
     # n "–He's looking my way, too, and our eyes suddenly meet."
-    n ""
+    n "-Anche lui sta guardando nella mia direzione e i nostri sguardi all'improvviso si incrociano."
 
             
 # game/common.rpy:690
 translate italian common_7668077f:
 
     # n "Well, he definitely matches the 'type' this kid is talking about, but…{w} there's no reason for me to say that."
-    n ""
+    n "Beh, di sicuro corrisponde al 'ipo di persona' di cui sta parlando questo ragazzino, ma...{w}non ho motivo per dirlo."
 
             
 # game/common.rpy:691
 translate italian common_9c337681:
 
     # n "Besides, it's not as if we usually get customers like him. In fact, it's the first time I've ever seen someone who didn't know how to drink coffee."
-    n ""
+    n "Inoltre, non è che ci sono clienti come lui abitualmente. In realtà, è la prima volta che vedo qualcuno che non sa come bere un caffè."
 
             
 # game/common.rpy:709
 translate italian common_f132b008:
 
     # mc "\"…No, I can't say I've seen anyone like that come in here.\""
-    mc ""
+    mc "\"...No, non mi sembra di aver mai visto nessuno del genere qui.\""
 
             
 # game/common.rpy:710
 translate italian common_f9daa7ac:
 
     # mc "\"Maybe they hang out in the seedier parts of town. If you can {i}get{/i} seedier than this area, that is.\""
-    mc ""
+    mc "\"Forse si aggirano per zone più squallide della città. Se si può {i}trovare{/i} una zona più squallida di questa, ovviamente."
 
             
 # game/common.rpy:715
 translate italian common_f0e2bce8:
 
     # udp "\"…\""
-    udp ""
+    udp "\"…\""
 
             
 # game/common.rpy:716
 translate italian common_b6817f53:
 
     # n "–It might be my imagination, but at my response, I feel like the man in the booth just relaxed a tiny bit."
-    n ""
+    n "-Potrebbe essere la mia immaginazione, ma dopo la mia risposta, sembra che il ragazzo al tavolo si sia rilassato leggermente."
 
             
 # game/common.rpy:722
 translate italian common_867d48d3:
 
     # u "\"Really?\""
-    u ""
+    u "\"Davvero?\""
 
             
 # game/common.rpy:726
 translate italian common_40a56b5f:
 
     # u "\"Mmh… I guess so.\""
-    u ""
+    u "\"Mmh… Immagino di sì.\""
 
             
 # game/common.rpy:727
 translate italian common_8c96f0df:
 
     # n "The blond looks a little displeased, and he chews on the tip of his straw absentmindedly."
-    n ""
+    n "Il biondino appare un po' insoddisfatto e continua a mordicchiare la punta della cannuccia con aria distratta."
 
             
 # game/common.rpy:731
 translate italian common_2cd8acb1:
 
     # mc "\"Why do you ask? Are you looking for members of a gang or something?\""
-    mc ""
+    mc "\"Perché me lo chiedi? Stai cercando i membri di una gang o qualcosa del genere?\""
 
             
 # game/common.rpy:736
 translate italian common_2ad33a0c:
 
     # u "\"…You could say that.\""
-    u ""
+    u "\"…Si può dire così diciamo.\""
 
             
 # game/common.rpy:737
 translate italian common_3d6f3b30:
 
     # n "He hesitates before replying, shifting in his seat."
-    n ""
+    n "Esista un po' prima di rispondere, muovendosi sullo sgabello."
 
             
 # game/common.rpy:741
 translate italian common_b6dc61bc:
 
     # mc "\"Don't tell me you're trying to join up with a band of thugs. Kids like you shouldn't fall in with the wrong crowd.\""
-    mc ""
+    mc "Non dirmi che stai cercando di entrare in una banda di teppisti. I ragazzini come te non dovrebbero andare in giro con la gente sbagliata."
 
             
 # game/common.rpy:745
 translate italian common_97e30d50_1:
 
     # u "\"–!\""
-    u ""
+    u "\"–!\""
 
             
 # game/common.rpy:746
 translate italian common_d6da3610:
 
     # n "My playful remark makes the blond abruptly straighten his posture, his face screwing up like an angry chipmunk."
-    n ""
+    n "Il mio commento scherzoso fa raddrizzare d'impeto la postura del ragazzo. La sua faccia corrucciata lo fa assomigliare ad uno scoiattolo arrabbiato."
 
             
 # game/common.rpy:748
