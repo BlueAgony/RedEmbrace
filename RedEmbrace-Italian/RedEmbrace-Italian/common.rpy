@@ -1069,154 +1069,154 @@ translate italian common_147e8e2a:
 translate italian common_94307e5a:
 
     # n "The man in the hoodie's my customer, too, and he looks like he's already had a tough night without being glowered at by some kid."
-    n ""
+    n "Il ragazzo con la felpa è un mio cliente, come te, e sembra che abbia già avuto una serata difficile senza che un ragazzino lo guardi male. "
 
             
 # game/common.rpy:539
 translate italian common_c5bc1025:
 
     # mc "\"Hey, do you have a problem with that guy?\""
-    mc ""
+    mc "\"Hey, hai qualche problema con quel tizio?\""
 
             
 # game/common.rpy:540
 translate italian common_c954740d:
 
     # mc "\"If not, could you quit scowling at other customers? You'll scare them off.\""
-    mc ""
+    mc "\"Se la risposta è no, potresti smetterla di squadrare gli altri clienti? Li farai spaventare e andare via."
 
             
 # game/common.rpy:545
 translate italian common_97e30d50:
 
     # u "\"–!\""
-    u ""
+    u "\"–!\""
 
             
 # game/common.rpy:546
 translate italian common_fd1c5105:
 
     # n "My irritated words make him blink in surprise, but his sulky expression returns half a second later."
-    n ""
+    n "Le mie parole di irritazione gli fanno battere le ciglia per la sorpresa, ma subito dopo la sua espressione distaccata e scocciata torna."
 
             
 # game/common.rpy:551
 translate italian common_610c919f:
 
     # n "He scratches his cheek with one hand, pausing doubtfully, then lets out a loud sigh."
-    n ""
+    n "Si gratta la guancia con una mano, dubitante, poi emette un rumoroso sospiro."
 
             
 # game/common.rpy:557
 translate italian common_5d69b04a:
 
     # n "…Well, I don't want to make this awkward situation any worse."
-    n ""
+    n "...Beh, non voglio perggiorare questa situazione già piuttosto imbarazzante."
 
             
 # game/common.rpy:570
 translate italian common_9b14b0f8:
 
     # n "Clearing my throat, I place a menu in front of the blond to get his attention, and he quickly glances back towards me."
-    n ""
+    n "Schiarendomi la gola, gli porgo il menù per attirare la sua attenzione, e subito mi alza lo sguardo verso di me."
 
             
 # game/common.rpy:572
 translate italian common_a43ce122:
 
     # mc "\"Sir, would you like to order something? A glass of water, maybe?\""
-    mc ""
+    mc "\" Signore, vuole oridnare qualcosa? Un bicchiere d'acqua, magari?\""
 
             
 # game/common.rpy:577
 translate italian common_8479b4f3_8:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:578
 translate italian common_6cb7db2d:
 
     # n "He looks a little sheepish, but he grabs the menu anyway and starts to sourly flip through it."
-    n ""
+    n "Sembra un po' imbarazzato, ma afferra comunque il menù e inizia a sfogliarlo con fare scocciato."
 
             
 # game/common.rpy:586
 translate italian common_0fa1a300:
 
     # u "\"Ugh… I just want a soda. Any kind.\""
-    u ""
+    u "\"Ugh… Voglio solo una bibita. Una qualunque."
 
             
 # game/common.rpy:588
 translate italian common_633d7310:
 
     # u "\"I need to get a bad taste out of my mouth.\""
-    u ""
+    u "Ho bisogno di togliemri un brutto sapore dalla bocca.\""
 
             
 # game/common.rpy:590
 translate italian common_e75b3aa6:
 
     # n "{i}What, from trying to smoke pot with your friends?{/i} I want to dryly ask, but I should probably have a little self-restraint."
-    n ""
+    n "{i}Cosa, quello dell'erba che hai provato a fumarti coi tuoi amici?{/i} Vorrei chiedere seccamente, ma probabilmente dovrei avere un po' di autocontrollo."
 
             
 # game/common.rpy:597
 translate italian common_d304e9d5:
 
     # n "I grab a nearby cup and head over to the soda fountain, filling it up with some sugary, yellowish-green drink that probably suits the tastes of a kid like him."
-    n ""
+    n "Afferro un bicchiere lì vicino e mi dirigo verso il dispenser delle bevande. Lo riempio con una bibita verdognola e zuccherina che probabilmente soddisfa i gusti di un ragazzino come lui."
 
             
 # game/common.rpy:598
 translate italian common_0b99f3af:
 
     # n "It's too bad he doesn't have a nicer personality to match his cute face.{w} I bet he never wears anything other than that annoying pout."
-    n ""
+    n "É un peccato non abia un personalità migliore che si sposi con la sua faccia molto tenera. {w}Immagino non porti mai nient'altro che il broncio. "
 
             
 # game/common.rpy:601
 translate italian common_4f48391c:
 
     # n "After I slide the cup and a straw in front of the blond, he tosses a couple dollar bills on the counter."
-    n ""
+    n "Dopo avergli passato il bicchiere e una cannuccia, il biondino butta con noncuranza un paio di banconote sul bancone."
 
             
 # game/common.rpy:608
 translate italian common_1bc6a350:
 
     # u "\"Hey, is it always so dead in here?\""
-    u ""
+    u "\"Hey, è sempre un mortorio qui?\""
 
             
 # game/common.rpy:609
 translate italian common_9bfb515f:
 
     # u "\"I don't usually come to places like this, but how do you stay open if there's no business? Shouldn't you be bankrupt?\""
-    u ""
+    u "\"Di solito non vengo in posti del genere... Ma come fate a rimanere aperti se non viene nessuno? Non dovreste essere in bancarotta?\""
 
             
 # game/common.rpy:612
 translate italian common_6b3d9ed5:
 
     # n "…Resisting the urge to throw the soda in his face, I let out a strained chuckle instead."
-    n ""
+    n "...Resistendo al bisogno di lanciargli la bibita in faccia, mi faccio scappare una risatina."
 
             
 # game/common.rpy:617
 translate italian common_4f46a46b_1:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/common.rpy:618
 translate italian common_a980108d:
 
     # n "His bratty question is one I've heard a lot before, so it doesn't exactly catch me off guard."
-    n ""
+    n "La sua impertinente domanda l'ho gia sentita un migliaio di volte, quindi non mi coglie esattamente di sorspresa."
 
             
 # game/common.rpy:624
