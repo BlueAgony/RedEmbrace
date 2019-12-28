@@ -271,7 +271,7 @@ translate italian common_76335e7c:
 translate italian common_36160454:
 
     # n "The man blinks at me, looking taken aback by my words."
-    n "L'uomo sgrana gli occhi, sorpreso dalle mie parole."
+    n "Il ragazzo sgrana gli occhi, sorpreso dalle mie parole."
 
             
 # game/common.rpy:150
@@ -313,7 +313,7 @@ translate italian common_8479b4f3_1:
 translate italian common_e6d2ae0b:
 
     # n "The man lets out a quiet exhale, staring at me in silence for a moment longer."
-    n "L'uomo emette un leggero sospiro, fissandomi ancora per un secondo."
+    n "Il ragazzo emette un leggero sospiro, fissandomi ancora per un secondo."
 
             
 # game/common.rpy:175
@@ -390,7 +390,7 @@ translate italian common_133d277b:
 translate italian common_4e74f869:
 
     # n "Flustered, I quickly glance over my shoulder at the strange man, who narrows his eyes at me."
-    n "Confuso, getto un'occhiata da sopra la spalla verso l'uomo, che mi guarda con le palpebre socchiuse."
+    n "Confuso, getto un'occhiata da sopra la spalla verso il ragazzo, che mi guarda con le palpebre socchiuse."
 
             
 # game/common.rpy:212
@@ -537,7 +537,7 @@ translate italian common_8479b4f3_3:
 translate italian common_0621d07b:
 
     # n "The man hesitates, studying me with a suspicious look."
-    n "L'uomo esita, studiandomi con uno sguardo sospettoso."
+    n "Il ragazzo esita, studiandomi con uno sguardo sospettoso."
 
             
 # game/common.rpy:274
@@ -684,7 +684,7 @@ translate italian common_00be03fb:
 translate italian common_62550a91:
 
     # n "–To my surprise, the man is still there."
-    n "-Sorprendentemente, l'uomo è ancora lì."
+    n "-Sorprendentemente, il ragazzo è ancora lì."
 
             
 # game/common.rpy:347
@@ -719,357 +719,357 @@ translate italian common_168b749f:
 translate italian common_f7de221e:
 
     # n "I set the coffee, along with the cream and sugar, down in front of him."
-    n ""
+    n "Appoggio il caffè, il latte e lo zucchero davanti a lui."
 
             
 # game/common.rpy:369
 translate italian common_89d041cf:
 
     # n "…But he just sort of blankly stares at the table, as if he's not sure what to do."
-    n ""
+    n "...Ma rimane quasi imbambolato a fissare il tavolo, come se non fosse sicuro di cosa fare."
 
             
 # game/common.rpy:374
 translate italian common_3ab4b1a0:
 
     # mc "\"Do you, er, want me to mix it in for you? The cream and sugar, that is.\""
-    mc ""
+    mc "\"Vuoi che, ehm, te lo mescoli io? Il latte e lo zucchero, intendo.\""
 
             
 # game/common.rpy:378
 translate italian common_8479b4f3_5:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:383
 translate italian common_3000b5c0:
 
     # n "My offer makes his eyes widen, but after a brief pause, he stiffly nods."
-    n ""
+    n "La mia offerta gli fa spalancare gli occhi, ma dopo una breve pausa, annuisce rigidamente."
 
             
 # game/common.rpy:385
 translate italian common_21dabce9:
 
     # n "…Has this guy never had coffee before?"
-    n ""
+    n "...Ma questo tizio ha mai bevuto un caffè?"
 
             
 # game/common.rpy:387
 translate italian common_96e41956:
 
     # n "Well, whatever. I have to earn my tips, don't I?"
-    n ""
+    n "Beh, chi se ne frega. Io mi devo guadagnare le mie mancie alla fine, no?"
 
             
 # game/common.rpy:389
 translate italian common_7c659794:
 
     # n "Huh. Well, I don't really mind, even though it's been a long time since a customer asked me to do this."
-    n ""
+    n "Hm. Beh, non è davvero un problema per me, anche se è passato un  po' di tempo dall'ultima volta che un cliente me l'ha chiesto."
 
             
 # game/common.rpy:394
 translate italian common_9ee5d2d6:
 
     # n "I grab the cream and pour some into the cup, stirring until the dark liquid turns into a pretty caramel shade."
-    n ""
+    n "Afferro il latte e ne verso un po' nella tazza, mescolando fino a far diventare il liquido scuro di un bel color caramello."
 
             
 # game/common.rpy:395
 translate italian common_058d1703:
 
     # n "After mixing in a couple spoons of sugar, I push the coffee towards him expectantly."
-    n ""
+    n "Dopo aver fatto sciogliere anche qualche chucchiaino di zucchero, gli porgo il caffé con trepidazione."
 
             
 # game/common.rpy:400
 translate italian common_a5360eb2:
 
     # mcp "\"It's not French press, but it's not poison, either. Go on.\""
-    mcp ""
+    mcp "\"Non è fatto a French press, ma non è nemmeno veleno. Dai, bevi.\""
 
             
 # game/common.rpy:404
 translate italian common_8479b4f3_6:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:405
 translate italian common_718f0231:
 
     # n "He takes the cup and lifts it to his lips, looking unsure of himself."
-    n ""
+    n "Prende in mano la tazza e e la porta alle labbra, apparendo molto incerto sul da farsi""
 
             
 # game/common.rpy:410
 translate italian common_e1b7de8f:
 
     # n "–After a long sip, he blinks, and a surprised light washes over his face."
-    n ""
+    n "-Dopo aver buttato giù un bel sorso, sbatte le palpebre, e un espressione di sorpresà gli si dipinge sul viso."
 
             
 # game/common.rpy:412
 translate italian common_236481ed:
 
     # u "\"…It's sweet.\""
-    u ""
+    u "\"...É dolce.\""
 
             
 # game/common.rpy:416
 translate italian common_16f87600:
 
     # mcp "\"Oh, did I put too much sugar in? I can get you another cup, if you'd –\""
-    mcp ""
+    mcp "\"oh, ho messo troppo zucchero? Posso fartene un'altra tazza, se v-\""
 
             
 # game/common.rpy:420
 translate italian common_07f02e0a:
 
     # u "\"No, it's fine. I like it.\""
-    u ""
+    u "\"No, va bene così. Mi piace.\""
 
             
 # game/common.rpy:422
 translate italian common_7a545102:
 
     # n "To my shock, the man's lips actually curl in a small smile."
-    n ""
+    n "Con mio stupore, le labbra del ragazzo si aprono in un sorriso accennato."
 
             
 # game/common.rpy:423
 translate italian common_3e530899:
 
     # n "It makes him seem a lot less intimidating, and the look in his clear blue eyes softens a little."
-    n ""
+    n "Lo sguardo dei suoi occhi blu si addolcisce lievemente. Sembra molto meno minaccioso ora."
 
             
 # game/common.rpy:425
 translate italian common_fa712259:
 
     # n "…He's seriously an oddball."
-    n ""
+    n "...É proprio un tipo strambo."
 
             
 # game/common.rpy:426
 translate italian common_d826dbe6:
 
     # n "Odd, but kind of charming in his own weird way. {w}A guy this size who doesn't even know how to drink coffee…."
-    n ""
+    n "Strambo, ma in un certo senso affasciante, a suo modo. {w}Uno di questa stazza che non sa bere un caffè..."
 
             
 # game/common.rpy:436
 translate italian common_d20d0a43_1:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"…!\""
 
             
 # game/common.rpy:437
 translate italian common_a8ca7439:
 
     # n "–Just then, the diner's door suddenly swings open."
-    n ""
+    n "-Proprio in quel momento, le porte della tavolacalda si spalancano all'improvviso."
 
             
 # game/common.rpy:438
 translate italian common_db886048:
 
     # n "A blonde girl strides up to the counter, plopping down on one of the barstools with a loud sigh."
-    n ""
+    n "Un ragazza bionda si dirige a lunghi passi verso il bancone, buttandosi poi su uno degli sgabelli con un rumoso sospiro."
 
             
 # game/common.rpy:456
 translate italian common_42cd3b34:
 
     # mc "\"Ah, business is booming as usual. I've gotta go see what she wants, but…\""
-    mc ""
+    mc "\"Ah, gli affari vanno a gonfie vele come al solito. Devo andare a vedere cosa vuole, ma...\""
 
             
 # game/common.rpy:460
 translate italian common_a25df1b0:
 
     # mc "\"If you need any more coffee, or just someone to spill your worries to, lemme know, alright? It gets pretty lonely in here sometimes.\""
-    mc ""
+    mc "\"Se vuoi dell'altro caffè, o semplicemente qualcuno su cui rovesciare le tu ansie, fammi sapere, ok? Ci si sente piuttosto soli qui alle volte.\""
 
             
 # game/common.rpy:462
 translate italian common_c2c9ade1:
 
     # mc "\"Ah, sorry. Let me know if you need anything else.\""
-    mc ""
+    mc "\"Ah, scusami. Fammi sapere se hai bisogno di qualcos'altro.\""  
 
             
 # game/common.rpy:463
 translate italian common_8dc856d2:
 
     # n "I apologize to my new 'friend,' whose expression has returned to an impassive stare."
-    n ""
+    n "Mi scuso con il mio nuovo 'amico', il cui sguardo è tornato impassibile."
 
             
 # game/common.rpy:467
 translate italian common_b8d6973d:
 
     # u "\"Yeah.\""
-    u ""
+    u "\"Certo.\""
 
             
 # game/common.rpy:471
 translate italian common_9cd1aa72:
 
     # n "He lowers his eyes to stare at the depths of his coffee cup, not offering another word."
-    n ""
+    n "Abbassa gli occhi per fissare le profondità della sua tazza di caffé, senza proferire altro."
 
             
 # game/common.rpy:472
 translate italian common_3e6f6fe0:
 
     # n "I almost feel bad for leaving him, but I can't exactly ignore a customer. Troy would yell at me until he went hoarse."
-    n ""
+    n "Mi sento quasi in colpa a lasciarlo solo, ma non è che posso ignorare un cliente. Troy mi strillerebbe addosso fino a perdere la voce."
 
             
 # game/common.rpy:478
 translate italian common_fe6e3f7c:
 
     # n "Hurrying around the counter, I approach the new customer curiously."
-    n ""
+    n "Dopo essermi affrettato per aggirare il bancone, mi rivolgo incuriosito alla nuova cliente."
 
             
 # game/common.rpy:484
 translate italian common_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/common.rpy:485
 translate italian common_500eea50:
 
     # n "When I look closer, I realize it's actually a blond {i}guy{/i}, not a girl at all."
-    n ""
+    n "Guardando meglio però, mi rendo conto che in realtà è un {i}ragazzo{/i} biondo, non una ragazza."
 
             
 # game/common.rpy:486
 translate italian common_fefda630:
 
     # n "He's so slender and short that he really looked like a girl from behind, but his face is a little too sharp to be a woman's."
-    n ""
+    n "É così magro e basso che è molto facile scambiarlo per una ragazza da dietro, ma la faccia è un po' troppo spigolosa per essere una donna."
 
             
 # game/common.rpy:491
 translate italian common_1304607f:
 
     # u "\"…So, do you usually stare like that at everyone who comes in here?\""
-    u ""
+    u "\"...Allora, è una tua abitudine fissare in questo modo le persone che entrano?\"
 
             
 # game/common.rpy:492
 translate italian common_05533184:
 
     # u "\"I thought waiters were supposed to be welcoming, not creepy.\""
-    u ""
+    u "\"Pensavo che i camerieri dovessero essere cordiali e accoglienti, non inquietanti."
 
             
 # game/common.rpy:493
 translate italian common_5fea5ae4:
 
     # n "The first words that come out of his mouth are pretty coarse, even though he's got a high, sing-song voice."
-    n ""
+    n "Le prime parole che escono dalla sua bocca sono parecchio scortesi, anche se ha una voce acuta e molto cantilenante."
 
             
 # game/common.rpy:498
 translate italian common_68eb8555:
 
     # mcp "\"Ah, no, sorry. Just a little tired, that's all.\""
-    mcp ""
+    mcp "\"Ah, no, scusa tanto. Sono solo un po' stanco, tutto qui.\""
 
             
 # game/common.rpy:502
 translate italian common_0d32c368:
 
     # mcp "\"What can I get you?\""
-    mcp ""
+    mcp "\"Cosa posso portarti?\""
 
             
 # game/common.rpy:506
 translate italian common_8479b4f3_7:
 
     # u "\"…\""
-    u ""
+    u "\"...\""
 
             
 # game/common.rpy:507
 translate italian common_b4ecdd69:
 
     # n "He purses his lips together scornfully, letting out an annoyed huff."
-    n ""
+    n "Contrare le labbra con sdegno, sbuffando infastidito."
 
             
 # game/common.rpy:513
 translate italian common_a1a2abac:
 
     # n "But rather than responding to my question, he turns his head to scan the diner – "
-    n ""
+    n "Piuttosto che rispondere alla mia domanda, gira la testa per esaminare il locale -"
 
             
 # game/common.rpy:514
 translate italian common_0fbce656:
 
     # extend "\nAnd his gaze falls on the hoodie-wearing guy in the booth."
-    extend ""
+    extend "\nE il sguardo si ferma sul tizio con la felpa seduto su una delle panche."
 
             
 # game/common.rpy:515
 translate italian common_30a4c7c6:
 
     # n "The blond stares intently at the other man, who doesn't seem to notice the scrutiny he's getting."
-    n ""
+    n "Il biondino fissa con attenzione l'altro ragazzo, che sembra non aver notato di essere sotto scrutinio."
 
             
 # game/common.rpy:517
 translate italian common_37087af3:
 
     # n "What the hell? Is he really just going to sit here and ignore me…?"
-    n ""
+    n "Ma che diamine! Ha davvero intenzione di stare semplicemente seduto lì ed ignorarmi...?"
 
             
 # game/common.rpy:519
 translate italian strings:
 
     old "You have a problem with him?"
-    new ""
+    new "Hai qualche problema con quel tizio?"
     
                 
 # game/common.rpy:519
 translate italian strings:
 
     old "Ask if he'd like to order something"
-    new ""
+    new "Chiedi se vuole ordinare qualcosa"
     
                 
 # game/common.rpy:524
 translate italian common_9262f7c2:
 
     # n "…This brat's kind of getting on my nerves."
-    n ""
+    n "...Questo moccioso sta proprio iniziando ad innervosirmi."
 
             
 # game/common.rpy:525
 translate italian common_147e8e2a:
 
     # n "First he makes a jab at me for 'staring,' then he goes and gawps at another guy?"
-    n ""
+    n "Prima mi fa la ramanzina perchè 'fissavo' e poi si mette a guardare con un allocco un altro ragazzo?"
 
             
 # game/common.rpy:526
 translate italian common_94307e5a:
 
     # n "The man in the hoodie's my customer, too, and he looks like he's already had a tough night without being glowered at by some kid."
-    n ""
+    n "Il "
 
             
 # game/common.rpy:539
