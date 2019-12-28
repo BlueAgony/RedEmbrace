@@ -1062,14 +1062,14 @@ translate italian common_9262f7c2:
 translate italian common_147e8e2a:
 
     # n "First he makes a jab at me for 'staring,' then he goes and gawps at another guy?"
-    n "Prima mi fa la ramanzina perchè 'fissavo' e poi si mette a guardare con un allocco un altro ragazzo?"
+    n "Prima mi fa la ramanzina perchè 'fissavo' e poi si mette a guardare come un allocco un altro ragazzo?"
 
             
 # game/common.rpy:526
 translate italian common_94307e5a:
 
     # n "The man in the hoodie's my customer, too, and he looks like he's already had a tough night without being glowered at by some kid."
-    n "Il "
+    n ""
 
             
 # game/common.rpy:539
