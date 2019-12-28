@@ -3,7 +3,7 @@
 translate italian start_45a93aae:
 
     # n "…Another regular late night in San Francisco."
-    n "...Un'altra normale notatta a San Francisco."
+    n "...Un'altra normale nottata a San Francisco."
 
             
 # game/common.rpy:25
@@ -74,7 +74,7 @@ translate italian common_3b8fb9fc:
 translate italian common_41561284:
 
     # mc "\"…Yeah, Boss. No problem.\""
-    mc "\"...Sì, Capo. Non c'è problema.\""
+    mc "\"...Certo, Capo. Non c'è problema.\""
 
             
 # game/common.rpy:81
@@ -1468,252 +1468,252 @@ translate italian common_d6da3610:
 translate italian common_aa39a5e0:
 
     # u "\"Who are you calling a kid?!\""
-    u ""
+    u "\"A chi hai dato del ragazzino?!\""
 
             
 # game/common.rpy:749
 translate italian common_0a3b848d:
 
     # u "\"I'm 22! Do I have to show you my ID or something?\""
-    u ""
+    u "\"Ho 22 anni! Devo farti vedere la carta d'identità?\""
 
             
 # game/common.rpy:751
 translate italian common_d26b83d1:
 
     # n "…Wow, I must have really hit a nerve."
-    n ""
+    n "...Wow, mi sa che ho toccato un nervo scoperto."
 
             
 # game/common.rpy:752
 translate italian common_58393a96:
 
     # n "In my defense, he definitely doesn't look 22.{w} I would've guessed 17 or 18, especially considering the way he acts."
-    n ""
+    n "In mia difesa, non sembra per niente che abbia 22 anni.{w} Avrei detto 17 o 18, specialmente considerando come si comporta."
 
             
 # game/common.rpy:758
 translate italian common_a5eee75d:
 
     # mc "\"Calm down, I was only teasing.\""
-    mc ""
+    mc "\"Rilassati, ti stavo solo prendendoin giro.\""
 
             
 # game/common.rpy:759
 translate italian common_b10fd7a1:
 
     # mc "\"I just call everyone a kid, okay? Bad habit, sorry.\""
-    mc ""
+    mc "\"Chiamo tutti 'ragazzino', ok? Brutta abitudine, scusa.\""
 
             
 # game/common.rpy:765
 translate italian common_d75e6fc9:
 
     # mc "\"Sorry, sorry! It's just because you're so full of energy, that's all.\""
-    mc ""
+    mc "\"Scusa, scusa! É che sei così pieno di energie, tutto qui.\""
 
             
 # game/common.rpy:769
 translate italian common_53218190:
 
     # mc "\"I get mistaken for a high schooler sometimes, so I feel your pain.\""
-    mc ""
+    mc "\"Ogni tanto mi scambiano per un liceale, capisco quello che provi.\""
 
             
 # game/common.rpy:775
 translate italian common_6da37521:
 
     # u "\"…Hmph.\""
-    u ""
+    u "\"…Hmpf.\"
 
             
 # game/common.rpy:776
 translate italian common_43f531ce:
 
     # n "Like a porcupine retracting its quills, the blond stops bristling, although he still wrinkles his nose at me."
-    n ""
+    n "Come un gatto che ritrae gli artigli, il biondio si calma, anche se continua ad arricciare il naso quando mi guarda."
 
             
 # game/common.rpy:777
 translate italian common_4d741242:
 
     # n "Phew, close call."
-    n ""
+    n "Fiù, me la sono cavata per un pelo."
 
             
 # game/common.rpy:782
 translate italian common_b173a763:
 
     # u "\"Anyway, I'm not trying to join a gang.\""
-    u ""
+    u "\"E comunque, non sto cercando di unirmi a una gang.\""
 
             
 # game/common.rpy:783
 translate italian common_3bed831f:
 
     # u "\"I'm just looking for some… certain people, that's all.\""
-    u ""
+    u "\"Sto solo cercando... certe persone, tutto qui.\""
 
             
 # game/common.rpy:787
 translate italian common_5c289d32:
 
     # u "\"I figured they might hang out around a place like this, since it's pretty seedy looking. No offense.\""
-    u ""
+    u "\"Ho pensato che potrebbero gironzolare in posto come questo, dato l'aspetto piuttosto squallido. Senza offesa.\""
 
             
 # game/common.rpy:788
 translate italian common_9b7ee228:
 
     # n "He smirks at me, tapping a fingernail against the side of his glass."
-    n ""
+    n "Mi sorride beffardo, picchiettando l'unghia contro il lato del suo bicchiere in vetro."
 
             
 # game/common.rpy:794
 translate italian common_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"…\""
 
             
 # game/common.rpy:795
 translate italian common_19c3d5ab:
 
     # n "…It's kind of hard to argue with that, sadly. {w}This isn't the worst part of town, but it's definitely not the best, and the diner could really use some repainting."
-    n ""
+    n "...Non è facile controbbatere, putroppo. {w}Questa non è la parte peggiore della città, ma di certo non è neanche la migliore, e il locale avrebbe bisogno di un nuova mano di vernice."
 
             
 # game/common.rpy:807
 translate italian common_5c9517a3:
 
     # u "\"Hey, why don't you do me a favor?\""
-    u ""
+    u "\"Hey, perché non mi fai un favore?\""
 
             
 # game/common.rpy:808
 translate italian common_791e2c7a:
 
     # u "\"Keep an eye out for anyone like what I described, and if you find someone, give me a call.\""
-    u ""
+    u "\"Tieni un occhio aperto per chiunque corrisponda alla mia descrizione, e se trovi qualcuno, fammi uno squillo."
 
             
 # game/common.rpy:810
 translate italian common_39ce3a0a:
 
     # n "Pulling a pen out of his pocket, he grabs a nearby napkin and scribbles something down on it."
-    n ""
+    n "Tirando fuori una penna dalla tasca, afferra un tovagliolo lì vicino e ci scarabocchia qualcosa sopra."
 
             
 # game/common.rpy:811
 translate italian common_fa822fed:
 
     # n "When he shoves it over towards me, I recognize the writing as a name and a phone number."
-    n ""
+    n "Quando me lo passa, ci trovo un nome e un numero di telefono."
 
             
 # game/common.rpy:815
 translate italian common_797a0544:
 
     # mcp "\"… 'Luka,' huh? You really want me to call you if I see any random shady customers?\""
-    mcp ""
+    mcp "\"... 'Luka', eh? Davvero vuoi che ti chiami se vedo un cliente sospetto a caso?\""
 
             
 # game/common.rpy:819
 translate italian common_de1ecefa:
 
     # l "\"You got it.\""
-    l ""
+    l "\"Hai capito bene.\""
 
             
 # game/common.rpy:823
 translate italian common_944ae2bc:
 
     # l "\"It doesn't seem like you have anything better to do with your time, so why don't you help me out?\""
-    l ""
+    l "\"Non sembra che tu abbia molto di meglio da fare con il tuo tempo, quindi perchè non aiutarmi?\""
 
             
 # game/common.rpy:826
 translate italian strings:
 
     old "And what're you offering in return…?"
-    new ""
+    new "E cosa mi offri in cambio...?"
     
                 
 # game/common.rpy:826
 translate italian strings:
 
     old "Sure, I'll try"
-    new ""
+    new "D'accordo, ci proverò"
     
                 
 # game/common.rpy:831
 translate italian common_b1f31d1a:
 
     # n "I raise one eyebrow at Luka, who watches me smugly."
-    n ""
+    n "Alzo un sopracciglio e Luka mi guarda compiaciuto."
 
             
 # game/common.rpy:835
 translate italian common_a956177a:
 
     # mcp "\"You're going to offer something to sweeten the deal, right? There's no reason for me to bother helping you, otherwise.\""
-    mcp ""
+    mcp "\"Mi offrirai qualcosa per rendere più equo l'accordo, giusto? Non ho motivo di sforzarmi per aiutarti, altrimenti."
 
             
 # game/common.rpy:839
 translate italian common_a6c78571:
 
     # l "\"Offer something? Like what, money?\""
-    l ""
+    l "\"Offrire qualcosa? Tipo cosa, soldi?\""
 
             
 # game/common.rpy:840
 translate italian common_0e661850:
 
     # n "He purses his lips together doubtfully, but I shake my head, unable to contain a smirk."
-    n ""
+    n "Contrae le labbra con riluttanza, ma squoto la tesa, incapace di contentere un sorriso."
 
             
 # game/common.rpy:841
 translate italian common_7009e3dd:
 
     # mcp "\"Hm, I don't know…\""
-    mcp ""
+    mcp "\"Hm, non saprei...\""
 
             
 # game/common.rpy:845
 translate italian common_19963f59:
 
     # mcp "\"Maybe you could let me stare at you for awhile without getting mad. How's that sound?\""
-    mcp ""
+    mcp "\"Magari potresti lascare che io ti fissi per un po' senza arrabbiarti. Che ne pensi?\""
 
             
 # game/common.rpy:850
 translate italian common_249f8dd4:
 
     # l "\"–!\""
-    l ""
+    l "\"-!\""
 
             
 # game/common.rpy:851
 translate italian common_12638aeb:
 
     # n "Luka's cheeks turn a bright pink, letting me know my teasing was successful."
-    n ""
+    n "Le guance di Luka diventano di un rosse, facendomi capire che l'avevo stuzzicato per bene."
 
             
 # game/common.rpy:855
 translate italian common_fa19c384:
 
     # l "\"What kind of creepy thing are you trying to… You know what, I'm taking back my number.\""
-    l ""
+    l "\"Che razza di cosa ripugnante stai cercando di... Sai cosa, mi riprendo il mio numero.\""
 
             
 # game/common.rpy:856
 translate italian common_9288fd2d:
 
     # n "He tries to snatch the napkin away from me, but I hold it out of his reach, snickering to myself."
-    n ""
+    n "Cerca di strapparmi il tovagliolo dalle mani, ma riesco a tenerlo fuori dalla sua portata, ridacchiando compiaciuto."
 
             
 # game/common.rpy:857
