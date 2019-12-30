@@ -2545,7 +2545,7 @@ translate italian common_70fab02f:
 translate italian common_6cca6811:
 
     # i "\"You might even see a friend of yours there. Or maybe {i}customer{/i} is a better word…?\""
-    i "Potresti anche incontrare un tuo amichetto. O forse {i}cliente{/i} è la parola migliore...?\""
+    i "\"Potresti anche incontrare un tuo amichetto. O forse {i}cliente{/i} è la parola giusta...?\""
 
             
 # game/common.rpy:1232
@@ -3000,224 +3000,224 @@ translate italian common_e3344bbc:
 translate italian common_a5e1d4af:
 
     # n "Well, it doesn't matter. {w}Tomorrow will be the same old, same old…"
-    n ""
+    n "Vabbeh, non importa. {w}Domani sarà la solita vecchia routine... "
 
             
 # game/common.rpy:1434
 translate italian common_411b8761:
 
     # n "…I hope."
-    n ""
+    n "...Spero."
 
             
 # game/common.rpy:1439
 translate italian common_681d9b7c:
 
     # mc "\"Mmh…\""
-    mc ""
+    mc "\"Mmh...\""
 
             
 # game/common.rpy:1441
 translate italian common_1992e69a:
 
     # mc "\"Ngh… sun…\""
-    mc ""
+    mc "\"Ngh... sole...\""
 
             
 # game/common.rpy:1442
 translate italian common_43709f2b:
 
     # mc "\"Sun… fuck off…\""
-    mc ""
+    mc "\"Sole... fanculo a te...\""
 
             
 # game/common.rpy:1447
 translate italian common_cb5044ac:
 
     # n "I bury my face against my pillow to hide from the sunlight."
-    n ""
+    n "Sotterro la faccia nel cuscino per nascondermi dalla luce."
 
             
 # game/common.rpy:1449
 translate italian common_f8a86b22:
 
     # n "Damn, it must already be afternoon."
-    n ""
+    n "Cacchio, dev'essere già pomeriggio inoltrato."
 
             
 # game/common.rpy:1450
 translate italian common_f4d4890b:
 
     # n "Stupid graveyard shift makes it so hard to catch a decent amount of rest, unless you sleep underground or somewhere away from a window."
-    n ""
+    n "Stupido turno di notte, è impossibile riposare un numero decente di ore, a meno che non dormi sottoterra o lontano da una finestra."
 
             
 # game/common.rpy:1451
 translate italian common_de4b8679:
 
     # n "Maybe I should invest in a coffin. More style points than a sleeping mask, that's for sure."
-    n ""
+    n "Forse dovrei investire in una bara. Più punti stile di una mascherina per dormire, su questo non c'è dubbio."
 
             
 # game/common.rpy:1458
 translate italian common_34cff204:
 
     # mc "\"Nnnnnh…\""
-    mc ""
+    mc "\"Nnnnnh…\""
 
             
 # game/common.rpy:1460
 translate italian common_55dd7950:
 
     # n "Groaning, I eventually force myself out of bed and stumble over to the kitchen to put on some coffee."
-    n ""
+    n "Bofonchiando, alla fine riesco a costringermi ad uscire dal letto e barcollare fino alla cucina per farmi un caffè."
 
             
 # game/common.rpy:1462
 translate italian common_1bf97cae:
 
     # n "Work doesn't start for awhile yet, so I can do a little freelancing today."
-    n ""
+    n "Manca ancora qualche ora ad andare a lavoro, quindi posso lavorare un po' al mio progetto da freelancer. "
 
             
 # game/common.rpy:1463
 translate italian common_c0f12c87:
 
     # n "I'm only working at the diner to save up some money on the side, anyway."
-    n ""
+    n "Lavoro alla tavolacalda solo per mettermi da parte qualche sonno, alla fine. "
 
             
 # game/common.rpy:1464
 translate italian common_d4640cb1:
 
     # n "My real passion is –"
-    n ""
+    n "Ls mis vera passione è-"
 
             
 # game/common.rpy:1467
 translate italian strings:
 
     old "Writing"
-    new ""
+    new "Scrivere"
     
                 
 # game/common.rpy:1467
 translate italian strings:
 
     old "Music"
-    new ""
+    new "Suonare"
     
                 
 # game/common.rpy:1467
 translate italian strings:
 
     old "Art"
-    new ""
+    new "Disegnare"
     
                 
 # game/common.rpy:1471
 translate italian common_fe159c70:
 
     # n "I've always wanted to become a famous author, but right now, all I can do is churn out e-books to try and build up my name."
-    n ""
+    n "Ho sempre voluto diventare un famoso scrittore, ma al momento, tutto quello che posso fare è sfornare e-book per cercare di farmi un nome. "
 
             
 # game/common.rpy:1472
 translate italian common_5086b2bc:
 
     # n "Occasionally I'll get a paid gig, too, like a commissioned short story."
-    n ""
+    n "Alle volte mi pagano per un lavoro, come una racconto breve su commissione."
 
             
 # game/common.rpy:1473
 translate italian common_ecbd0cce:
 
     # n "…Although mostly, it's just porn. {w}Let me tell you, people pay a {i}lot{/i} for their weird erotica."
-    n ""
+    n "...Anche se più che altro, è porno. {w}Fattelo dire, le persone pagano {i}un botto{/i} di soldi per la loro strana letteratura erotica."
 
             
 # game/common.rpy:1475
 translate italian common_a549bbb2:
 
     # n "But one day, I'll make it big as a writer. Even if it's as a famous porn writer, it still counts."
-    n ""
+    n "Ma un giorno, riuscirò a diventare un grande scrittore. Anche se un famoso scrittore di porno, conta uguale."
 
             
 # game/common.rpy:1480
 translate italian common_c03603de:
 
     # n "I love making music, even though I never had any formal training."
-    n ""
+    n "Amo fare musica, anche se non ho mai avuto una formazione vera e propria."
 
             
 # game/common.rpy:1481
 translate italian common_38f943b8:
 
     # n "But there's something really soothing about bringing to life the beats and melodies in my head, so I spend a lot of my free time working on new tracks."
-    n ""
+    n "Eppure c'è qualcosa di davvero rilassante nel dare vira a ritmi e melodie nella mia testa, quindi passo molto del mio tempo libero a lavorare a nuove tracce."
 
             
 # game/common.rpy:1482
 translate italian common_940955fe:
 
     # n "I've worked on a few small games and student films, but I'd like to really reach the stars one day… {w}or at least get out of the bottom five percent on Cloudsound."
-    n ""
+    n "Ho lavorato a qualche piccolo gioco a film studentesco, ma mi piacerebbe arrivare al top un giorno... {w}o almeno uscire dal 5% degli artisti meno ascoltati su Cloudsound."
 
             
 # game/common.rpy:1487
 translate italian common_aac35b10:
 
     # n "Ever since I was a little kid, there were always a bunch of fantastical creatures and places I wanted to draw."
-    n ""
+    n "Sin da quando ero bambino, ci sono sempre state un sacco di creature fantastiche e di ambientazioni che volevo disegnare."
 
             
 # game/common.rpy:1488
 translate italian common_5be7568e:
 
     # n "I've gotten good enough to make some money from commissions now and then, but there are so many great artists out there who're better than me."
-    n ""
+    n "Sono diventato abbastanza bravo da fare qualche soldo con delle commissioni qua e là, ma ci sono così tanti grandi artisti più bravi di me al mondo."
 
             
 # game/common.rpy:1489
 translate italian common_b50254e9:
 
     # n "I'm doing my best to improve, hoping that eventually, people will say \"I recognize that artist!\" rather than \"what weird anatomy.\""
-    n ""
+    n "Sto facendo del mio meglio per migliorare, sperando che prima o poi, le persone dicano \"Riconosco quest'artist!\", piuttosto di "che strana "
 
             
 # game/common.rpy:1496
 translate italian common_aa77cdbd:
 
     # n "–Anyway, I have some time to spare, so I plop down in my office chair with coffee mug in hand."
-    n ""
+    n "-Comunque, ho un po' di tempo libero, quindi mi butto sulla mia sedia da ufficio con la mia tazza di caffè fumante in mano."
 
             
 # game/common.rpy:1501
 translate italian common_4f46a46b_8:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/common.rpy:1502
 translate italian common_e9a12230:
 
     # n "…But the moment I stare at my computer screen, I suddenly remember what happened last night."
-    n ""
+    n "...Ma appena poggio gli occhi sullo schermo, all'improvviso mi ricordo di quello che è successo las corsa notte."
 
             
 # game/common.rpy:1510
 translate italian common_3c0804d9:
 
     # n "Back on that dark street…"
-    n ""
+    n "In quella strada buia..."
 
             
 # game/common.rpy:1517
 translate italian common_6cca6811_1:
 
     # i "\"You might even see a friend of yours there. Or maybe {i}customer{/i} is a better word…?\""
-    i ""
+    i "\"Potresti anche incontrare un tuo amichetto. O forse {i}cliente{/i} è la parola giusta...?\""
 
             
 # game/common.rpy:1518
