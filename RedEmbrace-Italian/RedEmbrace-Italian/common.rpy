@@ -3924,245 +3924,245 @@ translate italian common_09897f0c:
 translate italian common_bdb1ef76:
 
     # u "\"Seriously? You wanna drain him that bad?\""
-    u ""
+    u "\"Sei serio? Lo vuoi prosciugare a tal punto?\""
 
             
 # game/common.rpy:1849
 translate italian common_2753b6d2:
 
     # d "\"…Enough.\""
-    d ""
+    d "\"...Basta.\""
 
             
 # game/common.rpy:1850
 translate italian common_6fe5e86a:
 
     # d "\"Don't bring him into this.\""
-    d ""
+    d "\"Non metterlo in mezzo a questa storia.\""
 
             
 # game/common.rpy:1851
 translate italian common_786bbd52:
 
     # n "Dominic's eyes narrow into slits as he stares at the man in the leather jacket, who's laughing as if he just heard the best joke on earth."
-    n ""
+    n "Gli occhi di Dominic si trasformano in fessure mentre fissa il ragazzo con la giacca in pelle, che ridere come se avesse appena ascoltato la battuta più divertente del mondo."
 
             
 # game/common.rpy:1854
 translate italian common_ee2e03ef:
 
     # u "\"Hahaha–! Wow, wow! In that case, I'm gonna get my hands on him first!\""
-    u ""
+    u "\"Hahaha-! Wow, wow! In tal caso, ci metterò le mani sopra per primo!\""
 
             
 # game/common.rpy:1857
 translate italian common_2a7fb391:
 
     # u "\"Because… I wanna see you get way, way madder, Dom~\""
-    u ""
+    u "\"Perché... Voglio vederti incazzarti molto, molto di più, Dom~\""
 
             
 # game/common.rpy:1858
 translate italian common_85565b93:
 
     # n "Rather abruptly, the tattooed man's face freezes, and his grin fades to a frigid, bloodthirsty expression."
-    n ""
+    n "In modo piuttoato repentino, la faccia del regazzo tatuato si congela, il suo sorriso si trasforma in una gelida espressione: era assetato di sangue."
 
             
 # game/common.rpy:1860
 translate italian common_a931c60a:
 
     # u "\"I wanna see you suffer…\""
-    u ""
+    u "\"Voglio vederti soffrire...\""
 
             
 # game/common.rpy:1863
 translate italian common_9b236b27:
 
     # u "\"…Until you stop thinking of us as a fuckin' joke!\""
-    u ""
+    u "\"...Finché non smetterai di vederci come dei fottuti fenomeni da baraccone!\""
 
             
 # game/common.rpy:1869
 translate italian common_14f95346:
 
     # n "Just like that, he charges Dominic again, recklessly swinging frantic punches."
-    n ""
+    n "E con questo, si butta di nuovo addosso a Domini, sferrando frenetici pugni all'impazzata."
 
             
 # game/common.rpy:1870
 translate italian common_98082d8f:
 
     # n "This time, though, he seems to be moving even faster than before, and his strikes are full of rage."
-    n ""
+    n "Questa volta, però, sembra che si stia muovendo ancora più velocemente di prima e ogni pugno e colmo di rabbia."
 
             
 # game/common.rpy:1872
 translate italian common_8ba089a0:
 
     # dp "\"–!\""
-    dp ""
+    dp "\"-!\""
 
             
 # game/common.rpy:1873
 translate italian common_f995e16c:
 
     # n "The assault is so powerful that Dominic retreats a little, losing a few feet of ground to the other man, who's clearly fueled by fury."
-    n ""
+    n "Lìassalto è così potente da far indietreggiare Dominic, che perde qualche metro in favore dell'altro ragazzo, chiaramente alimentato dall'ira."
 
             
 # game/common.rpy:1878
 translate italian common_20691297:
 
     # n "–They dodge and swipe at each other so quickly that my eyes can hardly follow their movements."
-    n ""
+    n "-Schivano e cercano di colpirsi a tale velocità che i miei occhi riescono a malapena a seguirli."
 
             
 # game/common.rpy:1879
 translate italian common_8d5dd353:
 
     # n "Their speed is completely inhuman, and the more I watch them, the more my blood runs cold."
-    n ""
+    n "Una rapidità del genere è inumana, e più li osservo, più il sangue mi si raggela nelle vene."
 
             
 # game/common.rpy:1882
 translate italian common_fc3ac0f7:
 
     # n "Is it possible… {w}that they're really {i}not{/i} human?"
-    n ""
+    n "É possibile... {w}che siano davvero {i}non{/i} umani?"
 
             
 # game/common.rpy:1883
 translate italian common_4850387a:
 
     # n "When my mind flashes back to the redhead's sharp fangs…"
-    n ""
+    n "Quando la mia mente è tornata ai canini appunti del tizio rosso..."
 
             
 # game/common.rpy:1884
 translate italian common_fffc8119:
 
     # extend " my stomach tightens, and a shiver wracks my body."
-    extend ""
+    extend "il mio stomaco si rigira e un brivido mi trapassa il corpo."
 
             
 # game/common.rpy:1889
 translate italian common_9a0e444b:
 
     # u "\"C'mere, Dom! I'm not gonna let you run away this time!\""
-    u ""
+    u "\"Vieni qui, Dom! Non ti lascerò scappare stavolta!\"""
 
             
 # game/common.rpy:1891
 translate italian common_0dbc1f31:
 
     # n "With a menacing howl, the tattooed man leaps up –{w} pushing himself off the wall to launch forward towards Dominic."
-    n ""
+    n "COn un ululato minaccioso, l'uomo tatuato salta - {w} si da una spinta sul muro e si lancia verso Dominic."
 
             
 # game/common.rpy:1894
 translate italian common_a5013513:
 
     # dp "\"Ngh…!\""
-    dp ""
+    dp "\"Ngh...!\""
 
             
 # game/common.rpy:1900
 translate italian common_4fd2f62c:
 
     # n "When he doesn't manage to dodge in time, their bodies collide, and they tumble to the ground."
-    n ""
+    n "Questa volta non riesce a schivarlo in tempo, i loro corpi si scontrano e cadono a terra."
 
             
 # game/common.rpy:1902
 translate italian common_34d20ccb:
 
     # n "–At this rate, one of them's going to end up torn open."
-    n ""
+    n "-Di questo passo, uno di loro finirà squartato."
 
             
 # game/common.rpy:1903
 translate italian common_afdc07e0:
 
     # n "If I try to do something, they might turn on me, but can I really just stand here–?"
-    n ""
+    n "Se provo a fare qualcosa, potrebbero prendersela con me, ma posso stare qui e basta-?"
 
             
 # game/common.rpy:1905
 translate italian strings:
 
     old "Watch the fight"
-    new ""
+    new "Assisti al combattimento"
     
                 
 # game/common.rpy:1905
 translate italian strings:
 
     old "Try to stop them"
-    new ""
+    new "Cerca di fermarli"
     
                 
 # game/common.rpy:1910
 translate italian common_ea03934b:
 
     # n "…No, I shouldn't say anything."
-    n ""
+    n "...No, non dovrei direi niente."
 
             
 # game/common.rpy:1911
 translate italian common_3877201f:
 
     # n "These guys are obviously monsters, so if I involve myself now, I'll just get torn apart."
-    n ""
+    n "Questi tizi sono chiaramente dei mostri, quindi se mi metto in mezzo adesso, sarò semplicemente fatto a pezzi."
 
             
 # game/common.rpy:1913
 translate italian common_1c9c0ae0:
 
     # n "And… their fighting is strangely mesmerizing to watch, even if it's a whole other level of deadly."
-    n ""
+    n "EE poi... il loro scontro è stranamente affascinante da osservare, anche se è tutto un altro livello di fatalità."
 
             
 # game/common.rpy:1921
 translate italian common_1d76142b:
 
     # n "…I have to say something."
-    n ""
+    n "...Devo dire qualcosa."
 
             
 # game/common.rpy:1922
 translate italian common_e3e6433d:
 
     # n "Monster or not, I don't want to see someone get ripped apart in front of me!"
-    n ""
+    n "Mostro o no, non voglio vedere qualcuno fatto a pezzi davanti ai miei occhi!"
 
             
 # game/common.rpy:1924
 translate italian common_d7e31bb2:
 
     # mcp "\"Dominic! Stop!\""
-    mcp ""
+    mcp "\"Domini! Fermati!\""
 
             
 # game/common.rpy:1925
 translate italian common_50659b09:
 
     # mcp "\"Just throw him off and run!\""
-    mcp ""
+    mcp "\"Spingilo via e scappa!\""
 
             
 # game/common.rpy:1929
 translate italian common_e603bb6a:
 
     # dp "\"…!\""
-    dp ""
+    dp "\"...!\""
 
             
 # game/common.rpy:1930
 translate italian common_b3ec2fb0:
 
     # n "Dominic seems to hear my words, but he keeps struggling with the violent redhead, who's clawing at him with everything he's got."
-    n ""
+    n "Dominic sembra aver sentito le mie parole, ma continua a combattere con il violento tizio rosso, che lo sta attaccando con tutte le sue forze."
 
             
 # game/common.rpy:1934
