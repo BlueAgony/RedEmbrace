@@ -4561,335 +4561,335 @@ translate italian common_781f14b4:
 translate italian common_9291c7e8:
 
     # i "\"Not really, no. Not like Rex and Dominic here, anyway.\""
-    i "Non davvero, no. Non come hanno fatto Rex e Dominic adesso, comunque."
+    i "Non davvero, no. Non come Rex e Dominic adesso, comunque."
             
             
 # game/common.rpy:2073
 translate italian common_741bcfba:
 
     # rp "\"Don't lump me in with that piece of shit, Isaac…!\""
-    rp ""
+    rp "\"Non mettermi sullo stesso piano di quel pezzo di merda, Isaac...!\""
 
             
 # game/common.rpy:2074
 translate italian common_ee4e22b0:
 
     # n "Rex loudly protests from where he leans against the wall, glaring at us."
-    n ""
+    n "Protesta Rex dal muro sui cui è poggiato, lanciandoci un occhiataccia."
 
             
 # game/common.rpy:2076
 translate italian common_e0313b0e:
 
     # i "\"Of course, I'm so sorry. Now, back to the subject at hand, [mc]…\""
-    i ""
+    i "\"Giusto, mi dispiace tanto. Ora tornano alle cose importanti, [mc]…\""
 
             
 # game/common.rpy:2083
 translate italian common_d49e6872:
 
     # n "Just as Isaac rolls his eyes and starts up again, a pair of light footsteps echoes from down the alley."
-    n ""
+    n "Proprio come Isaac gira occhi al cielo e ricominci a parlare, dei passi leggeri echeggiano dal fondo del vicolo."
 
             
 # game/common.rpy:2084
 translate italian common_16f67002:
 
     # n "–Several moments later, a short blond rushes up beside Isaac, panting a little."
-    n ""
+    n "-Qualche secondo dopo, un ragazzo biondo e bassino corre e si ferma accanto ad Isaac, ansimando."
 
             
 # game/common.rpy:2089
 translate italian common_69c53402:
 
     # l "\"Haah… phew…\""
-    l ""
+    l "\"Aaah... fiù...\""
 
             
 # game/common.rpy:2091
 translate italian common_4bdc43df:
 
     # l "\"I-Isaac, I'm sorry I'm la– eh?!\""
-    l ""
+    l "\"I-Isaac, scusami sono in ritar-eh?!\""
 
             
 # game/common.rpy:2092
 translate italian common_940e91a3:
 
     # n "Halfway through his sentence, Luka breaks off sharply."
-    n ""
+    n "A metà frase, Luka si interrompe di colpo."
 
             
 # game/common.rpy:2093
 translate italian common_3fbec868:
 
     # n "He stares at me with saucer-like eyes, and I stare back in astonishment."
-    n ""
+    n "Mi fissa con gli occhi sbarrati; io faccio lo stesso, sbigottito."
 
             
 # game/common.rpy:2095
 translate italian common_53835436:
 
     # mcp "\"Luka…?\""
-    mcp ""
+    mcp "\"Luka...?\""
 
             
 # game/common.rpy:2098
 translate italian common_67fc5ed7:
 
     # mcp "\"Hang on a second… Were {i}you{/i} the one who told Isaac that I met Dominic?\""
-    mcp ""
+    mcp "\"Aspetta un attimo... Sei stato {i}tu{/i} a dire a Isaac che avevo incontrato Dominic?\""
 
             
 # game/common.rpy:2100
 translate italian common_7ed50faa:
 
     # n "As bizarre as the whole situation is, the pieces are starting to fall into place."
-    n ""
+    n "Per quanto bizzarra potesse essere la situazione, i pezzi del puzzle stavano iniziando a incrastrarsi fra loro."
 
             
 # game/common.rpy:2101
 translate italian common_f6577961:
 
     # n "This little brat was trying to get me to tell him about 'shady' types – {w}in other words, find people who might be vampires for him…?"
-    n ""
+    n "Questo moccioso stava chercando di farmi parlare di tizi 'particolari' - {w}in altre parole, trovargli persone che che potrebbero essere dei vampiri...?"
 
             
 # game/common.rpy:2104
 translate italian common_71423380_1:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/common.rpy:2105
 translate italian common_f461d2de:
 
     # n "Luka's surprised, then flustered, reaction confirms my suspicions, and he averts his gaze sheepishly."
-    n ""
+    n "Luka pass da essere sorpreso ad essere agitato; la sua reazione conferma i miei sospetti e lui distoglie lo sguardo intimidito."
 
             
 # game/common.rpy:2106
 translate italian common_61693677:
 
     # l "\"Yeah, so? It was pretty clear you were trying to protect him…\""
-    l ""
+    l "\"Sì, e quindi? Era piuttosto chiaro che stav cercando di proteggerlo...\""
 
             
 # game/common.rpy:2107
 translate italian common_abe6aa15:
 
     # n "At that, Luka's eyes flick over towards Dominic, taking on a certain sharpness."
-    n ""
+    n "Detto questo, lo sguardo di Luka si posa su Dominic con una certa aggressività.
 
             
 # game/common.rpy:2108
 translate italian common_fcbc0a4c:
 
     # n "He glances over at Rex with the same hateful look, too. {w}Does Luka know both of them already?"
-    n ""
+    n "Riserva a Rex lo stesso sguardo di odio. {w}Luka li conosce già entrambi?"
 
             
 # game/common.rpy:2111
 translate italian common_66c708e0:
 
     # ip "\"…All right, let's not get too excited.\""
-    ip ""
+    ip "\"...D'accordo, non ci scaldiamo troppo.\""
 
             
 # game/common.rpy:2117
 translate italian common_7e171d64:
 
     # n "Letting out a long sigh, Isaac pinches the bridge of his nose with his thumb and forefinger."
-    n ""
+    n "Lasciandosi andare ad un lungo sospiro, Isaac si stringe il ponte del naso fra indice e pollice. "
 
             
 # game/common.rpy:2119
 translate italian common_b58bd83c:
 
     # i "\"It seems there's some miscommunication going on here. You see –\""
-    i ""
+    i "\"Sembra che ci sia qualche problema di comunicazione qui. Vedi -\""
 
             
 # game/common.rpy:2121
 translate italian common_81c7f156:
 
     # u "\"–I'll split your fucking skull open!\""
-    u ""
+    u "\"-Ti spacco la testa!\""
 
             
 # game/common.rpy:2123
 translate italian common_1f5d5290:
 
     # n "…During Isaac's second attempt to explain the situation to me, an entirely different noise splits through the air."
-    n ""
+    n "...Mentre Isaac cercava per la seconda volta di spiegarmi la situazione, un rumore completamente diverso taglia l'aria."
 
             
 # game/common.rpy:2124
 translate italian common_9e2ae72d:
 
     # u "\"Oh, yeah? I'd like to see you try! Hahaha!\""
-    u ""
+    u "\"Ah, si? Provaci! Ahahah!\""
 
             
 # game/common.rpy:2125
 translate italian common_22419ebe:
 
     # n "The not-so-distant sound of a fight floods towards us from a neighboring alleyway."
-    n ""
+    n "Il rumore non così distante di uno scontro ci indonda le orecchie, proviene da un vicolo vicino."
 
             
 # game/common.rpy:2126
 translate italian common_85da09b8:
 
     # n "It's not just two voices, either. {w}Actually, it sounds like a lot more than that… like a party of the worst, bloodiest kind."
-    n ""
+    n "Non sono solo due voci. {w}In realtà, sembrano molte di più... come se ci fosse un orribile, sanguinosa festa."
 
             
 # game/common.rpy:2129
 translate italian common_91e1b6fd:
 
     # i "\"Ugh. This is getting to be downright comical.\""
-    i ""
+    i "\"Ugh. La situazione sta per diventare davvero comica.\""
 
             
 # game/common.rpy:2131
 translate italian common_35567cf1:
 
     # i "\"Of course they'd decide to go at it tonight… animals, really.\""
-    i ""
+    i "\"Ovviamente decidono di darsele proprio stanotte... animali, davvero.\""
 
             
 # game/common.rpy:2132
 translate italian common_b8c23244:
 
     # n "Despite the scornful nature of his words, Isaac seems to brighten up all of a sudden."
-    n ""
+    n "Nonostante la natura sdegnosa delle sue parole, Isaac sembra tutt'a un tratto sollevato."
 
             
 # game/common.rpy:2138
 translate italian common_9ba3bd6c:
 
     # l "\"Damn it… why are the clans fighting now, of all times? Is every vampire in San Francisco out here tonight?\""
-    l ""
+    l "\"Cazzo... perchè i clan stanno litigando adesso, di tutti momenti possibili? Ogni vampiro di San Francisco si trova da qeuste parti stanotte?\""
 
             
 # game/common.rpy:2139
 translate italian common_27a33361:
 
     # n "Luka sounds irritated, even though Isaac is obviously pleased. Some kind of gang war must be going on."
-    n ""
+    n "Luka sembra irritato, anche se Isaac è chiaramente compiaciuto. Ci deve essere qualche faida fra clan in atto."
 
             
 # game/common.rpy:2145
 translate italian common_92fcd8a8:
 
     # n "The second I open my mouth to ask a question, however, Isaac takes off running – {w}directly towards the source of the noise."
-    n ""
+    n "Nel momento stesso in qui apro la bocca per fare una domanda, tuttavia, Isacc se ne va correndo - {w}dritto in direzione del rumore."
 
             
 # game/common.rpy:2147
 translate italian common_d45ee776:
 
     # l "\"Wait, Isaac! Where are you –\""
-    l ""
+    l "\"Aspetta, Isaac! Dove stai an-\""
 
             
 # game/common.rpy:2152
 translate italian common_491cafab:
 
     # n "Luka starts to jog after Isaac with an exasperated cry, glaring at the other man's back."
-    n ""
+    n "Luka inizia a correre dietro Isaac urlando esasperato con occhi fissati sulla sciena dell'altro."
 
             
 # game/common.rpy:2157
 translate italian common_01baaab5_1:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/common.rpy:2158
 translate italian common_b89f933a:
 
     # n "At the same time, Dominic turns to head in the opposite direction, apparently disinterested."
-    n ""
+    n "Intanto, Dominic si volta nella direzione opposta, apperentemente disinteressato alla faccenda."
 
             
 # game/common.rpy:2161
 translate italian common_a12369e7:
 
     # n "His long strides take him towards the end of the alley quickly, making it clear that he doesn't want to stick around."
-    n ""
+    n "Le sue lunghe falcate lo fanno arrivare in fretta alla fine del vicolo, rendondo chiaro che non volesse rimanere lì."
 
             
 # game/common.rpy:2166
 translate italian common_8e1d5fc2:
 
     # n "–Rex, however, makes a beeline straight for… me?!"
-    n ""
+    n "-Rex, al cotrario, viene dritto verso di...me?!"
 
             
 # game/common.rpy:2168
 translate italian common_8c2f6d0f:
 
     # r "\"Just you and me now, baby~ Don't be shy!\""
-    r ""
+    r "\"Siamo solo tu e io adesso, baby~ Non essere timido!\""
 
             
 # game/common.rpy:2170
 translate italian common_099b0688:
 
     # n "…Oh, boy."
-    n ""
+    n "...Oh, cazzo."
 
             
 # game/common.rpy:2171
 translate italian common_4336ae6f:
 
     # n "This night just went from bad to awful in the span of about fifteen minutes."
-    n ""
+    n "Questa notte è passata da brutta a terribbile nel giro di circa 15 minuti."
 
             
 # game/common.rpy:2172
 translate italian common_d237065a:
 
     # n "But if I want to figure out what the hell's going on with these guys, I'd better choose what to do right now –"
-    n ""
+    n "Ma se voglio cercare di capire cosa diamine stia succedendo, devo scegliere bene cosa fare adesso -"
 
             
 # game/common.rpy:2174
 translate italian strings:
 
     old "Chase after Dominic"
-    new ""
+    new "Rincorri Dominc"
     
                 
 # game/common.rpy:2174
 translate italian strings:
 
     old "Follow Luka (unlocked)"
-    new ""
+    new "Segui Luka (sbloccato)"
     
                 
 # game/common.rpy:2174
 translate italian strings:
 
     old "Follow Luka"
-    new ""
+    new "Segui Luka"
     
                 
 # game/common.rpy:2174
 translate italian strings:
 
     old "Catch up with Isaac"
-    new ""
+    new "Raggiungi Isaac"
     
                 
 # game/common.rpy:2174
 translate italian strings:
 
     old "Run away from Rex"
-    new ""
+    new "Scappa da Rex"
     
                 
