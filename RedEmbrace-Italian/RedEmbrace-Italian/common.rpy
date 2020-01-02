@@ -4169,161 +4169,161 @@ translate italian common_b3ec2fb0:
 translate italian common_13ed48af:
 
     # n "Biting my lip, I watch the two men tussle frantically, their grunts filling the air, until –"
-    n ""
+    n "Morendomi il labbro, li guardo picchiarsi freneticamente, i loro grugniti riempivano l'aria, finchè a un certo punto -"
 
             
 # game/common.rpy:1936
 translate italian common_daf814b3:
 
     # u "\"…Whoa, what's going on here?\""
-    u ""
+    u "\"...Woah, che sta succedendo qui?\""
 
             
 # game/common.rpy:1937
 translate italian common_1bbec82d:
 
     # u "\"Gentlemen, can you put things on hold for a moment?\""
-    u ""
+    u "\"Signori, potete mettere la cosa in pausa un momento?\""
 
             
 # game/common.rpy:1941
 translate italian common_1feefa32:
 
     # dp "\"…\""
-    dp ""
+    dp "\"...\""
 
             
 # game/common.rpy:1942
 translate italian common_59bd454b:
 
     # urp "\"…\""
-    urp ""
+    urp "\"...\""
 
             
 # game/common.rpy:1944
 translate italian common_9b5c4f7a:
 
     # n "And at that instant, the fighting stops completely."
-    n ""
+    n "In quell'istante, lo scontro si ferma completamente.
 
             
 # game/common.rpy:1950
 translate italian common_e6d7ef60:
 
     # n "A tall figure approaches us from the alley's entrance, his face flashing into view under the streetlamp."
-    n ""
+    n "Una sagoma alta si avvicina dall'entrata del vicolo, la sua facia comprare all'improvviso illuminata dalla luce del lampione."
 
             
 # game/common.rpy:1953
 translate italian common_e6d2d0fa:
 
     # mcp "\"Isaac…?\""
-    mcp ""
+    mcp "\"Isaac...?\""
 
             
 # game/common.rpy:1955
 translate italian common_8df6c9d7_3:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/common.rpy:1956
 translate italian common_b74d15b3:
 
     # n "After frowning at Dominic and the tattooed man, Isaac turns towards me, his eyebrows shooting upwards."
-    n ""
+    n "Dopo aver fulminato con lo sguardo Dimonic e il tipo tatuato, Isaac si gira verso di me, le sue sopracciglia scattano verso l'alto per la sopresa. "
 
             
 # game/common.rpy:1960
 translate italian common_653b14b7:
 
     # i "\"Oh, you came after all!\""
-    i ""
+    i "\"Oh, se venuto alla fine!\""
 
             
 # game/common.rpy:1962
 translate italian common_9e5f4dae:
 
     # i "\"Sorry you had to see these two at their worst – but I {i}did{/i} promise Dom would be here, didn't I?\""
-    i ""
+    i "\"Mi dispiace tu abbia dovto vedere questi due al loro peggio, ma ti avevo {i}promesso{/i} che Dom ci sarebbe stato, giusto?\""
 
             
 # game/common.rpy:1965
 translate italian common_4f46a46b_11:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/common.rpy:1968
 translate italian common_ff87b45f:
 
     # n "–So that's who Isaac was referring to?"
-    n ""
+    n "-Oh quindi è a lui che si riferiva Isaac?"
 
             
 # game/common.rpy:1969
 translate italian common_1ae40a7c:
 
     # n "How the hell did he know that I had met Dominic? {w}Wasn't that just a few hours before I saw Isaac?"
-    n ""
+    n "Come cazzo faceva a sapere che avevo conosciuto Dominic? {w}Non è successo solo qualche ora prima di vedere Isaac?"
 
             
 # game/common.rpy:1970
 translate italian common_0f5856eb:
 
     # n "He never came into the diner, either… so someone must have told him."
-    n ""
+    n "Non è nemmeno mai entrato nel locale... qualcuno deve averglielo detto."
 
             
 # game/common.rpy:1974
 translate italian common_f19dcebd:
 
     # u "\"Fuck off, Isaac! You're not gonna stop me from tearing this shithead a new – ngh!\""
-    u ""
+    u "\"Fottiti, Isaac! Non mi fermerai dal fare a pezzi questo pezzo di - ngh!\""
 
             
 # game/common.rpy:1978
 translate italian common_b2d3144c:
 
     # n "Before the redhead can finish his sentence, Dominic suddenly throws him off with a grunt."
-    n ""
+    n "Prima che il tipo dai capelli rossi potesse finire la frase, Dominic lo spinge via con grugnito."
 
             
 # game/common.rpy:1981
 translate italian common_a05ac4aa:
 
     # n "He slams against the ground a few feet away, letting out a pained wheeze."
-    n ""
+    n "Si schianta al suolo qualche metro più lontano, emettendo un rantolo di dolore."
 
             
 # game/common.rpy:1985
 translate italian common_ef8ca4b4:
 
     # n "Chuckling, Isaac pushes up his glasses, looking completely unfazed."
-    n ""
+    n "Ridacchiando, Isaac si tira su gli occhi, senza mostrare un minimo di preoccupazione."
 
             
 # game/common.rpy:1987
 translate italian common_6e1bce41:
 
     # i "\"Really, Rex, you need to learn when to hold back. You're going to embarrass even your Helgen brothers.\""
-    i ""
+    i "\"Davvero, Rex, dovresti imparare a darti una calmata quando serve. Metterai in imbarazzo tutti i tuoi fratelli Helgen.\""
 
             
 # game/common.rpy:1990
 translate italian common_9e690118:
 
     # r "\"…\""
-    r ""
+    r "\"...\""
 
             
 # game/common.rpy:1991
 translate italian common_d086af98:
 
     # n "As if Isaac just flipped a switch, the leather jacketed man seems to lose all of his bloodlust."
-    n ""
+    n "A queste parole, l'uomo con la giacca in pelle sembra perdere tuta la sua sete di sangue, come se Isaac avesse spento un interrutore."
 
             
 # game/common.rpy:1993
@@ -4337,232 +4337,232 @@ translate italian common_1725c500:
 translate italian common_0829513f:
 
     # r "\"Ngh, whatever… Stupid old man…\""
-    r ""
+    r "\"Ngh, va bene... Vecchio scemo...\""
 
             
 # game/common.rpy:2001
 translate italian common_4d192398:
 
     # n "–After Rex mutters a reply, the electric tension in the air around us gradually fades."
-    n ""
+    n "Rex mugnugna risposta. Subito dopo la tensione elettrica nell'aria inzia a sciogliersi gradualmente."
 
             
 # game/common.rpy:2002
 translate italian common_1b73b579:
 
     # n "It's replaced by an uncomfortable, awkward pause, and the four of us exchange glances for a few seconds."
-    n ""
+    n "Solo per essere sostituita da un imbrazzante silenzio, durante il quale ci scambiamo occhiate a vicenda."
 
             
 # game/common.rpy:2004
 translate italian common_23f2234e:
 
     # n "But after the adrenaline cloud in my brain finally dissolves, I take a deep breath and turn to Isaac."
-    n ""
+    n "Ma una volta che i miei livelli di adrenalina nelle vene tornano normali, faccio un respiro prefondo e mi rivolgo ad Isaac."
 
             
 # game/common.rpy:2014
 translate italian common_900afc3c:
 
     # mc "\"So, are you gonna explain what the hell is going on here?\""
-    mc ""
+    mc "\"Allora, hai intenzione di spiegarmi cosa cazzo sta succedendo qui?\""
 
             
 # game/common.rpy:2017
 translate italian common_ba71c648:
 
     # mc "\"Sorry to ruin the moment, but some kind of explanation for all of this would be great.\""
-    mc ""
+    mc "\"Mi dispiace rovinare il momento, ma sarebbe fanstico se potesi darmi qualche tipo di spiegazione di quello che sta accadendo."
 
             
 # game/common.rpy:2018
 translate italian common_28070031:
 
     # n "My voice, which cracks slightly with anxiety, breaks the long moment of silence."
-    n ""
+    n "La mia voce, leggermente spezzata dall'ansia, rompe il lungo momento di silenzio."
 
             
 # game/common.rpy:2020
 translate italian common_00ab1861:
 
     # n "Dominic, Rex, and Isaac all stare at me, and now I understand how a rabbit must feel in a den of wolves."
-    n ""
+    n "Dominic, Rex e Isaac mi osservano senza dire una parola, ora capisco come si sente un coniglio in mezzo a un branco di lupi."
 
             
 # game/common.rpy:2023
 translate italian common_9b211a09:
 
     # mc "\"These guys… they're not {i}normal.{/i}\""
-    mc ""
+    mc "\"Questi tizi... non sono {i}normali.{/i}\""
 
             
 # game/common.rpy:2024
 translate italian common_57651df6:
 
     # mc "\"You know that, don't you, Isaac?\""
-    mc ""
+    mc "\"Ma già lo sai, non è vero, Isaac?\""
 
             
 # game/common.rpy:2027
 translate italian common_0f5d48c9:
 
     # n "When I pose my shaky question, Isaac throws a glance towards Dominic."
-    n ""
+    n "Quando gli porgo la domanda, con la voce tremolante, Isaac lancia uno sguardo strano a Dominic."
 
             
 # game/common.rpy:2030
 translate italian common_1feefa32_1:
 
     # dp "\"…\""
-    dp ""
+    dp "\"...\""
 
             
 # game/common.rpy:2031
 translate italian common_6147ddeb:
 
     # n "For a split second, it looks like Dominic winces faintly, his eyes narrowing."
-    n ""
+    n "Per un millesimo di secondo, Dominc sembra trasalire quasi impercettibilmente, i suoi occhi chiusi in una fessura."
 
             
 # game/common.rpy:2032
 translate italian common_fbb402e9:
 
     # n "But a cold, unreadable look soon washes over his features again."
-    n ""
+    n "Ma uno sguardo freddo e indecifrabile compare di nuovo sul suo viso."
 
             
 # game/common.rpy:2035
 translate italian common_9a6bfc8a:
 
     # i "\"Yes, [mc], I think it's obvious by now that they're not 'normal.'\""
-    i ""
+    i "\"Si, [mc], direi che a questo punto è ovvio che non siano 'normali'\""
 
             
 # game/common.rpy:2036
 translate italian common_2cda683a:
 
     # n "Isaac finally speaks up, and I shift my gaze back over to him quickly."
-    n ""
+    n "Isaac finalmente decide di parlare, e il mio sguardo torna rapidamente su di lui."
 
             
 # game/common.rpy:2038
 translate italian common_ecc862f7:
 
     # i "\"You see, behind the spit-shine gloss of our beloved San Francisco is a much, much darker underbelly… \""
-    i ""
+    i "\"Vedi, dietro la luccicante patina della nostra amata San Francisco c'è un lato molto, molto più oscuro...\""
 
             
 # game/common.rpy:2040
 translate italian common_d4f07674:
 
     # i "\"One that people like you usually go their whole lives without glimpsing.\""
-    i ""
+    i "\"Un lato che di solito le persone come te vivono tutta la vita senza nemmeno avere il sentore della sua esistenza."
 
             
 # game/common.rpy:2041
 translate italian common_c6efcd28:
 
     # n "He straightens his tie with one hand, an impassive smile flickering on his face."
-    n ""
+    n "Si raddrizza la cravatta con una mano, un sorriso impassibile gli lampeggia sul viso."
 
             
 # game/common.rpy:2044
 translate italian common_3a741866:
 
     # i "\"But once you get a taste of that darkness, there's no going back.\""
-    i ""
+    i "\"Ma una volta assaporata l'oscurità, non si può più tornare indietro.\""
 
             
 # game/common.rpy:2046
 translate italian common_97147209:
 
     # i "\"For instance, if a hypothetical, cute little diner-boy decided he wanted to go tell the police a funny story…\""
-    i ""
+    i "\"Per esempio, se ipoteticamente un bel cameriere decidesse di andare a raccontare alla polizia una storiella divertente...\""
 
             
 # game/common.rpy:2049
 translate italian common_bd8786f6:
 
     # i "\"…A tall, scary man in a dark jacket would want to make sure he never says anything else again.\""
-    i ""
+    i "\"...Un uomo alto e spavensoso con una giacca scura vorrebbe assicurarsi che non potesse mai più dire altro.\""
 
             
 # game/common.rpy:2052
 translate italian common_35a28d4c_5:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/common.rpy:2054
 translate italian common_a7a96d0b:
 
     # n "At Isaac's casual threat, I glance back at Dominic in disbelief."
-    n ""
+    n "\"Alla tranquilla minaccia di Isaac, il mio sguardo scivola su Dominc incredulo."
 
             
 # game/common.rpy:2055
 translate italian common_05cacfb5:
 
     # n "His lips are pulled into a grimace as he meets my gaze, and I think I see a hint of guiltiness on his face."
-    n ""
+    n "Le sue labbra sono deformate in una smorfia quando i nostri sguardi si incrociano, e mi embra di intravedere un leggero senso di colpa."
 
             
 # game/common.rpy:2057
 translate italian common_0c33bc5b:
 
     # n "–Does that mean he'd really kill me, just to stop me from telling anyone about what I saw tonight?"
-    n ""
+    n "-Significa che davvero mi uccciderebbe solo per evitare che possa dire in giro quello che ho visto stanotte?"
 
             
 # game/common.rpy:2060
 translate italian common_fed25c03:
 
     # i "\"Of course, that's all hypothetical.\""
-    i ""
+    i "\"Ovviamente, è tutta una cosa ipotetica.\""
 
             
 # game/common.rpy:2061
 translate italian common_aa966580:
 
     # i "\"Humans like us can work with our vampiric companions just fine, assuming no one gets loose lips.\""
-    i ""
+    i "\"Gli umani come noi possono lavorare con i nostri compagni vampiri tranquillamente, a patto che nessuno abbia la lingua lunga.\""
 
             
 # game/common.rpy:2063
 translate italian common_5ab0d955:
 
     # mc "\"Wait… then you're not a vampire?\""
-    mc ""
+    mc "\"Aspetta... non sei un vampiro allora?\""
 
             
 # game/common.rpy:2066
 translate italian common_8df6c9d7_4:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/common.rpy:2067
 translate italian common_63600f91:
 
     # n "My shocked question makes Isaac pause for a second."
-    n ""
+    n "La mia domanda terrorizzata fa rimanere Isacc in silenzio per un secondo."
 
             
 # game/common.rpy:2070
 translate italian common_781f14b4:
 
     # n "However, he quickly lets out a laugh and shakes his head, adjusting his tie with one hand."
-    n ""
+    n "Tuttavia, poco dopo si lascia andare ad una risata e scuote la testa, aggiustandosi la cravatta con una mano."
 
             
 # game/common.rpy:2071
 translate italian common_9291c7e8:
 
     # i "\"Not really, no. Not like Rex and Dominic here, anyway.\""
-    i ""
-
+    i "Non davvero, no. Non come hanno fatto Rex e Dominic adesso, comunque."
+            
             
 # game/common.rpy:2073
 translate italian common_741bcfba:
