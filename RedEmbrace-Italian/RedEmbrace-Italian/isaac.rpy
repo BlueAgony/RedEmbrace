@@ -3,91 +3,91 @@
 translate italian isaac_7e23be04:
 
     # n "–Isaac's no better than the rest of these guys, but at least he seems to know a lot about these vampires."
-    n ""
+    n "Isaac non è migliore degli altri, ma almeno sembra saperne parecchio su questi vampiri."
 
             
 # game/isaac.rpy:6
 translate italian isaac_9ba9b833:
 
     # n "He took off at the speed of light down the alley, though, so I've gotta hurry if I want to catch up!"
-    n ""
+    n "Se ne è andato alla velocità della luce, però, quindi devo muovermi se voglio raggiungerlo!"
 
             
 # game/isaac.rpy:8
 translate italian isaac_9b4bad29:
 
     # mcp "\"Sorry! Maybe some other time!\""
-    mcp ""
+    mcp "\"Scusa! Sarà per un'altra volta!\""
 
             
 # game/isaac.rpy:13
 translate italian isaac_6582764a:
 
     # n "With a hasty shout to Rex, I turn on my heel and sprint after Isaac as fast as I can."
-    n ""
+    n "Liquidato Rex, giro i tacchi e corro verso Isaac più veloce che posso."
 
             
 # game/isaac.rpy:17
 translate italian isaac_c682f5d9:
 
     # lp "\"…!\""
-    lp ""
+    lp "\"...!\""
 
             
 # game/isaac.rpy:18
 translate italian isaac_8670e4d4:
 
     # n "On the way, I pass by Luka, who throws me a shocked stare."
-    n ""
+    n "Per la strada, passo accanto a Luka, che mi lancia uno sguardo sbigottito."
 
             
 # game/isaac.rpy:20
 translate italian isaac_5e0a596d:
 
     # lp "\"Wait, it's dangerous out there! Come back!\""
-    lp ""
+    lp "\"Aspetta, è pericoloso! Torna indietro!\""
 
             
 # game/isaac.rpy:21
 translate italian isaac_a73c7742:
 
     # n "He calls out anxiously to me, but I don't have the energy to shout out a \"Tell me something I don't already know!\" in reply."
-    n ""
+    n "Cerca ansiosamente di attirare la mia attenzione, ma non ho le energie per rispondergli \"DImmi qualcosa che non so!\"."
 
             
 # game/isaac.rpy:30
 translate italian isaac_1bdb159b:
 
     # n "When I get closer to Isaac, he seems to notice my presence, because he slows his pace down a little."
-    n ""
+    n "Quando mi avvicino ad Isaac, sebra notare la mia presenza, perchè rallenta un po' il passo."
 
             
 # game/isaac.rpy:32
 translate italian isaac_213eee0c:
 
     # ip "\"Why, fancy meeting you here, [mc]!\""
-    ip ""
+    ip "\"Hey, bello vederti qui [mc]!\""
 
             
 # game/isaac.rpy:33
 translate italian isaac_6ae9fdde:
 
     # ip "\"Decided you wanted a taste of the fun after all~?\""
-    ip ""
+    ip "\"Hai deciso di avere un assaggio di divertimento alla fine~?\""
 
             
 # game/isaac.rpy:36
 translate italian isaac_03acd814:
 
     # mcp "\"How about you just tell me what the fuck is happening?!\""
-    mcp ""
+    mcp "\"Perchè non mi dici che cazzo sta succedendo e basta?!\""
 
             
 # game/isaac.rpy:39
 translate italian isaac_70fdffc2:
 
     # mcp "\"…Your sense of fun is pretty messed up.\""
-    mcp ""
+    mcp "\"... Quello che intendi con 'divertimento'"
 
             
 # game/isaac.rpy:41

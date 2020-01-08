@@ -223,8 +223,7 @@ translate italian common_e9bd2ed0:
     # n "But he doesn't say anything.{w} He just stares."
     n "Eppure non dice nulla.{w} Mi fissa e basta." 
 
-
-            
+   
 # game/common.rpy:128
 translate italian common_7f77a406:
 
