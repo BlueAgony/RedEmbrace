@@ -87,252 +87,252 @@ translate italian isaac_03acd814:
 translate italian isaac_70fdffc2:
 
     # mcp "\"…Your sense of fun is pretty messed up.\""
-    mcp "\"... Quello che intendi con 'divertimento'"
+    mcp "\"... Quello che intendi con 'divertimento' è roba pittosto da psicopatici.\""
 
             
 # game/isaac.rpy:41
 translate italian isaac_4a420b55:
 
     # ip "\"Hah!\""
-    ip ""
+    ip "\"Hah!\""
 
             
 # game/isaac.rpy:42
 translate italian isaac_5bfca322:
 
     # n "Isaac lets out a bark of laughter, shoving his glasses back up on his face as we run down the street."
-    n ""
+    n "Mentra corriamo, Isacc si lascia andare ad una fragosorosa risata e si rimette a posto gli occhiali."
 
             
 # game/isaac.rpy:44
 translate italian isaac_d4ced7d0:
 
     # ip "\"You saw Rex and Dominic fighting, didn't you?\""
-    ip ""
+    ip "\"Hai visto Rex e Dominic combattare, giusto?\""
 
             
 # game/isaac.rpy:46
 translate italian isaac_6219b212:
 
     # ip "\"How about two whole {i}gangs{/i} of vampires fighting each other?\""
-    ip ""
+    ip "\"Immaginati due intere {i}gang{/i} di vampiri che scontrano.\""
 
             
 # game/isaac.rpy:48
 translate italian isaac_80c04ce2:
 
     # mcp "\"You're insane! Who the hell would want to be in the middle of something like that?\""
-    mcp ""
+    mcp "\"Tu sei pazzo! Chi cazzo vorrebbe ritrovarsi in mezzo a una situazione del genere?\""
 
             
 # game/isaac.rpy:57
 translate italian isaac_68d22559:
 
     # n "My angry question makes Isaac's broad grin darken a little bit, and his eyes flash behind their lenses."
-    n ""
+    n "La mia domanda furiosa fa scendere un velo scuro sul sorriso di Isaac e i suoi occhi luccinano per un secondo dietro le lenti."
 
             
 # game/isaac.rpy:59
 translate italian isaac_e27fb00f:
 
     # i "\"Wouldn't you rather see monsters tearing each other apart rather than attacking humans?\""
-    i ""
+    i "\"Non preferisti vedere dei mostri che si fanno a pezzi a vicenda piuttosto che attaccare umani?\""
 
             
 # game/isaac.rpy:62
 translate italian isaac_095afa32:
 
     # i "\"After all, every dead vampire just makes the world a better place… isn't that something worth watching?\""
-    i ""
+    i "\"Dopottutto, per ogni vampiro che muore,il mondo diventa un posto migliore... Non ti sembra qualcosa che vale la pena di vedere?\""
 
             
 # game/isaac.rpy:65
 translate italian isaac_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:67
 translate italian isaac_2c67774d:
 
     # n "–Was there a strange bitterness in his voice just now, or am I imagining things?"
-    n ""
+    n "-C'era una certa amarezza nella sua voce o me lo sono immaginata?"
 
             
 # game/isaac.rpy:68
 translate italian isaac_6f520641:
 
     # n "No, I definitely heard it. But why did it come on so suddenly…?"
-    n ""
+    n "No, son sicuro di averla percepita. Ma perchè è venuta fuori così allìimprovviso...?"
 
             
 # game/isaac.rpy:75
 translate italian isaac_5f48d619:
 
     # n "Before I can question him about it, we round a corner, and Isaac abruptly stops."
-    n ""
+    n "Prima che io possa chiedergli qualcosa a riguardo, giriamo l'angolo e Isaac di ferma bruscamente."
 
             
 # game/isaac.rpy:76
 translate italian isaac_f6f9d1f5:
 
     # n "There, before us –"
-    n ""
+    n "Lì, davanti a nostri occhi-"
 
             
 # game/isaac.rpy:82
 translate italian isaac_fd27e6cf:
 
     # n "The alley is filled with burly figures clawing and slashing at each other, like wild animals."
-    n ""
+    n "Il vicolo è strapieno figure massice che che si ghermiscono e graffiano a vicenda, come animali salvaggi."
 
             
 # game/isaac.rpy:83
 translate italian isaac_95840ec9:
 
     # u "\"Ahahaha!\""
-    u ""
+    u "\"Ahahaha!\""
 
             
 # game/isaac.rpy:84
 translate italian isaac_2c435acf:
 
     # u "\"Come here, you Helgen piece of shit–!\""
-    u ""
+    u "\"Fatti sotto, Helgen del cazzo-!\""
 
             
 # game/isaac.rpy:85
 translate italian isaac_902c1f2b:
 
     # u "\"I'll rip your head off, bastard!\""
-    u ""
+    u "\"Ti spacco la testa, bastardo!\""
 
             
 # game/isaac.rpy:86
 translate italian isaac_91b26dde:
 
     # n "Angry shrieks and shouts echo in the air."
-    n ""
+    n "Feroci strilla e urla echeggiano nell'aria."
 
             
 # game/isaac.rpy:88
 translate italian isaac_39e7e5e5:
 
     # mcp "\"Uah–!\""
-    mcp ""
+    mcp "\"Woah-!\""
 
             
 # game/isaac.rpy:92
 translate italian isaac_6a0540a1:
 
     # n "I have to quickly duck to dodge a spray of blood, which splatters on the wall behind me."
-    n ""
+    n "Mi devo rapidamente accovaciare per evitare uno schizzo di sangue, che poi finisce sulla parete dietro di me."
 
             
 # game/isaac.rpy:98
 translate italian isaac_4ac5354b:
 
     # mc "\"Isaac, this isn't safe! What the hell are we…\""
-    mc ""
+    mc "\"Isacc, questa cosa non è sicura!  Che cazzo di facciamo...\""
 
             
 # game/isaac.rpy:101
 translate italian isaac_f12745c4:
 
     # mc "\"…Are you taking {i}notes?{/i}\""
-    mc ""
+    mc "\"...Stai prendo {i}appunti?{/i}\""
 
             
 # game/isaac.rpy:106
 translate italian isaac_088fe893:
 
     # n "Open-mouthed, I stare at Isaac, who's scribbling something down on a small pad of paper."
-    n ""
+    n "Fisso Isaac a bocca aperta, mentre scribacchia qualcosa su un pezzetto di carta."
 
             
 # game/isaac.rpy:108
 translate italian isaac_21e456fd:
 
     # i "\"Why do you look so surprised? Didn't I say I was an information broker?\""
-    i ""
+    i "\"Perché sei così sopreso? Non ti avevo detto che sono un information broker?\""
 
             
 # game/isaac.rpy:110
 translate italian isaac_8528d8a8:
 
     # i "\"I have to know who the strongest vampires on the food chain are right now. It's just business, [mc].\""
-    i ""
+    i "\"Devo sapere chi sonno i vampiri più in alto nella catena alimentare al momento. Sono solo affari, [mc].\""
 
             
 # game/isaac.rpy:113
 translate italian isaac_be1c0b5e:
 
     # n "As casually as if he were talking about the weather, Isaac gives me a shrug, then goes back to writing."
-    n ""
+    n "Tranquillo come se stesse parlando del tempo, Isacc mi riserva solo un alzatad i spalle, e poi torna a scrivere."
 
             
 # game/isaac.rpy:116
 translate italian isaac_b4227b26:
 
     # mc "\"You're a madman, I swear.\""
-    mc ""
+    mc "\"Tu sei un pazzo, davvero.\""
 
             
 # game/isaac.rpy:118
 translate italian isaac_013adece:
 
     # n "I shake my head in disbelief, turning back to the ongoing fight."
-    n ""
+    n "Scuoto la testa sconcertato, tornando di nuovo ad osservare la lotta ancora in corso."
 
             
 # game/isaac.rpy:125
 translate italian isaac_a8ccc100:
 
     # n "At some point, it seems like Rex jumped in because I glimpse his red-haired figure in the middle of things."
-    n ""
+    n "Ad un certo punto, deve essere entrato in gioco anche Rex perchè mi sembra di intravedere una figura dai capelli rossi nel mezzo del casino."
 
             
 # game/isaac.rpy:126
 translate italian isaac_31265f87:
 
     # r "\"Come on, come on! None of you fuckin' cowards gonna challenge me tonight?\""
-    r ""
+    r "\"Forza, forza! Nessuno di voi codardi vuole sfidarmi stanotte?\""
 
             
 # game/isaac.rpy:127
 translate italian isaac_337b64d8:
 
     # r "\"I guess I'll have to find a new playmate! Ahahaha!\""
-    r ""
+    r "\"Immagino che dovrò trovare qualcun'altro con cui giocare! Ahahaha!\""
 
             
 # game/isaac.rpy:132
 translate italian isaac_ba71f970:
 
     # n "His maniacal laughter blends into the fray, and I can't help but shudder."
-    n ""
+    n "La sua risata delirante si mescola al caos generato dallo scontro, e non posso fare altro che rabbrividire."
 
             
 # game/isaac.rpy:133
 translate italian isaac_31c55e09:
 
     # n "They really do look like animals… vicious wolves tearing at each other's throats."
-    n ""
+    n "Sembrano proprio degli animali... Feroci lupi che si scannano a vicenda."
 
             
 # game/isaac.rpy:135
 translate italian isaac_2c8bcc97:
 
     # n "All this while, these creatures have been stalking the night streets of San Fran – and I never knew?"
-    n ""
+    n "Per tutto questo tempo, queste creature hanno gironzolato di notte per le strade di San Fran - e io non ne sapevo niente?"
 
             
 # game/isaac.rpy:136
 translate italian isaac_6b0b6329:
 
     # n "The thought makes my blood run cold."
-    n ""
+    n "Il pensiero mi fa raggelare il sangue nelle vene."
 
             
 # game/isaac.rpy:144
