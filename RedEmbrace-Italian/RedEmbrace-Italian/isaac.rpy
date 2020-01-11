@@ -1089,210 +1089,210 @@ translate italian isaac_469fcbc8:
 translate italian isaac_c00346a4:
 
     # n "Ugh… and my head hurts, too.{w} It must be because of that weird thing Isaac keeps doing with his eyes…"
-    n ""
+    n "Ugh... e mi anche male la testa.{w} Dev'essere per colpa di quella strana cosa che Isaac continua a fare cois suoi occhi..."
 
             
 # game/isaac.rpy:425
 translate italian isaac_473229f3:
 
     # mc "\"I should get a pair of good sunglasses. Maybe that would help.\""
-    mc ""
+    mc "\"Mi dovrei comprare un paio di occhiali da sole buoni. Magari aiutano.\""
 
             
 # game/isaac.rpy:429
 translate italian isaac_77ca794c:
 
     # n "Grumbling quietly, I shove my hands in my pockets and begin walking home."
-    n ""
+    n "Borbottando a bassa voce, ficco le mani nella tasche della mia giacca e inizio a camminare verso casa."
 
             
 # game/isaac.rpy:434
 translate italian isaac_3eecaf63:
 
     # n "…It's all Isaac's fault that I've been swept up in this."
-    n ""
+    n "...É solo colpa di Isaac se sono stato trascinato in tutto questo."
 
             
 # game/isaac.rpy:435
 translate italian isaac_aae64a5f:
 
     # n "If it weren't for his stupid invitation last night, I'd still be living my normal life, blissfully ignorant of vampires."
-    n ""
+    n "Non fosse stato per il suo stupido invito di ieri notte, starei ancora vivendo la mia vita normale, beatamente ignorante dell'esistenza di vampiri."
 
             
 # game/isaac.rpy:437
 translate italian isaac_2c3176cd:
 
     # n "An \"ordinary businessman,\" sure, just like Rex is a pink bunny who vomits rainbows. Tch."
-    n ""
+    n "Un \"ordinario uomo d'affari\" certo, proprio come Rex è un coniglietto rosa che vomita arcobaleni. Tzh."
 
             
 # game/isaac.rpy:443
 translate italian isaac_28c8f192:
 
     # n "–Home sweet home."
-    n ""
+    n "-Casa docle casa."
 
             
 # game/isaac.rpy:444
 translate italian isaac_3217e37e:
 
     # n "If only I could pretend all of this was a crazy fever dream…"
-    n ""
+    n "Se solo potessi fare finta che tutto qesto sia solo un fottuto sogno febbrile..."
 
             
 # game/isaac.rpy:446
 translate italian isaac_755013e2:
 
     # n "If only it was that easy."
-    n ""
+    n "Se solo fosse così facile."
 
             
 # game/isaac.rpy:450
 translate italian isaac_418a4da3:
 
     # n "I end up tossing and turning in bed for what feels like ages, until eventually…"
-    n ""
+    n "Finisco per continuare a girarmi e rigirarmi nel letto per quella che sembra un'eternità, finchè alla fine..."
 
             
 # game/isaac.rpy:452
 translate italian isaac_b659ea90:
 
     # n "The exhaustion from tonight pulls me into a deep sleep."
-    n ""
+    n "La stanchezza di questa nottata non mi trascina in un sonno profondo."
 
             
 # game/isaac.rpy:455
 translate italian isaac_d7bc401d:
 
     # mc "\"Ngh…\""
-    mc ""
+    mc "\"Ngh...\""
 
             
 # game/isaac.rpy:457
 translate italian isaac_fb1286de:
 
     # n "The early afternoon sun trickles into my apartment, fighting through storm clouds to arrive upon my face."
-    n ""
+    n "Il sole del primo pomeriggio si affaccia alla finestra del mio appartamento, combattendo nuvole di tempesta per arrivarmi giusto in faccia."
 
             
 # game/isaac.rpy:464
 translate italian isaac_d9f0ab1d:
 
     # n "I push myself up with a yawn."
-    n ""
+    n "Mi alzo in piedi sbadigliando."
 
             
 # game/isaac.rpy:465
 translate italian isaac_6e9385ac:
 
     # extend " I can't say I feel very refreshed."
-    extend ""
+    extend "Non posso dire di sentirmi riposato."
 
             
 # game/isaac.rpy:467
 translate italian isaac_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/isaac.rpy:469
 translate italian isaac_237177e3:
 
     # n "Those events last night, the fight between Dominic and Rex…"
-    n ""
+    n "Gli eventi della scorsa notte, lo scontro fra Dominic e Rex..."
 
             
 # game/isaac.rpy:471
 translate italian isaac_bff95d2a:
 
     # n "…The vampires."
-    n ""
+    n "...I vampiri."
 
             
 # game/isaac.rpy:472
 translate italian isaac_3f4f46d9:
 
     # n "I was hoping it would be a dream, but –"
-    n ""
+    n "Speravo fosse solo un brutto sogno, ma -"
 
             
 # game/isaac.rpy:473
 translate italian isaac_93dca89d:
 
     # extend " it sticks too vividly in my mind, like a bad taste that won't leave my mouth."
-    extend ""
+    extend "è rimasto troppo vivido nella mia mente, come un brutto sapore che non vuole andarsene dalla mia bocca."
 
             
 # game/isaac.rpy:481
 translate italian isaac_c22df253:
 
     # mc "\"This would make for a great story to write about… except I'd definitely have an anxiety attack while writing it…\""
-    mc ""
+    mc "\"Sarebbe una storia fantastica da scrivere... solo che avrei sicuramente un attaccodi panico mentre la scrivo...\""
 
             
 # game/isaac.rpy:484
 translate italian isaac_b1971e2f:
 
     # mc "\"I could mix up an amazing EP inspired by this stuff… although I'm not sure if I'd live long enough to drop it…\""
-    mc ""
+    mc "\"Potrei creare un fantastico EP ispirato a questa roba... anche se non sono sicuro di vivere abbastanza a lungo da pubblicarlo...\""
 
             
 # game/isaac.rpy:487
 translate italian isaac_63af986d:
 
     # mc "\"But I feel like I could draw some amazing vampire shit right now… it would probably land me on the cover of a teen goth magazine, though…\""
-    mc ""
+    mc "\"Ma sento che potrei disegnare qualche stronzata fighissima coi vampiri adesso... mi porterebbe solo sulla copertina di qualche rivista per raggazzini goth, però..."
 
             
 # game/isaac.rpy:489
 translate italian isaac_9b894557:
 
     # n "Still half-asleep, I mumble to myself as I put on the coffee machine."
-    n ""
+    n "Ancora mezzo addormentato, mormo a me stesso mentre metto su la caffettiera."
 
             
 # game/isaac.rpy:492
 translate italian isaac_441ca035:
 
     # n "It's true, all this excitement's definitely inspired me a little – though I'm also too on edge to really channel it right now."
-    n ""
+    n "É vero, tutta questa eccitazione mi ha decisamente ispirato un po', anche se sono troppo sull'orlo di una crisi per incanalarla al momento."
 
             
 # game/isaac.rpy:497
 translate italian isaac_0bb05ef8:
 
     # n "Isaac…"
-    n ""
+    n "Isaac..."
 
             
 # game/isaac.rpy:498
 translate italian isaac_87a1b133:
 
     # n "His words from last night are still ringing in my ears."
-    n ""
+    n "Le sue parle della scorsa notte risuonano ancora nelle mie orecchie."
 
             
 # game/isaac.rpy:500
 translate italian isaac_aa946bd3:
 
     # n "Am I really in that much danger? {w}Did I need to accept his offer, or is he just playing off my fears?"
-    n ""
+    n "Sono davvero così tanto in pericolo? {w}Era necessario accettare la sua offerta, o stava solo giocando sula mia paura?"
 
             
 # game/isaac.rpy:501
 translate italian isaac_9f843341:
 
     # n "Isaac reeks of \"sleazy businessman,\" and he seems to have pretty questionable intentions, but…"
-    n ""
+    n "Isaac puzza di \"uomo d'affari malfamato\" e sembra avere delle intenzioni discutibili, ma..."
 
             
 # game/isaac.rpy:503
 translate italian isaac_e4b42d80:
 
     # n "I get the feeling he was telling the truth. {w}And to be honest, I'd rather not take any chances."
-    n ""
+    n "Mi da la sensazione che stesse dicendo la verità. {w}E se devo essere sincero, non voglio rischiarmela."
 
             
 # game/isaac.rpy:510
