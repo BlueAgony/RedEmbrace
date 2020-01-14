@@ -1299,56 +1299,56 @@ translate italian isaac_e4b42d80:
 translate italian isaac_83294fed:
 
     # n "I manage to get some writing commissions finished up during the rest of the day, although they are sorely in need of some editing."
-    n ""
+    n "Riesco a finire di scrivere qualche lavoro commissionato durante il resto della giornata, anche se hanno decisamente bisogno di qualche revisione."
 
             
 # game/isaac.rpy:512
 translate italian isaac_309f9f7f:
 
     # n "In the last couple hours before work, I decide to start a new little story, drawing heavily from the crazy stuff that happened last night."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di cominciare una nuova storiella, prendendo spunto intensamente dalla roba assurda che è successa ieri sera."
 
             
 # game/isaac.rpy:513
 translate italian isaac_12e88fc3:
 
     # n "I change a few details here and there, but it reads more like a diary rather than fiction."
-    n ""
+    n "Cambio qualche dettaglio qua e là, ma sembra più un diario che un romanzo."
 
             
 # game/isaac.rpy:516
 translate italian isaac_6f0f48d2:
 
     # n "I finish a couple of short songs for the indie game I was hired onto, but I know I'll need to go back and give them another listen when I'm more focused."
-    n ""
+    n "Finisco qualche canzone corta per il gioco indie per cui mi hanno assunto, ma so già che dovrò ritornarci e ascoltarle con pià attenzione."
 
             
 # game/isaac.rpy:518
 translate italian isaac_ce34df72:
 
     # n "In the last couple hours before work, I decide to play around with a new track, trying to capture the essence of the tension from last night."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di giochicchiare un po' e lavorare a una nuova traccia, cercando di rendere la tensione di ieri sera."
 
             
 # game/isaac.rpy:519
 translate italian isaac_e4f0d27a:
 
     # n "It ends up as some dark, trip-hoppy piece with out-of-tune guitar and grungy synths. {w}Sounds like it'd be right at home in a vampire game, at least."
-    n ""
+    n "Finisce per essere un pezzo molto dark e trip-hop con una chitarra scordata e sinstetizzatore molto grunge. {w}Ci starebbe proprio bene in un giro di vampiri, per lo meno."
 
             
 # game/isaac.rpy:522
 translate italian isaac_c1f2238d:
 
     # n "I spend the rest of the day on a few commissions, my eyes glazing over a little as I color and shade in auto-pilot mode."
-    n ""
+    n "Passo il resto della giornata a lavorare a qualche lavoro commissionato, i iei occhi si velavano leggermente mentre coloravo e ombreggiavo praticamente con il pilota automatico."
 
             
 # game/isaac.rpy:524
 translate italian isaac_f98b33b3:
 
     # n "In the last couple hours before work, I decide to draw the new picture filling my head – a looming, shadowy figure in an alleyway."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di disegnare l'immagine che continuava a ronzarmi in testa, un'ora sagoma che si staglia sullo sfondo di un vicolo."
 
             
 # game/isaac.rpy:525
