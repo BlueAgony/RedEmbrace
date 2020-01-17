@@ -1355,7 +1355,7 @@ translate italian isaac_f98b33b3:
 translate italian isaac_48989624:
 
     # n "I make sure the light is focused on the figure's bared teeth, using the memory of Rex's fangs as reference. {w}It turns out surprisingly well, almost {i}too{/i} well."
-    n ""
+    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è soprendentemento buono, forse anche{i}troppo{/i} buono. "
 
             
 # game/isaac.rpy:532
