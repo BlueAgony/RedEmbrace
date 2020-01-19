@@ -2880,462 +2880,462 @@ translate italian isaac_e3c04c17:
 translate italian isaac_d4ca8061:
 
     # n "–Average, high-as-a-kite teenagers."
-    n ""
+    n "l'adolescente strafatto medio."
 
             
 # game/isaac.rpy:573
 translate italian isaac_b5bc11dc:
 
     # n "Nothing out of the ordinary… {w}not yet."
-    n ""
+    n "Niente di anormale...{w}per ora."
 
             
 # game/isaac.rpy:577
 translate italian isaac_638f2724:
 
     # n "Sometimes I glimpse a shape moving outside of the diner's windows, although it's probably just a random passerby."
-    n ""
+    n "Ogni tanto mi sembra di intravedere una sagoma mnuoversi fuori dalle finestre della tavola calda, ma probabilmente sono solo passanti."
 
             
 # game/isaac.rpy:579
 translate italian isaac_d9eb8d34:
 
     # n "…But for some reason, I have an uneasy feeling."
-    n ""
+    n "...Eppure per qualche motivo, ho una brutta sensazione."
 
             
 # game/isaac.rpy:580
 translate italian isaac_21e86447:
 
     # n "It's like I'm being watched – and not in the comforting \"guardian angel\" way, either."
-    n ""
+    n "É come se qualcuno mi stesse osservando, e non nel confortante modo alla \"angelo custode\", fra l'altro."
 
             
 # game/isaac.rpy:589
 translate italian isaac_2fbfc154:
 
     # n "A couple minutes before closing time, I moodily stare at the linoleum floor while wiping a glass."
-    n ""
+    n "Un paio di minuti prima di chiudere, mi ritrovo di cattivo umore a fissare il pavimento di linoleum mentre asciugo un bicchiere. "
 
             
 # game/isaac.rpy:590
 translate italian isaac_8a4a31b5:
 
     # n "None of the people who came in here seemed like they were vampires, but then again, I never guessed Dominic was one either."
-    n ""
+    n "Nessuna delle persone che sono entrate mi è parsa essere un vampiro, però alla fine, neanche avrei mai pensato Dominic lo fosse."
 
             
 # game/isaac.rpy:591
 translate italian isaac_fb13b49d:
 
     # n "At this rate, I'm gonna go paranoid and end up committed somewhere, seriously…"
-    n ""
+    n "Di questo passo, diventerò paranoico e la finirò internato da qualche parte..."
 
             
 # game/isaac.rpy:594
 translate italian isaac_da24d08f:
 
     # u "\"Good evening. Is that my lovely new assistant I spy over there?\""
-    u ""
+    u "\"Buonasera. É il mio nuovo dolce assistente quello che vedo là?\""
 
             
 # game/isaac.rpy:596
 translate italian isaac_36a7a87b:
 
     # mc "\"–!\""
-    mc ""
+    mc "\"-!\""
 
             
 # game/isaac.rpy:597
 translate italian isaac_577650a2:
 
     # n "An airy voice calls out to me, breaking my thoughts, and I realize a new customer has walked in."
-    n ""
+    n "Una voce spensierata mi richiama da dietro di me, interrompendo i miei pensieri, e mi rendo conto che è entrato un nuovo cliente."
 
             
 # game/isaac.rpy:604
 translate italian isaac_645c1b85:
 
     # n "…No, not a customer. {w}Isaac."
-    n ""
+    n "...No, non un cliente. {w}Isaac."
 
             
 # game/isaac.rpy:607
 translate italian isaac_71e90771:
 
     # mc "\"Oh, so you came after all, huh?\""
-    mc ""
+    mc "\"Oh, quindi sei venuto alla fine, eh?\""
 
             
 # game/isaac.rpy:609
 translate italian isaac_338b57a7:
 
     # mc "\"Glad you decided to give me the gift of your company.\""
-    mc ""
+    mc "\"Sono contento che tu abbia deciso di farmi dono della tua compagnia.\""
 
             
 # game/isaac.rpy:611
 translate italian isaac_8a39f19f:
 
     # i "\"Now, now, you're going to have to work on that attitude of yours if you want to move up the corporate ladder!\""
-    i ""
+    i "\"Beh, dovrai lavorare su questo suo atteggiamento se vuoi scalare la gerarchia aziendale!\""
 
             
 # game/isaac.rpy:612
 translate italian isaac_b657d1a6:
 
     # n "Pushing up his glasses, Isaac flashes me a cheerful, energetic grin."
-    n ""
+    n "Tirandosi su gli occhiali, Isaac mi lancia un sorriso energico e vivave."
 
             
 # game/isaac.rpy:615
 translate italian isaac_d3aa26db:
 
     # n "I swear, his face looks more punchable every time I see him."
-    n ""
+    n "Giuro che la sua faccia mi ispira pugni ogni volta di piu."
 
             
 # game/isaac.rpy:617
 translate italian isaac_7e557e36:
 
     # n "For someone who's got no problem blackmailing other people, he's pretty damn lighthearted."
-    n ""
+    n "Per qualcuno che non si fa nessun problema a ricattare gli altri, è fottutamente spensierato."
 
             
 # game/isaac.rpy:620
 translate italian isaac_eca7db6d:
 
     # i "\"So, are you ready to head out?\""
-    i ""
+    i "\"Allora, sei pronto per uscire?\""
 
             
 # game/isaac.rpy:622
 translate italian isaac_8c8a0e3e:
 
     # i "\"I'd rather not spend too much time here. I can already feel the grease soaking into my suit.\""
-    i ""
+    i "\"Preferirei non stare qui troppo a lungo. Sento già l'unto che penetra il mio abito.\""
 
             
 # game/isaac.rpy:625
 translate italian isaac_3531e9dc:
 
     # mc "\"Yeah, yeah. Let me get my keys.\""
-    mc ""
+    mc "\"Sìsì, va bene. Prendo le chiavi.\""
 
             
 # game/isaac.rpy:636
 translate italian isaac_866fbdde:
 
     # n "As I close up the diner for the night and head out with Isaac, I can't help but feel a little relieved."
-    n ""
+    n "Mentre chiudo il locale e raggiungo Isaac fuori, non posso fare a meno di sentirmi un minimo sollevato."
 
             
 # game/isaac.rpy:637
 translate italian isaac_c311c0ea:
 
     # n "Call me a coward, but having his \"protection\" is a lot more reassuring than going out alone."
-    n ""
+    n "Chiamatemi codardo, ma avere la sua \"protezione\" è molto più rassicurante di uscire da solo."
 
             
 # game/isaac.rpy:639
 translate italian isaac_be30f886:
 
     # n "Is it worth the price, though? {w}I guess I'll have to find out."
-    n ""
+    n "Ne vale la pena, però? {w}Immagino che dovrò scoprirlo."
 
             
 # game/isaac.rpy:647
 translate italian isaac_45a38d29:
 
     # mcp "\"Where are we going?\""
-    mcp ""
+    mcp "\"Dove stiamo andando?\""
 
             
 # game/isaac.rpy:648
 translate italian isaac_9faebc21:
 
     # n "I question Isaac as he extends an arm to call a taxi, and his golden eyes flick towards me."
-    n ""
+    n "Chiedo ad Isaac mentre allunga un braccio per chiamare un taxi, e i suoi occhi dorati lampeggiano verso di me."
 
             
 # game/isaac.rpy:650
 translate italian isaac_a65ab633:
 
     # ip "\"Why, to our apartment, naturally.\""
-    ip ""
+    ip "\"Beh, al nostro appartemento, naturalmente.\""
 
             
 # game/isaac.rpy:652
 translate italian isaac_6b9eb71d:
 
     # mcp "\"…'Our' apartment?\""
-    mcp ""
+    mcp "\"... il 'nostro' appartemento?\""
 
             
 # game/isaac.rpy:654
 translate italian isaac_0e930569:
 
     # ip "\"Mine and Luka's. We're roommates, since it makes our cooperative work a lot easier.\""
-    ip ""
+    ip "\"Mio e di Luka. Siamo coinquilini, dato che rende il lavoro cooperativo molto più facile.\""
 
             
 # game/isaac.rpy:656
 translate italian isaac_489c8fd7:
 
     # ip "\"He's out tonight, though, so you probably won't see him. Are you disappointed?\""
-    ip ""
+    ip "\"Stanotte è fuori, però, quindi probabilmente non lo inconterai. Deluso?\""
 
             
 # game/isaac.rpy:659
 translate italian isaac_ae7de9f5:
 
     # mcp "\"About not meeting that blond brat? Yeah, real devastated.\""
-    mcp ""
+    mcp "\"Di non incontrare quel moccioso biondo? Certo, assolutamente devastato.\""
 
             
 # game/isaac.rpy:662
 translate italian isaac_afdb6cdf:
 
     # mcp "\"Not sure if I'd say that. I think the poor kid hates my guts by now.\""
-    mcp ""
+    mcp "\"Non so se dovrei dirlo. Penso che quel povero ragazzino mi odio ormai.\""
 
             
 # game/isaac.rpy:667
 translate italian isaac_a069af3e:
 
     # n "Isaac laughs when I roll my eyes, but he nods understandingly."
-    n ""
+    n "Isaac ride quando sollevo gli occhi al cielo, ma annuisce comprensivo."
 
             
 # game/isaac.rpy:669
 translate italian isaac_b429ddf6:
 
     # i "\"You're not the only one. Luka actually hates me, too.\""
-    i ""
+    i "\"Non sei l'unico. Luka odia anche me, in realtà.\""
 
             
 # game/isaac.rpy:672
 translate italian isaac_42d5a1ee:
 
     # mcp "\"What? Why does he work with you, then?\""
-    mcp ""
+    mcp "\"Cosa? Perché lavora con te, allora?\""
 
             
 # game/isaac.rpy:674
 translate italian isaac_ab91a5e0:
 
     # i "\"Convenience, mostly. I'm just a means to an end for him.\""
-    i ""
+    i "\"Per convenienza, principalmente. Sono solo un mezzo per arrivare a un fine per lui.\""
 
             
 # game/isaac.rpy:676
 translate italian isaac_3054536e:
 
     # n "He shrugs indifferently, apparently not troubled by such a thing at all."
-    n ""
+    n "Alza le spalle con indifferenza, a quanto per nulla preoccupato dalla cosa."
 
             
 # game/isaac.rpy:678
 translate italian isaac_c50c0bea:
 
     # i "\"I didn't rope him into working with me, unlike you. You should feel honored!\""
-    i ""
+    i "\"Non l'ho tirato io a lavorare con me, al contrario di te. Dovresti sentirti onorato!.\""
 
             
 # game/isaac.rpy:682
 translate italian isaac_7cc27904:
 
     # mcp "\"Right. I'm sure 'Vampire Arms Dealer's Assistant' will look great on my resume.\""
-    mcp ""
+    mcp "\"Certo. Sono sicuro che 'Assistente Spacciatore di Armi per Vampiri' sarà un'ottima aggiunta al mio curriculum.\"
 
             
 # game/isaac.rpy:685
 translate italian isaac_5fc2fa0d:
 
     # mcp "\"Honored's one word for it… would've chosen 'damned' myself.\""
-    mcp ""
+    mcp "\"Onorato non è la parola che avrei scelto... più 'dannato' direi."
 
             
 # game/isaac.rpy:690
 translate italian isaac_7af381e6:
 
     # n "After a short taxi ride, we end up in front of a much fancier-looking apartment complex than my own."
-    n ""
+    n "Dopo una breve corsa in taxi, finiamo davanti a davanti ad un complesso di appartamenti decisamente più elegante del mio."
 
             
 # game/isaac.rpy:691
 translate italian isaac_f7901311:
 
     # n "I follow Isaac inside, and we take the elevator up to one of the top floors."
-    n ""
+    n "Seguo Isaac all'interno e prendiamo l'ascensore fino a uno dei piani più alti."
 
             
 # game/isaac.rpy:698
 translate italian isaac_7cde1f07:
 
     # mcp "\"Wow…\""
-    mcp ""
+    mcp "\"Wow...\""
 
             
 # game/isaac.rpy:699
 translate italian isaac_9928d525:
 
     # n "The apartment we walk into is an incredibly sleek one – well, relative to my own, anyway."
-    n ""
+    n "\"L'appartamento in cui entriamo è incredibilmente raffinato - beh, rispetto al mio, almeno."
 
             
 # game/isaac.rpy:700
 translate italian isaac_9bcdfa6f:
 
     # n "It even smells nice, a little bit like citrus. {w}I bet these guys actually buy air fresheners."
-    n ""
+    n "Ha anche un buon profumo, sa un po' di limone.  {w}Scommetto che questi tipi comprano davvero i deodoranti per ambienti."
 
             
 # game/isaac.rpy:705
 translate italian isaac_6c24a6fc:
 
-    # i "\"I hope it lives up to your expectations.\""
-    i ""
+    # i "\"I hope it lives up to your expectations.\
+    i "\"Spero non abbia deluso le tue aspettative.\""
 
             
 # game/isaac.rpy:707
 translate italian isaac_651a8e8b:
 
     # i "\"Oh, we're looking for another roommate, if you're interested. The rent isn't terrible if it's split three ways.\""
-    i ""
+    i "\"Ah, stiamo cercando un nuovo coinquilino, se sei interessato. L'affitto non è terribile se diviso in tre.\""
 
             
 # game/isaac.rpy:711
 translate italian isaac_788b05a8:
 
     # mc "\"You have a spare room?\""
-    mc ""
+    mc "\"Avete una stanza libera?\""
 
             
 # game/isaac.rpy:713
 translate italian isaac_296c422f:
 
     # i "\"No, actually. I figured we'd just share mine.\""
-    i ""
+    i "\"In realtà, no. Pensavo che avremmo semplicemente condiviso la mia.\""
 
             
 # game/isaac.rpy:717
 translate italian isaac_d6675f5e:
 
     # mc "\"…Of course. Should've seen that one coming.\""
-    mc ""
+    mc "\"...Ovvio. Me lo sarei dovuto aspettare.\""
 
             
 # game/isaac.rpy:720
 translate italian isaac_0e9dbb0b:
 
     # mc "\"…Right. If I'm ever that desperate, I think a park bench would be more appealing.\""
-    mc ""
+    mc "\"...Bene. Se mai sarò così disperato, penso che un panchina del parco sarebbe comunque più invitante."
 
             
 # game/isaac.rpy:723
 translate italian isaac_dfe60678:
 
     # n "My unenthusiastic response is met with a little chuckle."
-    n ""
+    n "Alla mia fredda risposta ricevo solo una risatina."
 
             
 # game/isaac.rpy:728
 translate italian isaac_bb63446f:
 
     # n "Isaac closes the door behind us and clears his throat, a slightly more serious look climbing his features."
-    n ""
+    n "Isaac chiude la porta dietro di noi e si schiarisce la gola, uno sguardo leggermente più serio gli si dipinge sul viso."
 
             
 # game/isaac.rpy:730
 translate italian isaac_ff62f687:
 
     # i "\"Now, as much as I'd like to flirt with you until the sun rises, there's business to discuss.\""
-    i ""
+    i "\"Ora, per quanto mi piacerebbe flirtare con te fino all'alba, abbiamo del lavoro di cui parlare.\""
 
             
 # game/isaac.rpy:731
 translate italian isaac_2268eefd:
 
     # i "\"Why don't you take a seat, and I'll bring some coffee over?\""
-    i ""
+    i "\"Perché non ti siedi? Intanto porto del caffè.\""
 
             
 # game/isaac.rpy:735
 translate italian isaac_0a5368f9:
 
     # n "He motions towards a large sofa near the window, then turns and strides off towards the kitchen."
-    n ""
+    n "Mi fa cenno di andare a sedermi un grande divano vicino alla finestra, poi si gira e si dirigge verso la cucina."
 
             
 # game/isaac.rpy:738
 translate italian isaac_82ac3b21:
 
     # mc "\"Hmph…\""
-    mc ""
+    mc "\"Hmpf...\""
 
             
 # game/isaac.rpy:742
 translate italian isaac_58458b5e:
 
     # n "I guess he's not as terrible a host as I was expecting, but this still feels really weird."
-    n ""
+    n "Immagino non sia un padrone di casa così terribile come mi aspettavo, però è ancora tutto molto strano."
 
             
 # game/isaac.rpy:743
 translate italian isaac_5dfba531:
 
     # n "I have no idea why he wants me as an \"assistant\" or what that even involves. Probably something shady… though at least I might learn what's going on."
-    n ""
+    n "Non ho la minima idea del perché mi voglia come suo \"assistente\" o che cosa vorrebbe dire. Probabilmente qualcosa di losco... anche se magari potrei scoprire che sta succedendo."
 
             
 # game/isaac.rpy:745
 translate italian isaac_52cf919a:
 
     # n "And as much as I hate to admit it, I'm pretty damn curious about the city's secret vampire network, which I had no idea about until yesterday."
-    n ""
+    n "E per quanto odi ammetterlo, sono fottutamente curioso di conoscere questa rete di vampiri in città, di cui non sapevo nulla fino a ieri."
 
             
 # game/isaac.rpy:750
 translate italian isaac_98249583:
 
     # n "After I wait on the sofa for a little while, gazing out at the beautiful cityscape through the windows, Isaac eventually comes back."
-    n ""
+    n "Dopo aver aspettato qualche minuto sul divano, osservando il bellissimo paesaggio urbano dalla finestra, Isaac finalmente ritorna."
 
             
 # game/isaac.rpy:752
 translate italian isaac_045a53e1:
 
     # ip "\"Sorry for making you wait! I hope you like your coffee bold.\""
-    ip ""
+    ip "\"Scusami se ti ho fatto aspettare! Spero ti piaccia forte il caffè.\""
 
             
 # game/isaac.rpy:754
 translate italian isaac_9f432176:
 
     # mcp "\"I work the night shift, you know. I practically survive on dark coffee.\""
-    mcp ""
+    mcp "\"Faccio il turno di notte, sai. Praticamente sopravvivo grazie al caffè nero.\""
 
             
 # game/isaac.rpy:757
 translate italian isaac_796686f4:
 
     # n "Isaac sits down beside me on the couch, handing over a mug."
-    n ""
+    n "Isaac si siede accanto a me sul divano, porgendomi una tazza."
 
             
 # game/isaac.rpy:759
 translate italian isaac_9c9dee2a:
 
     # n "I take a cautious sip of the brew, not expecting much… {w}and blink in surprise."
-    n ""
+    n "Prendo un sorso cauto della miscela, non aspettandomi molto... {w}e sbatto le ciglia per la sorpresa."
 
             
 # game/isaac.rpy:760
 translate italian isaac_0b548da1:
 
     # n "It's actually pretty good, and I'm a picky coffee drinker."
-    n ""
+    n "É parecchio buono in realtà, e sono piuttosto schizzinoso in quanto a caffè."
 
             
 # game/isaac.rpy:763
