@@ -3342,49 +3342,49 @@ translate italian isaac_0b548da1:
 translate italian isaac_19939244:
 
     # ip "\"Don't even try to complain that you don't like it. I can see approval written all over your cute face.\""
-    ip ""
+    ip "\"Non provarci nemmeno a dire che non ti piace. Lo vedo benissimo da quel bel faccino quanto l'hai gradito.\""
 
             
 # game/isaac.rpy:766
 translate italian isaac_4f46a46b_5:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:767
 translate italian isaac_1d1d7575:
 
     # n "He beams at me in satisfaction, and I sulkily turn my head away a little bit."
-    n ""
+    n "Mi sorride soddisfatto, e io sposto sgarbatamente lo sguardo da un altra parte."
 
             
 # game/isaac.rpy:768
 translate italian isaac_311de269:
 
     # n "I really need to work on a better poker face."
-    n ""
+    n "Devo proprio lavorare sulla mia poker face."
 
             
 # game/isaac.rpy:771
 translate italian isaac_e10b30c7:
 
     # mcp "\"Well, I've had worse. I guess you're good for something after all, Isaac.\""
-    mcp ""
+    mcp "\"Beh, ho bevuto di peggio. Immagino che se buono a qualcosa dopottutto, Isaac.\""
 
             
 # game/isaac.rpy:774
 translate italian isaac_09d47775:
 
     # mcp "\"Anyway, didn't you say there was 'business' to talk about?\""
-    mcp ""
+    mcp "\"Comunque, non avevi detto che avevamo 'affari' di cui parlare?\""
 
             
 # game/isaac.rpy:776
 translate italian isaac_a713fd71:
 
     # ip "\"Ah, yes.\""
-    ip ""
+    ip "\"Ah, sì.\""
 
             
 # game/isaac.rpy:778
