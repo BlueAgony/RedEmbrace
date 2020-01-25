@@ -3992,63 +3992,63 @@ translate italian isaac_halp_632958e1:
 translate italian isaac_halp_cb96a9b4:
 
     # i "\"Hah. No need to pity me, dear, I've already got that base covered.\""
-    i "\"Hah. Non c'è bisogno di provare compassione per me, tesoro, "
+    i "\"Hah. Non c'è bisogno di provare compassione per me, tesoro, ci sono abituato ormai.\""
 
             
 # game/isaac.rpy:984
 translate italian isaac_halp_acbcb333:
 
     # n "He exhales a faint sigh while adjusting his glasses, then straightens up."
-    n ""
+    n "Si lascia andare ad un sospiro mentre si aggiusta gli occhia, poi torna a sedersi composto."
 
             
 # game/isaac.rpy:993
 translate italian isaac_halp_dd820af0:
 
     # mcp "\"…You should be careful.\""
-    mcp ""
+    mcp "\"...Dovresti fare attenzione.\"
 
             
 # game/isaac.rpy:996
 translate italian isaac_halp_8df6c9d7:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/isaac.rpy:998
 translate italian isaac_halp_52a6abc2:
 
     # n "I can hardly believe I'm saying this, but…{w} It's true. I don't want to see Isaac dead – or anyone else, for that matter."
-    n ""
+    n "Non posso credere che lo sto dicendo, ma...{w}É vero, non voglio vedere morire Isaac, o chiunque altro, in realtà. "
 
             
 # game/isaac.rpy:1001
 translate italian isaac_halp_21be8225:
 
     # mcp "\"This probably sounds rich coming from a guy who just found out about vampires yesterday, I know.\""
-    mcp ""
+    mcp "\"Probabilmente sembrerà una stronzata dato che viene da uno che ha scoperto dell'esistenza dei vampiri solo ieri, lo so.\""
 
             
 # game/isaac.rpy:1002
 translate italian isaac_halp_5692fd88:
 
     # mcp "\"But I get the feeling that all of them are out for themselves… they're too unpredictable, too dangerous.\""
-    mcp ""
+    mcp "\"Ma mi sembra che che stiano tutti un po' uscendo di senno... sono troppo imprevedibili, troppo pericolosi.\""
 
             
 # game/isaac.rpy:1005
 translate italian isaac_halp_a2aeafa3:
 
     # mcp "\"Even if we've got our philosophical differences, I'd prefer if you didn't get hurt. So don't get overconfident, yeah?\""
-    mcp ""
+    mcp "\"Anche se ci sono delle differenze filosofiche fra noi, preferirei non ti succedesse niente. Quindi non essere troppo sicuro di te, d'accordo?"
 
             
 # game/isaac.rpy:1008
 translate italian isaac_halp_0e31f2a8:
 
     # i "\"…{i}You're{/i} worried about {i}me{/i}? Shouldn't it be the other way around?\""
-    i ""
+    i "\"…{i}Tu sei{/i} preoccupato {i}per me{/i}? Non dovrebbe essere il contrario?\""
 
             
 # game/isaac.rpy:1011
