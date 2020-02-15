@@ -4055,1057 +4055,1057 @@ translate italian isaac_halp_0e31f2a8:
 translate italian isaac_halp_e4b39db8:
 
     # i "\"Ah, I'm not complaining, don't get me wrong. Please, continue telling me how much I mean to you.\""
-    i ""
+    i "\"Oh, non mi sto lamentando, non fraintendermi. Ti prego, continua a dirmi quanto ci tieni a me.\""
 
             
 # game/isaac.rpy:1015
 translate italian isaac_halp_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:1019
 translate italian isaac_halp_745cd026:
 
     # i "\"In all seriousness, [mc], you're right. I'll be careful…\""
-    i ""
+    i "\"Tornando seri... [mc], hair ragione. Farò attenzione...\""
 
             
 # game/isaac.rpy:1022
 translate italian isaac_halp_faa28537:
 
     # i "\"If only so I can keep hearing you fuss over me.\""
-    i ""
+    i "\"Anche solo per continuare a sentire come ti preoccupi per me.\""
 
             
 # game/isaac.rpy:1027
 translate italian isaac_halp_423708af:
 
     # n "With a smug little chuckle, Isaac straightens up."
-    n ""
+    n "Con una risatina beffarda, Isaac si ricompone."
 
             
 # game/isaac.rpy:1029
 translate italian isaac_halp_eb557e47:
 
     # n "I hope he actually took my words to heart… Well, if not, there's nothing else I can really do about it."
-    n ""
+    n "Spero davvero che prenda le mie parole seriamente... Beh, in caso contrario, non posso fare altro."
 
             
 # game/isaac.rpy:1036
 translate italian isaac_halp_1bc7f94f:
 
     # n "The next moment, some kind of strange conviction grips me."
-    n ""
+    n "L'istante successivo, uno strano presentimento mi attanaglia."
 
             
 # game/isaac.rpy:1037
 translate italian isaac_halp_5106ae88:
 
     # n "I nudge Isaac's shoulder with a fist, putting on a determined frown."
-    n ""
+    n "Colpisco Isaac sulla spalla con un pugnetto amichevole, corruciando il viso con risolutezza."
 
             
 # game/isaac.rpy:1040
 translate italian isaac_halp_c737adb5:
 
     # mcp "\"…Don't run away, then.\""
-    mcp ""
+    mcp "\"...Non andartene, allora.\""
 
             
 # game/isaac.rpy:1043
 translate italian isaac_halp_8df6c9d7_1:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/isaac.rpy:1044
 translate italian isaac_halp_dec8ee4e:
 
     # n "He eyes me with a mixture of confusion and surprise."
-    n ""
+    n "Mi osserva con uno sguardo misto di confusione e sorpresa."
 
             
 # game/isaac.rpy:1047
 translate italian isaac_halp_8f557f6c:
 
     # mcp "\"Do whatever you have to do, and finish your business with the city's vampires.\""
-    mcp ""
+    mcp "\"Fai quello che devi fare, e porta a termine il tuo lavoro con i vampiri della città.\""
 
             
 # game/isaac.rpy:1048
 translate italian isaac_halp_117b5bdc:
 
     # mcp "\"But after that, if I were you, I wouldn't deal with them a second longer than necessary…\""
-    mcp ""
+    mcp "\"Ma una volta fato questo, fossi in te, non ci avrei nulla a che fare, neanche per un secondo più del necessario...\""
 
             
 # game/isaac.rpy:1051
 translate italian isaac_halp_50914363:
 
     # mcp "\"I have a feeling it'll only lead to bad things, otherwise.\""
-    mcp ""
+    mcp "Ho la sensazione che, altrimenti, non porti a nulla di buono.\""
 
             
 # game/isaac.rpy:1053
 translate italian isaac_halp_8e567a99:
 
     # n "It's not like I have any experience in what I'm talking about, but my gut instinct tells me Isaac's playing a dangerous game."
-    n ""
+    n "Non è che ho esattamente esperienza in qello di cui sto parlando, ma la mia pancia mi dice che Isaac sa giocando col fuoco."
 
             
 # game/isaac.rpy:1054
 translate italian isaac_halp_9e04fc05:
 
     # n "And, even if he {i}is{/i} kind of a dick, I don't think I'd want him to be torn apart or drained dry by vampires, since he technically saved me from the same fate."
-    n ""
+    n "E, anche se è {i}un po'{/i} uno stronzo, non penso che vorrei che dei vampiri lo facessero a pezzi e lo prosciugassero del suo sangue, visto che tecnicamente mi ha salvato dallo stesso destino."
 
             
 # game/isaac.rpy:1057
 translate italian isaac_halp_a87a33ec:
 
     # i "\"…You're pretty perceptive, aren't you?\""
-    i ""
+    i "\"...Sei molto perspicace, non è vero?\""
 
             
 # game/isaac.rpy:1059
 translate italian isaac_halp_dbcdbaf0:
 
     # i "\"I had a feeling you had some smarts tucked away in there.\""
-    i ""
+    i "\"Mi era sembrato che avessi un po' di sale in quella zuccotta lì.\""
 
             
 # game/isaac.rpy:1060
 translate italian isaac_halp_aca3ad9d:
 
     # n "Isaac's eyes soften as he reaches towards my head."
-    n ""
+    n "Lo sguardo di Isaac si addolcisce, mentre avvicina la sua mano la mio viso."
 
             
 # game/isaac.rpy:1063
 translate italian isaac_halp_f3c1dc2b:
 
     # n "Huffing, I try to dodge his hand, but Isaac manages to muss up my hair before I have a chance to escape."
-    n ""
+    n "Soffiando come un gattino, cerco di schivare la sua mano, ma Isaac riesce comunque a scompigliarmi i capeli prima che potessi sfuggirgli."
 
             
 # game/isaac.rpy:1068
 translate italian isaac_halp_acbcb333_1:
 
     # n "He exhales a faint sigh while adjusting his glasses, then straightens up."
-    n ""
+    n "esala un leggero sospiro aggiustandosi gli occhiali, poi si risiede composto."
 
             
 # game/isaac.rpy:1077
 translate italian isaac_halp_c0e94d75:
 
     # i "\"Well, enough of my moping. That's all I wanted to talk to you about tonight, [mc].\""
-    i ""
+    i "\"Bene, basta con i miei piagnistei. Questo è tutto quello di cui volevo parlart stanotte, [mc].\""
 
             
 # game/isaac.rpy:1078
 translate italian isaac_halp_069c14a9:
 
     # n "Rising to his feet, Isaac smooths out his vest, swiveling to face me."
-    n ""
+    n "Alzandosi in piedi, Isaac si stira il gilet con le mani, voltandosi per guardarmi."
 
             
 # game/isaac.rpy:1080
 translate italian isaac_halp_04883dc0:
 
     # i "\"You're free to go. Unless you're interested in, say, watching a movie and enjoying some quality ti–\""
-    i ""
+    i "\"Sei libero di andare. A meno che tu non abbia voglia, non so, di guardare un film e passare un bella ser-\""
 
             
 # game/isaac.rpy:1085
 translate italian isaac_halp_a75b6278:
 
     # mc "\"No thanks.\""
-    mc ""
+    mc "\"No grazie.\""
 
             
 # game/isaac.rpy:1086
 translate italian isaac_halp_79f804d2:
 
     # n "I quickly push myself off the couch, and offer Isaac the most skeptical look I can manage."
-    n ""
+    n "Mi alzo rapidamente dal divano, e dirigo ad Isaac lo sguardo più scettico che potessi fare."
 
             
 # game/isaac.rpy:1090
 translate italian isaac_halp_33ff4f41:
 
     # mc "\"You make good coffee, and you may have pretty eyes, but that's all you've got going for you, Isaac.\""
-    mc ""
+    mc "\"Prepari un ottimo caffè, e potresti avere dei bei occhi, ma finisce lì, Isaac.\""
 
             
 # game/isaac.rpy:1093
 translate italian isaac_halp_52010c90:
 
     # i "\"How rude! I'd like to think I have excellent fashion taste, too.\""
-    i ""
+    i "\"Che maleducato! Mi piace pensare di avere anche un gran gusto in fatto d moda.\""
 
             
 # game/isaac.rpy:1095
 translate italian isaac_halp_2c6ea258:
 
     # i "\"And, obviously, a talent for finding cute assistants.\""
-    i ""
+    i "\"E, ovviamente, un talento innato per trovarmi degli assistenti carini.\""
 
             
 # game/isaac.rpy:1098
 translate italian isaac_halp_7c786ada:
 
     # mc "\"If I could get jumped at any second by a vampire, I shouldn't waste the precious time I have, don't you think?\""
-    mc ""
+    mc "\"Se potessi essere assalito in qualunque momento da un vampiro, non dovrei sprecare il poco tempo prezioso che ho, non credi?\""
 
             
 # game/isaac.rpy:1101
 translate italian isaac_halp_be5cc5e5:
 
     # i "\"You're implying I couldn't make our time together worthwhile.\""
-    i ""
+    i "\"Stai implicando che non possa far sì che il tempo passato assieme non sia abbastanza valido.\""
 
             
 # game/isaac.rpy:1103
 translate italian isaac_halp_c8ac5d55:
 
     # i "\"I'm a businessman, [mc]. My chief concern is making every moment… profitable.\""
-    i ""
+    i "\"Sono un uomo d'affari, [mc]. Il mio obbiettivo principale è rendere ogni momento... fruttuoso.\""
 
             
 # game/isaac.rpy:1105
 translate italian isaac_halp_630b1c82:
 
     # n "With a wide, charming grin, Isaac tips an imaginary hat to me, and I have to keep myself from cracking a smile."
-    n ""
+    n "Con un largo e seducente sorriso, Isaac fa finta di levarsi un cappello immaginario, e devo trattenermi dal sorridere."
 
             
 # game/isaac.rpy:1109
 translate italian isaac_halp_b4d11818:
 
     # n "In a surprisingly gentlemanly fashion, he escorts me down to the street and even pays for my cab fare."
-    n ""
+    n "In una maniera incredibilmente galante, mi accompagna in strada e mi paga persino un taxi fino a casa."
 
             
 # game/isaac.rpy:1111
 translate italian isaac_halp_0c4145b5:
 
     # n "As the taxi drives off towards my apartment, I glimpse Isaac waving in the rear-view mirror until we round the corner, out of sight."
-    n ""
+    n "Mentre il taxi si dirige verso il mio appartamento, dallo specchietto retrovisore scorgo Isaac che mi saluta con la mano finché non giriamo l'angolo, uscendo dalla sua vista."
 
             
 # game/isaac.rpy:1118
 translate italian isaac_halp_3b552aca:
 
     # n "–I wasn't expecting to arrive home in such a good mood, but tonight wasn't nearly as bad I thought it'd be."
-    n ""
+    n "-Non pensavo sarei tornanto a casa così di buon umore, ma stanotte non è stata neanche lontamente spiacevole quanto mi aspettassi."
 
             
 # game/isaac.rpy:1119
 translate italian isaac_halp_4f2addb9:
 
     # n "My job as Isaac's \"assistant\" doesn't sound that bad, and I don't mind getting to spend more time in that fancy apartment of his…"
-    n ""
+    n "Il mio lavoro come \"assistete\" di Isaac non sembra poi tanto male, e non mi dispiace passare del tempo nel suo elegante appartamento..."
 
             
 # game/isaac.rpy:1122
 translate italian isaac_halp_7584eea6:
 
     # mcp "\"And I won't say no to free coffee.\""
-    mcp ""
+    mcp "\"E poi, non si dice di no al caffè gratis.\""
 
             
 # game/isaac.rpy:1124
 translate italian isaac_halp_78ee0601:
 
     # n "Maybe getting caught up in this vampire horror story wasn't as bad as I first thought."
-    n ""
+    n "Forse rimanere incastrato in questa storia dell'orrore sui vampiri non è così terribile come pensavo."
 
             
 # game/isaac.rpy:1125
 translate italian isaac_halp_7cdea0ed:
 
     # n "At least it brings a little spice to my boring life – even if that spice comes at a pretty risky cost."
-    n ""
+    n "Almeno da un po' di brio alla mia noiosa vita, anche se questo brio richia di avere un prezzo molto alto."
 
             
 # game/isaac.rpy:1129
 translate italian isaac_halp_2bae4d79:
 
     # n "I'm so tired from my shift that, despite the coffee, I doze off not long after hitting my pillow."
-    n ""
+    n "Sono cos' stanco dal lavoro che, nonostante il caffè, mi assopisco subito appena toccato il cuscino."
 
             
 # game/isaac.rpy:1131
 translate italian isaac_halp_8ab767e9:
 
     # n "As I drift off to sleep, I have the sense that I'm being swallowed up by a pair of radiant, hypnotic golden eyes."
-    n ""
+    n "Mentre mi addormento, ho la sensazione di essere ingoiato da un paio di radiosi e ipnotici occhi dorati."
 
             
 # game/isaac.rpy:1141
 translate italian isaac_halp_4bd295df:
 
     # n "–After that, the rest of the week was fairly uneventful."
-    n ""
+    n "-Dopo quella sera, il resto della settimana passa senza troppo da raccontare."
 
             
 # game/isaac.rpy:1142
 translate italian isaac_halp_b4687942:
 
     # n "A few unusual guys showed up at the diner, and I caught the name \"Bishop\" a couple times."
-    n ""
+    n "Qualche tizio inusuale è venuto alla tavola calda, e ho captato il nome \"Bishop\" un paio di volte."
 
             
 # game/isaac.rpy:1143
 translate italian isaac_halp_da2da8e3:
 
     # n "It sounds like he's some kind of boss to San Fran's vampires. No one seems to like him that much, but they all sound pretty scared of what he can do."
-    n ""
+    n "Sembra essere una specie di boss dei vampiri di San Fran. Sembrerebbe non piacere molto a nessuno, ma tutti ne parlano con grande timore."
 
             
 # game/isaac.rpy:1149
 translate italian isaac_halp_81e73c94:
 
     # n "Each night, Isaac would take me back to his apartment, and I'd report everything I heard at the diner."
-    n ""
+    n "Ogni notte, Isaac mi porta al suo appartamento, e gli riferisco tutto quello che ho sentito al locale."
 
             
 # game/isaac.rpy:1150
 translate italian isaac_halp_da74d489:
 
     # n "He'd listen closely, ask a few questions, and that was it. We'd chat a little about other random things, and he always brewed me a fresh cup of coffee."
-    n ""
+    n "Lui ascolta attentamente, progendomi qualche domanda, e finisce lì. Poi chiacchieriamo di cose a caso per un po'; mi prepara sempre una tazza di caffè caldo."
 
             
 # game/isaac.rpy:1151
 translate italian isaac_halp_02974391:
 
     # n "I learned that Isaac was raised near Hollywood and met a lot of celebrities as a kid. He seems to be a huge movie aficionado, too – he constantly raves about all his favorites to me."
-    n ""
+    n "Ho imparato che Isaac è cresciuto vicino a Hollywood e che ha conosciuto molte celebrità quando era piccolo. Sembra essere un grande appassionato di cinema, fra l'altro - sta sempre a parlarmi dei suoi film preferiti."
 
             
 # game/isaac.rpy:1153
 translate italian isaac_halp_c811f314:
 
     # n "Curiously, though, he never said anything about what he did as a teenager or in college.\n{w}A part of me wants to ask, but I wonder if he's avoiding it for a reason…"
-    n ""
+    n "Curiosamente, però, non parla mai di quando era adolescente o del periodo dell'università.\n{w} Una parte dime vorrebbe chiederglielo, ma mi chiedo se eviti l'argomento per un motivo..."
 
             
 # game/isaac.rpy:1161
 translate italian isaac_halp_4bf0b488:
 
     # n "One night during the week, Luka passed by the living room, a suspicious glare on his face."
-    n ""
+    n "Una notte, Luka è passato per il soggiorno, uno sguardo sospettoso regnava sul suo viso."
 
             
 # game/isaac.rpy:1163
 translate italian isaac_halp_8b0b233d:
 
     # l "\"I hope you're not leaving any grease stains on the couch, Diner Boy.\""
-    l ""
+    l "\"Spero tu non stia lasciando macchie di unto sul divano, Ragazzo della Tavola Calda.\""
 
             
 # game/isaac.rpy:1166
 translate italian isaac_halp_4f46a46b_1:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:1169
 translate italian isaac_halp_babb5078:
 
     # ip "\"Luka!\""
-    ip ""
+    ip "\"Luka!\""
 
             
 # game/isaac.rpy:1171
 translate italian isaac_halp_0bd038bb:
 
     # ip "\"Don't talk to my assistant like that.\""
-    ip ""
+    ip "\"Non parlare in questo modo al mio assistente.\""
 
             
 # game/isaac.rpy:1173
 translate italian isaac_halp_e18fd8c8:
 
     # n "To my shock, Isaac actually jumped to my defense, and not in a playful manner, either."
-    n ""
+    n "Con mio grande stupore, Isaac si è subito buttato per difendermi, e non in modo scherzoso".
 
             
 # game/isaac.rpy:1176
 translate italian isaac_halp_71423380:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/isaac.rpy:1177
 translate italian isaac_halp_34108a9b:
 
     # n "Luka looked taken aback, too. {w}Isaac doesn't normally raise his voice."
-    n ""
+    n "Anche Luka era sbigottito. {w}Isaac non alza mai la voce."
 
             
 # game/isaac.rpy:1180
 translate italian isaac_halp_996c3f6d:
 
     # l "\"…Jeez, what're you so worked up about, old man? Calm down.\""
-    l ""
+    l "\"...Cristo, perché sei così scontroso, vecchio? Rilassati.\""
 
             
 # game/isaac.rpy:1184
 translate italian isaac_halp_1946fa27:
 
     # n "Scrunching his face up sulkily, Luka stalked back to his room, leaving behind an awkward atmosphere."
-    n ""
+    n "Corruciando la faccia sgarbatamente, Luka se ne orna in camera sua, lasciando dietro di sé un'atmosfera incredibilmente imbarazzante."
 
             
 # game/isaac.rpy:1189
 translate italian isaac_halp_2edf11f5:
 
     # n "–That was about the only thing of note that happened during the week.{w} The rest of our time flew by, and before I knew it, I was settling into the routine."
-    n ""
+    n "-Questa è stata l'unica cosa degna di nota di tutta la settimana.{w} Il resto del tempo è volato e, prima che me ne accorgessi, mi ero ormai abituato alla nuova routine."
 
             
 # game/isaac.rpy:1198
 translate italian isaac_halp_f8c905a7:
 
     # n "Tonight's just another average night, except a heavy storm's pelting down on our taxi as we drive to Isaac's apartment."
-    n ""
+    n "Stanotte è un'altra notte come le alre, a parte il diluvio che ci accompagna durante la corsa in taxi verso l'appartamento di Isaac."
 
             
 # game/isaac.rpy:1199
 translate italian isaac_halp_13fc072d:
 
     # n "I feel a little disappointed that I don't have anything exciting to report, but Isaac seems cheerful as usual."
-    n ""
+    n "Sono un po' deluso di non avere niente di entusiasmante da riferire, ma Isaac sembra allegro e spensierato come sempre."
 
             
 # game/isaac.rpy:1202
 translate italian isaac_halp_0d51b9b2:
 
     # ip "\"You know, I'm thinking about trying a different roast. I'm getting a little sick of the current one.\""
-    ip ""
+    ip "\"Sai, sto penso di provare una nuova miscela di caffè. Quella di sempre inizia a stancarmi.\""
 
             
 # game/isaac.rpy:1205
 translate italian isaac_halp_8c683b8e:
 
     # mcp "\"…You're pretty passionate about coffee, aren't you?\""
-    mcp ""
+    mcp "\"...Ti piace molto il caffè, vero?\""
 
             
 # game/isaac.rpy:1208
 translate italian isaac_halp_6221f378:
 
     # ip "\"What can I say? It's an important part of the job for night owls like us.\""
-    ip ""
+    ip "\"Che posso dire? È una fondamentale parte del lavoro per noi animali notturni.\""
 
             
 # game/isaac.rpy:1209
 translate italian isaac_halp_5e38c7ff:
 
     # n "He elbows my side knowingly, his eyes sparkling behind his glasses."
-    n ""
+    n "Mi da una leggera gomitata sul fianco, i suoi occhi brallano dietro le lenti."
 
             
 # game/isaac.rpy:1212
 translate italian isaac_halp_5af8a924:
 
     # mcp "\"Can't argue with that one.\""
-    mcp ""
+    mcp "\"Niente da dire su questo.\""
 
             
 # game/isaac.rpy:1221
 translate italian isaac_halp_9da1c3d1:
 
     # n "We head upstairs like usual, and as Isaac goes to heat up some water, I let out a contented sigh."
-    n ""
+    n "Andiamo su come al solito, e Isaac va a scaldare un po' d'acqua. MI lascio andare a un sospiro contento."
 
             
 # game/isaac.rpy:1223
 translate italian isaac_halp_535f5b00:
 
     # n "At some point, I grew pretty comfortable hanging around this place."
-    n ""
+    n "Ad un certo punto, mi sono abituato a venire qui e mi piace."
 
             
 # game/isaac.rpy:1224
 translate italian isaac_halp_95917ee6:
 
     # n "Despite being a posh apartment, something about it feels down-to-earth, just like Isaac himself."
-    n ""
+    n "Nonostante sia un appartamento molto chic, qualcosa lo fa rimanere comunque molto accogliente, proprio come Isaac."
 
             
 # game/isaac.rpy:1226
 translate italian isaac_halp_a8c39219:
 
     # n "Appearances really are deceiving. {w}Who'd have thought the fancy pants businessman was just a pretty normal guy?"
-    n ""
+    n "È proprio vero che l'apparenza inganna. {w}Chi avrebbe mai potuto immaginarsi che il damerino tutto infighettato in realtà fosse un tizio piuttosto normale?"
 
             
 # game/isaac.rpy:1227
 translate italian isaac_halp_23b6e789:
 
     # n "He's overly flirty and likes touching my hair too much, sure, but he's never been anything but kind to me – even though he's not getting a whole lot out of our \"deal.\""
-    n ""
+    n "È eccessivamente civettuolo e gli piace un po' troppo toccarmi i capelli, ma non è mai comportato che in maniera gentile con me, anche se non sta guadagnando molto dal nostro \"accordo.\""
 
             
 # game/isaac.rpy:1229
 translate italian isaac_halp_2bc184e6:
 
     # n "And something about the way he always listens to me so intently… {w}well, it makes me feel a little special, as stupid as that sounds."
-    n ""
+    n "E c'è qualcosa nel modo così attento in cui mi ascolta che... {w}beh, mi fa sentire un pochino peciale, per quanto possa sembrare stupido."
 
             
 # game/isaac.rpy:1235
 translate italian isaac_halp_c788ef53:
 
     # ip "\"Fresh coffee for my favorite assistant!\""
-    ip ""
+    ip "\"Caffè caldo appena fatto per il mio assistente preferito!\""
 
             
 # game/isaac.rpy:1237
 translate italian isaac_halp_cf618836:
 
     # n "Striding up beside the couch, Isaac offers me a mug, which I gratefully accept."
-    n ""
+    n "Avvicinandosi al divano, Isaac mi porge una tazza, che accetto con piacere, ringraziandolo."
 
             
 # game/isaac.rpy:1239
 translate italian isaac_halp_d40deb5e:
 
     # mcp "\"Don't let Luka hear you say that.\""
-    mcp ""
+    mcp "\"Attento, Luka potrebbe sentirti.\""
 
             
 # game/isaac.rpy:1241
 translate italian isaac_halp_22f241cd:
 
     # ip "\"He hates me, remember? You don't have to worry about him getting jealous.\""
-    ip ""
+    ip "\"Mi odia, ricordi? Non devi preoccuparti che possa ingelosirsi.\""
 
             
 # game/isaac.rpy:1247
 translate italian isaac_halp_41c10b1b:
 
     # n "Isaac lets out a playful chuckle, sitting down beside me."
-    n ""
+    n "Isaac si lascia andare a una scherzosa risata, sedendosi accanto a me."
 
             
 # game/isaac.rpy:1249
 translate italian isaac_halp_e4441318:
 
     # n "After a few sips of my coffee, I deliver my usual report while he watches me, as attentive as ever."
-    n ""
+    n "Dopo aver bevuto qualche sorso del mio caffè, riferisco il mio solito resoconto mentre li mi osserva, più attento che mai."
 
             
 # game/isaac.rpy:1252
 translate italian isaac_halp_2d165ecd:
 
     # n "Once I've answered his questions, he gives a silent nod, then leans back against the couch cushions."
-    n ""
+    n "Una volta risposto alle sue domande, annuisce in silenzio, poi si poggia allo schienale del divano."
 
             
 # game/isaac.rpy:1255
 translate italian isaac_halp_8df6c9d7_2:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/isaac.rpy:1258
 translate italian isaac_halp_4f46a46b_2:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:1260
 translate italian isaac_halp_4cc426bd:
 
     # n "Normally, we'd start up our friendly chatter at this point."
-    n ""
+    n "<Di solito, iniziamo a chiacchierare amichevolmente a questo punto."
 
             
 # game/isaac.rpy:1261
 translate italian isaac_halp_40953eb1:
 
     # n "But the atmosphere's a little different today, and Isaac isn't piping up like he normally does."
-    n ""
+    n "Ma l'atmosfera è un po' diversa oggi, e Isaac non è loquace come lo è normalmente."
 
             
 # game/isaac.rpy:1263
 translate italian isaac_halp_a5c0f7c1:
 
     # n "Instead, the silence is filled with the sound of the rain that's pelting down, and gusts of wind make rain droplets splatter against the window loudly."
-    n ""
+    n "Al contrario, il silenzio è rotto solo dal suono della pioggia scrosciante e dal ticchettio delle gocce che le folate di vento fanno rumorosamente sbattere contro la finestra."
 
             
 # game/isaac.rpy:1266
 translate italian isaac_halp_bb7b0047:
 
     # mcp "\"Good thing we're not out there, huh, Isaac?\""
-    mcp ""
+    mcp "\"Meno male che non siamo là fuori, eh, Isaac?\""
 
             
 # game/isaac.rpy:1269
 translate italian isaac_halp_bcc047bf:
 
     # mcp "\"…Isaac?\""
-    mcp ""
+    mcp "\"...Isaac?\""
 
             
 # game/isaac.rpy:1270
 translate italian isaac_halp_3ab2eaa5:
 
     # n "When I curiously glance over at Isaac, he seems to be gazing past me with a distant expression."
-    n ""
+    n "Quando lancio un'occhiata curiosa a Isaac, lui sembra guardarmi attraverso con un'espressione distante."
 
             
 # game/isaac.rpy:1274
 translate italian isaac_halp_c4f7557f:
 
     # mcp "\"Something wrong?\""
-    mcp ""
+    mcp "\"C'è qualcosa che non va?\""
 
             
 # game/isaac.rpy:1277
 translate italian isaac_halp_a17f5843:
 
     # mcp "\"What's the matter? Coffee grinds stuck in your throat?\""
-    mcp ""
+    mcp "\"Che succede? Ti è rimasto un chicco di caffè incastrato in gola?\""
 
             
 # game/isaac.rpy:1280
 translate italian isaac_halp_facb1231:
 
     # i "\"Mm?\""
-    i ""
+    i "\"Mm?\""
 
             
 # game/isaac.rpy:1282
 translate italian isaac_halp_843efbdc:
 
     # i "\"Ah, no, it's nothing.\""
-    i ""
+    i "\"Ah, no, nulla.\""
 
             
 # game/isaac.rpy:1283
 translate italian isaac_halp_1f8ff8cb:
 
     # n "His eyes flick back to my face, and he shakes his head."
-    n ""
+    n "I suoi occchi tornano su di me, e scuote la testa."
 
             
 # game/isaac.rpy:1286
 translate italian isaac_halp_a6bc8463:
 
     # mcp "\"Really? You looked pretty lost in thought.\""
-    mcp ""
+    mcp "\"Sicuro? Mi sembri piuttosto perso nei tuoi pensieri.\""
 
             
 # game/isaac.rpy:1289
 translate italian isaac_halp_8df6c9d7_3:
 
     # i "\"…\""
-    i ""
+    i "\"...\""
 
             
 # game/isaac.rpy:1290
 translate italian isaac_halp_474b18d4:
 
     # n "When I question him gently, Isaac hesitates."
-    n ""
+    n "Quando li interrogo dolcemente, Isaac esita."
 
             
 # game/isaac.rpy:1294
 translate italian isaac_halp_182dc2fe:
 
     # n "Then, after a moment, he pulls off his glasses – his gaze flitting back to the cloudy sky."
-    n ""
+    n "Poi, poco dopo, si sfila gli occhiali, il suo sguardo fisso sul cielo nuvoloso."
 
             
 # game/isaac.rpy:1302
 translate italian isaac_halp_d1db117e:
 
     # ip "\"It was storming heavily, just like this… when I had my first run-in with a vampire.\""
-    ip ""
+    ip "\"C'era una forte tempesta, come oggi... quando ho incontrato per la prima volta un vampiro.\""
 
             
 # game/isaac.rpy:1305
 translate italian isaac_halp_4f46a46b_3:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:1308
 translate italian isaac_halp_4d233a69:
 
     # ip "\"After that night, my life changed permanently.\""
-    ip ""
+    ip "\"Dopo quella notte, la mia vita è cambiata per sempre.\""
 
             
 # game/isaac.rpy:1309
 translate italian isaac_halp_ccfce99c:
 
     # ip "\"I couldn't see anything the same way – it was like I didn't belong in the 'normal' human world anymore.\""
-    ip ""
+    ip "\"Niente era più come prima, era come se non appartenessi più al mondo 'normale'.\""
 
             
 # game/isaac.rpy:1311
 translate italian isaac_halp_fe68f769:
 
     # n "He sighs, a grim expression settling on his normally sly features."
-    n ""
+    n "Sospira, un'espressione cupa gli si dipinge su quei tratti di solito molto spigolosi."
 
             
 # game/isaac.rpy:1314
 translate italian isaac_halp_03de61d7:
 
     # ip "\"There's no going back, either.\""
-    ip ""
+    ip "\"E non posso nemmeno tornare indietro.\""
 
             
 # game/isaac.rpy:1315
 translate italian isaac_halp_018b1980:
 
     # ip "\"You, me, we both have to live the rest of our lives knowing that monsters stalk the streets at night, while everyone else sleeps peacefully in their ignorance.\""
-    ip ""
+    ip "\"Tu, io, entrambi dobbiamo vivere il resto della nostra vita sapendo che la notte dei mostri vagano per le strade, mentre tutti gli altri dormono pacificamente nella loro ignoranza.\"
 
             
 # game/isaac.rpy:1318
 translate italian isaac_halp_9c079201:
 
     # ip "\"It makes you wonder… what kind of other dark secrets are hiding out there?\""
-    ip ""
+    ip "\"Ti fa domandare sai.... quali altri orribili segreti si nascondono là fuori?\""
 
             
 # game/isaac.rpy:1320
 translate italian isaac_halp_7fc9f93c:
 
     # ip "\"Are there horrible things all around us, but we only ever notice a fraction of them?\""
-    ip ""
+    ip "\"Cose terrbili ci circondano, ma ne notiamo solo una minima parte?\""
 
             
 # game/isaac.rpy:1328
 translate italian isaac_halp_190afd49:
 
     # n "Isaac's golden eyes close for a moment, and a fleeting, wistful smirk forms on his lips."
-    n ""
+    n "Gli occhi dorati di Isaac si chiudono per qualche istante, le sue labbra si schiudono in un fugace e malinconico sorriso."
 
             
 # game/isaac.rpy:1331
 translate italian isaac_halp_57c93054:
 
     # i "\"…It's a little more sad than it is scary, don't you think?\""
-    i ""
+    i "\"...È leggermente più triste che spaventoso, non trovi?\""
 
             
 # game/isaac.rpy:1335
 translate italian isaac_halp_264318ce:
 
     # i "\"We're stuck in a shadow from now on, separate from everything else… in our own little world of darkness.\""
-    i ""
+    i "\"Siamo intrappolati nell'ombra d'ora in poi, separati da tutto il resto... nel nostro piccolo mondo oscuro.\""
 
             
 # game/isaac.rpy:1336
 translate italian isaac_halp_8de070b5:
 
     # n "His voice grows steadily lower, until it's a barely audible whisper at the end."
-    n ""
+    n "La sua voce si fa sempre più bassa, fino a diventare un sussurro impercettibile."
 
             
 # game/isaac.rpy:1339
 translate italian isaac_halp_4f46a46b_4:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:1341
 translate italian isaac_halp_b859b36f:
 
     # n "For a brief few seconds, I desperately want to lean in and pull Isaac into a hug."
-    n ""
+    n "Per qualce frazione di secondo, vorrei disperamente avvicinarmi ad Isaac e stringerlo in un abbraccio."
 
             
 # game/isaac.rpy:1342
 translate italian isaac_halp_4075998a:
 
     # n "He looks so lonely, so troubled, that it makes me wonder how much of his cheerfulness is just an act."
-    n ""
+    n "Sembra così solo, così inquito, che mi chiedo quanto della sua spensieratezzia sia solo finzione."
 
             
 # game/isaac.rpy:1344
 translate italian isaac_halp_24d1a54e:
 
     # n "He's been surviving in this underworld for a lot longer than me – and it's such a heavy burden to bear."
-    n ""
+    n "Sopravvive in questo mondo da molto più a lungo di me, ed è un fardello troppo pesante da portare."
 
             
 # game/isaac.rpy:1349
 translate italian isaac_halp_7fb4b6fd:
 
     # n "–But before long, his frown relaxes, and he slips his glasses back on with a playful sigh."
-    n ""
+    n "-Ma poco dopo, la sua espressione si rilassa, e inforca nuovamente gli occhiali con un sospiro ironico."
 
             
 # game/isaac.rpy:1351
 translate italian isaac_halp_03a99dd3:
 
     # i "\"Dramatic, huh? Maybe I should go into theatre instead of business.\""
-    i ""
+    i "\"Molto melodrammatico, eh? FOrse dovrei dedicarmi al teatro piuttosto che al mondo degli affari.\""
 
             
 # game/isaac.rpy:1354
 translate italian isaac_halp_4bec246b:
 
     # mcp "\"…Well, you'd be pretty damn good at it.\""
-    mcp ""
+    mcp "\"...Beh, saresti fottutamente bravo.\""
 
             
 # game/isaac.rpy:1359
 translate italian isaac_halp_8d5e121e:
 
     # n "He laughs warmly, and I chuckle along with him, but I can sense that he wasn't really putting on an act."
-    n ""
+    n "Ride calorosaente, e anche io ridacchio con lui, ma posso percepire che non stava davvero fingendo."
 
             
 # game/isaac.rpy:1361
 translate italian isaac_halp_af313601:
 
     # n "The world we're stuck in is just as dark as he said, and as every day passes…"
-    n ""
+    n "Il mondo in cui siamo intrappolati è oscuro come lo ha descritto, e al passare dei giorni..."
 
             
 # game/isaac.rpy:1366
 translate italian isaac_halp_711d2507:
 
     # n "I find myself wondering if things will ever be the same again."
-    n ""
+    n "Mi ritrovo a chiederm se le cose torneranno mai a essere come prima."
 
             
 # game/isaac.rpy:1369
 translate italian isaac_halp_65321441:
 
     # mc "\"Money in the b-a-n-k!\""
-    mc ""
+    mc "\"S-o-l-d-i, baby!\""
 
             
 # game/isaac.rpy:1378
 translate italian isaac_halp_dbc141bf:
 
     # n "Finishing up my latest commission, I push back from my computer and hop to my feet, letting out a satisfied yawn."
-    n ""
+    n "Terminando il mio ultimo lavoro su commissione, mi allontano dalla scrivania e salto in piedi, sbadigliando soddisfatto."
 
             
 # game/isaac.rpy:1379
 translate italian isaac_halp_86a7ba7e:
 
     # n "It's time to head to work and to probably go through another uneventful night…"
-    n ""
+    n "È ora di andare a lavoro e passare probabilmente un'altra notte poco entusiasmante..."
 
             
 # game/isaac.rpy:1381
 translate italian isaac_halp_61483e17:
 
     # n "But at least I'll get to have some of Isaac's coffee and see his face, so it's not all bad."
-    n ""
+    n "Ma almeno potrà godermi il caffè di Isaac e il suo viso, quindi non è tutto brutto."
 
             
 # game/isaac.rpy:1382
 translate italian isaac_halp_459097de:
 
     # n "A few weeks've passed since he first \"hired\" me, but it's been so quiet in the diner that I almost wonder if he didn't take me on just for the companionship."
-    n ""
+    n "Sono passate alcune settimane da quando mi ha \"assunto\", ma è tutto così tranquillo alla tavola calda che mi chiedo se non mi abbia preso con seè solo per fargli compagnia. "
 
             
 # game/isaac.rpy:1392
 translate italian isaac_halp_4569524c:
 
     # n "–My shift kicks off pretty much like normal, with the regular drunk crowd stopping by at intervals."
-    n ""
+    n "-Il mio turno inzia come al solito, con la solita clientela di ubriachi che ogni tanto fa capolineo dalla porta."
 
             
 # game/isaac.rpy:1394
 translate italian isaac_halp_beeae2b6:
 
     # n "I spot a few familiar guys crowding around a booth, however, and I can guess they're probably vampires."
-    n ""
+    n "Noto qualche volto familiare ai tavoli, tutavia, e posso immaginare siano probabilmente dei vampiri."
 
             
 # game/isaac.rpy:1399
 translate italian isaac_halp_9c079317:
 
     # n "Grabbing a cloth, I head over to the neighboring table and start wiping it down, but I strain my ears to hear the conversation."
-    n ""
+    n "Afferrando uno straccio, mi dirigo verso il tavolo accando e inizio a pulirlo, intento tendo le orecchie per ascoltare la conversazine."
 
             
 # game/isaac.rpy:1401
 translate italian isaac_halp_07f9b634:
 
     # u "\"…I'm sick of this shit, man, we gotta do something about it!\""
-    u ""
+    u "\"...Sono stanco di questa merda, amico, dobbiamo fare qualcosa!\""
 
             
 # game/isaac.rpy:1402
 translate italian isaac_halp_bd7908d0:
 
     # u "\"Keep your voice down, dumbass!\""
-    u ""
+    u "\"Abbassa la voce, idiota!\""
 
             
 # game/isaac.rpy:1403
 translate italian isaac_halp_bc48e6e5:
 
     # n "An angry growl comes from the booth, followed by someone else's hiss."
-    n ""
+    n "Un ringhio di rabbia mi arriva dal tavolo accanto, seguito dal sibilare di qualcun altro."
 
             
 # game/isaac.rpy:1405
 translate italian isaac_halp_de36ec82:
 
     # u "\"I don't like it either. I wanna see that guy taken down, so we don't have to play by his rules anymore.\""
-    u ""
+    u "\"Non piace nemmeno a me. VOglia vedere quel tizio crollare, così non dovremmo più stare alle sue regole di merda.\""
 
             
 # game/isaac.rpy:1406
 translate italian isaac_halp_10e8d31e:
 
     # u "\"Yeah, he thinks he owns all of us, doesn't he?\""
-    u ""
+    u "\"Ok, ma... ci ha tutti in pugno, non è così?\""
 
             
 # game/isaac.rpy:1407
 translate italian isaac_halp_5858a456:
 
     # u "\"Head vampire sittin' on his fuckin' throne of skulls, woo, scary.\""
-    u ""
+    u "\"Il vampiro capo suduto sul suo cazzo di trono di teschi, buu, spaventoso.\""
 
             
 # game/isaac.rpy:1410
 translate italian isaac_halp_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/isaac.rpy:1412
 translate italian isaac_halp_71ae0117:
 
     # n "They must be talking about Bishop."
-    n ""
+    n "Stanno sicuramente parlando di Bishop."
 
             
 # game/isaac.rpy:1413
 translate italian isaac_halp_b805d384:
 
     # n "By the sound of it, they don't like him, either… but they sound way angrier than the other vampires I've heard before."
-    n ""
+    n "Da come parlando, nom va molto a genio nemmeno a loro... Ma sembrano molto più incazzati di quaunque altro vampiro che ho sentito."
 
             
 # game/isaac.rpy:1415
 translate italian isaac_halp_759814df:
 
     # u "\"So what're we gonna do about it? Join up with those stupid Seirei guys? They're way too private and stuck-up for that.\""
-    u ""
+    u "\"Quindi cosa facciamo? Ci uniamo a quegli stupidi Seirei? Sono troppo chiusi fra loro e arroganti per accettarci.\""
 
             
 # game/isaac.rpy:1416
 translate italian isaac_halp_458b8f92:
 
     # u "\"Ngh, I dunno, man. Just wait it out for now, I guess… but I swear, I want that guy fuckin' {i}dead.{/i}\""
-    u ""
+    u "Ugh, non so, amico. Dobbiamo aspettare un po' per ora, immagino... ma giuro, coglio quel tizio del cazzo {i}morto.{/i}\""
 
             
 # game/isaac.rpy:1418
 translate italian isaac_halp_fd89ed32:
 
     # n "The conversation suddenly goes silent."
-    n ""
+    n "La conversazione si placa all'improvviso."
 
             
 # game/isaac.rpy:1421
 translate italian isaac_halp_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\"
 
             
 # game/isaac.rpy:1422
 translate italian isaac_halp_46aafe0f:
 
     # n "I realize I've been standing stock-still for a few moments, staring at a nearby table while trying to listen in."
-    n ""
+    n "Mi rendo conto di essere rimasto immobile per qualche secondo, con gli occhi fissi su un tavolo vicino, cercando di origliare."
 
             
 # game/isaac.rpy:1424
 translate italian isaac_halp_4e2a1e52:
 
     # u "\"Hey… I know you, don't I?\""
-    u ""
+    u "\"Ehi... Io ti conosco, non è vero?\""
 
             
 # game/isaac.rpy:1432
 translate italian isaac_halp_1a2a0809:
 
     # n "When a drawling, sing-song voice calls out behind me, I quickly turn to see a familiar figure standing there."
-    n ""
+    n "Quando una voce strascicata e cantilenante richiama la mia attenzione, mi volto rapidamente e vedo una figura familiare in piedi davanti a me."
 
             
 # game/isaac.rpy:1437
 translate italian isaac_halp_7bd3dc39:
 
     # mc "\"You – Rex?!\""
-    mc ""
+    mc "\"Tu - Rex?!\""
 
             
 # game/isaac.rpy:1438
 translate italian isaac_halp_304c36de:
 
     # mc "\"What are you doing here?\""
-    mc ""
+    mc "\"Che ci fai qui?\""
 
             
 # game/isaac.rpy:1440
 translate italian isaac_halp_4fb1d6a3:
 
     # r "\"What's the matter? Your buddy Isaac said this place is a new meetin' ground.\""
-    r ""
+    r "\"Che succede? Il tuo amichetto Isaac ha detto che questo è un nuovo punto di incontro.\""
 
             
 # game/isaac.rpy:1442
 translate italian isaac_halp_a47480fe:
 
     # r "\"I don't mind, either. Means I get to stare at your ass while you wipe those tables all night.\""
-    r ""
+    r "\"A me non dispiace, in realtà. Significa che posso stare a guardarti il culo tutta la sera mentre pulisci i tavoli.\""
 
             
 # game/isaac.rpy:1443
 translate italian isaac_halp_b8998175:
 
     # n "He grins crudely at me, licking his lips."
-    n ""
+    n "Mi rivolge un sorriso rozzo, leccandosi le labbra."
 
             
 # game/isaac.rpy:1447
 translate italian isaac_halp_366340cd:
 
     # n "…Deciding to ignore his comment, I glance over towards the other vampires by the booth, who're wearing similar outfits to Rex."
-    n ""
+    n "...Dopo avere deciso di ignorare il suo commento, butto l'occhio su gli altri vampiri al tavolo, che portano abiti simili a quelli di Rex."
 
             
 # game/isaac.rpy:1450
 translate italian isaac_halp_39fccc68:
 
     # mc "\"Are those guys part of your clan?\""
-    mc ""
+    mc "\"Quei tizi fanno parte del tuo clan?\""
 
             
 # game/isaac.rpy:1454
