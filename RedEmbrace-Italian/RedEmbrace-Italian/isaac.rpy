@@ -5112,126 +5112,126 @@ translate italian isaac_halp_39fccc68:
 translate italian isaac_halp_0aacd312:
 
     # mc "\"Can it with that shit, unless you want me to introduce you to my favorite kitchen knife.\""
-    mc ""
+    mc "\"Falla finita con queste stronzate, a meno che tu non voglia che ti presenti il mio coltello da cucina preferito.\""
 
             
 # game/isaac.rpy:1457
 translate italian isaac_halp_9078bcad:
 
     # mc "\"Those guys over in the booth… are they part of your clan?\""
-    mc ""
+    mc "\"Quei tizi al tavolo... fanno parte dei tuo clan?\""
 
             
 # game/isaac.rpy:1460
 translate italian isaac_halp_f2423884:
 
     # r "\"You nailed it, baby.\""
-    r ""
+    r "\"C'hai azzeccato, baby.\""
 
             
 # game/isaac.rpy:1462
 translate italian isaac_halp_8f95e6a3:
 
     # r "\"Want some introductions? I bet they'd loooove to meet you~\""
-    r ""
+    r "\"Ti presento qualcuno? Scommetto che ti suuuper contenti di conoscerti~\""
 
             
 # game/isaac.rpy:1464
 translate italian isaac_halp_a5a3eecc:
 
     # mc "\"…I think I'm just fine, thanks.\""
-    mc ""
+    mc "\"...Sto a posto, grazie.\""
 
             
 # game/isaac.rpy:1468
 translate italian isaac_halp_bae25d86:
 
     # n "Rex snickers as I grab my cloth and hurry back behind the bar, not wanting to stick around for him to drag me over."
-    n ""
+    n "\"Rex ride sotto i baffi, mentre afferro il mio straccio e rapidamente mi infilo dietro il bancone, non volendo stare in giro così che non possa trascinarmi.\""
 
             
 # game/isaac.rpy:1473
 translate italian isaac_halp_5d9540fa:
 
     # n "–The group eventually leaves, and nothing else unusual happens for the rest of the night."
-    n ""
+    n "-Il gruppo alla fine se ne va, e non accade nient altro di particolare per il resto della notte."
 
             
 # game/isaac.rpy:1474
 translate italian isaac_halp_b41fc5d7:
 
     # n "I keep replaying the conversation in my mind, making sure to crystallize every detail so I can thoroughly report it to Isaac."
-    n ""
+    n "Continuo a ripete la conversazione nella mia mente, facendo in modo di cristallizzare ogni dettaglio così da poterlo riferire accuratamente ad Isaac."
 
             
 # game/isaac.rpy:1483
 translate italian isaac_halp_52f1d075:
 
     # n "Sure enough, he shows up right before closing time, flashing me his usual warm smile."
-    n ""
+    n "Puntuale come la morte, si fa vivo poco prima dell'orario di chiusura, rivolgendomi il suo solito caloroso sorriso."
 
             
 # game/isaac.rpy:1485
 translate italian isaac_halp_2e0464c9:
 
     # i "\"Ah, my little burger-flipper's looking delicious as always. Ready to go?\""
-    i ""
+    i "\"Ah, il mio piccolo gira-hamburger sembra delizioso come sempre. Pronto ad andare?\""
 
             
 # game/isaac.rpy:1488
 translate italian isaac_halp_5c4128bf:
 
     # i "\"…Oh? You have a more serious face than usual, my dear. Something on your mind?\""
-    i ""
+    i "\"...Oh? Hai una faccia più seria del solito, tesoro. Qualcosa non va?\""
 
             
 # game/isaac.rpy:1493
 translate italian isaac_halp_35a28d4c_2:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/isaac.rpy:1495
 translate italian isaac_halp_51fb4abd:
 
     # n "I grab my keys and hurry up to Isaac's side, nodding eagerly."
-    n ""
+    n "Afferro le chiavi e raggiungo Isaac, annuendo impazientemente."
 
             
 # game/isaac.rpy:1498
 translate italian isaac_halp_ece94a4a:
 
     # mc "\"Let's wait until we get somewhere private.\""
-    mc ""
+    mc "\"Meglio aspettare di essere in un posto più privato.\""
 
             
 # game/isaac.rpy:1501
 translate italian isaac_halp_97060229:
 
     # i "\"Private, hmm? Naughty, naughty.\""
-    i ""
+    i "\"Privato, hmm? Che sporcaccione.\""
 
             
 # game/isaac.rpy:1502
 translate italian isaac_halp_c0378fec:
 
     # n "He teases me with a chuckle, but his eyes flash sharply behind his glasses, and I think he's guessed I have something important to tell him."
-    n ""
+    n "Mi stuzzica con una risatina, ma i suoi occhi lampeggiano dietro le lenti, e immagino abbia capito che ho qualcosa di importante da raccontargli."
 
             
 # game/isaac.rpy:1509
 translate italian isaac_halp_1488b5ae:
 
     # n "When we arrive at his apartment, I flop down on the couch and start to impatiently fidget."
-    n ""
+    n "Una volta arrivati al suo appartamento, mi butto sul divano e inizio a giocherellare impazientemente con le dita."
 
             
 # game/isaac.rpy:1510
 translate italian isaac_halp_397b9978:
 
     # n "Isaac always insists on getting me a drink before my reports like it's some kind of sacred ritual, even though I told him it could wait this time."
-    n ""
+    n "Isaac insiste sempre per offrirmi qualcosa da bere prima di fargli il mio resoconto, come se fosse una specie di rituale sacro, anche se gli ho detto che può aspettare 'sta volta."
 
             
 # game/isaac.rpy:1513
