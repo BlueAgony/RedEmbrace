@@ -7498,7 +7498,7 @@ translate italian isaac_bad_58abaa38:
 translate italian isaac_bad_12e84ac8:
 
     # n "Your mind must be broken, now."
-    n "LA tua mentre dev'essere a pezzi, adesso."
+    n "La tua mentre dev'essere a pezzi, adesso."
 
             
 # game/isaac.rpy:2357
