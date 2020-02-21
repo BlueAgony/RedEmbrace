@@ -7155,364 +7155,364 @@ translate italian isaac_final_f43831d2:
 translate italian isaac_final_54324b82:
 
     # n "I can't so much as budge an inch, not with his inhuman strength pinning my arms to the hard surface."
-    n "Non riesco a spostarmi nemmeno di un centimetro, non con la suo forza inumana che mi tiene le braccia appicicate alla superficie fredda del bancone."
+    n "Non riesco a spostarmi nemmeno di un centimetro, non con la suo forza inumana che mi tiene le braccia incollate alla superficie fredda del bancone."
 
             
 # game/isaac.rpy:2231
 translate italian isaac_final_8e656a08:
 
     # b "\"It's a shame to have to turn you so crassly, but I don't have any more time to waste here, I'm afraid.\""
-    b ""
+    b "\"È un peccato doverti trasformare così bruscamente, ma non ho altro tempo da perdere, purtroppo.\""
 
             
 # game/isaac.rpy:2232
 translate italian isaac_final_35b35253:
 
     # b "\"Now, behave yourself, and perhaps a reward is in order later…\""
-    b ""
+    b "\"Ora, comportati bene, e magari avrai una ricompensa pià tardi...\""
 
             
 # game/isaac.rpy:2236
 translate italian isaac_final_32ca442c:
 
     # n "Bishop leans in towards my neck, tilting my head back to expose my throat."
-    n ""
+    n "Bishop si avvicina al mio collo, inclinandomi la testa all'indietro per esporre meglio il mio collo."
 
             
 # game/isaac.rpy:2238
 translate italian isaac_final_2882dca1:
 
     # n "If this is the price I have to pay for everything… then so be it."
-    n ""
+    n "Se questo è il prezzo che dovrò pagare per quello che è successo... che sia.
 
             
 # game/isaac.rpy:2239
 translate italian isaac_final_17471890:
 
     # n "I don't regret a single moment I spent with Isaac – {w}and I'd do it all again, even if this is how things had to end."
-    n ""
+    n "Non mi pento neanche di un singolo istante passato con Isaac - {w}e rifarei tutto, anche se le cose vanno a finire così."
 
             
 # game/isaac.rpy:2241
 translate italian isaac_final_f645f3c3:
 
     # n "That thought is the only comfort I have as I close my eyes, bracing myself for Bishop's bite…"
-    n ""
+    n "Quel pensiero è la mia unica consolazione mentre chiudo gli occhi, preparandomi al morso di Bishop..."
 
             
 # game/isaac.rpy:2254
 translate italian isaac_bad_f218a8e0:
 
     # mcp "\"…Bishop…\""
-    mcp ""
+    mcp "\"...Bishop...\"
 
             
 # game/isaac.rpy:2255
 translate italian isaac_bad_c8bbe7ca:
 
     # mcp "\"…I…\""
-    mcp ""
+    mcp "\"...Io...\""
 
             
 # game/isaac.rpy:2257
 translate italian isaac_bad_d670accb:
 
     # n "As much as I try to pull my gaze away, it's no good."
-    n ""
+    n "Nonostante i miei numerosi tentativi di distogliere lo sguardo, non ci riesco."
 
             
 # game/isaac.rpy:2258
 translate italian isaac_bad_244872a9:
 
     # n "A pleasant numbness spreads through my body, and I relax in Bishop's grip before I know it."
-    n ""
+    n "Un piacevole torpore si irradia nel mio corpo, e prima che possa accorgemene mi rilasso nela stretta di Bishop."
 
             
 # game/isaac.rpy:2261
 translate italian isaac_bad_4b880b50:
 
     # b "\"Shh…\""
-    b ""
+    b "\"Shh...\""
 
             
 # game/isaac.rpy:2262
 translate italian isaac_bad_435428a5:
 
     # b "\"I'll take care of you, my little [mc]…\""
-    b ""
+    b "\"Mi prenderò cura di te, mio piccolo [mc]…\""
 
             
 # game/isaac.rpy:2265
 translate italian isaac_bad_074c510c:
 
     # b "\"…Just give in to me.\""
-    b ""
+    b "\"...Devi solo lasciarti andare a me.\""
 
             
 # game/isaac.rpy:2268
 translate italian isaac_bad_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2270
 translate italian isaac_bad_2b15c39a:
 
     # n "I slowly nod, feeling a smile spread on my lips."
-    n ""
+    n "Annuisco lentamente, sentendo un sorriso allargarsi sul mio viso."
 
             
 # game/isaac.rpy:2275
 translate italian isaac_bad_48cb2aaf:
 
     # n "Everything starts to grow darker and darker, but I'm not afraid."
-    n ""
+    n "Tutto sembra diventare piano piano sempre più scuro, ma non ho paura."
 
             
 # game/isaac.rpy:2277
 translate italian isaac_bad_ecc55498:
 
     # n "Bishop's arms are tightly curled around me – {w}and I trust him."
-    n ""
+    n "Le braccia di Bishop mi circondano con fermezza- {w}e mi fido di lui."
 
             
 # game/isaac.rpy:2279
 translate italian isaac_bad_6f1a05cf:
 
     # n "He's the only one I trust…{w} the only one…"
-    n ""
+    n "È l'unico di cui mi fido...{w} l'unico..."
 
             
 # game/isaac.rpy:2281
 translate italian isaac_bad_38d1ef3f:
 
     # n "Bishop…"
-    n ""
+    n "Bishop..."
 
             
 # game/isaac.rpy:2287
 translate italian isaac_bad_56ee1447:
 
     # mc "\"A-ah…\""
-    mc ""
+    mc "\"A-ah...\""
 
             
 # game/isaac.rpy:2289
 translate italian isaac_bad_ab45031f:
 
     # n "A soft sound escapes my mouth before I can bite it back."
-    n ""
+    n "Un suono lieve mi scappa dalle labbra prima che possa fermarlo."
 
             
 # game/isaac.rpy:2291
 translate italian isaac_bad_7fafca53:
 
     # b "\"Mm…\""
-    b ""
+    b "\"Mm...\""
 
             
 # game/isaac.rpy:2293
 translate italian isaac_bad_1416e716:
 
     # b "\"There's no need to be shy, [mc]. Let me hear more of your voice.\""
-    b ""
+    b "\"Non c'è bisogno di essere timdi, [mc]. Fammi sentire la tua vocina.\""
 
             
 # game/isaac.rpy:2294
 translate italian isaac_bad_8295f3c0:
 
     # n "Bishop purrs into my ear, dragging his tongue along the lobe."
-    n ""
+    n "Bishop sussurra al mio orecchio, trascinando poi la sua lingua lungo il mio lobo."
 
             
 # game/isaac.rpy:2300
 translate italian isaac_bad_e381ad1a:
 
     # n "I try to control myself, but the hand creeping up my shirt moves too skillfully."
-    n ""
+    n "Tento di controllarmi, ma la mano che scivola sotto la mia maglia è troppo abile."
 
             
 # game/isaac.rpy:2302
 translate italian isaac_bad_737d1924:
 
     # n "His long fingers tease along my abdomen, trailing their way towards a sensitive spot –"
-    n ""
+    n "Le sue dita affusolate mi accarezzano l'addome, facendosi strada verso un punto sensibile -"
 
             
 # game/isaac.rpy:2304
 translate italian isaac_bad_c21b9b61:
 
     # mc "\"Nnh–!\""
-    mc ""
+    mc "\"Nnh-!\""
 
             
 # game/isaac.rpy:2305
 translate italian isaac_bad_011cd578:
 
     # n "Crying out again, I squirm in Bishop's lap, but he holds me firmly in place."
-    n ""
+    n "Gemendo una seconda volta, scivolo sulle gambe di Bishop, ma lui mi tiene saldamente fermo al mio posto."
 
             
 # game/isaac.rpy:2307
 translate italian isaac_bad_f04433fc:
 
     # b "\"Good… what a lovely little pet you are.\""
-    b ""
+    b "\"Bene... che cagnolino adorabile che sei.\""
 
             
 # game/isaac.rpy:2308
 translate italian isaac_bad_91305a00:
 
     # n "He chuckles lowly, and his cold lips press to the side of my neck, against one of the many bruises."
-    n ""
+    n "Ridaccha profondamente, e le sue labbra gelide premoto sul mio collo, contro uno dei miei tanti lividi."
 
             
 # game/isaac.rpy:2319
 translate italian isaac_bad_324e18ea:
 
     # n "–I belong to Bishop, now."
-    n ""
+    n "-Appartengo a Bishop, ora."
 
             
 # game/isaac.rpy:2320
 translate italian isaac_bad_e5a15f0d:
 
     # n "It's been a few months since he kidnapped me, even though it feels like an eternity."
-    n ""
+    n "Sono passati solo un paio di mesi da quando mi ha rapito, anche se sembra un'eternità."
 
             
 # game/isaac.rpy:2322
 translate italian isaac_bad_ae3fca27:
 
     # n "I struggled at first, trying to escape any way I could, but Bishop always found me before I made it out."
-    n ""
+    n "Ho avuto grosse difficoltà ad abituarmi all'inzio, cercavo di scappare in ogni modo possibile, ma Bishop mi trovava sempre prima che riuscissi a uscire."
 
             
 # game/isaac.rpy:2323
 translate italian isaac_bad_b55b540e:
 
     # n "He keeps me with him in his headquarters at all times, using me for blood and pleasure…"
-    n ""
+    n "Mi tiene costantemente relegato nel suo quarti generale, usandomi per il mio sangue e il suo piacere personale..."
 
             
 # game/isaac.rpy:2325
 translate italian isaac_bad_4fa931fb:
 
     # n "And there's no way for me to resist him."
-    n ""
+    n "E non c'è modo per me di resistergli."
 
             
 # game/isaac.rpy:2326
 translate italian isaac_bad_30cd3a15:
 
     # n "The second I look into his crimson eyes, everything else melts away, and I can only think –"
-    n ""
+    n "Nell'esatto istante in cui guardo quegli occhi cremisi, tutto il resto si scioglie attorno a me, e riesco solo a pensare a -"
 
             
 # game/isaac.rpy:2328
 translate italian isaac_bad_ae8c8e38:
 
     # n "…Of serving Bishop."
-    n ""
+    n "...Servire Bishop."
 
             
 # game/isaac.rpy:2336
 translate italian isaac_bad_b2a0ab7f:
 
     # mc "\"Mas…ter…\""
-    mc ""
+    mc "\"Pa... padrone...\""
 
             
 # game/isaac.rpy:2337
 translate italian isaac_bad_c91396c2:
 
     # n "As Bishop sucks on my neck, his tongue lapping along my flesh, I let out a soft whimper."
-    n ""
+    n "Mentre Bishop mi succhia il collo, la sua lingua bagna la mia pelle, e io lascio andare un leggero piagnucolio."
 
             
 # game/isaac.rpy:2338
 translate italian isaac_bad_00a05b05:
 
     # n "He punishes me if I say his name instead of calling him \"Master,\" so I have no choice but to play by his rules."
-    n ""
+    n "Mi punisce se dico il suo nome invece di chiamarlo \"Padrone,\" quindi non ho molto scelta, devo stare al suo gioco."
 
             
 # game/isaac.rpy:2340
 translate italian isaac_bad_53c3acee:
 
     # b "\"Good boy…\""
-    b ""
+    b "\"Che bravo cagnolino...\""
 
             
 # game/isaac.rpy:2341
 translate italian isaac_bad_341fdbac:
 
     # b "\"Aren't you happy I brought you in?\""
-    b ""
+    b "\"Non sei contento che ti ho accolto qui?\""
 
             
 # game/isaac.rpy:2342
 translate italian isaac_bad_077404d8:
 
     # n "Bishop strokes my chest, his thumb brushing against one of the tender pink buds."
-    n ""
+    n "Bishop mi accarezza il petto, il suo pollice mi solettica un capezzolo."
 
             
 # game/isaac.rpy:2344
 translate italian isaac_bad_6f294be7:
 
     # b "\"I'll treat you so much better than that fool Isaac ever could.\""
-    b ""
+    b "\"Ti tratterò molyo meglio di come avrebbe mai potuto fare quello sciocco di Isaac.\""
 
             
 # game/isaac.rpy:2345
 translate italian isaac_bad_7c8e162f:
 
     # b "\"And perhaps I'll even give you my bite… so that you can be my prized pet forever.\""
-    b ""
+    b "\"E magari un giorno ti trasformerò... così potrai essere il mio prezioso cagnolino per sempre.\" "
 
             
 # game/isaac.rpy:2347
 translate italian isaac_bad_edf54fa4:
 
     # n "His cool breath brushes my throat, and I can tell he's going to sink his fangs into me before long."
-    n ""
+    n "Il suo respiro gelido mi solletica la gola, e so che affonderà i suoi canini dentro di me fra poco."
 
             
 # game/isaac.rpy:2351
 translate italian isaac_bad_0bb05ef8:
 
     # n "Isaac…"
-    n ""
+    n "Isaac..."
 
             
 # game/isaac.rpy:2353
 translate italian isaac_bad_58abaa38:
 
     # n "How did it end up like this? {w}How did I fail you so much?"
-    n ""
+    n "Come è potuta finire così? {w}Come ho potuto fallire in questo modo?"
 
             
 # game/isaac.rpy:2355
 translate italian isaac_bad_12e84ac8:
 
     # n "Your mind must be broken, now."
-    n ""
+    n "LA tua mentre dev'essere a pezzi, adesso."
 
             
 # game/isaac.rpy:2357
 translate italian isaac_bad_1afc7d39:
 
     # n "Bishop promised he'd turn you into an empty slave…{w} and Bishop doesn't break his promises."
-    n ""
+    n "Bishop mi ha promesso che ti avrebbe trafosmato in un insignificante schiavo... {w}e Bishop mantiene le sue promesse."
 
             
 # game/isaac.rpy:2364
 translate italian isaac_bad_18e1aba2:
 
     # mc "\"A-aah!\""
-    mc ""
+    mc "\"A-aah!\""
 
             
 # game/isaac.rpy:2365
