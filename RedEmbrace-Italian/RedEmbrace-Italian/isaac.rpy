@@ -53,14 +53,14 @@ translate italian isaac_5e0a596d:
 translate italian isaac_a73c7742:
 
     # n "He calls out anxiously to me, but I don't have the energy to shout out a \"Tell me something I don't already know!\" in reply."
-    n "Cerca ansiosamente di attirare la mia attenzione, ma non ho le energie per rispondergli \"DImmi qualcosa che non so!\"."
+    n "Cerca ansiosamente di attirare la mia attenzione, ma non ho le energie per rispondergli \"Dimmi qualcosa che non so!\"."
 
             
 # game/isaac.rpy:30
 translate italian isaac_1bdb159b:
 
     # n "When I get closer to Isaac, he seems to notice my presence, because he slows his pace down a little."
-    n "Quando mi avvicino ad Isaac, sebra notare la mia presenza, perchè rallenta un po' il passo."
+    n "Quando mi avvicino ad Isaac, sembra notare la mia presenza, perchè rallenta un po' il passo."
 
             
 # game/isaac.rpy:32
@@ -144,7 +144,7 @@ translate italian isaac_e27fb00f:
 translate italian isaac_095afa32:
 
     # i "\"After all, every dead vampire just makes the world a better place… isn't that something worth watching?\""
-    i "\"Dopottutto, per ogni vampiro che muore,il mondo diventa un posto migliore... Non ti sembra qualcosa che vale la pena di vedere?\""
+    i "\"Dopottutto, per ogni vampiro che muore, il mondo diventa un posto migliore... Non ti sembra qualcosa che vale la pena di vedere?\""
 
             
 # game/isaac.rpy:65
@@ -172,14 +172,14 @@ translate italian isaac_6f520641:
 translate italian isaac_5f48d619:
 
     # n "Before I can question him about it, we round a corner, and Isaac abruptly stops."
-    n "Prima che io possa chiedergli qualcosa a riguardo, giriamo l'angolo e Isaac di ferma bruscamente."
+    n "Prima che io possa chiedergli qualcosa a riguardo, giriamo l'angolo e Isaac si ferma bruscamente."
 
             
 # game/isaac.rpy:76
 translate italian isaac_f6f9d1f5:
 
     # n "There, before us –"
-    n "Lì, davanti a nostri occhi-"
+    n "Lì, davanti ai nostri occhi-"
 
             
 # game/isaac.rpy:82
@@ -6364,14 +6364,14 @@ translate italian isaac_1_aad3f5cc:
 translate italian isaac_1_10e80eb9:
 
     # n "The person who strides towards me isn't Isaac."
-    n "La peronsa che viene verso di me non è Isaac."
+    n "La persona che viene verso di me non è Isaac."
 
             
 # game/isaac.rpy:1961
 translate italian isaac_1_7e160443:
 
     # n "It's a very tall and elegant man in a crisp black suit, carrying himself with an air of authority."
-    n "È un uomo molto alto ed elegante, indossa un abito nero come notte e attorno a lui si percefisce un aura di profonda autorità."
+    n "È un uomo molto alto ed elegante, indossa un abito nero come la notte e attorno a lui si percepisce un'aura di profonda autorità."
 
             
 # game/isaac.rpy:1962
@@ -6385,7 +6385,7 @@ translate italian isaac_1_87599de2:
 translate italian isaac_1_ae87acf6:
 
     # mc "\"Who… who are you?\""
-    mc "\"Chi... chi è lei?\""
+    mc "\"Chi... chi seinnnnnnnnnnnnnnn?\""
 
             
 # game/isaac.rpy:1970
@@ -6399,763 +6399,763 @@ translate italian isaac_1_9a74f86b:
 translate italian isaac_1_014bf67c:
 
     # n "And then I realize –{w} his eyes aren't a normal color."
-    n "E poi lo noto -{w}i suoi occhi non sono d un colore normale."
+    n "E poi lo noto -{w}i suoi occhi non sono di un colore normale."
 
             
 # game/isaac.rpy:1975
 translate italian isaac_1_346c65cc:
 
     # mc "\"Who are you?\""
-    mc "\"Chi è lei?\""
+    mc "\"Chi sei?\""
 
             
 # game/isaac.rpy:1976
 translate italian isaac_1_906ae169:
 
     # n "I do my best to meet the man's gaze, clenching my hands into fists at my sides."
-    n ""
+    n "Faccio del mio meglio per reggere lo sguardo dell'uomo, stringendo le mani in un pugno per farmi forza."
 
             
 # game/isaac.rpy:1978
 translate italian isaac_1_33bb4661:
 
     # n "But as I study his pale face – {w}I realize his eyes aren't a normal color."
-    n ""
+    n "Ma mentre studio il suo viso pallido, {w}Mi rendo conto ch ei suoi occhi non sono di un colore normale."
 
             
 # game/isaac.rpy:1981
 translate italian isaac_1_f91a9b91:
 
     # n "…They're a bright, blood red."
-    n ""
+    n "...Sono di acceso rosso sangue."
 
             
 # game/isaac.rpy:1984
 translate italian isaac_1_4cf12096:
 
     # u "\"Why, I'm sure you've heard of me before, [mc]… just like I've heard of you.\""
-    u ""
+    u "\"Sono sicuro tu abbia già sentito parlare di me, [mc]… proprio come io ho sentito parlare di te.\""
 
             
 # game/isaac.rpy:1985
 translate italian isaac_1_a8de2c9c:
 
     # n "His deep voice reverberates lowly, so cool and confident that it sends a shiver down my spine."
-    n ""
+    n "La sua profonda voce riverbera nella stanza, talmente fredda e sicura da farmi venire un brivido lungo la schiena."
 
             
 # game/isaac.rpy:1987
 translate italian isaac_1_48fcac40:
 
     # n "I have a feeling I know who this man is, since there's only one person he {i}could{/i} be."
-    n ""
+    n "Penso di sapere chi sia quest'uomo, visto che può essere solo {i}una{/i} persona."
 
             
 # game/isaac.rpy:1990
 translate italian isaac_1_0ef743d3:
 
     # mc "\"…Bishop.\""
-    mc ""
+    mc "\"...Bishop.\""
 
             
 # game/isaac.rpy:1993
 translate italian isaac_1_c1a92b00:
 
     # n "The moment I speak his name, a dark smile crawls over Bishop's lips, and he nods."
-    n ""
+    n "Nel momento esatto in cui pronuncio il suo nome, un sorriso sinistro si apre sul viso di Bishop, che annuisce."
 
             
 # game/isaac.rpy:1995
 translate italian isaac_1_8b21be69:
 
     # b "\"I'm sure you've heard a lot about me from my coven…\""
-    b ""
+    b "\"Sono sicuro tu abbia sentito parlare parecchio di me dal mio coven...\""
 
             
 # game/isaac.rpy:1998
 translate italian isaac_1_29783acd:
 
     # b "\"And perhaps from your 'friend,' Isaac?\""
-    b ""
+    b "\"E forse anche dal tuo 'amico', Isaac?\""
 
             
 # game/isaac.rpy:2001
 translate italian isaac_1_35a28d4c_3:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/isaac.rpy:2002
 translate italian isaac_1_9f85739c:
 
     # n "When he mentions Isaac, I instinctively tense up."
-    n ""
+    n "Quando nomina Isaac, mi irrigisco immediatamente."
 
             
 # game/isaac.rpy:2003
 translate italian isaac_1_ce96ae49:
 
     # n "The way he talks, it's like he knows everything we've been doing and planning."
-    n ""
+    n "Il modo in cui parla, è come se sapesse tutto quello che stavamo facendo e progettando."
 
             
 # game/isaac.rpy:2006
 translate italian isaac_1_1c4b2252:
 
     # b "\"Oh, my. You didn't think I was unaware of what you two were plotting, did you?\""
-    b ""
+    b "\"Oh, wow. Non pensavi davvero che fossi all'oscuro del fatto che stavate complottando contro di me, vero?\""
 
             
 # game/isaac.rpy:2007
 translate italian isaac_1_530f2ee3:
 
     # n "Letting out a soft chuckle, Bishop shakes his head mockingly."
-    n ""
+    n "Lasciandosi andare ad una risatia, Bishop scuote la testa con fare canzonatorio."
 
             
 # game/isaac.rpy:2010
 translate italian isaac_1_cddacb16:
 
     # b "\"Isaac may be an information broker, but he's not the only source I have.\""
-    b ""
+    b "\"Isaac potrebbe anche essere un information broker, ma non è l'unica fonte che ho.\""
 
             
 # game/isaac.rpy:2011
 translate italian isaac_1_9b3db625:
 
     # b "\"I thought he was smart enough to know that.\""
-    b ""
+    b "\"Pensavo fosse abbastanza sveglio da saperlo.\""
 
             
 # game/isaac.rpy:2019
 translate italian isaac_1_be5506bb:
 
     # n "After he exhales a sigh, the vampire steps closer to me, casting a long and overbearing shadow."
-    n ""
+    n "Dopo aver esalato un sospiro, il vampiro inizia ad avvicinarsi a me, proiettando una lunga e dominante ombra."
 
             
 # game/isaac.rpy:2021
 translate italian isaac_1_61b8b738:
 
     # n "It feels like the air around me suddenly drops in temperature, and a cold sweat breaks out on the back of my neck."
-    n ""
+    n "Percepisco la temperatura attorno a me scendere, e una goccia di sudore freddo mi scende lungo la nuca."
 
             
 # game/isaac.rpy:2025
 translate italian isaac_1_9f644e21:
 
     # mcp "\"Where's Isaac? Have you hurt him?\""
-    mcp ""
+    mcp "\"Dov'è Isaac? Gli hai fatto del male?\""
 
             
 # game/isaac.rpy:2026
 translate italian isaac_1_af0c2918:
 
     # n "I growl out at Bishop, trying to sound at least a little threatening."
-    n ""
+    n "Ringhio a Bishop, cercando di sembrare almeno un po' minaccioso."
 
             
 # game/isaac.rpy:2029
 translate italian isaac_1_9e93839b:
 
     # mcp "\"You… you haven't hurt Isaac, have you?\""
-    mcp ""
+    mcp "\"Tu... non hai fatto del male ad Isaac, vero?\""
 
             
 # game/isaac.rpy:2030
 translate italian isaac_1_262305b5:
 
     # mcp "\"Please…\""
-    mcp ""
+    mcp "\"Ti prego...\""
 
             
 # game/isaac.rpy:2031
 translate italian isaac_1_ac7d84af:
 
     # n "My voice cracks slightly as I gaze up at Bishop, feeling my heart pound a mile a minute."
-    n ""
+    n "La mia voce rotta dal terrore. Tengo lo sguardo fisso su Bishop, intanto sento il mio cuore battere all'impazzata."
 
             
 # game/isaac.rpy:2034
 translate italian isaac_1_9c619860:
 
     # b "\"No, of course not. What sort of a monster do you think I am?\""
-    b ""
+    b "\"No, certo che no. Che razza di mostro pensi che io sia?\""
 
             
 # game/isaac.rpy:2035
 translate italian isaac_1_101a6813:
 
     # b "\"Isaac is currently inside my limousine, waiting for a ride back to my headquarters.\""
-    b ""
+    b "\"Isacc, al momento, si trova nella mia limousine, aspettando che gli dia un passaggio verso il mio quartier generale.\""
 
             
 # game/isaac.rpy:2038
 translate italian isaac_1_28a81284:
 
     # b "\"After all, it seems like we're in dire need of having a little talk.\""
-    b ""
+    b "\"Dopotutto, sembra che una chiacchierata sia più che necessaria.\""
 
             
 # game/isaac.rpy:2041
 translate italian isaac_1_4f46a46b_2:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2043
 translate italian isaac_1_e7114a6a:
 
     # n "Isaac's been captured…?"
-    n ""
+    n "Isaac è stato catturato...?
 
             
 # game/isaac.rpy:2044
 translate italian isaac_1_27c4457c:
 
     # n "Damn it–! {w}That idiot should've known Bishop would be looking for him!"
-    n ""
+    n "Cazzo! {w}Quell'idiota doveva immaginarselo che Bishop sarebbe venuto a cercarlo."
 
             
 # game/isaac.rpy:2046
 translate italian isaac_1_8abae6a0:
 
     # n "Maybe… maybe he thought Bishop trusted him… and that's why he acted so careless."
-    n ""
+    n "Forse... forse pensava che Bishop si fidasse di lui... ed è per questo che ha agito così distrattamente."
 
             
 # game/isaac.rpy:2049
 translate italian isaac_1_9eb53be8:
 
     # mcp "\"…Are you going to kill us?\""
-    mcp ""
+    mcp "\"...Ci ucciderai?\""
 
             
 # game/isaac.rpy:2052
 translate italian isaac_1_a4edf7a6:
 
     # b "\"Tch. Don't be silly.\""
-    b ""
+    b "\"Tzè. Non essere sciocco.\""
 
             
 # game/isaac.rpy:2053
 translate italian isaac_1_659ffb95:
 
     # b "\"It would be a waste to ruin my best servant like that, not to mention a soft, sweet little creature like you…\""
-    b ""
+    b "\"Sarebbe un peccato sprecare il mio miglio arristente in quel modo, per non parlare di una dolce e tenera creatura come te...\""
 
             
 # game/isaac.rpy:2056
 translate italian isaac_1_892b0602:
 
     # n "He reaches out, curling several long fingers around my chin, cupping it gently."
-    n ""
+    n "Allunga il bracccio, circondando il mio mento con le sue dita affusolate e stringedolo delicatamente. "
 
             
 # game/isaac.rpy:2057
 translate italian isaac_1_f564b991:
 
     # n "His skin is cold as ice, and I feel frozen in place, unable to move or look away."
-    n ""
+    n "La sua pelle è fredda come il ghiaccio, e mi sento completamente congelato sul posto, incapace di muovermi o distogliere lo sguardo."
 
             
 # game/isaac.rpy:2060
 translate italian isaac_1_ef027100:
 
     # b "\"Isaac simply needs his mind molded into a more obedient state. He'll be far less rebellious after that, I'm sure.\""
-    b ""
+    b "\"Isaac ha solo bisogno di farsi rimodellare la mente e renderla più prone all'obbedienza. Sarà molto meno ribelle poi, ne sono certo.\""
 
             
 # game/isaac.rpy:2062
 translate italian isaac_1_b8cdd8c7:
 
     # b "\"And as for you… your blood is delightfully special.\""
-    b ""
+    b "\"Pe rquanto riguarda te... il tuo sangue è squisitamente speciale.\""
 
             
 # game/isaac.rpy:2063
 translate italian isaac_1_b1e1ef69:
 
     # n "Bishop's tongue traces across his lips, and his eyes gleam hungrily at me."
-    n ""
+    n "La lingua di Bishop corre lungo le sue labbra, e i suoi occhi brillano bramosi verso di me."
 
             
 # game/isaac.rpy:2066
 translate italian isaac_1_1677d0d6:
 
     # b "\"You're lucky enough to be a Strix – a mortal with intoxicating blood to creatures like us.\""
-    b ""
+    b "\"Sei fortunato ad essere uno Strix, un mortale con un sangue inebriante per creature come noi.\""
 
             
 # game/isaac.rpy:2067
 translate italian isaac_1_1c12bf75:
 
     # b "\"That is certainly why Isaac wanted to protect you. He was quite aware you would be captured and ravished, otherwise.\""
-    b ""
+    b "\"Sicuramente è il motivo per cui Isaac cercava di proteggerti. Era perfettamente consapevole che saresti stato catturato e violentato, altrimenti.\""
 
             
 # game/isaac.rpy:2070
 translate italian isaac_1_4145cbbc:
 
     # mcp "\"…Strix…\""
-    mcp ""
+    mcp "\"...Strix...\""
 
             
 # game/isaac.rpy:2072
 translate italian isaac_1_cf178a64:
 
     # n "That word… {w}Isaac used it before, too, when we were in his apartment."
-    n ""
+    n "Quella parola...{w}Anche Isaac l'aveva usata, quando eravamo nel suo appartamento."
 
             
 # game/isaac.rpy:2074
 translate italian isaac_1_c4b27ce9:
 
     # n "Is that really why he hypnotized me that first night? {w}Because he sensed what I was?"
-    n ""
+    n "È davvero questo il motivo per cui mi ha ipnotizzato la prima notte? {w}Aveva percepito quello che sono?"
 
             
 # game/isaac.rpy:2077
 translate italian isaac_1_0e3784e3:
 
     # b "\"But don't mistake his actions for kindness.\""
-    b ""
+    b "\"Ma non fraintere le sue azioni, non si tratta di gentilezza.\""
 
             
 # game/isaac.rpy:2080
 translate italian isaac_1_6a45a69e:
 
     # b "\"You'd be a fool to think he wouldn't betray you, just like he betrayed me.\""
-    b ""
+    b "\"Saresti un stupido a pensare che non ti tradirebbe, proprio come ha tradito me.\""
 
             
 # game/isaac.rpy:2081
 translate italian isaac_1_b3d21e76:
 
     # n "Bishop's eyes narrow into a dark glare, and his lip curls scornfully."
-    n ""
+    n "Gli occhi di Bishop si assottigliano in uno sguardo enigmatico, le sue labbra si arricciano dall'irritazione."
 
             
 # game/isaac.rpy:2084
 translate italian isaac_1_ac9b6a32:
 
     # b "\"He thinks the world is using him, but he's nothing more than a hypocrite.\""
-    b ""
+    b "\"Pensa che tutto il mondo lo stia uando, ma non è altro che un ipocrita.\""
 
             
 # game/isaac.rpy:2086
 translate italian isaac_1_da7f8932:
 
     # b "\"I rescued him when he was only a boy, and it's {i}my{/i} blood that gives him his power… yet he repays me like this.\""
-    b ""
+    b "\"L'ho salvato quando era solo un ragazzo, è il {i}mio{/i} sangue a dargli i suoi poteri... ed è così che mi ripaga.\""
 
             
 # game/isaac.rpy:2089
 translate italian isaac_1_e87427e0:
 
     # mcp "\"You – you rescued him?\""
-    mcp ""
+    mcp "\"Tu . tu l'hai salvato?\""
 
             
 # game/isaac.rpy:2092
 translate italian isaac_1_8a01cad9:
 
     # n "When I stammer in disbelief, Bishop offers a slow nod."
-    n ""
+    n "Quando balbetto incredulo, Bishop annuisce lentamente."
 
             
 # game/isaac.rpy:2093
 translate italian isaac_1_698d3559:
 
     # b "\"He was just a teenager when he was kidnapped off the streets, sold to be an older man's plaything.\""
-    b ""
+    b "\"Era a malapena un adolescente quando è stato rapito per la strada, venduto per essere il giocattolino di un vecchio.\""
 
             
 # game/isaac.rpy:2096
 translate italian isaac_1_38e3ae19:
 
     # b "\"And {i}I{/i} was the one who heard his crying from a window on a cold, rainy night.\""
-    b ""
+    b "\"E sono stato {i}I{/i} quello che l'ha sentito urlare da una finestra, in una notte fredda e tempestosa.\""
 
             
 # game/isaac.rpy:2097
 translate italian isaac_1_3c676db6:
 
     # b "\"{i}I{/i} was the one who killed his captor and set him free.\""
-    b ""
+    b "\"{i}Io{/i} ho ucciso il suo aguzzino e gli ho ridato la libertà.\""
 
             
 # game/isaac.rpy:2100
 translate italian isaac_1_4f46a46b_3:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2102
 translate italian isaac_1_80d1899e:
 
     # n "His fingers slide from my chin down to my throat, squeezing, and it quickly becomes a little difficult to breathe."
-    n ""
+    n "Le sue dita scivolano dal mio mento alla mia gola, stringedola, e molto velocemente diventa difficile per me respirare."
 
             
 # game/isaac.rpy:2105
 translate italian isaac_1_a8cf590f:
 
     # b "\"I gave him a new life, a way to escape from his past, and new powers that mortals could never dream of.\""
-    b ""
+    b "\"Gli ho donato un vita nuova, un modo per fuggire al suo passato, e nuovi poteri che un mortale non si sognerebbe nemmeno.\""
 
             
 # game/isaac.rpy:2108
 translate italian isaac_1_dbf72a28:
 
     # b "\"And that ungrateful {i}brat{/i} tries to stab me in the back… how pitiful.\""
-    b ""
+    b "\"E quel {i}moccioso{/i} ingrato cerca di accoltellarmi alle spalle...patetico.\""
 
             
 # game/isaac.rpy:2112
 translate italian isaac_1_dd8823c3:
 
     # mcp "\"…Ngh…\""
-    mcp ""
+    mcp "\"...Ngh...\""
 
             
 # game/isaac.rpy:2113
 translate italian isaac_1_2ab79dd8:
 
     # n "I struggle for air as Bishop's hand tightens around my neck."
-    n ""
+    n "Annaspo, ma la stretta di Bishop continua a farsi sempre più stretta."
 
             
 # game/isaac.rpy:2115
 translate italian isaac_1_16acf4c8:
 
     # n "But his grip isn't what hurts the most."
-    n ""
+    n "Eppire non è la cosa che mi fa più male."
 
             
 # game/isaac.rpy:2117
 translate italian isaac_1_343a72af:
 
     # n "Isaac suffered through all that… {w}and he never told me?"
-    n ""
+    n "Isaac ha sofferto tutte quelle cose orribili... {w}e non me l'ha mai detto?"
 
             
 # game/isaac.rpy:2118
 translate italian isaac_1_11706a50:
 
     # n "When he talked about meeting a vampire for the first time on a rainy night – that's when he was rescued by Bishop?"
-    n ""
+    n "Quando mi ha raccontato di aver incontrato un vampiro per la prima ovlta in una notte di pioggia, è in quel momento che Bishop l'ha salvato?"
 
             
 # game/isaac.rpy:2120
 translate italian isaac_1_5ee125d8:
 
     # n "–Suddenly, the grip on my throat loosens, and I can breathe easily again."
-    n ""
+    n "-All'improvviso, la stressa sul mio collo si allenta, e riesco nuovamente a respirare facilmente."
 
             
 # game/isaac.rpy:2123
 translate italian isaac_1_8b396759:
 
     # mcp "\"Ngh…! Haah…\""
-    mcp ""
+    mcp "\"Ngh...! Haah...\""
 
             
 # game/isaac.rpy:2126
 translate italian isaac_1_1b8dab1e:
 
     # n "As I gasp for air, cold fingers drift up along my cheek, and Bishop tilts my face up towards his own."
-    n ""
+    n "Mentre affanno in cerca di aria, delle dita fredde mi accarezzano la guancia, e Bishop alza il mio viso per farsi guardare."
 
             
 # game/isaac.rpy:2128
 translate italian isaac_1_6d3663b6:
 
     # b "\"And he'll do the same to you, too, [mc].\""
-    b ""
+    b "\"E fara lo stesso con te, [mc].\""
 
             
 # game/isaac.rpy:2129
 translate italian isaac_1_fb6e2328:
 
     # b "\"When you've worn out your worth to him, he'll find someone else…\""
-    b ""
+    b "Una volta esaurito il tuo valore, troverà qualcun altro...\""
 
             
 # game/isaac.rpy:2132
 translate italian isaac_1_7bf50a22:
 
     # b "\"And leave you in the dust.\""
-    b ""
+    b "\"E ti lascerà nella polvere.\""
 
             
 # game/isaac.rpy:2135
 translate italian isaac_1_4f46a46b_4:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2139
 translate italian isaac_1_b2174522:
 
     # n "Blinking, I gaze up into Bishop's eyes, which swirl like bottomless crimson pools."
-    n ""
+    n "Battendoo le ciglia, alzo lo sguardo per osservare gli occhi di Bishop, che girano vorticosamente come piscine senza fondo color cremisi."
 
             
 # game/isaac.rpy:2141
 translate italian isaac_1_1d8ccdb1:
 
     # n "His words cut right under my skin, exposing a fear I didn't know I had."
-    n ""
+    n "Le sue parole mi feriscono le profondo, portando alla luce una paura che che non pensavo di avere."
 
             
 # game/isaac.rpy:2143
 translate italian isaac_1_7fe3080f:
 
     # n "But surely… I can't believe what he's saying."
-    n ""
+    n "Ma di sicuro... non posso credere a quello che dice."
 
             
 # game/isaac.rpy:2144
 translate italian isaac_1_d737bfd7:
 
     # n "Isaac wouldn't treat me like that. {w}He wouldn't."
-    n ""
+    n "Isaac non mi tratterebbe mai in quel modo. {w}Non lo farebbe."
 
             
 # game/isaac.rpy:2146
 translate italian isaac_1_ac3020a2:
 
     # n "He wouldn't… {w} right?"
-    n ""
+    n "Non lo farebbe... {w} giusto?"
 
             
 # game/isaac.rpy:2149
 translate italian strings:
 
     old "I trust Isaac"
-    new ""
+    new "Mi fido di Isaac"
     
                 
 # game/isaac.rpy:2149
 translate italian strings:
 
     old "I can't keep gazing at him…"
-    new ""
+    new "Non posso continuare a guardarlo negli occhi..."
     
                 
 # game/isaac.rpy:2149
 translate italian strings:
 
     old "I know this trick (disabled)"
-    new ""
+    new "Conosco questo trucchetto (bloccato)"
     
                 
 # game/isaac.rpy:2149
 translate italian strings:
 
     old "I know this trick"
-    new ""
+    new "Conosco questo trucchetto"
     
                 
 # game/isaac.rpy:2154
 translate italian isaac_final_7d4ea6ce:
 
     # mcp "\"I… trust Isaac…\""
-    mcp ""
+    mcp "\"Io... mi fido di Isaac...\""
 
             
 # game/isaac.rpy:2156
 translate italian isaac_final_b2c39e59:
 
     # n "I mumble under my breath, but my ears don't even register my own voice."
-    n ""
+    n "Mormoro sottovoce, ma nemmeno le mie orecchie percepiscono la mia voce."
 
             
 # game/isaac.rpy:2158
 translate italian isaac_final_008b6110:
 
     # n "That beautiful, blood-red gaze is swallowing me up, pulling me in."
-    n ""
+    n "Quel mìbellissimo sguardo rosso sangue mi sta inghiottendo, mi sta trascinando via."
 
             
 # game/isaac.rpy:2161
 translate italian isaac_final_4f7c18ba:
 
     # b "\"No, you don't…\""
-    b ""
+    b "\"No, non è vero...\""
 
             
 # game/isaac.rpy:2163
 translate italian isaac_final_e10f17e8:
 
     # b "\"You trust {i}me{/i}, [mc].\""
-    b ""
+    b "\"Tu ti fidi di {i}me{/i}, [mc].\""
 
             
 # game/isaac.rpy:2166
 translate italian isaac_final_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2167
 translate italian isaac_final_423d15d1:
 
     # n "Bishop breathes a few soft words, and they pour into my brain like sweet poison."
-    n ""
+    n "Bishop sospira qualche parola soave, che si riversa nel mio cervello come dolce veleno."
 
             
 # game/isaac.rpy:2169
 translate italian isaac_final_5e4d2fc7:
 
     # n "I… {w}trust Bishop? {w}Do I?"
-    n ""
+    n "Io...{w} mi fido di Bishop? {w}È così?"
 
             
 # game/isaac.rpy:2171
 translate italian isaac_final_a74d5979:
 
     # n "I shouldn't, but I… {w}I…"
-    n ""
+    n "Non dovrei, ma io... {w}io..."
 
             
 # game/isaac.rpy:2180
 translate italian isaac_final_2db6784a:
 
     # n "His eyes…"
-    n ""
+    n "I suoi occhi..."
 
             
 # game/isaac.rpy:2181
 translate italian isaac_final_6e627751:
 
     # n "They're so mesmerizingly beautiful that I can't bring myself to look away, but…"
-    n ""
+    n "Sono così meravigliosamente ipnotici che non riesco a distogliere lo sguardo, però..."
 
             
 # game/isaac.rpy:2183
 translate italian isaac_final_93206548:
 
     # n "I can't keep staring at them. {w}He's trying to hypnotize me, just like Isaac–!"
-    n ""
+    n "Non posso continuare a fissarli. {w}Sta cercando di ipntotizzarmi, come Isaac-!"
 
             
 # game/isaac.rpy:2186
 translate italian isaac_final_4f46a46b_1:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2188
 translate italian isaac_final_b764b58b:
 
     # n "Those deep, glowing pools of red…"
-    n ""
+    n "Quelle profonde, luminose piscine di rosso..."
 
             
 # game/isaac.rpy:2190
 translate italian isaac_final_dbf05de5:
 
     # n "I… {w}have to…"
-    n ""
+    n "Io... {w}devo..."
 
             
 # game/isaac.rpy:2201
 translate italian isaac_final_eb0eb50f:
 
     # n "…I know what he's trying to do."
-    n ""
+    n "... So cosa sta cercando di fare."
 
             
 # game/isaac.rpy:2202
 translate italian isaac_final_cb36b6f5:
 
     # n "Isaac did the same thing to me, twice. {w}Those eyes – they put words into my head that don't belong there."
-    n ""
+    n "Isaac mi ha fatto la stessa cosa, due volte. {w}Quegli occhi - mi mettono parole che in testa che non mi appartengono."
 
             
 # game/isaac.rpy:2205
 translate italian isaac_final_c48c57df:
 
     # mcp "\"I… won't give into you…\""
-    mcp ""
+    mcp "\"Io... non mi arrenderò a te...\""
 
             
 # game/isaac.rpy:2207
 translate italian isaac_final_7db74c39:
 
     # n "I shut my eyes tightly, refusing to stare up at him."
-    n ""
+    n "Serro gli occhi con forza, rifiutandomi di continuare a guardarlo."
 
             
 # game/isaac.rpy:2210
 translate italian isaac_final_1d7ded0c:
 
     # b "\"…\""
-    b ""
+    b "\"...\""
 
             
 # game/isaac.rpy:2213
 translate italian isaac_final_4fdbd8c9:
 
     # mcp "\"…You were the one who taught Isaac.\""
-    mcp ""
+    mcp "\"...Tu sei quello che istruito Isaac.\""
 
             
 # game/isaac.rpy:2215
 translate italian isaac_final_825d8e98:
 
     # mcp "\"You should've known I'd figure it out, you bastard!\""
-    mcp ""
+    mcp "\"Avresti dovuto sapere che l'avrei capito, bastardo!\""
 
             
 # game/isaac.rpy:2218
 translate italian isaac_final_fe7bf1e4:
 
     # b "\"Hah.\""
-    b ""
+    b "\"Hah.\""
 
             
 # game/isaac.rpy:2219
 translate italian isaac_final_52638a0f:
 
     # b "\"I forget, sometimes, how tenacious some of you little creatures manage to be, even in the face of a battle you can't possibly win.\""
-    b ""
+    b "\"Mi dimentico, a volte, quanto tenaci alcune piccole creature come te possono essere, anche davanti ad una battaglia che non avete possibilità di vincere.\""
 
             
 # game/isaac.rpy:2220
 translate italian isaac_final_32188dc0:
 
     # n "Rather than looking disappointed, Bishop seems thrilled by my response."
-    n ""
+    n "Piutosto che sembrare deluso, Bishop era più che altro eccitato dalla mia risposta."
 
             
 # game/isaac.rpy:2226
 translate italian isaac_final_d20d0a43:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/isaac.rpy:2227
 translate italian isaac_final_f43831d2:
 
     # n "He suddenly pushes me forward, and my back bumps against the counter."
-    n ""
+    n "Improvvisamente, mi allontana con una spinta, e la mia schiena sbatte contro il bancone."
 
             
 # game/isaac.rpy:2228
 translate italian isaac_final_54324b82:
 
     # n "I can't so much as budge an inch, not with his inhuman strength pinning my arms to the hard surface."
-    n ""
+    n "Non riesco a spostarmi nemmeno di un centimetro, non con la suo forza inumana che mi tiene le braccia appicicate alla superficie fredda del bancone."
 
             
 # game/isaac.rpy:2231
