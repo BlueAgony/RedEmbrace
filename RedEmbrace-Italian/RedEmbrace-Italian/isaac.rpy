@@ -7498,14 +7498,14 @@ translate italian isaac_bad_58abaa38:
 translate italian isaac_bad_12e84ac8:
 
     # n "Your mind must be broken, now."
-    n "La tua mentre dev'essere a pezzi, adesso."
+    n "La tua mente dev'essere a pezzi, adesso."
 
             
 # game/isaac.rpy:2357
 translate italian isaac_bad_1afc7d39:
 
     # n "Bishop promised he'd turn you into an empty slave…{w} and Bishop doesn't break his promises."
-    n "Bishop mi ha promesso che ti avrebbe trafosmato in un insignificante schiavo... {w}e Bishop mantiene le sue promesse."
+    n "Bishop aveva promesso che ti avrebbe trasformato in un insignificante schiavo... {w}e Bishop mantiene le sue promesse."
 
             
 # game/isaac.rpy:2364
@@ -7519,147 +7519,146 @@ translate italian isaac_bad_18e1aba2:
 translate italian isaac_bad_e2ccd167:
 
     # n "At that moment, Bishop bites my neck, and a sharp pain pierces through me."
-    n ""
+    n "In quel momento, Bishop mi morde il collo, e una forte punta di dolore mi attraversa."
 
             
 # game/isaac.rpy:2367
 translate italian isaac_bad_31edbed0:
 
     # n "But I've gotten used to it, now, and it's not long before the pain turns to a sweet, numbing pleasure."
-    n ""
+    n "Ma ormai mi ci sono abituato, e non ci vuole molto affinché ildolore si trasformi in un dolce, anestetizzante piacere."
 
             
 # game/isaac.rpy:2368
 translate italian isaac_bad_c8ee9135:
 
     # n "My body starts to grow hotter, and I lean back against Bishop's chest, trembling as he feeds on me."
-    n ""
+    n "La temperatura del mio corpo inizia ad aumentare, e mi appoggio al petto di Bishop, tremando mentre si ciba di me."
 
             
 # game/isaac.rpy:2372
 translate italian isaac_bad_c6d44107:
 
     # mc "\"Master… thank… you…\""
-    mc ""
+    mc "\"Patrone... grazie...\""
 
             
 # game/isaac.rpy:2374
 translate italian isaac_bad_9db69a5e:
 
     # n "I moan out the words – {w}words I have to speak every time he drinks from me."
-    n ""
+    n "Gemendo, pronuncio queste parole, {w}parole che devo proferire ogni volta beve il mio sangue."
 
             
 # game/isaac.rpy:2375
 translate italian isaac_bad_db9d7051:
 
     # n "It's humiliating, but every time we do this, it becomes easier to say."
-    n ""
+    n "È umiliante, ma ogni volta che lo facciamo, diventa sempre più facile."
 
             
 # game/isaac.rpy:2377
 translate italian isaac_bad_ae969921:
 
     # n "Before long, it'll become natural, and I'll be nothing more than a slave to Bishop's desires…"
-    n ""
+    n "Prima o poi, diventerà una cosa naturale, e non sarò altro che uno schiavo pronto a soddisfare ogni desiderio di Bishop..."
 
             
 # game/isaac.rpy:2381
 translate italian isaac_bad_344a5ad4:
 
     # n "My world soon grows hazy and dark, and a powerful bliss courses through me like electricity."
-    n ""
+    n "Il mondo si fa sfocato e buio, e un potente senso di baetitudine mi attraversa come elettricità."
 
             
 # game/isaac.rpy:2384
 translate italian isaac_bad_682442eb:
 
     # n "I belong to Bishop…{w} to my Master."
-    n ""
+    n "Appartengo a Bishop...{w} al mio Padrone."
 
             
 # game/isaac.rpy:2386
 translate italian isaac_bad_491ba73d:
 
     # n "Those words repeat in my head as I succumb to the pleasure, {w}and my consciousness fades to a murky, {w}wonderful, {w}painless black."
-    n ""
+    n "Queste parole si ripetono nella mia testa mentre sccombo al piacere, {w} e la mia coscienza svanisce in un torpido e meraviglioso buio indolore."
 
             
 # game/isaac.rpy:2400
 translate italian isaac_good_f6ae6ccb:
 
     # u "\"–Hey, old man!\""
-    u ""
+    u "\"–Hey, vecchio!\""
 
             
 # game/isaac.rpy:2401
 translate italian isaac_good_e6452baf:
 
     # u "\"What the FUCK are you doing with that kid?!\""
-    u ""
+    u "\"Che cazzo staifacendo con quel ragazzino?!\""
 
             
 # game/isaac.rpy:2404
 translate italian isaac_good_7dfb688a:
 
     # b "\"–!\""
-    b ""
+    b "\"–!\""
 
             
 # game/isaac.rpy:2407
 translate italian isaac_good_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
-
+    mcp "\"...\""
             
 # game/isaac.rpy:2414
 translate italian isaac_good_e5306da6:
 
     # n "Right at that moment, a loud yell echoes through the diner."
-    n ""
+    n "Proprio in quel momento, un forte urlo echeggia per la tavola calda."
 
             
 # game/isaac.rpy:2416
 translate italian isaac_good_180fa0ff:
 
     # n "A voice that sounds… familiar."
-    n ""
+    n "Una voce che sembra... familiare."
 
             
 # game/isaac.rpy:2423
 translate italian isaac_good_8d161c1d:
 
     # r "\"I {i}said{/i}, what the fuck are you doing?\""
-    r ""
+    r "\"Ho {i}detto{/i}, che cazzo stai facendo?\""
 
             
 # game/isaac.rpy:2425
 translate italian isaac_good_dc5e8838:
 
     # r "\"This ain't your fuckin' turf anymore, Bishop!\""
-    r ""
+    r "\"Questo posto non fa più parte dei tuoi fottuti territori, Bishop!\""
 
             
 # game/isaac.rpy:2427
 translate italian isaac_good_f7d5395f:
 
     # n "A man with a black jacket and a tattooed face stands before us –{w} Rex?!"
-    n ""
+    n "Un uomo con una giacca nera e la faccia tatuta è in piedidavatni a noi- –{w} Rex?!"
 
             
 # game/isaac.rpy:2433
 translate italian isaac_good_1ff36116:
 
     # d "\"Let him go.\""
-    d ""
+    d "\"Lascialo andare.\""
 
             
 # game/isaac.rpy:2435
 translate italian isaac_good_d52f8d33:
 
     # n "And beside him, a tall figure with grim features – {w}Dominic."
-    n ""
+    n "Accanto a lui, una figura alta con dai tratti cupi – {w}Dominic."
 
             
 # game/isaac.rpy:2437
