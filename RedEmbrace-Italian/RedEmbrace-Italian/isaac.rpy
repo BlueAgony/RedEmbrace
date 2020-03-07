@@ -7644,7 +7644,7 @@ translate italian isaac_good_dc5e8838:
 translate italian isaac_good_f7d5395f:
 
     # n "A man with a black jacket and a tattooed face stands before us –{w} Rex?!"
-    n "Un uomo con una giacca nera e la faccia tatuta è in piedidavatni a noi- –{w} Rex?!"
+    n "Un uomo con una giacca nera e la faccia tatuta è in piedi davanti a noi- –{w} Rex?!"
 
             
 # game/isaac.rpy:2433
@@ -7665,559 +7665,559 @@ translate italian isaac_good_d52f8d33:
 translate italian isaac_good_26c4cada:
 
     # mcp "\"You… you guys, what are you…\""
-    mcp ""
+    mcp "\"Hey ragazzi... che state facen....\""
 
             
 # game/isaac.rpy:2445
 translate italian isaac_good_562c1c5b:
 
     # n "But before I can manage any more words, the diner doors suddenly fling open."
-    n ""
+    n "Ma prima che io possa dire altro, la porta della tavole calda si spalanca all'improvviso."
 
             
 # game/isaac.rpy:2446
 translate italian isaac_good_1ab08146:
 
     # u "\"Bishop, sir! We have to leave, there's –\""
-    u ""
+    u "\"Bishop, signore! Dobbiamo andarcene, c'è -\""
 
             
 # game/isaac.rpy:2449
 translate italian isaac_good_b6d2234e:
 
     # n "A suited man tries to rush up towards me and Bishop, but a throng of other vampires swarm after him."
-    n ""
+    n "Un uomo in giacca e cravatta cerca avvicinarsi a me e Bishop, ma una massa di vampiri gli corre dietro."
 
             
 # game/isaac.rpy:2451
 translate italian isaac_good_9f38a2ae:
 
     # u "\"Shut the hell up, you goddamn yuppie shithead! I'll bash your fucking brains out!\""
-    u ""
+    u "\"Chiudi quella cazzo di bocca, fottuto yuppie di merda! Ti faccio saltare in aria il cervello!\"
 
             
 # game/isaac.rpy:2452
 translate italian isaac_good_4a4e5402:
 
     # u "\"Yeah, get him! Fuck up all of Bishop's guys!\""
-    u ""
+    u "\"Sì, prendilo! Catturate tutti gli uomini di Bishop!\""
 
             
 # game/isaac.rpy:2457
 translate italian isaac_good_76497210:
 
     # b "\"Ngh–!\""
-    b ""
+    b "\"Ngh-!\""
 
             
 # game/isaac.rpy:2463
 translate italian isaac_good_297ffff0:
 
     # n "Shoving me to the ground, Bishop deftly leaps over the counter and dashes towards the side exit."
-    n ""
+    n "Spingendomi al suolo, Bishop salta agilmente sul bancone e cerca di fuggire dall'uscita sul retro."
 
             
 # game/isaac.rpy:2466
 translate italian isaac_good_be608c72:
 
     # r "\"Hey! Don't let that bastard get away!\""
-    r ""
+    r "\"Hey! Non fatevi scappare quel bastardo!\""
 
             
 # game/isaac.rpy:2471
 translate italian isaac_good_10bf5104:
 
     # n "Motioning for the others to follow, Rex darts after Bishop, and the rest of his clanmates stampede behind him."
-    n ""
+    n "Facendo cenno agli altri di seguirlo, Rex corre dietro a Bishop, e il resto del clan lo segue come una mandria inferocita."
 
             
 # game/isaac.rpy:2472
 translate italian isaac_good_72782981:
 
     # n "It's like a pack of wolves racing after prey – their eyes all shining with a terrifying rage and bloodlust."
-    n ""
+    n "È come un branco di lupi che rincorre la propria preda - i loro terrificanti occhi brillano di rabbia, assettati di sangue..."
 
             
 # game/isaac.rpy:2474
 translate italian isaac_good_a0579918:
 
     # n "They must really want Bishop dead, huh… but why are there so many of them here…?"
-    n ""
+    n "Vogliono proprio vedere Bishop morto, huh... ma come mai sono così tanti...?"
 
             
 # game/isaac.rpy:2479
 translate italian isaac_good_d8240aa0:
 
     # d "\"[mc]… are you all right?\""
-    d ""
+    d "\"[mc]… stai bene?\""
 
             
 # game/isaac.rpy:2480
 translate italian isaac_good_f8ca5a1a:
 
     # n "Dominic leans down beside me, offering a hand."
-    n ""
+    n "Dominic si accovaccia acccanto a me, offrendomi una mano."
 
             
 # game/isaac.rpy:2485
 translate italian isaac_good_0a6c3e3b:
 
     # mc "\"A-ah, yeah, I'm fine… just a little dizzy…\""
-    mc ""
+    mc "\"A-ah, sì, sto bene... solo un po'frastornato...\""
 
             
 # game/isaac.rpy:2488
 translate italian isaac_good_e015ecef:
 
     # n "I rise up to my feet with Dominic's help, rubbing my forehead."
-    n ""
+    n "Mi alzo in piedi con l'aiuto di Dominic, accarezzandomi la fronte."
 
             
 # game/isaac.rpy:2490
 translate italian isaac_good_9f81353b:
 
     # n "That hypnotizing gaze was so close to swallowing me completely… {w}The thought makes me shudder."
-    n ""
+    n "Quello sguardo ipnotizzante era così vicino a ingoiarmi completamente... {w}Il pensiero mi fa rabbrividire."
 
             
 # game/isaac.rpy:2494
 translate italian isaac_good_797a207d:
 
     # d "\"We came just in time. Thanks to –\""
-    d ""
+    d "\"Siamo arrivati giusto in tempo. Grazie a -\""
 
             
 # game/isaac.rpy:2497
 translate italian isaac_good_fe941cdc:
 
     # u "\"[mc]!\""
-    u ""
+    u "\"[mc]!\""
 
             
 # game/isaac.rpy:2498
 translate italian isaac_good_8e95d2c9:
 
     # u "\"You're alive–!\""
-    u ""
+    u "\"Sei vivo-!\""
 
             
 # game/isaac.rpy:2505
 translate italian isaac_good_ba977a5f:
 
     # n "At that moment, another voice echoes through the diner."
-    n ""
+    n "In quel momento, un' altra voce echeggia per la tavola calda."
 
             
 # game/isaac.rpy:2507
 translate italian isaac_good_8d64597d:
 
     # n "A voice I'd recognize anywhere."
-    n ""
+    n "Una voce che riconoscerei fra mille."
 
             
 # game/isaac.rpy:2510
 translate italian isaac_good_e6d2d0fa:
 
     # mcp "\"Isaac…?\""
-    mcp ""
+    mcp "\"Isaac...?\""
 
             
 # game/isaac.rpy:2517
 translate italian isaac_good_8dcc8c29:
 
     # n "His hair mussed up and glasses askew, Isaac rushes up towards me."
-    n ""
+    n "I suoi capelli arruffati e gli occhiali storti, Isaac corre verso di me."
 
             
 # game/isaac.rpy:2521
 translate italian isaac_good_589fed7d:
 
     # n "He pulls me into a crushing hug, and once I recover from the shock, I grip him back as hard as I can."
-    n ""
+    n "Mi stringe in un abbraccio travolgente, e una volta ripreso dallo shock, lo tiro a me più forte che posso."
 
             
 # game/isaac.rpy:2523
 translate italian isaac_good_c5067fad:
 
     # i "\"[mc]… I can't believe you're safe…\""
-    i ""
+    i "\"[mc]… Non ci posso credere che stai bene...\""
 
             
 # game/isaac.rpy:2526
 translate italian isaac_good_cf401308:
 
     # n "As Isaac embraces me with all his might, I sense Dominic quietly leaving us, slipping out through the side door."
-    n ""
+    n "Mentre Isaac mi stringe a sè con tutte le sue forze, sento Dominic allontanarsi lentamente e lasciarci soli, sgusciando via per la porta posteriore."
 
             
 # game/isaac.rpy:2529
 translate italian isaac_good_06dbd375:
 
     # mcp "\"Well, your loyal assistant can't just disappear, can he? What would you do without me?\""
-    mcp ""
+    mcp "\"Beh, il tuo fedele assistente non può semplicemente sparire, no? Cosa faresti senza di me?\""
 
             
 # game/isaac.rpy:2531
 translate italian isaac_good_137691ce:
 
     # n "Swallowing my emotions, I bury my face against Isaac's neck."
-    n ""
+    n "Ingoiando le mie emozioni, nascondo la mia faccia nell'incavo del collo di Isaac."
 
             
 # game/isaac.rpy:2537
 translate italian isaac_good_4d665994:
 
     # n "Somehow – {w}somehow, it's over."
-    n ""
+    n "Non so come - {w}non so come, ma è finita."
 
             
 # game/isaac.rpy:2538
 translate italian isaac_good_64961722:
 
     # n "Somehow I managed to resist Bishop, just for a few moments."
-    n ""
+    n "In qualche mdoo sono riuscito a resistere a Bishop, anche solo per qualche istante."
 
             
 # game/isaac.rpy:2540
 translate italian isaac_good_9eb8d675:
 
     # n "And Isaac… he pulled through in the very end, managing to convince the two clans to join together just before he was kidnapped… that's where he vanished to this morning."
-    n ""
+    n "E Isaac... alla fine ce l'ha fatta, è riuscito a convinvere i due clan a unire le loro forzo poco prima di essere rapito... ecco dov'è sparito stamattina."
 
             
 # game/isaac.rpy:2542
 translate italian isaac_good_9b42fb1f:
 
     # n "I should never have doubted him. {w}Isaac isn't a man who gets so easily outsmarted – not even by someone like Bishop."
-    n ""
+    n "Non avrei mai dovuto dubitare di lui. {w}Isaac non è un uomo che si fa infinocchiare così facilmente - nemmeno da uno come Bishop."
 
-            
+
 # game/isaac.rpy:2546
 translate italian isaac_good_0fb72a25:
 
     # n "And me, the dumb guy who got completely swept up in his charms…"
-    n ""
+    n "E io, lo stupido che si è fatto completamente trascinare dal suo carisma..."
 
             
 # game/isaac.rpy:2548
 translate italian isaac_good_12832b3a:
 
     # n "I should know that better than anyone."
-    n ""
+    n "Dovrei saperlo meglio di chiunque."
 
             
 # game/isaac.rpy:2555
 translate italian isaac_good_0cf5505d:
 
     # i "\"Happy birthday!\""
-    i ""
+    i "\"Buon compleanno!\""
 
             
 # game/isaac.rpy:2557
 translate italian isaac_good_6d9a62d3:
 
     # mc "\"…Oh, come on! I told you I didn't want anything!\""
-    mc ""
+    mc "\"...Oh, andiamo! Ti ho detto che non volevo niente!\""
 
             
 # game/isaac.rpy:2560
 translate italian isaac_good_0c971c20:
 
     # n "I let out a huff as a small, neatly-wrapped present is shoved into my hands."
-    n ""
+    n "Lascio andare un sospiro indignato, mentre mi ficca in mano un piccolo regalo perfettamente incartato."
 
             
 # game/isaac.rpy:2561
 translate italian isaac_good_f91ac8c7:
 
     # n "This guy never listens to anything I say, seriously."
-    n ""
+    n "Questo tizio non ascolta mai quando gli parlo, seriamente."
 
             
 # game/isaac.rpy:2564
 translate italian isaac_good_27fb2380:
 
     # i "\"You really think I'm that bad a boyfriend? Psh, I'm hurt, you know.\""
-    i ""
+    i "\"Pensi davvero che io sia un fidanzato così pessimo? Pff, mi offendi, sai.\""
 
             
 # game/isaac.rpy:2565
 translate italian isaac_good_fdc31ac2:
 
     # i "\"Go on, open it!\""
-    i ""
+    i "\"Forza, aprilo!\""
 
             
 # game/isaac.rpy:2567
 translate italian isaac_good_aa34d247:
 
     # n "Isaac gives me a wide, playful grin – which usually means he's up to no good."
-    n ""
+    n "Isaac mi rivolge un sorriso ampio e giocoso - che di solito vuol dire che sta per combinarne una."
 
             
 # game/isaac.rpy:2569
 translate italian isaac_good_819de1e4:
 
     # n "The wrapped present looks like some sort of a cup. {w}Why the hell would he get me a cup?"
-    n ""
+    n "Il regalo incartato sembra una specie di bicchiere. {w}Perchè cavolo dovrebbe regalarmi un bicchiere?"
 
             
 # game/isaac.rpy:2571
 translate italian isaac_good_8702b953:
 
     # mc "\"Fine, fine…\""
-    mc ""
+    mc "\"Va bene, va bene...\""
 
             
 # game/isaac.rpy:2574
 translate italian isaac_good_d2176af1:
 
     # n "I tear open the paper, tossing it aside onto the balcony floor."
-    n ""
+    n "Strappo la carta, buttandola sul pavimento del balcone."
 
             
 # game/isaac.rpy:2576
 translate italian isaac_good_82149490:
 
     # mc "\"A… a coffee mug?\""
-    mc ""
+    mc "\"Una... una tazza per il caffè?\""
 
             
 # game/isaac.rpy:2578
 translate italian isaac_good_d0ecfe9a:
 
     # i "\"Look! There's something written on it! What's it say?\""
-    i ""
+    i "\"Guarda bene! C'è una scritta sopra! COsa dice?\""
 
             
 # game/isaac.rpy:2583
 translate italian isaac_good_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/isaac.rpy:2585
 translate italian isaac_good_bdef0acb:
 
     # n "–I stare at the mug in disbelief."
-    n ""
+    n "-Fisso la tazza incredulo."
 
             
 # game/isaac.rpy:2587
 translate italian isaac_good_faad84c6:
 
     # n "Did he… {w}did he actually get me a mug that says…"
-    n ""
+    n "Mi ha...{w} mi ha davvero preso una tazza che dice..."
 
             
 # game/isaac.rpy:2589
 translate italian isaac_good_3eda82e9:
 
     # n "…\"I <3 Isaac\"…?"
-    n ""
+    n "...\" I <3 Isaac\"...?"
 
             
 # game/isaac.rpy:2591
 translate italian isaac_good_016a1a90:
 
     # i "\"Hey, you drink my coffee every morning, right?\""
-    i ""
+    i "\"Beh, bevi il caffè ogni mattina, no?\""
 
             
 # game/isaac.rpy:2592
 translate italian isaac_good_af1b5bc9:
 
     # i "\"I thought I'd get you a little something to remind you of me while you're drinking it~\""
-    i ""
+    i "\"Ho prensato di prenderti qualcosa che ti facesse pensare a me mentre lo bevi~\""
 
             
 # game/isaac.rpy:2594
 translate italian isaac_good_5819ae60:
 
     # mc "\"Isaac…\""
-    mc ""
+    mc "\"Isaac...\""
 
             
 # game/isaac.rpy:2597
 translate italian isaac_good_e8630833:
 
     # mc "\"…You're the most conceited, egotistical bastard I've ever met.\""
-    mc ""
+    mc "\"...Sei il bastardo più presuntuoso e egocentrico hc eio abbia mai conosciuto.\""
 
             
 # game/isaac.rpy:2599
 translate italian isaac_good_daf2685d:
 
     # mc "\"…I feel like you could use a little lesson in humility sometimes.\""
-    mc ""
+    mc "\"...Penso che non farebbe male una lezione di umiltà qualche volta.\"
 
             
 # game/isaac.rpy:2601
 translate italian isaac_good_e6c8af58:
 
     # i "\"Uh-huh. I love you, too.\""
-    i ""
+    i "\"Ah-ahn. Ti amo anche io.\""
 
             
 # game/isaac.rpy:2603
 translate italian isaac_good_d271592a:
 
     # n "Snickering, Isaac leans in to press his lips against my forehead."
-    n ""
+    n "Ridacchiando, Isaac si avvicina per poggiare le sue labbra sulla mia fronte."
 
             
 # game/isaac.rpy:2604
 translate italian isaac_good_588d8ab0:
 
     # n "The gentle kiss makes my chest grow warm with happiness, even as I sulkily stare at my \"present.\""
-    n ""
+    n "Il soffice bacio mi sclada il cuore di felicità, nonostante guardi con sgarbo il mio \"regalo.\""
 
             
 # game/isaac.rpy:2606
 translate italian isaac_good_d74b3e3e:
 
     # n "I'm half-tempted to toss it over the balcony, but… {w}I guess it is kinda cute, in an Isaac-y way."
-    n ""
+    n "Sono quasi tentato di lanciarlo giù dal balcone, ma... {w}Immagino sia una cosa dolce, alla maniera di Isaac."
 
             
 # game/isaac.rpy:2616
 translate italian isaac_good_4400ea51:
 
     # n "–It's been a little over a year since Isaac and I became partners."
-    n ""
+    n "-È passato poco più di un anno da quando io e Isaac ci siamo messi assieme."
 
             
 # game/isaac.rpy:2617
 translate italian isaac_good_35d8d0e9:
 
     # n "We're on the opposite side of the states, now, in New York instead of California."
-    n ""
+    n "Viviamo dall'altra parte degli Stati Uniti ora, a New York invece che in California."
 
             
 # game/isaac.rpy:2618
 translate italian isaac_good_a4a8f510:
 
     # n "Isaac's business skills are being put to good use – he's consulting for tech companies rather than vampires."
-    n ""
+    n "Il talento per gli affari di Isaac sta venendo sfruttato al meglio - adesso fa consulenze per aziende tecnologiche e non per vampiri."
 
             
 # game/isaac.rpy:2621
 translate italian isaac_good_efa6cab7:
 
     # n "And as for me… {w}my freelancing's kicked off, somehow, and I'm making a pretty decent wage between actual stories and the occasional sell-out erotic novel."
-    n ""
+    n "Per quanto riguarda me, invece... {w}La mia carriera da freelancer ha preso il volo, in qualche modo, e sto racimolando qualche soldo fra veri e propri racconti e i soliti romanzi erotici che fanno il tutto esaurito."
 
             
 # game/isaac.rpy:2624
 translate italian isaac_good_3741c6b8:
 
     # n "And as for me… {w}my freelancing's kicked off, somehow, and I'm making a pretty decent wage from writing scores for games and indie films."
-    n ""
+    n "Per quanto riguarda me, invece... {w}La mia carriera da freelancer ha preso il volo, in qualche modo, e sto racimolando qualche soldo scrivendo musiche per videogiochi e film indipendenti."
 
             
 # game/isaac.rpy:2627
 translate italian isaac_good_91f28aa8:
 
     # n "And as for me… {w}my freelancing's kicked off, somehow, and I'm making a pretty decent wage from private commissions and bigger stuff, like book covers and game art."
-    n ""
+    n "Per quanto riguarda me, invece... {w}La mia carriera da freelancer ha preso il volo, in qualche modo, e sto racimolando qualche soldo grazie a progetti su commissione per privati e cose un po' più grandi, come copertine di libri e artwork per videogiochi."
 
             
 # game/isaac.rpy:2629
 translate italian isaac_good_23ce7fce:
 
     # n "Living in New York isn't cheap, and this place's rent costs nearly both our wages, but…"
-    n ""
+    n "Vivere a New York non è esattamente economico, e l'affitto di questo posto è quasi uguale a alla somma dei nostri stipendi, ma..."
 
             
 # game/isaac.rpy:2631
 translate italian isaac_good_508e26d5:
 
     # n "On nights like this, when we can gaze out over the city in each other's arms, it's completely worth it."
-    n ""
+    n "In notti come questa, quando possiamo sbirciare la città l'uno nelle braccia dell0altro, ne vale assolutamente la pena."
 
             
 # game/isaac.rpy:2640
 translate italian isaac_good_805478dc:
 
     # mc "\"It wouldn't be a bad mug if I painted over the letters…\""
-    mc ""
+    mc "\"Non sarebbe nemmeno una brutta tazza se cancellassi la scritta...\""
 
             
 # game/isaac.rpy:2642
 translate italian isaac_good_d18bac49:
 
     # i "\"Oh, come on, don't do that!\""
-    i ""
+    i "\"Oh, andiamo, non farlo!\""
 
             
 # game/isaac.rpy:2643
 translate italian isaac_good_79b992fd:
 
     # i "\"Otherwise, I'll have to demand a fee from you every time I make you coffee.\""
-    i ""
+    i "\"Altrimenti, dovrà chiederti una tassa ogni volta che ti faccio il caffè.\""
 
             
 # game/isaac.rpy:2645
 translate italian isaac_good_07ae92f2:
 
     # mc "\"I can't believe you're blackmailing me on my birthday! You're really something else, Isaac.\""
-    mc ""
+    mc "\"Non posso credere ch emi stai ricattando il giorno del mio compleanno! Sei proprio assurdo, Isaac.\""
 
             
 # game/isaac.rpy:2646
 translate italian isaac_good_558c0d35:
 
     # n "Unable to keep from snickering, I lean against Isaac's chest, closing my eyes."
-    n ""
+    n "Incapace di trattenere una risatine, mi appoggio al petto di Isaac, chiudendo gli occhi."
 
             
 # game/isaac.rpy:2648
 translate italian isaac_good_c46ac4b7:
 
     # n "His warm hand drifts through my hair, and I nudge my head against it like an affectionate cat."
-    n ""
+    n "La sua mano caldo mi accarezza i capelli, e spingo la mia testa contro di lei come un gatto che fa le fusa."
 
             
 # game/isaac.rpy:2652
 translate italian isaac_good_e311661b:
 
     # n "…Even here in New York, neither of us can forget the presence of vampires."
-    n ""
+    n "...Persino qui a New York, nessuno di noi due riesce a dimenticarsi dell'esistenza dei vampiri."
 
             
 # game/isaac.rpy:2653
 translate italian isaac_good_c3fee095:
 
     # n "Once you learn what horrible things stalk the streets at night, you can never go back to a truly \"normal\" life."
-    n ""
+    n "Una volta che hai visto le cose orribili che vagano per le strade la notte, non può mai davvero tornare indietro e vivere una vita \"normale\"."
 
             
 # game/isaac.rpy:2655
 translate italian isaac_good_9ba00e91:
 
     # n "There's a chance that, wherever he is, Bishop will still come after us… {w}and we might never be completely safe."
-    n ""
+    n "C'è ancora la possibilità che, ovunque sia, Bishop ci stia ancora cercando... {w}e non potremmo non essere mai completamente al sicuro. "
 
             
 # game/isaac.rpy:2661
 translate italian isaac_good_54a269d2:
 
     # n "But as long as I'm with Isaac, I feel strong enough to take on whatever might come our way."
-    n ""
+    n "Ma finchè sto con Isaac, mi sento abbastanza forte da affrontare qualsiasi cosa possa apparire sul nostro cammino."
 
             
 # game/isaac.rpy:2663
 translate italian isaac_good_d1e8dd4e:
 
     # n "Even if our worlds are changed forever, I can face the night without fear –"
-    n ""
+    n "Anche se i nostri mondi sono cambiati per sempre, posso affrontare la notte senza paura -"
 
             
 # game/isaac.rpy:2665
 translate italian isaac_good_1a71794c:
 
     # n "–With Isaac at my side until dawn."
-    n ""
+    n "- con Isaac al mio fianco fino al mattino."
 
             
