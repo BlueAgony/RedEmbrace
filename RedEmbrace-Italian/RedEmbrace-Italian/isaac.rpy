@@ -7183,7 +7183,7 @@ translate italian isaac_final_32ca442c:
 translate italian isaac_final_2882dca1:
 
     # n "If this is the price I have to pay for everything… then so be it."
-    n "Se questo è il prezzo che dovrò pagare per quello che è successo... che sia.
+    n "Se questo è il prezzo che dovrò pagare per quello che è successo... che sia."
 
             
 # game/isaac.rpy:2239
@@ -7611,6 +7611,7 @@ translate italian isaac_good_4f46a46b:
 
     # mcp "\"…\""
     mcp "\"...\""
+ 
             
 # game/isaac.rpy:2414
 translate italian isaac_good_e5306da6:
