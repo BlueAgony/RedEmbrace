@@ -871,413 +871,413 @@ translate italian rex_46494f86:
 translate italian rex_4ca639d4:
 
     # n "Rex's eyes gleefully shine at my response, like he's some kind of kid about to unwrap a birthday present."
-    n ""
+    n "Gli occhi di Rex si illuminano di gioia alla mia risposta, sembra un bimbo che sta per aprire il suo regalo di compleanno."
 
             
 # game/rex.rpy:311
 translate italian rex_5f03add4:
 
     # r "\"–It's simple.\""
-    r ""
+    r "\"-È semplice.\""
 
             
 # game/rex.rpy:314
 translate italian rex_4d7005bc:
 
     # r "\"You just say you're mine.\""
-    r ""
+    r "\"Devi semplicemente dire che sei mio.\""
 
             
 # game/rex.rpy:317
 translate italian rex_d20d0a43:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"...!\""
 
             
 # game/rex.rpy:318
 translate italian rex_d75b7b2d:
 
     # n "I narrow my eyes at him to see if he's joking, but he actually looks fairly serious."
-    n ""
+    n "Strabuzzo gli occhi per cercare di capire se sta scherzando, ma in realtà sembra piuttosto serio."
 
             
 # game/rex.rpy:321
 translate italian rex_86761b3f:
 
     # r "\"The other guys in Helgen? They won't touch you. You don't mess with a brother's prey unless they wanna share.\""
-    r ""
+    r "\"Gli degli Helgen? Non ti toccheranno nemmeno. Non scherzi con la preda di un altro a meno che non voglia condividere.\""
 
             
 # game/rex.rpy:323
 translate italian rex_09f543c6:
 
     # r "\"Those Seirei bastards, they're another matter… but I'll keep 'em away from you, baby, don't worry.\""
-    r ""
+    r "\"Quei bastardi dei Seirei. loro sono un alro discorso... ma li terrò io lontani da te, baby, non preoccuparti.\""
 
             
 # game/rex.rpy:325
 translate italian rex_38934149:
 
     # n "Rex reaches out a hand, possessively cupping my cheek."
-    n ""
+    n "Rex solleva una mano, accarezzandomi il mento possesivamente."
 
             
 # game/rex.rpy:326
 translate italian rex_7bda8e7a:
 
     # n "His skin is cool, just like ice.{w} The sensation sends an odd shiver down my spine, and the back of my neck tingles."
-    n ""
+    n "la sua pelle è fredda, come il ghiaccio.{w} Questa sensazione mi fa partire un brivido lungo la schiena e mi fa solleticare la nuca."
 
             
 # game/rex.rpy:329
 translate italian strings:
 
     old "I'm nobody's prey!"
-    new ""
+    new "Non sono la preda di nessuno!"
     
                 
 # game/rex.rpy:329
 translate italian strings:
 
     old "If it'll keep me safe…"
-    new ""
+    new "Se mi terrà al sicuro..."
     
                 
 # game/rex.rpy:335
 translate italian rex_d0540a56:
 
     # n "–As if I'd ever agree to something like that! Is this guy crazy?!"
-    n ""
+    n "-Come se potessi mai essere d'accordo con una cosa del genere! Ma è pazzo?"
 
             
 # game/rex.rpy:338
 translate italian rex_33d1480f:
 
     # mcp "\"You can fuck right off! I'm nobody's 'prey,' and there's no way in hell I'll tell anyone I'm {i}yours{/i}.\""
-    mcp ""
+    mcp "\"Puoi andartene felicemente affanculo! Io non sono la 'preda' di nessuno, e non dirò mai a nessuno che sono {i}tuo{/i}.\""
 
             
 # game/rex.rpy:339
 translate italian rex_6e99cedf:
 
     # n "I spitefully growl back at Rex's face, but rather than getting angry at my refusal, he just snickers."
-    n ""
+    n "\"Gli ringhio malamente in faccia, ma invece di arrabbiarsi nel vedere il mio rifiuto, si mette a ridacchiare."
 
             
 # game/rex.rpy:341
 translate italian rex_3edcfebb:
 
     # r "\"Yeah? Huh…\""
-    r ""
+    r "\"Ah si? Hm...\""
 
             
 # game/rex.rpy:344
 translate italian rex_dfae3f33:
 
     # r "\"Funny, I don't really remember sayin' you had a choice, though~\""
-    r ""
+    r "\"Che strano, non mi sembrava di aver detto che avessi una scelta, però~\""
 
             
 # game/rex.rpy:345
 translate italian rex_05957599:
 
     # n "Bearing his fangs, he suggestively lets his gaze drop towards my throat."
-    n ""
+    n "Mostrandomi i suoi canini, lascia suggestivamente cadere il suo sguardo sul mio collo."
 
             
 # game/rex.rpy:348
 translate italian rex_4f46a46b_3:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/rex.rpy:350
 translate italian rex_5c56038f:
 
     # n "God, I've met highway truckers with more subtlety than this guy."
-    n ""
+    n "Dio, ho conosciuto camionisti con mi delicatezza si questo tizio."
 
             
 # game/rex.rpy:353
 translate italian rex_bcdbe67e:
 
     # mcp "\"Ngh…\""
-    mcp ""
+    mcp "\"Ngh...\""
 
             
 # game/rex.rpy:355
 translate italian rex_1e5ffe6d:
 
     # mcp "\"Listen, if all I have to do is just say it, then I guess I could maybe…\""
-    mcp ""
+    mcp "\"Ascolta, se tutto quello che devo fare è dire quella cosa, immagino che potrei farlo magari...\""
 
             
 # game/rex.rpy:363
 translate italian rex_4f46a46b_4:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/rex.rpy:365
 translate italian rex_c1ecc10c:
 
     # n "I guess there's no other way out of this, is there?"
-    n ""
+    n "Immagino non ci sia altra via d'uscita, vero?"
 
             
 # game/rex.rpy:366
 translate italian rex_bed6c987:
 
     # n "Obviously, the last thing I want to do is say I'm this guy's \"prey,\" but if it's either that or get drained by someone else…"
-    n ""
+    n "Ovviamente, l'ultima cosa che vorrei fare è dire che sono la \"preda\" di questo tizio, ma se devo scegliere fra quello e farmi dissanguare da qualcun altro..."
 
             
 # game/rex.rpy:369
 translate italian rex_81767ac9:
 
     # mcp "\"…If all I have to do is say it, then fine.\""
-    mcp ""
+    mcp "\"...Se tutto quello che devo fare è dire quella cosa, allora ok."
 
             
 # game/rex.rpy:373
 translate italian rex_6af15913:
 
     # mcp "\"…That {i}is{/i} all I have to do, right?\""
-    mcp ""
+    mcp "\"...Ed {i}è{/i} tutto quello che devi fare, vero?\""
 
             
 # game/rex.rpy:376
 translate italian rex_570af02e:
 
     # r "\"Mmm… maybe…\""
-    r ""
+    r "\"Mmm... forse...\""
 
             
 # game/rex.rpy:379
 translate italian rex_4b2ed30e:
 
     # r "\"…Maybe not.\""
-    r ""
+    r "\"...O forse no.\""
 
             
 # game/rex.rpy:383
 translate italian rex_98fdf5be_1:
 
     # mcp "\"–!\""
-    mcp ""
+    mcp "\"-!\""
 
             
 # game/rex.rpy:384
 translate italian rex_e163b5dc:
 
     # n "The casual way he shrugs his shoulders makes my temper immediately flare."
-    n ""
+    n "La nonchalance non cui scuote le spalle mi fa gonfiare di rabbia immediatamente."
 
             
 # game/rex.rpy:389
 translate italian rex_483de737:
 
     # n "I shove him away with all of my might, and he stumbles away a few feet."
-    n ""
+    n "Lo allontano con tutte le mie forze, e barcolla qualche passo più in là."
 
             
 # game/rex.rpy:390
 translate italian rex_de79c28a:
 
     # n "I've had just about enough of his bullshit games, and right now, I'm a lot more irritated than afraid."
-    n ""
+    n "Ne ho avuto abbastanza di questi giochetti del cazzo, e adesso, sono molto più incazzato che spaventato."
 
             
 # game/rex.rpy:394
 translate italian rex_342275a5:
 
     # mc "\"We're done here. You'd better keep your word, or else…\""
-    mc ""
+    mc "\"Abbiamo finitp qui. Ti conviene mantenere la tua parola, oppure...\""
 
             
 # game/rex.rpy:398
 translate italian rex_92c9404b:
 
     # r "\"…Or else what?\""
-    r ""
+    r "\"...Oppure cosa?\""
 
             
 # game/rex.rpy:399
 translate italian rex_68d1990a:
 
     # r "\"You're gonna glare at me like I'm a big meanie until I say sorry?\""
-    r ""
+    r "\"Mi starai a fissare come fossi un cattivone finchè non chiedo 'scusa'?\"
 
             
 # game/rex.rpy:403
 translate italian rex_5273878e:
 
     # mcp "\"…I don't know what else I expected.\""
-    mcp ""
+    mcp "\"...Non so cos'altro mi aspettassi.\""
 
             
 # game/rex.rpy:408
 translate italian rex_805d801f:
 
     # n "Muttering under my breath, I pull away from Rex's arms before he has a chance to taunt me any more."
-    n ""
+    n "Bofonchiando, riesco a schivare le braccia di Rex prima che riesca nuovamente ad acchiapparmi."
 
             
 # game/rex.rpy:409
 translate italian rex_044dbfdc:
 
     # n "He pouts a little, looking unsatisfied."
-    n ""
+    n "Si imbroncia, insoddisfatto."
 
             
 # game/rex.rpy:413
 translate italian rex_6da921bf:
 
     # mc "\"I'm leaving. I'll put up with your crap for now, but –\""
-    mc ""
+    mc "\"Me ne vado. Sopporterò le tue stronzate per il momento, ma -\""
 
             
 # game/rex.rpy:417
 translate italian rex_1b182a88:
 
     # r "\"You keep talking like you've got options besides me, baby.\""
-    r ""
+    r "\"Continui a parlare come se avessi altre opzioni oltre a me, babi.\""
 
             
 # game/rex.rpy:418
 translate italian rex_35848ef9:
 
     # r "\"You hit your head earlier or something?\""
-    r ""
+    r "\"Hai battutto la testa prima, per caso?\""
 
             
 # game/rex.rpy:422
 translate italian rex_67b2e468:
 
     # mc "\"Well, I could always ask Dominic if he wants to help me out…\""
-    mc ""
+    mc "\"Beh, potrei sempre chiedere a Dominic se ha voglia di aiutarmi...\""
 
             
 # game/rex.rpy:425
 translate italian rex_641f79f3:
 
     # r "\"…!\""
-    r ""
+    r "\"...!\""
 
             
 # game/rex.rpy:427
 translate italian rex_7011b37d:
 
     # n "{i}That{/i} gets his attention, much to my satisfaction."
-    n ""
+    n "{i}questo sì{/i} che ha catturato la sua attenzione, per mia grande soddisfazione."
 
             
 # game/rex.rpy:428
 translate italian rex_2e28e635:
 
     # n "It's like I just dangled a treat in front of a mutt, then threw it to another dog."
-    n ""
+    n "È come se avessi appena fatto dondolare un biscottino davanti a un randagio, per poi lanciarlo a un altro cane."
 
             
 # game/rex.rpy:431
 translate italian rex_04dde778:
 
     # r "\"…Okay, okay. No need to act all spiteful 'n shit.\""
-    r ""
+    r "\"...Ok, ok. Non c'è bisogno di fare il perfido, ecc...\""
 
             
 # game/rex.rpy:433
 translate italian rex_dc2979bd:
 
     # r "\"I get it. I'll play nice… nicer.\""
-    r ""
+    r "\"Ho capito. Farò da bravo... più di adesso almeno.\""
 
             
 # game/rex.rpy:436
 translate italian rex_4b5dcfab:
 
     # mc "\"Yeah? I hope that attitude lasts for more than ten seconds.\""
-    mc ""
+    mc "\"Sì? Spero che questo atteggiamento duri più di 10 secondi.\""
 
             
 # game/rex.rpy:446
 translate italian rex_8cde94fe:
 
     # n "I turn on my heel before he can reach out for me again, shoving my hands into my pockets and walking away."
-    n ""
+    n "Giro i tacchi prima che possa cercare di riattaccare bottone, ficcando le mani in tasca e allontanandomi."
 
             
 # game/rex.rpy:447
 translate italian rex_04ac2674:
 
     # n "Christ, out of all the vampires, why do I have to be stuck with the craziest one?"
-    n ""
+    n "Cristo, di tutti i vampiri che ci sono, perché devo rimanere incastrato quello più fuori di testa di tutti?"
 
             
 # game/rex.rpy:450
 translate italian rex_8474417b:
 
     # rp "\"Hey! Wait!\""
-    rp ""
+    rp "\"Hey! Aspetta!\""
 
             
 # game/rex.rpy:452
 translate italian rex_9a062b96:
 
     # mcp "\"What?\""
-    mcp ""
+    mcp "\"Cosa?\""
 
             
 # game/rex.rpy:453
 translate italian rex_1d7f0b20:
 
     # n "Without turning around, I call back to Rex."
-    n ""
+    n "Senza voltarmi, gli rispondo."
 
             
 # game/rex.rpy:458
 translate italian rex_3ab63aa3:
 
     # rp "\"…Watch yourself on your way home.\""
-    rp ""
+    rp "\"...Fai attenzione mentre torni a casa.\""
 
             
 # game/rex.rpy:460
 translate italian rex_96e141f3:
 
     # rp "\"I don't want some lame guy takin' a bite out of you first, okay? That's all.\""
-    rp ""
+    rp "\"Non voglio che qualche ragazzetto barboso ti assaggi prima di me, ok? Tutto qui.\""
 
             
 # game/rex.rpy:464
 translate italian rex_4f46a46b_5:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/rex.rpy:465
 translate italian rex_9055da72:
 
     # n "Something about his slightly awkward tone makes me pause."
-    n ""
+    n "Qualcosa nel suo tono leggermente imbarazzato mi fa perfare per un secondo."
 
             
 # game/rex.rpy:467
 translate italian rex_fb83c130:
 
     # n "I glance over my shoulder to try and glimpse his face –{w} but he's already gone, his wiry figure disappearing down the alley."
-    n ""
+    n "Butto lo sguardo dietro la mia spalla per cercare di cogliere il suo viso -{w} ma è già andato via, la sua figura atletica scompare nel vicolo."
 
             
 # game/rex.rpy:469
 translate italian rex_e3bc6456:
 
     # n "…Whatever.{w} Trying to understand him is probably a waste of time, anyway."
-    n ""
+    n "...Vabbè.{w} Cercare di capirlo sarebbbe comunque una perdita tempo, probabilmente."
 
             
 # game/rex.rpy:474
