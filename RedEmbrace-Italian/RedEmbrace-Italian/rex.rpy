@@ -1962,154 +1962,155 @@ translate italian rex_6744fc4a:
 translate italian rex_344c6a54:
 
     # mcp "\"Maybe your fellow vampires have more self-restraint than you. Ever think about that?\""
-    mcp "\""
+    mcp "\"Forse i tuoi compagni hanno più autocontrollo di te. Ci hai mai pensato?\""
 
             
 # game/rex.rpy:756
 translate italian rex_cb69b0fe:
 
     # r "\"Tch, it's not my fault! You were totally giving me those fuck-me-eyes back in the alley!\""
-    r ""
+    r "\"Tzè, non è colpa mia! Eri tu quello che mi stava facendo gli occhietti da 'scopami-ora' ieri nel vicolo!\""
 
             
 # game/rex.rpy:759
 translate italian rex_27b34f67:
 
     # r "\"Or maybe it was more please-don't-kill-me-eyes… kinda hard to tell the difference sometimes…\""
-    r ""
+    r "\"O forse erano più occhietti da 'ti prego non uccidermi'... Difficile disguerli a volte...\""
 
             
 # game/rex.rpy:762
 translate italian rex_12897909:
 
     # mcp "\"Jesus, what kind of messed up sex life do you have?\""
-    mcp ""
+    mcp "\"Cristo, che razza di vita sessuale hai?\""
 
             
 # game/rex.rpy:763
 translate italian rex_9888f42e:
 
     # n "I try to keep up an annoyed front, but it's hard not to laugh at such stupid bantering."
-    n ""
+    n "Cerco di mantenermi serio all'apparenza, ma è difficile non scoppiare a ridere davanti ad un frese del genere."
 
             
 # game/rex.rpy:764
 translate italian rex_f9258eb1:
 
     # n "It helps that Rex is acting a little more bearable than yesterday, not just treating me like some kind of captured prey."
-    n ""
+    n "Aiuta il fatto che Rex si stia comportanto in maniera più tollerabile di ieri però, invece di trattarmi come se fossi la sua preda in gabbia."
 
             
 # game/rex.rpy:766
 translate italian rex_53d2ce12:
 
     # n "He's definitely not my {i}preferred{/i} conversation partner, though there are worse guys to be around."
-    n ""
+    n "Di sicuro non è il mio interlocutore {i}preferito{/i}, ma c'è di peggio in giro."
 
             
 # game/rex.rpy:768
 translate italian rex_355a217e:
 
     # n "–As I watch him lean lazily on the counter, a question pops up in my mind."
-    n ""
+    n "Mentre lo guardo appoggiarsi pigramente sul bancone, una domanda mi salta in mente."
 
             
 # game/rex.rpy:771
 translate italian rex_011b61b4:
 
     # mcp "\"Hey… how'd you get turned into a vampire, anyway?\""
-    mcp ""
+    mcp "\"Hey... come ti sei trasfomato in un vampiro, comunque?\""
 
             
 # game/rex.rpy:772
 translate italian rex_6047810b:
 
     # mcp "\"You seem a lot happier about being one than, say, someone like Dominic.\""
-    mcp ""
+    mcp "\"Sembri molto più felice di esserlo rispetto a, che so, uno come Dominic.\""
 
             
 # game/rex.rpy:776
 translate italian rex_9e690118_4:
 
     # r "\"…\""
-    r ""
+    r "\"...\""
 
             
 # game/rex.rpy:777
 translate italian rex_93b1f2f2:
 
     # n "Rex's eyes instantly narrow when I mention Dominic's name."
-    n ""
+    n "Rex subito riduce gli occhi ad una fessura appena nomino Domic."
 
             
 # game/rex.rpy:778
 translate italian rex_01d34da7:
 
     # n "They really don't get along, do they?"
-    n ""
+    n "Proprio non vanno d'accordo, eh?"
 
             
 # game/rex.rpy:781
 translate italian rex_999dc3ed:
 
     # r "\"That guy… Ngh.\""
-    r ""
+    r "\"Quel tizio... Ngh.\""
 
             
 # game/rex.rpy:782
 translate italian rex_d1234c88:
 
     # r "\"He doesn't love or respect his clan one fuckin' bit. It's a shitty clan, sure, but you gotta treat your clanmates like family.\""
-    r ""
+    r "\"Non ama né rispetta il suo clan per un cazzo. È un clan di merda, certo, ma devi trattare i tuoi compagni come una famiglia.\""
+ "
 
             
 # game/rex.rpy:785
 translate italian rex_1117426b:
 
     # r "\"Otherwise, you're just a blood-suckin' monster, all alone in the world…"
-    r ""
+    r "\"Altrimenti, sei solo un succhiasangue, completamente solo al mondo..."
 
             
 # game/rex.rpy:788
 translate italian rex_21ced21d:
 
     # r "\"…Not even a reflection to keep you company.\""
-    r ""
+    r "\"...Senza nemmeno il tuo riflesso a tenerti compagnia.\""
 
             
 # game/rex.rpy:789
 translate italian rex_2d85f821:
 
     # n "His voice trails off to a quiet, distant murmur, and for a moment, he looks unusually wistful."
-    n ""
+    n "La sua voce si fa un calmo e distante sussurro e, per un seconfo, mi sembra stranamente assorto."
 
             
 # game/rex.rpy:792
 translate italian rex_a80f69e5:
 
     # mcp "\"Rex…?\""
-    mcp ""
+    mcp "\"Rex...?\""
 
             
 # game/rex.rpy:795
 translate italian rex_768664e9:
 
     # n "The second I curiously nudge his shoulder, though, his eyes leap back up to me with a bright flash."
-    n ""
+    n "Il secondo esatto in cui gli do un colpetto sulla spalla incuriosito, tuttavia, il suo sguardo si sposta su su di me con un guizzo scintillante."
 
             
 # game/rex.rpy:799
 translate italian rex_a1b0cf2e:
 
     # r "\"Oh, right! How'd I get turned?\""
-    r ""
+    r "\"Oh, giusto! Come mi sono trasformato?\""
 
             
 # game/rex.rpy:801
 translate italian rex_e2594dbb:
 
     # r "\"Man, it feels like forever ago, even though it was only last August!\""
-    r ""
+    r "\"Cavolo, sembra passata un'eternità, anche se era solo lo scorso agosto!\""
 
             
 # game/rex.rpy:802
