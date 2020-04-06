@@ -3538,462 +3538,462 @@ translate italian rex_da338903:
 translate italian rex_4569f4df:
 
     # n "Well, it's not like I have to. {w}If I wanted, I could just skip town and get another shitty job somewhere else that {i}isn't{/i} vampire central."
-    n ""
+    n "Beh, non è devo farlo per forza. {w}Se volessi, potrei semplicemente lasciare la città e trovarmi un altro lavoro da qualche altra parte che {i}non sia{/i} un covo di vampiri."
 
             
 # game/rex.rpy:1327
 translate italian rex_0917cf68:
 
     # n "I doubt Rex would come after me. He's too attached to his \"clan,\" obviously."
-    n ""
+    n "Dubito che Rex verrebbe a cercarmi. È troppo attaccato al suo \"clan,\"ovviamente."
 
             
 # game/rex.rpy:1330
 translate italian rex_bcdbe67e_1:
 
     # mcp "\"Ngh…\""
-    mcp ""
+    mcp "\"Ngh...\""
 
             
 # game/rex.rpy:1332
 translate italian rex_a681987a:
 
     # n "But… {w}to be honest, I do sort of want to see him again, even though I shouldn't."
-    n ""
+    n "Ma... {w}se devo essere sincero, in realtà vorrei vederlo, un po', anche se non dovrei."
 
             
 # game/rex.rpy:1333
 translate italian rex_3d8501dd:
 
     # n "Mostly, I just want to ask why he turned on me last night, instead of defending me like he did a couple nights ago."
-    n ""
+    n "Più che altro, vorrei chiedergli perché mi ha tradito la scorsa notte, invece che difendermi come ha fatto qualche notte fa."
 
             
 # game/rex.rpy:1335
 translate italian rex_84d5a03d:
 
     # n "Club Skyline's pretty close to the diner, too, so I could just stop by on my way home…"
-    n ""
+    n "Lo Skyline è piuttosto vicino alla tavola calda, fra l'altro, quindi magari potrei fermamici sulla strada verso casa..."
 
             
 # game/rex.rpy:1338
 translate italian rex_236811ad:
 
     # mcp "\"You really have no self control, [mc].\""
-    mcp ""
+    mcp "\"Non hai davvero nessun autocontrollo, [mc].\""
 
             
 # game/rex.rpy:1343
 translate italian rex_b5c81f98:
 
     # n "Muttering under my breath dryly, I decide to distract myself with some commission work for the rest of the day."
-    n ""
+    n "Borbottando sdegnamente a me stesso, decido di distrarmi un po' lavorando a qualche progetto per il resto della giornata."
 
             
 # game/rex.rpy:1347
 translate italian rex_618125e1:
 
     # n "One of my current jobs is a romance story. Normally, I kinda suck at writing hot and steamy scenes, but…"
-    n ""
+    n "Uno delle cose su cui lavorando adesso è un racconto romanti. Di solito, faccio abbastanza schifo a scrivere scene di fuoco e passione, ma..."
 
             
 # game/rex.rpy:1349
 translate italian rex_2258b062:
 
     # n "My mind keeps drifting back to last night, and somehow, the words that fill my screen are really sexy, painting some surprisingly visceral imagery."
-    n ""
+    n "La mia mente continua a tornare sui ricordi della scorsa notte, e non so come, le parole che riempono il mio schermo dipingono una scena viscerale incredibilmente sexy."
 
             
 # game/rex.rpy:1350
 translate italian rex_287247df:
 
     # n "The feeling of being fed on is hard to describe, but when I remember the sensations, they make my imagination spring to life –"
-    n ""
+    n "La sensazione che mi ha pervaso mentre Rex beveva dal mio collo è difficle da spiegare, ma quando mi ricordo cosa provavo, la mia immaginazione prende vita -"
 
             
 # game/rex.rpy:1351
 translate italian rex_917c722d:
 
     # extend " and something else too, ugh."
-    extend ""
+    extend " insieme a qualcos'altro, ugh."
 
             
 # game/rex.rpy:1355
 translate italian rex_d8f59708:
 
     # n "My latest job is a track for a strip club scene, part of a little indie flick."
-    n ""
+    n "Il mio ultimo lavoro riguarda una brano per una scena in uno strip club, parte di un piccolo film indipendente."
 
             
 # game/rex.rpy:1356
 translate italian rex_266c895c:
 
     # n "I was kinda stuck on how to make it sound \"sexy,\" but when my mind drifts back to the feelings I had last night, when Rex was feeding on me…"
-    n ""
+    n "Ero un po' bloccato sul come farlo suonare \"sexy,\" ma quando la mia mente torna sui ricordi ddella scorsa notte, mentre Rex beveva dal mio collo..."
 
             
 # game/rex.rpy:1358
 translate italian rex_b88589b7:
 
     # n "Somehow, I manage to capture it perfectly – {w}a slow, heavy rhythm and sleazy electric guitar pulling it all together."
-    n ""
+    n "Non so come, ma sono riuscito a catturare perfettamente quella sensazione - {w}una lenta, fortemente ritmata melodia con un suono grundge della chitarra che completa il tutto."
 
-            
+        
 # game/rex.rpy:1362
 translate italian rex_166ff414:
 
     # n "My latest commission is a smutty drawing of some person's original characters."
-    n ""
+    n "Il mio ultimo progetto è un disegno sconcio dei personaggi originali di qualcuno."
 
             
 # game/rex.rpy:1363
 translate italian rex_7188a8c5:
 
     # n "I'm not great at drawing erotic stuff normally, but…"
-    n ""
+    n "Non sono molto bravo a disegnare roba erotica di solito, ma..."
 
             
 # game/rex.rpy:1365
 translate italian rex_a8f09002:
 
     # n "When my mind drifts back to last night, and the hot, sweet sensations that flooded through my body, my pen starts to move on its own."
-    n ""
+    n "Quando la mia mente torna sui ricordi della scorsa notte, una sensazione calda e dolce mi pervade il corpo e la mia penna inizia a muoveri da sola."
 
             
 # game/rex.rpy:1366
 translate italian rex_2948fc04:
 
     # n "The way their bodies entwine, the expressions on their faces – {w}somehow, I draw it more vividly than I ever could before."
-    n ""
+    n "Il mondo in cui i loro corpi si intrecciamp, l'espressione sui loro volti - non so come, ma riesco a disegnarli più vividamente di prima."
 
             
 # game/rex.rpy:1375
 translate italian rex_8ce5a5de:
 
     # mc "\"Phew… I'm gonna need another cold shower.\""
-    mc ""
+    mc "\"Fiù... Mi servirà un'altra doccia fredda.\""
 
             
 # game/rex.rpy:1376
 translate italian rex_a66651d1:
 
     # n "By the time I finish up and get ready to head to work, my mood's actually a lot brighter."
-    n ""
+    n "Una volta finito, mi preparo per andare a lavoro. Il mio umore è migliorato parecchio."
 
             
 # game/rex.rpy:1377
 translate italian rex_3f44e2fc:
 
     # n "I got some good work done, and…"
-    n ""
+    n "Ho lavorato un po' e..."
 
             
 # game/rex.rpy:1379
 translate italian rex_d5d84d53:
 
     # n "Well, I'll get to see Rex in a few hours. {w}Of course, I'm mostly just excited to chew him out."
-    n ""
+    n "Beh, vedrò Rex fra qualche ora. {w}Ovviamente, sono eccitato più che altro all'idea di urlargli contro."
 
             
 # game/rex.rpy:1393
 translate italian rex_531416ce:
 
     # n "–Like always, the street is fairly busy around this time."
-    n ""
+    n "Come sempre, le strade sono piuttosto affollate a quest'ora."
 
             
 # game/rex.rpy:1394
 translate italian rex_c6d9c45d:
 
     # n "I mostly just tune out the racket of car stereos and blaring horns."
-    n ""
+    n "Di solito semplicemente ignoro il rumore delle radio e dei clacson delle auto."
 
             
 # game/rex.rpy:1396
 translate italian rex_317a6563:
 
     # n "It's funny to think that out of all these people, next to no one realizes that they're in a city infested with vampires…"
-    n ""
+    n "È strano pensare che di tutte queste persone, praticamente nessuno si renda conto che si trova in una città infestat dai vampiri..."
 
             
 # game/rex.rpy:1398
 translate italian rex_ed3d3721:
 
     # n "…And just a few nights ago, I was one of them."
-    n ""
+    n "...E solo qualche notte fa, io ero come loro."
 
             
 # game/rex.rpy:1406
 translate italian rex_a1f16adb:
 
     # n "My shift goes like normal, full of junkies and the occasional drunk prick."
-    n ""
+    n "Il mio turno procede come al solito, una marea di drogati e qualche stronzo ubriaco."
 
             
 # game/rex.rpy:1408
 translate italian rex_2882a322:
 
     # u "\"Can I get number seven? A, uh…\""
-    u ""
+    u "\"Posso avere un numero 7? Un, emm...\""
 
             
 # game/rex.rpy:1414
 translate italian rex_dc538c33:
 
     # mc "\"–That's a whole pie, sir. Are you sure you really want a {i}whole{/i} pie?\""
-    mc ""
+    mc "\"Signore, è uno sformato intero. È sicuro di volere un {i}intero{/i} sformato?\""
 
             
 # game/rex.rpy:1416
 translate italian rex_41fc8d05:
 
     # u "\"High? I'm not high, you're high!\""
-    u ""
+    u "\"Fumato? Io non sono fumato, tu sei fumato!\""
 
             
 # game/rex.rpy:1419
 translate italian rex_98c23fe7:
 
     # mc "\"…Ngh…\""
-    mc ""
+    mc "\"...Ngh...\""
 
             
 # game/rex.rpy:1420
 translate italian rex_48844eec:
 
     # n "Ah, late night crowd, never change."
-    n ""
+    n "Ah, la gente della notte, non cambia mai."
 
             
 # game/rex.rpy:1426
 translate italian rex_478d8c87:
 
     # n "Finally, I decide to close up shop a little early."
-    n ""
+    n "Alla fine, decido di chiudere il locale un po' prima."
 
             
 # game/rex.rpy:1435
 translate italian rex_f8b7a67b:
 
     # n "Shoving my keys in my pocket, I head towards Club Skyline, sticking to the main road."
-    n ""
+    n "Ficcandomi le chiavi in tasca, mi dirigo verso lo Skyline, mantenendomi su strade principali."
 
             
 # game/rex.rpy:1438
 translate italian rex_c85dd3f2:
 
     # mcp "\"No vampires out to play tonight, I hope? Eheh…\""
-    mcp ""
+    mcp "\"Nessun vampiro in vista stanotte, spero? Eheh...\""
 
             
 # game/rex.rpy:1439
 translate italian rex_37365e2c:
 
     # n "I nervously laugh under my breath, making sure to peer down every alley I go past."
-    n ""
+    n "Ridacchio nervosamente fra me e me, assicurandomi di buttare un ogni ad ogni vigolo che passo."
 
             
 # game/rex.rpy:1441
 translate italian rex_7ae0880a:
 
     # n "Luckily, it doesn't seem like anyone's trying to make [mc]-kebabs right now."
-    n ""
+    n "Per fortina, non sembra esserci nessuno che cerca di fare del [mc]-kebab al momento."
 
             
 # game/rex.rpy:1446
 translate italian rex_63cd9928:
 
     # n "I reach the club before long and duck into the dark, crowded interior."
-    n ""
+    n "In breve tempo, raggiungo il locale e mi affaccio nell'interno buio e affollato."
 
             
 # game/rex.rpy:1459
 translate italian rex_4f46a46b_13:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/rex.rpy:1460
 translate italian rex_1527fbd2:
 
     # n "The bass is so loud that my eardrums feel like they might burst. {w}It smells of sweat and… probably other bodily fluids, too."
-    n ""
+    n "I bassi sono così forti che sembra mi stiano esplodendo i timpani. {w}C'è puzza di sudore e... di altri fluidi corporei."
 
             
 # game/rex.rpy:1462
 translate italian rex_0a3a92de:
 
     # n "I grimace, squinting in the dark to try and find Rex in the sea of dancing bodies."
-    n ""
+    n "Faccio una smorfia, strizzando gli occhi per cercare di trovare Rex nell'oscurità e nella massa di corpi che ballano."
 
             
 # game/rex.rpy:1463
 translate italian rex_8ccc27bf:
 
     # n "His unnaturally red hair is pretty easy to pick out, but I don't see him anywhere…"
-    n ""
+    n "I suoi innaturali capelli rossi dovrebbero essere facili da individuare, ma non lo vedo da nessuna parte..."
 
             
 # game/rex.rpy:1465
 translate italian rex_d111087a:
 
     # n "–Hang on. {w}Doesn't that bartender look kind of familiar?"
-    n ""
+    n "Aspetta un secondo. {w}Il barista mi sembra familiare. "
 
             
 # game/rex.rpy:1468
 translate italian rex_781fc864:
 
     # mcp "\"–! Rex!\""
-    mcp ""
+    mcp "\"-! Rex!\""
 
             
 # game/rex.rpy:1477
 translate italian rex_bda33f81:
 
     # n "I push my way over to the bar quickly, and the man serving drinks turns around to face me."
-    n ""
+    n "Mi faccio velocemente strada verso il bar e l'uomo che serve i drink si volta per guardarmi."
 
             
 # game/rex.rpy:1482
 translate italian rex_6a70f442:
 
     # r "\"…Oh, hey, baby! Was wonderin' when you'd show up!\""
-    r ""
+    r "\"...Oh, hey, baby! Mi chiedevo quando ti saresti fatto vivo!\""
 
             
 # game/rex.rpy:1483
 translate italian rex_ffaafcc6:
 
     # n "Rex casts me his usual wide, feral grin while energetically shaking a mixer."
-    n ""
+    n "Rex mi lancia il suo solito sorriso feroce, shakerando energicamente il mixer."
 
             
 # game/rex.rpy:1487
 translate italian rex_e1ae0710:
 
     # mc "\"What the hell? I didn't know you {i}worked{/i} here.\""
-    mc ""
+    mc "\"Ma che cazzo? Non sapevo {i}lavorassi{/i} qui.\""
 
             
 # game/rex.rpy:1490
 translate italian rex_f29cacf6:
 
     # r "\"Hey, a guy needs some spending money, okay?\""
-    r ""
+    r "\"Hey, un ragazzo avrà pure bisogno di qualche spicciolo, no?\""
 
             
 # game/rex.rpy:1492
 translate italian rex_194fcea6:
 
     # r "\"And I don't wanna get it all from robbing old ladies or some shit.\""
-    r ""
+    r "\"E non voglio guadagnarmelo rubando vecchiette o roba del genere."
 
             
 # game/rex.rpy:1493
 translate italian rex_d05002ac:
 
     # n "He defensively yells his reply over the music, then pours the mixed drink in front of a guy who looks completely smashed."
-    n ""
+    n "Sta decisamente urlando la sua risposta per contrastare il volume della musica, poi versa il drink davanti a un tizio che sembra completamente andato."
 
             
 # game/rex.rpy:1499
 translate italian rex_5893be5f:
 
     # n "Afterwards, he yanks off a small strip of cloth he was using as a headband, then vaults over the counter to land beside me."
-    n ""
+    n "Dopo di che, lancia via una piccola striscia di tessuto che stava usando come fascia per i capelli e scavalca il bancone atterrandomi accanto."
 
             
 # game/rex.rpy:1502
 translate italian rex_14b4b60c:
 
     # mcp "\"Whoa–!\""
-    mcp ""
+    mcp "\"Woah-!\""
 
             
 # game/rex.rpy:1504
 translate italian rex_00246b13:
 
     # mcp "\"Wait, aren't you on your shift? You can't just –\""
-    mcp ""
+    mcp "\"Aspetta, non sei di turno? Non puoi semplicemente -\""
 
             
 # game/rex.rpy:1507
 translate italian rex_fbb7154b:
 
     # rp "\"Nah, another dude's comin' soon to take over, anyway.\""
-    rp ""
+    rp "\"Nah, tanto fra poco un altro ragazzo arriva a coprirmi.\""
 
             
 # game/rex.rpy:1509
 translate italian rex_ed4b3f4e:
 
     # rp "\"C'mon, over here!\""
-    rp ""
+    rp "\"Dai, vieni con me!\""
 
             
 # game/rex.rpy:1522
 translate italian rex_92b4ddd8:
 
     # n "Grabbing my wrist, Rex tugs me over to one corner of the club, and I stumble along behind him."
-    n ""
+    n "Afferrandomi un polso, Rex mi trascina in un angolo del locale e io gli barcollo accanto."
 
             
 # game/rex.rpy:1526
 translate italian rex_64bc515d:
 
     # mcp "\"Ngh! Let go, you dick! I'm not some puppy on a leash for you to drag around!\""
-    mcp ""
+    mcp "\"Ngh! Lasciami, stronzo! Non sono un animaletto da tenere al guinzaglio e portare in giro!\""
 
             
 # game/rex.rpy:1528
 translate italian rex_d335bdea:
 
     # rp "\"Yeah? You want me to carry you instead?\""
-    rp ""
+    rp "\"Ah no? Preferiresti che ti prendessi in braccio?\""
 
             
 # game/rex.rpy:1531
 translate italian rex_4f46a46b_14:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/rex.rpy:1533
 translate italian rex_18305aa8:
 
     # n "Unable to come up with a retort, I just glare at his back as we weave through the crowd."
-    n ""
+    n "Incapace di trovare qualcosa per rispondergli, mi ritrovo semplicemente a fissare la sua nuca mentre brancoliamo fra la folla."
 
             
 # game/rex.rpy:1536
 translate italian rex_2689fe91:
 
     # mcp "\"You know, I can follow you just fine without being dragged!\""
-    mcp ""
+    mcp "\"Sai cosa? Posso tranquillamente seguirti senza essere trascinato!\""
 
             
 # game/rex.rpy:1538
 translate italian rex_523f608e:
 
     # rp "\"I don't wanna take any chances! Gotta stake my claim, yeah?\""
-    rp ""
+    rp "\"Non voglio rischiare! Devo rendere chiaro il mio reclamo, no?\""
 
             
 # game/rex.rpy:1541
 translate italian rex_4f46a46b_15:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/rex.rpy:1543
 translate italian rex_b69892a8:
 
     # n "Arguing is probably useless, so I just grumble to myself and follow his persistent tugging."
-    n ""
+    n "Discutere è probabilmente inutile, quindi borbotto fra me e me e continuo a seguirlo mentre mi tira."
 
             
 # game/rex.rpy:1554
