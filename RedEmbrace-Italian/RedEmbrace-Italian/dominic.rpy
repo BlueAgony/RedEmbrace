@@ -730,7 +730,7 @@ translate italian dominic_a7df8a94:
 translate italian dominic_a1b03381:
 
     # mcp "\"I wanted to say thanks for the generous tip, after all.\""
-    mcp "\"VOlevo ringraziarti per la generosa mancia, dopotutto."
+    mcp "\"Volevo ringraziarti per la generosa mancia, dopotutto."
 
             
 # game/dominic.rpy:275
@@ -744,7 +744,7 @@ translate italian dominic_01baaab5_5:
 translate italian dominic_bf790759:
 
     # n "–For a moment, Dominic just stares at me with apparent surprise. {w}Had he forgotten about the tip he left…?"
-    n "Pe run momenot, Dominic rimane a fissarmi con profonda sopresa. {w}Si era scordato della mancia che aveva lasciato...?"
+    n "Per un momenot, Dominic rimane a fissarmi sbalordito. {w}Si era scordato della mancia che aveva lasciato...?"
 
             
 # game/dominic.rpy:280
@@ -772,231 +772,231 @@ translate italian dominic_c2fe09a0:
 translate italian dominic_93a9f468:
 
     # n "Deciding to be a little coy, I give Dominic a taste of his own medicine by offering a casual shrug."
-    n ""
+    n "Decidendo di fare il finto riservato, per ripagare Dominic con la sua stessa moneta, faccio spallucce allas ua domanda."
 
             
 # game/dominic.rpy:293
 translate italian dominic_ade101da:
 
     # mcp "\"I was just curious, that's all. Isaac told me something interesting was going to happen tonight, so I came to see for myself.\""
-    mcp ""
+    mcp "\"Ero solo curioso, tutto qui. Isaac mi ha detto che sarebbe successo qualcosa di interessante stanotte, quindi sono venuto per vederlo con i miei occhi.\""
 
             
 # game/dominic.rpy:295
 translate italian dominic_f9dfd734:
 
     # mcp "\"Boy, was that ever a mistake…\""
-    mcp ""
+    mcp "\"Beh, quello sì che è stato un errore...\""
 
             
 # game/dominic.rpy:298
 translate italian dominic_01baaab5_6:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:300
 translate italian dominic_0390dca5:
 
     # n "His brow knits together in a slight frown."
-    n ""
+    n "Le sue sopracciglia si avvicinano in un'espressione corrucciata."
 
             
 # game/dominic.rpy:302
 translate italian dominic_71cea107:
 
     # mcp "\"Except for the part where I got to see you again, that is. I was a little worried you might never come back to the diner.\""
-    mcp ""
+    mcp "\"Eccetto per il fatto che ho potuto rivedere te, ovviamente. Ero un po' preoccupato all'idea che non tornassi più alla tavola calda.\""
 
             
 # game/dominic.rpy:305
 translate italian dominic_01baaab5_7:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:306
 translate italian dominic_dad8d203:
 
     # n "–For a moment, Dominic just stares at me with apparent surprise.{w} Did he think I'd forgotten him or something?"
-    n ""
+    n "Per un secondo, Dominic rimane a fissarmi sbalordito. {w}Pensava mi fossi dimenticato di lui?"
 
             
 # game/dominic.rpy:309
 translate italian dominic_f8defcbf_1:
 
     # n "Eventually, he turns his head away from me – but I can see a faint smirk briefly flicker over his mouth."
-    n ""
+    n "Alla fine, distoglie nuovamente lo sguardo, ma riesco a vedere un debole sorrisetto lampeggiare sul suo viso."
 
             
 # game/dominic.rpy:311
 translate italian dominic_a6065e33:
 
     # d "\"Yeah… it worked out.\""
-    d ""
+    d "\"Già... ha funzionato.\""
 
             
 # game/dominic.rpy:312
 translate italian dominic_960ef5ca:
 
     # n "He mutters something more to himself than me, and I can barely hear what he's saying."
-    n ""
+    n "Borbotta qualcosa più a sé stesso che a me, e riesco a malapena a sentire quello che sta dicendo."
 
             
 # game/dominic.rpy:316
 translate italian dominic_9dd2ea84:
 
     # mcp "\"Come again?\""
-    mcp ""
+    mcp "\"Scusa, puoi ripetere?\""
 
             
 # game/dominic.rpy:324
 translate italian dominic_4ae9b0db:
 
     # n "Instead of replying, though, Dominic rather abruptly pushes himself up to his feet – turning to me with a more serious expression."
-    n ""
+    n "Invece di rispondere, però, Dominic si alza all'improvviso - guardandomi con un'espressione seria."
 
             
 # game/dominic.rpy:328
 translate italian dominic_1470462a:
 
     # n "He hesitates after opening his mouth, lowering his head a little."
-    n ""
+    n "Esita subito dopo aver aperto la bocca, abbassando un po' la testa."
 
             
 # game/dominic.rpy:331
 translate italian dominic_e4f61eef:
 
     # d "\"…Isaac put you in a lot of danger.\""
-    d ""
+    d "\"...Isaac ti ha messo in grave pericolo.\""
 
             
 # game/dominic.rpy:338
 translate italian dominic_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:339
 translate italian dominic_03a8878e:
 
     # n "His slow, husky voice takes on a sharper edge all of a sudden."
-    n ""
+    n "La sua voce lenta e rauca prende un tono piuttosto duro tutt'a un tratto."
 
             
 # game/dominic.rpy:342
 translate italian dominic_aed3146b:
 
     # d "\"Humans who know about us are a threat. Rex will tell the other Helgen about you.\""
-    d ""
+    d "\"Gli umani che sanno di noi sono una minaccia. Rex parlerà di te agli altri Helgen.\""
 
             
 # game/dominic.rpy:343
 translate italian dominic_dabbd32e:
 
     # d "\"When that happens, word'll spread fast. Someone will come after you… probably by tomorrow night.\""
-    d ""
+    d "\"E quando l'avrà fatto, la notizia si spargerà in fretta. Qualcuno verrà a cercarti... probabilmente già da domani notte.\""
 
             
 # game/dominic.rpy:345
 translate italian dominic_a5fa2bb6:
 
     # n "Dominic's eyes narrow, and he pauses for a long moment."
-    n ""
+    n "Gli occhi di Dominic diventano una fessura, e si blocca per un bel po' di secondi."
 
             
 # game/dominic.rpy:348
 translate italian dominic_1179157c:
 
     # d "\"Until they forget you and start hunting someone else, you shouldn't be alone in the dark.\""
-    d ""
+    d "\"Finché non si dimenticheranno di te e inizieranno a dare la caccia a qualcunaltro, non dovresti stare solo la notte.\""
 
             
 # game/dominic.rpy:351
 translate italian dominic_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:353
 translate italian dominic_0d8b3adf:
 
     # n "–His words send a cold tingle through me, and a knot curls in the pit of my stomach."
-    n ""
+    n "-Le sue parole fanno partire un brivido lungo la mia schiena, e mi si forma un nodo in gola."
 
             
 # game/dominic.rpy:354
 translate italian dominic_74966d3d:
 
     # n "Troy's out of town for a little while, so I can't just take off work… {w}and there's no way I can afford a taxi every night."
-    n ""
+    n "Troy è fuori città per un po', quindi non posso smettere di lavora... {w}e di sicuro non posso permettermi di prendere un taxi ogni notte."
 
             
 # game/dominic.rpy:356
 translate italian dominic_b5a8733c:
 
     # n "And even when he gets back, who's to say they won't still be coming after me? I can't stay inside my house forever."
-    n ""
+    n "E anche quando ritorna, chi dice che non verranno comunque a cercarmi? Non posso rimanere chiuso in casa per sempre."
 
             
 # game/dominic.rpy:360
 translate italian dominic_6633248c:
 
-    # mc "\"Maybe I should just skip town…"
-    mc ""
+    # mc "\"Maybe I should just skip town…\""
+    mc "\"Forse dovrei solo lasciare la città...\""
 
             
 # game/dominic.rpy:363
 translate italian dominic_2954069c:
 
     # d "\"They'll find you before you can leave.\""
-    d ""
+    d "\"Ti troverebbo prima che tu possa andartene.\""
 
             
 # game/dominic.rpy:365
 translate italian dominic_5a88540b:
 
     # mc "\"Then what am I supposed to do? How can I stand a chance against –\""
-    mc ""
+    mc "\"Cosa dovrei fare, allora? Non ho nessuna chance contro -\""
 
             
 # game/dominic.rpy:369
 translate italian dominic_11e0fac6:
 
     # mc "\"I'll get a gun, or a knife, or something like that. I'll find some way to defend myself.\""
-    mc ""
+    mc "\"Mi comprerò una pistola, o un coletto, o una roba del genere. Troverò un modo per difendermi.\""
 
             
 # game/dominic.rpy:372
 translate italian dominic_50771839:
 
     # n "Dominic just shakes his head, letting out a long exhale."
-    n ""
+    n "Dominic scuote la testa, emettendo un lungo respiro."
 
             
 # game/dominic.rpy:374
 translate italian dominic_12e05aae:
 
     # d "\"That won't work.\""
-    d ""
+    d "\"Non funzionerà.\""
 
             
 # game/dominic.rpy:376
 translate italian dominic_fee36dab:
 
     # mc "\"What do you mean it won't work? You expect me to just –\""
-    mc ""
+    mc "\"Cosa vuol dire che non funzionerà? Ti aspetti che me ne stia ad asp-\""
 
             
 # game/dominic.rpy:378
 translate italian dominic_3f9ff79d:
 
     # d "\"I'll help you.\""
-    d ""
+    d "\"Ti aiuterò io.\""
 
             
 # game/dominic.rpy:381
