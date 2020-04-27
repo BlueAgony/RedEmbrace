@@ -1003,861 +1003,861 @@ translate italian dominic_3f9ff79d:
 translate italian dominic_35a28d4c_2:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:382
 translate italian dominic_7ddf38ba:
 
     # n "At his unexpected offer, I freeze, my mouth hanging open."
-    n ""
+    n "La sua inaspettata offerta, mi paralizzo, la mia bocca spalancata dallo stupore."
 
             
 # game/dominic.rpy:384
 translate italian dominic_a93e2be0:
 
     # n "Is… {w}Is he seriously saying he'll protect me?"
-    n ""
+    n "Sta... {w}Sta davvero dicendo che mi proteggerà?"
 
             
 # game/dominic.rpy:385
 translate italian dominic_ef772703:
 
     # extend " Aren't I threat to them? Shouldn't he be working against me?"
-    extend ""
+    extend "Non sono una minaccia per quelli come lui? Non dovrebbe andarmi contro?"
 
             
 # game/dominic.rpy:391
 translate italian dominic_84a9d123:
 
     # n "But before I can ask why he'd do something so crazy, Dominic turns his back to me, murmuring a few last words."
-    n ""
+    n "Ma prima che io possa chiedere perché farebbe una cosa del genere, Dominic si volta verso di me, mormorando alcune parole finali."
 
             
 # game/dominic.rpy:393
 translate italian dominic_6c717ef8:
 
     # dp "\"I'll come to the diner tomorrow.\""
-    dp ""
+    dp "\"Verrò alla tavola calda domani.\""
 
             
 # game/dominic.rpy:396
 translate italian dominic_4d83b420:
 
     # dp "\"…Don't do anything stupid.\""
-    dp ""
+    dp "\"...Non fare niente di stupido.\""
 
             
 # game/dominic.rpy:399
 translate italian dominic_eb0a7d05:
 
     # n "–And with that parting command, he stalks off towards the stairs, his long strides carrying him out of sight in a few moments."
-    n ""
+    n "-E con quell'ordine finale, si allontana verso le scale, le sue lunghe falcate lo portano fuori dal mio campo visivo in pochi secondi."
 
             
 # game/dominic.rpy:401
 translate italian dominic_d50dd857:
 
     # n "I'm left speechless, standing alone with only Dominic's discarded cigarette for company."
-    n ""
+    n "Rimando senza parole, in piedi da solo con solo il mozzicone di Dominic a tenermi compagnia."
 
             
 # game/dominic.rpy:402
 translate italian dominic_442c486c:
 
     # n "The hum of dim, fluorescent lights around me is all that disrupts the dead silence."
-    n ""
+    n "Il ronzio della fioca luce al neon è l'unica cosa che rompe il silenzio."
 
             
 # game/dominic.rpy:407
 translate italian dominic_35a28d4c_3:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:408
 translate italian dominic_e6536c8a:
 
     # n "I don't know what to think."
-    n ""
+    n "Non so cosa pensare."
 
             
 # game/dominic.rpy:409
 translate italian dominic_a86635c8:
 
     # n "Dominic… I didn't do anything to deserve his help, but he's going to give it to me anyway."
-    n ""
+    n "Dominic... Non ho fatto niente per meritarmi il suo aiuto, ma me lo darà comunque."
 
             
 # game/dominic.rpy:411
 translate italian dominic_3b1be245:
 
     # n "Normally I'd feel indignant, but if I've somehow made myself a target of vampires who are anything like Rex… {w}well, I'd be an idiot to refuse Dominic."
-    n ""
+    n "Di solito sarei indignato all'idea, ma in qualche modo mi sono reso una preda per qualunque vampiro come Rex... {w}beh, sarei un idiota se rifiutassi l'aiuto di Dominic."
 
             
 # game/dominic.rpy:413
 translate italian dominic_fa927808:
 
     # n "Normally I'd refuse, since it's pretty stupid to rely on a creature who sees you as food."
-    n ""
+    n "Di solito rifiuterei, dato che è piuttosto stupido fare affidamento su una creatura che ti vede come cibo."
 
             
 # game/dominic.rpy:414
 translate italian dominic_b3b406e9:
 
     # n "But if I compare Dominic to vampires like Rex, who act like wild animals…{w} well, I'd be an idiot to refuse the help."
-    n ""
+    n "Ma se comparo Dominic con gli altri vampiri come Rex, che si comportano come degli animali...{w}beh, sarei un idiota se rifiutassi l'aiuto di Dominic."
 
             
 # game/dominic.rpy:416
 translate italian dominic_9f68d049:
 
     # n "–And, for some reason, I feel like I can trust him."
-    n ""
+    n "-E, per qualche motivo, sento di potermi fidare di lui."
 
             
 # game/dominic.rpy:417
 translate italian dominic_4832d062:
 
     # n "I don't know why, but there's something comforting about being with Dominic. {w}It's like having a guardian wolf, almost."
-    n ""
+    n "Non so perché, ma c'é qualcosa di confortante nello stare con Dominic. {w}É come avere un lupo che ti fa da angelo custode, quasi."
 
             
 # game/dominic.rpy:420
 translate italian dominic_6c6edcda:
 
     # mc "\"Guardian wolf… Man, did I just walk out of some trashy fantasy book?\""
-    mc ""
+    mc "\"Un lupo angelo custode... Wow, ma sono appena uscito da qualche libro fantasy da 4 soldi?\""
 
             
 # game/dominic.rpy:422
 translate italian dominic_ce5aaca4:
 
     # n "Muttering to myself dryly, I slip out of the warehouse, gripped by a growing fear."
-    n ""
+    n "Borbottando a me stesso seccamente, sgattaiolo fuori dal magazzino, attanaglaito da una paura crescente."
 
             
 # game/dominic.rpy:427
 translate italian dominic_424255a0:
 
     # n "All the way back to my apartment, I keep an eye out for anything lurking in the shadows."
-    n ""
+    n "Per tutta la strada verso il mio appartamento, tengo un occhio aperto in caso ci siano figure nascoste nell'ombra."
 
             
 # game/dominic.rpy:428
 translate italian dominic_a34c52c2:
 
     # n "The streets look the same as they always do, but now…"
-    n ""
+    n "Le strade sembrano quelle di sempre, ma ora..."
 
             
 # game/dominic.rpy:430
 translate italian dominic_f9ea9538:
 
     # n "They're starting to feel like a battleground instead of my home."
-    n ""
+    n "Inizio a sentirmi come se fossi su un campo di battaglia invece a casa."
 
             
 # game/dominic.rpy:436
 translate italian dominic_28c8f192:
 
     # n "–Home sweet home."
-    n ""
+    n "-Casa dolce casa."
 
             
 # game/dominic.rpy:437
 translate italian dominic_3217e37e:
 
     # n "If only I could pretend all of this was a crazy fever dream…"
-    n ""
+    n "Se solo potessi far finta che tutto questo sia solo un assurdo incubo febbrile..."
 
             
 # game/dominic.rpy:439
 translate italian dominic_755013e2:
 
     # n "If only it was that easy."
-    n ""
+    n "Se solo fosse così facile."
 
             
 # game/dominic.rpy:443
 translate italian dominic_418a4da3:
 
     # n "I end up tossing and turning in bed for what feels like ages, until eventually…"
-    n ""
+    n "Finisco per continuare a girarmi e rigirarmi nel letto per quella che sembra un'eternità, finchè finalmente..."
 
             
 # game/dominic.rpy:445
 translate italian dominic_b659ea90:
 
     # n "The exhaustion from tonight pulls me into a deep sleep."
-    n ""
+    n "La stanchezza della notte appena trascorsa mi trascina in un sonno profondo."
 
             
 # game/dominic.rpy:448
 translate italian dominic_d7bc401d:
 
     # mc "\"Ngh…\""
-    mc ""
+    mc "\"Ngh…\""
 
             
 # game/dominic.rpy:450
 translate italian dominic_26e9b4f0:
 
     # n "The early afternoon sun trickles into my apartment, fighting through storm clouds to arrive on my face."
-    n ""
+    n "Il sole del primo pomeriggio si affaccia alla finestra del mio appartamento, combattendo nuvole di tempesta per arrivarmi giusto in faccia.""
 
             
 # game/dominic.rpy:457
 translate italian dominic_d9f0ab1d:
 
     # n "I push myself up with a yawn."
-    n ""
+    n "Mi alzo sbadigliando."
 
             
 # game/dominic.rpy:458
 translate italian dominic_6e9385ac:
 
     # extend " I can't say I feel very refreshed."
-    extend ""
+    extend "Non posso dire di sentirmi riposato."
 
             
 # game/dominic.rpy:460
 translate italian dominic_35a28d4c_4:
 
     # mc "\"…\""
-    mc ""
+    mc "\"…\""
 
             
 # game/dominic.rpy:462
 translate italian dominic_237177e3:
 
     # n "Those events last night, the fight between Dominic and Rex…"
-    n ""
+    n "Gli eventi della scorsa notte, lo scrontro fra Dominc e Rex..."
 
             
 # game/dominic.rpy:464
 translate italian dominic_bff95d2a:
 
     # n "…The vampires."
-    n ""
+    n "...I vampiri."
 
             
 # game/dominic.rpy:465
 translate italian dominic_3f4f46d9:
 
     # n "I was hoping it would be a dream, but –"
-    n ""
+    n "Speravo fosse tutto un sogno, ma -"
 
             
 # game/dominic.rpy:466
 translate italian dominic_93dca89d:
 
     # extend " it sticks too vividly in my mind, like a bad taste that won't leave my mouth."
-    extend ""
+    extend "È rimasto troppo vivido nella mia mente, come un cattivo sapore che non vuole andarsene dalla mia bocca."
 
             
 # game/dominic.rpy:474
 translate italian dominic_c22df253:
 
     # mc "\"This would make for a great story to write about… except I'd definitely have an anxiety attack while writing it…\""
-    mc ""
+    mc "\"Sarebbe una storia fantastica da scrivere... solo che avrei sicuramente un attacco di panico mentre la scrivo...\""
 
             
 # game/dominic.rpy:477
 translate italian dominic_b1971e2f:
 
     # mc "\"I could mix up an amazing EP inspired by this stuff… although I'm not sure if I'd live long enough to drop it…\""
-    mc ""
+    mc "\"Potrei creare un fantastico EP ispirato a questa roba... anche se non sono sicuro di vivere abbastanza a lungo da pubblicarlo...\""
 
             
 # game/dominic.rpy:480
 translate italian dominic_5068a238:
 
     # mc "\"But I feel like I could draw some amazing vampire shit right now… It would probably land me on the cover of a teen goth magazine, though…\""
-    mc ""
+    mc "\"Ma sento che potrei disegnare qualche stronzata fighissima coi vampiri adesso... mi porterebbe solo sulla copertina di qualche rivista per raggazzini goth, però...\""
 
             
 # game/dominic.rpy:483
 translate italian dominic_9b894557:
 
     # n "Still half-asleep, I mumble to myself as I put on the coffee machine."
-    n ""
+    n "Ancora mezzo addormentato, mormoro a me stesso mentre metto su la caffettiera."
 
             
 # game/dominic.rpy:486
 translate italian dominic_441ca035:
 
     # n "It's true, all this excitement's definitely inspired me a little – though I'm also too on edge to really channel it right now."
-    n ""
+    n "É vero, tutta questa eccitazione mi ha decisamente ispirato un po', anche se sono troppo sull'orlo di una crisi per incanalarla al momento."
 
             
 # game/dominic.rpy:491
 translate italian dominic_a20dff27:
 
     # n "Dominic…"
-    n ""
+    n "Dominic..."
 
             
 # game/dominic.rpy:492
 translate italian dominic_f97c92dd:
 
     # n "His offer from last night still echoes in my ears."
-    n ""
+    n "La sua offerta della scorsa notte rieccheggia ancora nelle mie orecchie."
 
             
 # game/dominic.rpy:493
 translate italian dominic_e6c970c4:
 
     # n "I can't believe he really wants to help me. Maybe it's just a bad prank, and he's not going to show up tonight after all."
-    n ""
+    n "Non posso credere che voglia davvero aiutarmi. Forse è solo un brutto scherzo, e non si farà vivo al locale domani."
 
             
 # game/dominic.rpy:494
 translate italian dominic_cc4dd210:
 
     # n "That would make more sense, anyway. I have a hard time believing a guy like him would just help me out of the kindness of his heart."
-    n ""
+    n "Avrebbe molto più senso, in realtà. Mi viene difficile credere che uno come lui voglia aiutarmi semplicemente perché mosso dalla gentilezza del suo cuore."
 
             
 # game/dominic.rpy:496
 translate italian dominic_0c6878f2:
 
     # n "…But after yesterday, I really don't know {i}what{/i} to believe any more."
-    n ""
+    n "...Ma dopo ieri, non so più a {i}cosa{/i} credere."
 
             
 # game/dominic.rpy:503
 translate italian dominic_83294fed:
 
     # n "I manage to get some writing commissions finished up during the rest of the day, although they are sorely in need of some editing."
-    n ""
+    n "Riesco a finire di scrivere qualche lavoro commissionato durante il resto della giornata, anche se hanno decisamente bisogno di qualche revisione."
 
             
 # game/dominic.rpy:505
 translate italian dominic_309f9f7f:
 
     # n "In the last couple hours before work, I decide to start a new little story, drawing heavily from the crazy stuff that happened last night."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di cominciare una nuova storiella, prendendo spunto intensamente dalla roba assurda che è successa ieri sera."
 
             
 # game/dominic.rpy:506
 translate italian dominic_12e88fc3:
 
     # n "I change a few details here and there, but it reads more like a diary rather than fiction."
-    n ""
+    n "Cambio qualche dettaglio qua e là, ma sembra più un diario che un romanzo."
 
             
 # game/dominic.rpy:509
 translate italian dominic_6f0f48d2:
 
     # n "I finish a couple of short songs for the indie game I was hired onto, but I know I'll need to go back and give them another listen when I'm more focused."
-    n ""
+    n "Finisco qualche canzone corta per il gioco indie per cui mi hanno assunto, ma so già che dovrò ritornarci e ascoltarle con pià attenzione."
 
             
 # game/dominic.rpy:511
 translate italian dominic_ce34df72:
 
     # n "In the last couple hours before work, I decide to play around with a new track, trying to capture the essence of the tension from last night."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di giochicchiare un po' e lavorare a una nuova traccia, cercando di rendere la tensione di ieri sera."
 
             
 # game/dominic.rpy:512
 translate italian dominic_e4f0d27a:
 
     # n "It ends up as some dark, trip-hoppy piece with out-of-tune guitar and grungy synths. {w}Sounds like it'd be right at home in a vampire game, at least."
-    n ""
+    n "Finisce per essere un pezzo molto dark e trip-hop con una chitarra scordata e sinstetizzatore molto grunge. {w}Ci starebbe proprio bene in un giro di vampiri, per lo meno."
 
             
 # game/dominic.rpy:515
 translate italian dominic_c1f2238d:
 
     # n "I spend the rest of the day on a few commissions, my eyes glazing over a little as I color and shade in auto-pilot mode."
-    n ""
+    n "Passo il resto della giornata a lavorare a qualche lavoro commissionato, i miei occhi si velavano leggermente mentre coloravo e ombreggiavo praticamente con il pilota automatico."
 
             
 # game/dominic.rpy:517
 translate italian dominic_f98b33b3:
 
     # n "In the last couple hours before work, I decide to draw the new picture filling my head – a looming, shadowy figure in an alleyway."
-    n ""
+    n "Nelle ultime ore prima di andare a lavoro, decido di disegnare l'immagine che continuava a ronzarmi in testa, un'ora sagoma che si staglia sullo sfondo di un vicolo."
 
             
 # game/dominic.rpy:518
 translate italian dominic_e5562486:
 
     # n "I make sure the light is focused on the figure's bared teeth, using the memory of Rex's fangs as reference. {w}It turns out surprisingly well - almost {i}too{/i} well."
-    n ""
+    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è soprendentemento buono, forse anche{i}troppo{/i} buono."
 
             
 # game/dominic.rpy:525
 translate italian dominic_a6a1e4bb:
 
     # n "–When I get ready to leave, the sight of the darkening sky outside makes me tense."
-    n ""
+    n "Mentre mi preparo per andare a lavoro, la vista del cielo scuro fuori dalla finestra mi fa irrigidire."
 
             
 # game/dominic.rpy:527
 translate italian dominic_d452c94f:
 
     # n "I'd better hurry to the diner before it gets too late… and hope that Dominic keeps his word."
-    n ""
+    n "Sarà meglio che mi dia una mossa, meglio arrivare alla tavolacalda prima che si faccia troppo tardi... e speriamo che Dominic mantenga la sua parola."
 
             
 # game/dominic.rpy:531
 translate italian dominic_9a199308:
 
     # n "Luckily, nothing happens on the way to my shift, and I flick on the diner's lights with a sigh of relief."
-    n ""
+    n "Fortunatamente, non succede nulla per strada. Accendo le luci della tavolacaldo con un sospiro di sollievo."
 
             
 # game/dominic.rpy:542
 translate italian dominic_c5a690cf:
 
     # mcp "\"This crap is doing a real number on my stress levels, I'll say…\""
-    mcp ""
+    mcp "\"Queste stronzate stanno mettendo a dura prova i i miei nervi, devo dire...\""
 
             
 # game/dominic.rpy:543
 translate italian dominic_7e159a0f:
 
     # n "Muttering to myself, I switch the sign to \"Open\" after a little bit of prep work, and the night finally begins."
-    n ""
+    n "Borbottando da solo, giro il cartello verso \"Aperto\", dopo aver fatto qualche lavoretto preparativo, e la notte finalmente inizia."
 
             
 # game/dominic.rpy:551
 translate italian dominic_58c651c5:
 
     # u "\"Y-yeah, I'll have, uh… just the fries, uh, yeah…\""
-    u ""
+    u "\"S-sì- vorrei, uhm... solo delle patatine, uhm, sì...\""
 
             
 # game/dominic.rpy:553
 translate italian dominic_b224c099:
 
     # mc "\"Coming right up.\""
-    mc ""
+    mc "\"Arrivano subito.\""
 
             
 # game/dominic.rpy:555
 translate italian dominic_d92bbdef:
 
     # n "–Just the normal drunk customers."
-    n ""
+    n "-Solo i soliti clienti ubriachi."
 
             
 # game/dominic.rpy:556
 translate italian dominic_94713439:
 
     # u "\"Hey dude, can I get… an ice cream frothy… thing?\""
-    u ""
+    u "\"Hey amico, posso avere un... gelato frullato... quella roba lì?\""
 
             
 # game/dominic.rpy:559
 translate italian dominic_e3c04c17:
 
     # mc "\"…You mean a milkshake?\""
-    mc ""
+    mc "\"...intendi un frappè?\""
 
             
 # game/dominic.rpy:560
 translate italian dominic_28de0aca:
 
     # u "\"Yeah, dude, {i}milkshake!{/i} That's totally what I meant, how'd you know?\""
-    u ""
+    u "\"Esatto, amico, {i}frappè!{/i} È proprio quello che volevo dire, come facevi a saperlo?\""
 
             
 # game/dominic.rpy:564
 translate italian dominic_d4ca8061:
 
     # n "–Average, high-as-a-kite teenagers."
-    n ""
+    n "L'adolescente strafatto medio."
 
             
 # game/dominic.rpy:565
 translate italian dominic_b5bc11dc:
 
     # n "Nothing out of the ordinary… {w}not yet."
-    n ""
+    n "Niente di anormale...{w}per ora."
 
             
 # game/dominic.rpy:569
 translate italian dominic_19f09452:
 
     # n "Occasionally, I glimpse a shape moving outside the diner's windows, although it's probably just a random passerby."
-    n ""
+    n "Ogni tanto mi sembra di intravedere una sagoma muoversi fuori dalle finestre della tavola calda, ma probabilmente sono solo passanti."
 
             
 # game/dominic.rpy:571
 translate italian dominic_9d2dfccf:
 
     # n "…For some reason, though, I have an uneasy feeling."
-    n ""
+    n "...Eppure per qualche motivo, ho una brutta sensazione."
 
             
 # game/dominic.rpy:572
 translate italian dominic_21e86447:
 
     # n "It's like I'm being watched – and not in the comforting \"guardian angel\" way, either."
-    n ""
+    n "É come se qualcuno mi stesse osservando, e non nel confortante modo alla \"angelo custode\", fra l'altro."
 
             
 # game/dominic.rpy:578
 translate italian dominic_4f46a46b_2:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/dominic.rpy:581
 translate italian dominic_efe90e10:
 
     # n "At last, my shift comes to an end, but there's no sign of Dominic."
-    n ""
+    n "Finalmente, il mio turno finisci, ma nessun segno di Dominic."
 
             
 # game/dominic.rpy:584
 translate italian dominic_36f786cf:
 
     # n "I want to head home soon, but I really don't feel safe going outside…"
-    n ""
+    n "Vorrei andare a casa presto, ma non mi sento al sicuro all'dea di ucire..."
 
             
 # game/dominic.rpy:585
 translate italian dominic_21d31f99:
 
     # n "If worst comes to worst, maybe I can just sleep in the diner overnight. Storage crates don't make great pillows, but they're better than coffins."
-    n ""
+    n "Se dovesse succedere il peggio, magari potrei semplicmente passare la notte qui. Gli scatoloni del magazzino non sono proprio i cuscini migiori, ma sono meglio delle bare."
 
             
 # game/dominic.rpy:587
 translate italian dominic_8ed4cc7d:
 
     # n "I want to head home soon, but I wish I'd brought something to defend myself with."
-    n ""
+    n "Vorrei andare a casa presto, ma avrei voluto avere qualcosa per difendermi."
 
             
 # game/dominic.rpy:588
 translate italian dominic_0cc0742c:
 
     # n "Even though it'd probably be useless against creatures of that speed and strength… damn it, I shouldn't have thrown my old rosary away."
-    n ""
+    n "Anche se probabilmente sarebbe stato inutile contro crature così veloci e forti... cazzo, non avrei dovuto buttare il mio vecchio rosario."
 
             
 # game/dominic.rpy:595
 translate italian dominic_f6007deb:
 
     # mc "\"…!\""
-    mc ""
+    mc "\"…!\""
 
             
 # game/dominic.rpy:596
 translate italian dominic_97bb6e7d:
 
     # n "At that moment, the door swings open, and the sight of a new customer interrupts my thoughts."
-    n ""
+    n "In quel momento, la porta si spalanca, e la vista di un nuovo cliente interrompe i miei pensieri."
 
             
 # game/dominic.rpy:599
 translate italian dominic_c7f6121d:
 
     # mc "\"Hello! Welcome to the –\""
-    mc ""
+    mc "\"Ciao! Benvenuto al -\""
 
             
 # game/dominic.rpy:602
 translate italian dominic_0755f9ae:
 
     # mc "\"…Dominic?\""
-    mc ""
+    mc "\"...Dominic?\""
 
             
 # game/dominic.rpy:606
 translate italian dominic_f3bb733e:
 
     # n "Sure enough, the tall and intimidating figure before me is the same one I spoke to last night."
-    n ""
+    n "Di sicuro, la figura slanciata e minacciosa che mi sta davanti è la stessa con cui ho parlato ieri notte."
 
             
 # game/dominic.rpy:609
 translate italian dominic_d128dbc9:
 
     # n "When he sees my shocked reaction, however, Dominic's expression darkens somewhat."
-    n ""
+    n "Quando vede la mia risposta sbalordita, tuttavia, l'espressione di Dominic s'incupisce."
 
             
 # game/dominic.rpy:611
 translate italian dominic_255411e6:
 
     # d "\"Why do you look so surprised?\""
-    d ""
+    d "\"Perché sembri così sopreso?\""
 
             
 # game/dominic.rpy:612
 translate italian dominic_2686b731:
 
     # d "\"I told you I'd come.\""
-    d ""
+    d "\"Te l'avevo detto che sarei venuto.\""
 
             
 # game/dominic.rpy:613
 translate italian dominic_e2d7d8ed:
 
     # n "There's a very slight, wounded hint in his voice, as if my lack of trust makes him unhappy."
-    n ""
+    n "C'é un leggero acceno di dolore nella sua voce, come se la mia mancanza di fiducia lo intristisse."
 
             
 # game/dominic.rpy:619
 translate italian dominic_f62e9871:
 
     # mc "\"…I'm sorry. You were just a little late, so I was starting to get worried, that's all.\""
-    mc ""
+    mc "\"...Scusa. Eri un po' in ritardo, quindi stavo iniziando a preoccuparmi, tutto qui.\""
 
             
 # game/dominic.rpy:620
 translate italian dominic_1532cd29:
 
     # n "I mutter a reply under my breath, my cheeks growing a bit hot."
-    n ""
+    n "Mormoro una risposta sotto voce, le mie guance si arrossano leggermente."
 
             
 # game/dominic.rpy:623
 translate italian dominic_3af09d63:
 
     # mc "\"Sorry. I'm a bit too jaded to believe in knights in shining armor…\""
-    mc ""
+    mc "\"Scusa. Sono un po' troppo disillusso per crede nei cavalieri dall'armatura scintillante...\""
 
             
 # game/dominic.rpy:624
 translate italian dominic_d2cb4284:
 
     # mc "\"Although I guess I could make an exception for knights in baggy jackets.\""
-    mc ""
+    mc "\"Anche se potrei fare un'eccezione per i cavalieri in giacche oversize.\""
 
             
 # game/dominic.rpy:626
 translate italian dominic_893c6695:
 
     # n "Now I feel guilty for doubting him… even though I think it was pretty justified, all things considered."
-    n ""
+    n "Ora mi sento in colpa per vaer dubitato di lui... anche se penso fosse abbastanza giustificato, tutto sommato."
 
             
 # game/dominic.rpy:630
 translate italian dominic_c3affc68:
 
     # d "\"Are you ready to go?\""
-    d ""
+    d "\"Sei pronto per andare?\""
 
             
 # game/dominic.rpy:631
 translate italian dominic_46af41c5:
 
     # n "His eyes soften faintly after my apology, but there's still a tense look on his face."
-    n ""
+    n "I suoi occhi si addolciscono lievemente dopo le mie scuse, ma c'é ancora un'espresione tesa sul suo viso"
 
             
 # game/dominic.rpy:632
 translate italian dominic_451485b5:
 
     # n "He's probably thinking about what'll happen if we get caught by other vampires. {w}\nWell, he's not the only one who's worried."
-    n ""
+    n "Probabilmente sta pensando a cosa uccederebbe se venissimo beccati da altri vampiri.{w}\nBeh, non è l'unico a essere preoccupato."
 
             
 # game/dominic.rpy:635
 translate italian dominic_02121a9e:
 
     # mc "\"I'm ready. You want a cup of coffee or something before we leave?\""
-    mc ""
+    mc "\"Sono pronto. Vuoi una tazza di caffe o qualcos'altro prima di andare?\""
 
             
 # game/dominic.rpy:638
 translate italian dominic_93713ce6:
 
     # mc "\"It's not exactly… blood, or anything, but…\""
-    mc ""
+    mc "\"Non è proprio... sangue, ma...\""
 
             
 # game/dominic.rpy:640
 translate italian dominic_d39162ab:
 
     # n "Jeez, that sounded stupid. Should've just kept my mouth shut."
-    n ""
+    n "Cristo, che stupidaggini dico? Avrei dovuto tenere la bocca chiusa."
 
             
 # game/dominic.rpy:643
 translate italian dominic_d2ff25a8:
 
     # d "\"…I'm fine. Thanks.\""
-    d ""
+    d "\"...Sono a posto. Grazie.\""
 
             
 # game/dominic.rpy:644
 translate italian dominic_5bf7242c:
 
     # n "Dominic gazes at me for a moment, the corners of his lips curling ever so slightly upwards."
-    n ""
+    n "Dominic mi guarda per qualche istante, gli angoli della sua bocca s'inarcano quasi impercettibilmente verso l'alto."
 
             
 # game/dominic.rpy:650
 translate italian dominic_753dc096:
 
     # n "Then, he turns towards the door, beckoning for me to follow."
-    n ""
+    n "Poi, si volta verso la porta, facendomi cenno di seguirlo."
 
             
 # game/dominic.rpy:654
 translate italian dominic_d23299fe:
 
     # n "After I grab my things, we head outside onto the dark street."
-    n ""
+    n "Dopo aver afferrato le mie cose, usciamo nella strada notturna."
 
             
 # game/dominic.rpy:665
 translate italian dominic_6070062c:
 
     # n "It's pretty deserted this time of night, so the only people on the sidewalk are me and Dominic."
-    n ""
+    n "É piuttosto deserta a quest'ora della notte, quindi le uniche persone sul marciapiede siamo io e Dominic."
 
             
 # game/dominic.rpy:666
 translate italian dominic_cb894bc4:
 
     # n "He moves at a pretty fast clip, his eyes darting around us warily, flicking towards any kind of movement – whether it's a stray moth or a fluttering plastic bag."
-    n ""
+    n "Si muove con un passo davvero veloce, i suoi occhi guizzano da una parte all'altra cautela, spostandosi ad ogni tipo di movimento - che sia una falena o una busta di plastica volante."
 
             
 # game/dominic.rpy:668
 translate italian dominic_55bb49d0:
 
     # n "I can't help but notice how close he is to my side, too. {w}His arm brushes against mine every couple of seconds."
-    n ""
+    n "Nono posso fare a meno di notare quanto mi sia vicino, fra l'altro. {w}Il suo braccio sfiora continuamente il mio."
 
             
 # game/dominic.rpy:670
 translate italian dominic_82d81b06:
 
     # n "A little embarrassed, I shift a couple inches away, but he ends up closing the gap again a few moments later."
-    n ""
+    n "Un po' imnarazzato, mi sposto di qualche centimetro più lontando, ma lui ricuce la distanza solo qualche secondo dopo."
 
             
 # game/dominic.rpy:673
 translate italian dominic_5c714bce:
 
     # dp "\"You're gonna fall off the sidewalk.\""
-    dp ""
+    dp "\"Finirai per cadere dal marciapiede.\""
 
             
 # game/dominic.rpy:676
 translate italian dominic_d20d0a43:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"...!\""
 
             
 # game/dominic.rpy:677
 translate italian dominic_33d09888:
 
     # n "At his amused comment, I realize I've drifted so close to the curb that I'm almost in the street."
-    n ""
+    n "A questo commento diverito, mi rendo contro di essermi avvicianto così tanto al bordo che sono praticamente in strada."
 
             
 # game/dominic.rpy:682
 translate italian dominic_4f46a46b_3:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/dominic.rpy:683
 translate italian dominic_6e1a4049:
 
     # n "Well, if I move any further to the right, I'll crash into his side!"
-    n ""
+    n "Beh, se vado anche solo qualche centimetro più a destra, mi schianto contor di lui!"
 
             
 # game/dominic.rpy:686
 translate italian dominic_60a50fdd:
 
     # mcp "\"Well, whose fault is that?\""
-    mcp ""
+    mcp "\"Beh, e di chi é la colpa?\""
 
             
 # game/dominic.rpy:687
 translate italian dominic_56a3b2b7:
 
     # n "This guy… he's got a mean sense of humor."
-    n ""
+    n "Questo tipo... ha uno strano senso dell'umorismo."
 
             
 # game/dominic.rpy:696
 translate italian dominic_685bc3aa:
 
     # mc "\"Ahem… So, do you have any family around San Fran?\""
-    mc ""
+    mc "\"Ahem... Allora, hai famiglia qui a San Fran?\""
 
             
 # game/dominic.rpy:700
 translate italian dominic_01baaab5_8:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:701
 translate italian dominic_6d98f01e:
 
     # n "When I try to change the subject, Dominic shoots me a sharp look."
-    n ""
+    n "Quando cerco di cambiare argomento, Dominic mi lancia uno sguardo tagliente."
 
             
 # game/dominic.rpy:702
 translate italian dominic_e1651eb2:
 
     # n "–Yeesh, did I stumble on a touchy topic?"
-    n ""
+    n "Uuh, ho toccato un nervo scoperto?"
 
             
 # game/dominic.rpy:706
 translate italian dominic_8755c460:
 
     # mc "\"…You don't have to answer if you don't want to.\""
-    mc ""
+    mc "\"...Non devi rispondere se non vuoi.\""
 
             
 # game/dominic.rpy:707
 translate italian dominic_679f7d52:
 
     # mc "\"I mean, it's gotta be complicated with the whole vampire thi–\""
-    mc ""
+    mc "\"Voglio dire, non deve essere facile tutta questa quesione dei vampir-"
 
             
 # game/dominic.rpy:710
 translate italian dominic_ffdedff5:
 
     # mc "\"…I didn't mean to pry, sorry.\""
-    mc ""
+    mc "\"...Non volevo farmi gli affari tuoi, scusa.\""
 
             
 # game/dominic.rpy:711
 translate italian dominic_e18fa27c:
 
     # mc "\"I was just curious about what your life is like, considering you're–\""
-    mc ""
+    mc "\"Ero solo curioso di sapere come funziona la tua vita, visto che sei-\""
 
             
 # game/dominic.rpy:713
 translate italian dominic_dfe7befc:
 
     # d "\"East Coast.\""
-    d ""
+    d "\"East Cost.\""
 
             
 # game/dominic.rpy:716
 translate italian dominic_598eca71:
 
     # mc "\"…?\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:718
