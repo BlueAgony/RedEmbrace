@@ -3005,315 +3005,315 @@ translate italian dominic_a4c27532:
 translate italian strings:
 
     old "Let him drink from me"
-    new ""
+    new "Lascialo bere da me"
     
                 
 # game/dominic.rpy:1167
 translate italian strings:
 
     old "Refuse"
-    new ""
+    new "Rifiuta"
     
                 
 # game/dominic.rpy:1173
 translate italian dominic_fda74019:
 
     # mcp "\"If – If you'd like, sure, I guess.\""
-    mcp ""
+    mcp "\"Se - se vuoi, certo, credo.\""
 
             
 # game/dominic.rpy:1174
 translate italian dominic_daa0f237:
 
     # n "The words spill out before I can stop them."
-    n ""
+    n "Le parole mi sfuggono dalla bocca prima che io possa sentirle."
 
             
 # game/dominic.rpy:1177
 translate italian dominic_536809de:
 
     # mcp "\"Well, I'm a little curious about it, I'll admit…\""
-    mcp ""
+    mcp "\"Beh, sono un po' curioso, devo ammetterlo..."
 
             
 # game/dominic.rpy:1178
 translate italian dominic_0a1012b6:
 
     # mcp "\"Just don't drain me dry, okay? That would be a shitty first date.\""
-    mcp ""
+    mcp "\"Solo, non dissanguarmi, ok? Sarebbe proprio un primo appuntamento del cazzo.\""
 
             
 # game/dominic.rpy:1181
 translate italian dominic_01baaab5_11:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:1182
 translate italian dominic_1dc4b194:
 
     # n "For a split second, Dominic looks shocked – like he wasn't even expecting an answer."
-    n ""
+    n "Per un millesimo di secondo, Dominic sembrava shockato - come se non si aspettasse neanche che rispondessi."
 
             
 # game/dominic.rpy:1189
 translate italian dominic_ee38eb48:
 
     # n "But before I know it, he reaches out to grab me, tugging my body tightly against his chest."
-    n ""
+    n "Ma prima che potessi accorgermene, mi afferra e preme forte il mio corpo contro il suo petto."
 
             
 # game/dominic.rpy:1190
 translate italian dominic_f6007deb_2:
 
     # mc "\"…!\""
-    mc ""
+    mc "\"...!\""
 
             
 # game/dominic.rpy:1192
 translate italian dominic_b0af4504:
 
     # d "\"Just relax.\""
-    d ""
+    d "\"Rilassati.\""
 
             
 # game/dominic.rpy:1194
 translate italian dominic_1cbd69b1:
 
     # n "His hot whisper fills my ear, and as if he'd just flipped a switch, my anxiety starts to fade."
-    n ""
+    n "Il suo sussurro sexy mi riempe l'orecchio, e come se avesse appena spento un interruttore, la mia ansia inizia a svanire."
 
             
 # game/dominic.rpy:1196
 translate italian dominic_a1d33e38:
 
     # n "It gets hard to think about anything other than Dominic, and even when I close my eyes and tilt my head back, all I can envision is his eager gaze."
-    n ""
+    n "Diventa difficile pensare a qualcos'altro che non sia Dominic, e anche quando socchiudo gli occhi inclinando la testa all'indietro, tutto quello che riesco a vedere nella mia mente è il suo sguardo voglioso."
 
             
 # game/dominic.rpy:1201
 translate italian dominic_62f3f1c9:
 
     # n "Something sharp starts to tease along my skin, dragging a line from my collar to the side of my neck."
-    n ""
+    n "Qualcosa di affilato inizia ad accarezzarmi la pelle, disegnando una linea dalla mia clavicola al collo."
 
             
 # game/dominic.rpy:1202
 translate italian dominic_a772a7f8:
 
     # n "I feel his wet tongue flickering out against a certain spot, followed by the brush of his lips."
-    n ""
+    n "Sento la sua lingua umida toccare un punto specifico, seguido dalle sue labbra che mi sfiorano."
 
             
 # game/dominic.rpy:1204
 translate italian dominic_9ba75aad:
 
     # n "Then, he pauses, and everything in the world seems to freeze for a moment…"
-    n ""
+    n "Poi, si ferma, e il mondo attorno a me sembra congelarsi per un attimo..."
 
             
 # game/dominic.rpy:1210
 translate italian dominic_c21b9b61:
 
     # mc "\"Nnh–!\""
-    mc ""
+    mc "\"Nnh-!\""
 
             
 # game/dominic.rpy:1212
 translate italian dominic_2f8aa95d:
 
     # n "A stabbing pain shoots through my body, making my eyes water and my stomach do an awful backflip."
-    n ""
+    n "Un dolore lancinante mi attraversa il corpo, facendomi venire le alcrime aglio e facendomi rivoltare lo stomaco."
 
             
 # game/dominic.rpy:1213
 translate italian dominic_81af8528:
 
     # n "My first instinct is to try and shove Dominic away, but I force myself to stay calm."
-    n ""
+    n "Il mio primo istinto è quello di provare a allontare Dominic, ma mi costringo a rimanere calmo."
 
             
 # game/dominic.rpy:1215
 translate italian dominic_6cb77635:
 
     # n "And then… {w}Bit by bit, the pain begins to sweeten."
-    n ""
+    n "E poi... {w}Piano piano, il dolore inizia ad addolcirsi."
 
             
 # game/dominic.rpy:1217
 translate italian dominic_01baaab5_12:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:1219
 translate italian dominic_870e3b95:
 
     # mc "\"A-aah… D-Dominic…\""
-    mc ""
+    mc "\"A-ah... Dominic...\""
 
             
 # game/dominic.rpy:1223
 translate italian dominic_fe409b6d:
 
     # n "As he holds me tightly in his arms, burying his face against my neck, I start to feel a little dizzy."
-    n ""
+    n "Mentre mi tiene stretto fra le sue braccia, nasconendo la sua faccia contro il mio collo, inizio a sentirmi un po' frastornato."
 
             
 # game/dominic.rpy:1224
 translate italian dominic_d983a031:
 
     # n "My skin's growing hotter and hotter, and an unusual heat bubbles at the base of my spine."
-    n ""
+    n "La mia pelle diventa sempre più calda, e sento un'insolita bolla di calore alla base della mia spina dorsale."
 
             
 # game/dominic.rpy:1226
 translate italian dominic_9b702dc2:
 
     # d "\"…Sweet…\""
-    d ""
+    d "\"...Dolce...\""
 
             
 # game/dominic.rpy:1227
 translate italian dominic_528123f1:
 
     # n "Somehow, I manage to hear Dominic's low growl –{w} but it feels like his voice is almost coming from inside my mind."
-    n ""
+    n "In qualche modo, riesco a sentire il basso ringhiare di Dominic - {w} ma sembra che la sua voce venga quasi dalla mia mente stessa."
 
             
 # game/dominic.rpy:1231
 translate italian dominic_c5bfd249:
 
     # n "The pounding bass fades far into the distance, as all I can hear and feel is Dominic, his fangs buried in me as he suckles hungrily at my flesh."
-    n ""
+    n "I bassi martellanti svaniscono, distanti, e tutto quello che sento e percepisco è Dominic, i suoi canini affondati dentro di mentre succhia affamato dalla mia carne."
 
             
 # game/dominic.rpy:1233
 translate italian dominic_1115d26c:
 
     # mc "\"Mmh… haah…\""
-    mc ""
+    mc "\"Mmh... haah...\""
 
             
 # game/dominic.rpy:1235
 translate italian dominic_5b984d64:
 
     # n "This is complete surrender…{w} if he wanted to, he could drain me dry right now, and no one would notice – it's too dark and crowded."
-    n ""
+    n "Questa é una resa totale... {w} se volesse, potrebbe dissanguarmi adesso, e nessuno se ne accorgerebbe - é troppo buio e affolato."
 
             
 # game/dominic.rpy:1237
 translate italian dominic_6d39ca1b:
 
     # n "But I don't feel scared.{w} My heart's pounding a mile a minute, but all I can think of is giving myself to him…{w} more, more, more."
-    n ""
+    n "Ma non ho paura.{w} Il mio cuore batte all'impazzata, ma tutto quello a cui riesco a pensare e offrirmi a lui... {w}di più, di più, di più."
 
             
 # game/dominic.rpy:1242
 translate italian dominic_f4a67c64:
 
     # mc "\"Nn… aah…\""
-    mc ""
+    mc "\"Nn... aah...\""
 
             
 # game/dominic.rpy:1243
 translate italian dominic_05ef2790:
 
     # n "When Dominic finally pulls back, licking a red drop off his upper lip, I struggle to catch my breath."
-    n ""
+    n "Quando Dominic alla fine si ritira, leccando un goccia rossa dal suo labbro, faccio fatica a riprendere fiato."
 
             
 # game/dominic.rpy:1245
 translate italian dominic_d0f79fb6:
 
     # n "He must've noticed my reaction, because he gives me a long, feral smirk and brushes his fingertips against my throat."
-    n ""
+    n "Deve aver notato la mia reazione, perché mi offre un lungo sorriso feroce e mi accarezza il collo con le dita."
 
             
 # game/dominic.rpy:1247
 translate italian dominic_28666f11:
 
     # d "\"Was hard keeping ahold of myself.\""
-    d ""
+    d "\"Non è stato facile trattenermi.\""
 
             
 # game/dominic.rpy:1248
 translate italian dominic_ae68380f:
 
     # d "\"Especially with you squirming against me like that… Can't have been that bad for you, huh?\""
-    d ""
+    d "\"Specialmente con te che ti sdrusciavi su di me in quel modo... Non può essere stato così male neanche per te, eh?\""
 
             
 # game/dominic.rpy:1252
 translate italian dominic_4715dc33:
 
     # mc "\"Nnh… Shit…\""
-    mc ""
+    mc "\"Nnh.. Merda...\""
 
             
 # game/dominic.rpy:1253
 translate italian dominic_ff5d1257:
 
     # n "Acute embarrassment makes my lightheadedness vanish, and I know my face has to be the same color as a cherry."
-    n ""
+    n "Un forte imbarazzo fa scomparire il senso di stordimento nella mia testa, e so ch ela mia faccia é rossa come un peperone."
 
             
 # game/dominic.rpy:1256
 translate italian dominic_d62e2949:
 
     # mc "\"S-Sorry if I was jerking around or anything… I hope you got enough.\""
-    mc ""
+    mc "\"S-scusa se mi stavo dimenando o che... Spero tu abbia bevuto abbastanza.\""
 
             
 # game/dominic.rpy:1257
 translate italian dominic_04bcd2a9:
 
     # d "\"Not sure that's even possible.\""
-    d ""
+    d "\"Non sono nemmeno sicuro sia possibile.\""
 
             
 # game/dominic.rpy:1259
 translate italian dominic_2f973b50:
 
     # mc "\"D-Damn…\""
-    mc ""
+    mc "\"C-cazzo...\""
 
             
 # game/dominic.rpy:1260
 translate italian dominic_6b7ed11a:
 
     # mc "\"Go easier on me next time, asshole… you just about drained me dry.\""
-    mc ""
+    mc "\"Vacci più piano la prossima volta, stronzo... mi hai quasi prosciugato.\""
 
             
 # game/dominic.rpy:1262
 translate italian dominic_8f74754d:
 
     # d "\"Yeah? You didn't seem to mind.\""
-    d ""
+    d "\"Ah sì? Non mi sembrava ti stesse dando fastidio.\""
 
             
 # game/dominic.rpy:1264
 translate italian dominic_35a28d4c_6:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:1277
 translate italian dominic_1d2863e0:
 
     # n "As the last traces of that incredible sensation gradually fade away, I can't help but feel happy at Dominic's reaction."
-    n ""
+    n "Mentre le ultime tracce di quell'incredibile sensazione svaniscono gradualmente, non posso fare a meno di sentirmi felice per la reazione di Dominic."
 
             
 # game/dominic.rpy:1278
 translate italian dominic_43ab7191:
 
     # n "He pulls me into another dance, and I notice his eyes are burning brighter – his usual cool expression now warm and eager."
-    n ""
+    n "Mi tira in un altro ballo, e noto che i suoi occhi sono più luminosi - la sua solita espressione rilassata, ora é calda e entusiasta."
 
             
 # game/dominic.rpy:1280
