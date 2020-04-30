@@ -3320,231 +3320,231 @@ translate italian dominic_43ab7191:
 translate italian dominic_b8e598d9:
 
     # n "Even his skin feels a little hot, like part of him's alive again… {w}and there's something strangely bittersweet about that thought."
-    n ""
+    n "Persino la sua pelle sembra un po' più calda, come se una parte di li fosse di nuovo viva...{w}questo pensiero mi lascia un sensazione stranamente agrodole."
 
             
 # game/dominic.rpy:1287
 translate italian dominic_1fa40e74:
 
     # n "I shake my head apologetically."
-    n ""
+    n "Scuoto la testa in segno di scusa."
 
             
 # game/dominic.rpy:1288
 translate italian dominic_98be8986:
 
     # n "As much as I'd like to, it simply feels too unnatural…{w} and I can't just put my life in someone else's hands."
-    n ""
+    n "Per quanto io voglia, è troppo innaturale...{w} e non posso mettere la mia vita nelle mani di qualcun altro."
 
             
 # game/dominic.rpy:1291
 translate italian dominic_5c8bf12a:
 
     # n "Dominic seems slightly disappointed, but he shrugs playfully, as if to say it's no big deal."
-    n ""
+    n "Dominic sembra un po' deluso, ma scuote le spalle, come per dire che non fa nulla."
 
             
 # game/dominic.rpy:1292
 translate italian dominic_34dc0c8a:
 
     # n "He keeps holding me loosely, and I feel relieved that he doesn't plan to take any blood by force."
-    n ""
+    n "Continua a tenermi senza stringermi, e sono sollevato al saere che non ha intenzione di prendere il mio sangue con la forza."
 
             
 # game/dominic.rpy:1294
 translate italian dominic_9f7907af:
 
     # n "But I'm silly for even thinking he would. He's a man, not a beast."
-    n ""
+    n "Ma sono uno sciocco solo a pensare che potrebbe. É un uomo, non una bestia."
 
             
 # game/dominic.rpy:1299
 translate italian dominic_54f6796a:
 
     # n "–We dance for what feels like hours afterwards, though at the same time, it passes in the blink of an eye."
-    n ""
+    n "Balliamo per quelle che sembrano ore e ore, anche se allo stesso tempo, passano in un batter d'occhio."
 
             
 # game/dominic.rpy:1300
 translate italian dominic_959df79f:
 
     # n "When I start to get a little tired, I lean against Dominic's chest, and a pleased smile briefly curls on his lips."
-    n ""
+    n "Quando inizio a sentirmi un po' stanco, mi appoggio al petto di Dominic, e un sorriso compiacuto gli si dipinge in viso."
 
             
 # game/dominic.rpy:1304
 translate italian dominic_b23a767b:
 
     # n "Finally, just as it's getting close to dawn, we reluctantly separate and make our way to the exit."
-    n ""
+    n "Alla fine, si fa quasi l'alba. Controvoglia, ci separiamo e ci facciamo strada verso l'uscita."
 
             
 # game/dominic.rpy:1318
 translate italian dominic_01baaab5_13:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:1320
 translate italian dominic_35a28d4c_7:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:1322
 translate italian dominic_9ba745c1:
 
     # n "It's still dark when we emerge on the street, although probably not for much longer."
-    n ""
+    n "É ancora buio quando emergiamo sulla strada, anche se non per molto ancora."
 
             
 # game/dominic.rpy:1323
 translate italian dominic_7ccb9bca:
 
     # n "With the music now muffled by concrete walls, an awkward silence drifts between us."
-    n ""
+    n "Con la musica ovattata dai muri di cemento, un silenzio imbarzzante si insedia fra di noi."
 
             
 # game/dominic.rpy:1326
 translate italian dominic_ea640a5d:
 
     # d "\"…Let's go.\""
-    d ""
+    d "\"...Andiamo via.\""
 
             
 # game/dominic.rpy:1329
 translate italian dominic_598aac73:
 
     # mc "\"…Right.\""
-    mc ""
+    mc "\"...Sì.\""
 
             
 # game/dominic.rpy:1336
 translate italian dominic_8a737ff7:
 
     # n "–Shit, I entirely forgot that he was supposed to be taking me home."
-    n ""
+    n "Cazzo, mi ero completamento dimenticato che mi doveva riportare a casa."
 
             
 # game/dominic.rpy:1337
 translate italian dominic_657f714f:
 
     # n "That was the whole point of meeting up, wasn't it? {w}So how did {i}that{/i} just happen?"
-    n ""
+    n "Era il punto del nostro incontro, no? {w}Allora come è potuto succedere {i}quella{/i} roba?"
 
             
 # game/dominic.rpy:1345
 translate italian dominic_735cf5fb:
 
     # n "I bite my lip as we head down the sidewalk again, but Dominic seems completely at ease."
-    n ""
+    n "Mi mordicchio il labbrom entre ci incamminiamo lungo il marciapiede, anche se Dominic sembra completamente a suo agio."
 
             
 # game/dominic.rpy:1347
 translate italian dominic_ece76741:
 
     # n "This guy… I guess he's not even worried that the other vampires will come after us.\n{w}Am I the weird one for being so flustered about everything?"
-    n ""
+    n "Questo ragazzo... Scommetto che non è nemmeno preoccpato che altri vampiri possano venire a cercarci. \n{w}Sono io strano che sono completamento scombussolato da tutto quello che è successo?"
 
             
 # game/dominic.rpy:1353
 translate italian dominic_b548dc9c:
 
     # n "We end up making it to my apartment building without any incident."
-    n ""
+    n "Riusciamo a raggiungere il mio appartamento senza alcun incidente."
 
             
 # game/dominic.rpy:1359
 translate italian dominic_041633c4:
 
     # n "When we reach the door, Dominic stops, so I come to a halt in front of him."
-    n ""
+    n "Quando arriviamo alla porta, Dominic si ferma, e io faccio lo stesso davanti a lui."
 
             
 # game/dominic.rpy:1362
 translate italian dominic_45159fa8:
 
     # mcp "\"Er… thanks.\""
-    mcp ""
+    mcp "\"Er… Grazie.\""
 
             
 # game/dominic.rpy:1365
 translate italian dominic_ca5e8b26:
 
     # d "\"It's fine.\""
-    d ""
+    d "\"Nessun problema.\""
 
             
 # game/dominic.rpy:1369
 translate italian dominic_d4b13727:
 
     # n "With that casual response, he starts to turn away."
-    n ""
+    n "Con quella risposta rilassata, inizia a voltarsi per andare via."
 
             
 # game/dominic.rpy:1372
 translate italian dominic_55806c53:
 
     # mcp "\"Hey, wait–!\""
-    mcp ""
+    mcp "\"Hey, aspetta-!\""
 
             
 # game/dominic.rpy:1377
 translate italian dominic_5f1ed69b:
 
     # n "When I hastily call out to him, Dominic pauses to look back at me."
-    n ""
+    n "Quando lo richiamo avventatamente, Dominic si ferma a guardarmi."
 
             
 # game/dominic.rpy:1380
 translate italian dominic_68e006ee:
 
     # mcp "\"…Are you…\""
-    mcp ""
+    mcp "\"...Hai...\""
 
             
 # game/dominic.rpy:1383
 translate italian dominic_a940f0b3:
 
     # mcp "\"Were you planning on coming back to the diner tomorrow night?\""
-    mcp ""
+    mcp "\"Hai intendione di tornare alla tavola calda domani notte?\""
 
             
 # game/dominic.rpy:1385
 translate italian dominic_47b624e8:
 
     # mcp "\"You don't have to, or anything, but…\""
-    mcp ""
+    mcp "\"Non devi, eh, ma...\""
 
             
 # game/dominic.rpy:1388
 translate italian dominic_02ac56b8:
 
     # n "He tilts his head to one side, quirking an eyebrow slightly."
-    n ""
+    n "Inclina la testa a un lato, sollevando leggermente un sopracciglio."
 
             
 # game/dominic.rpy:1390
 translate italian dominic_73f16a06:
 
     # d "\"I said I'd help you, didn't I?\""
-    d ""
+    d "\"Ti ho detto che ti avrei aiutato, no?\""
 
             
 # game/dominic.rpy:1391
 translate italian dominic_f891a2b9:
 
     # n "He sounds puzzled, as if that was only something natural."
-    n ""
+    n "Sebrava confuso, come se fosse scontato."
 
             
 # game/dominic.rpy:1392
 translate italian dominic_29383c5c:
 
     # n "It probably sounds like I'm questioning his kindness, but after tonight's chase, I wouldn't blame him for wanting to keep his distance."
-    n ""
+    n "Probabilemente sembra che sto cercando di mettere alla prova la sua gentilezza, ma dopo l'inseguimento di stanotte, non lo biasimerei se volesse mantenere le distanze."
 
             
 # game/dominic.rpy:1395
