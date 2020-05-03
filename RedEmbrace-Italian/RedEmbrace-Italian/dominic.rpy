@@ -5825,406 +5825,406 @@ translate italian dom_two_633afccf:
 translate italian dom_two_37f51e34:
 
     # n "Ashamed of my own cheesy words, however honest they are, I bow my head slightly."
-    n ""
+    n "Vergonandomi delle mie stesse parole smielate, per quanto oneste, inclino la testa verso il pavimento."
 
             
 # game/dominic.rpy:2301
 translate italian dom_two_1feefa32:
 
     # dp "\"…\""
-    dp ""
+    dp "\"...\""
 
             
 # game/dominic.rpy:2303
 translate italian dom_two_68ea4321:
 
     # n "Although I avoid looking at Dom's face, I get the sense that he's smiling."
-    n ""
+    n "Nonostane stia evitando di guardare il suo viso, sento che Dom sta sorridendo."
 
             
 # game/dominic.rpy:2304
 translate italian dom_two_14bde7f3:
 
     # n "My heart leaps up again, and I barely resist the urge to bury my face against his shoulder."
-    n ""
+    n "Il mio cuore manca un babbito, e riesco a malapena a resistere all'istinto di nascondere la mia faccia sulla sua spalla."
 
             
 # game/dominic.rpy:2309
 translate italian dom_two_38427867:
 
     # n "…But when I look at him next, his features have darkened again, and his arms squeeze protectively around me."
-    n ""
+    n "...Ma quando lo guardo, i tratti del suo viso si sono nuovamente incupiti, e le sue braccia mi stringono come per proteggermi."
 
             
 # game/dominic.rpy:2312
 translate italian dom_two_2c04a83b:
 
     # d "\"If you accept his offer, you have to make me a promise.\""
-    d ""
+    d "\"Se accetti l'offerta, dovrai promettermi una cosa.\""
 
             
 # game/dominic.rpy:2314
 translate italian dom_two_c3b45615:
 
     # mcp "\"…Oh? What's that?\""
-    mcp ""
+    mcp "\"...Oh, cosa?\""
 
             
 # game/dominic.rpy:2315
 translate italian dom_two_aab6e1d9:
 
     # n "The look in his eyes is so serious that I instinctively tense up a little."
-    n ""
+    n "Il suo sguardo è così serio che m'irrigidisco d'istinto."
 
             
 # game/dominic.rpy:2318
 translate italian dom_two_c80b8e34:
 
     # d "\"Don't accept the bite of anyone besides me. Don't let anyone else turn you.\""
-    d ""
+    d "\"Non accettare il morso di chiunque... solo il mio. Non lasciare che qualcun altro ti trasformi.\""
 
             
 # game/dominic.rpy:2321
 translate italian dom_two_3a77e02b:
 
     # d "\"Otherwise, something… might happen.\""
-    d ""
+    d "\"Altrimenti, potrebbe... succedere una cosa.\""
 
             
 # game/dominic.rpy:2322
 translate italian dom_two_d331bf6c:
 
     # n "Part of his words sound uncertain, but the hesitance in his voice makes me wonder if he's hiding something from me."
-    n ""
+    n "Parte delle sue parole suonano insicure, ma l'esitazione nella sau voce mi fa domandare se mi nasconde qualcosa."
 
             
 # game/dominic.rpy:2323
 translate italian dom_two_29b43603:
 
     # n "Earlier this week, he was talking about something different in my blood… could this be related to that?"
-    n ""
+    n "All'inizio della settimana, stava parlando di qualcosa di diverso nel mio sangue... potrebbe avere a che fare con questo?"
 
             
 # game/dominic.rpy:2324
 translate italian dom_two_8a9d36ca:
 
     # n "Bishop, too, mentioned the same thing – \"Strix,\" he called it."
-    n ""
+    n "Anche Bishop ha detto la stessa cosa -\"Strix,\" é così che mi ha chiamato."
 
             
 # game/dominic.rpy:2327
 translate italian dom_two_d0b5fff8:
 
     # d "\"Promise me, [mc].\""
-    d ""
+    d "\"Promettimelo, [mc].\""
 
             
 # game/dominic.rpy:2328
 translate italian dom_two_313e3b41:
 
     # n "Dom interrupts my thoughts with an urgent murmur, as if he's worried I might forget what he's saying."
-    n ""
+    n "Dom interrompe i miei pensieri con un sussurro pressante, come se fosse preoccupato che mi possa dimeticare quello che sta dicendo."
 
             
 # game/dominic.rpy:2331
 translate italian dom_two_18c2bf1a:
 
     # mcp "\"R-right, of course. I promise.\""
-    mcp ""
+    mcp "\"V- va bemne, certo. Te lo prometto.\""
 
             
 # game/dominic.rpy:2334
 translate italian dom_two_73261027:
 
     # n "My reply seems to set Dom somewhat at ease, and his impatient gaze softens."
-    n ""
+    n "La mia risposta sembra calmare Dom, e il suo sguardo impaziente si addolcisce."
 
             
 # game/dominic.rpy:2338
 translate italian dom_two_c40aa803:
 
     # n "Puzzled, I start to open my mouth to ask what's so important about accepting someone's bite –"
-    n ""
+    n "Confuso, faccio per aprire la bocca e chiedere perché é così importante accetare il morso di qualcuno -"
 
             
 # game/dominic.rpy:2342
 translate italian dom_two_36a7a87b:
 
     # mc "\"–!\""
-    mc ""
+    mc "\"-!\""
 
             
 # game/dominic.rpy:2343
 translate italian dom_two_bc926b15:
 
     # n "But at that moment, Dom presses his face towards mine."
-    n ""
+    n "Ma in quel momento, Dom spinge la sua faccia sulla mia."
 
             
 # game/dominic.rpy:2348
 translate italian dom_two_bd74582c:
 
     # n "It takes me a second to realize that his cool, soft lips are smashed against my own."
-    n ""
+    n "Mi ci vuole un secondo a capire che le sue fredde e soffici labbra sono appiccicate alle mie."
 
             
 # game/dominic.rpy:2349
 translate italian dom_two_c5f26fcb:
 
     # n "But it takes even less time for me to realize that I don't mind, not one bit."
-    n ""
+    n "Ma mi ci vuole ancora meno tempo a rendermi conto che non mi da fastidio, neanche un po'."
 
             
 # game/dominic.rpy:2351
 translate italian dom_two_e4092248:
 
     # mc "\"…mh…\""
-    mc ""
+    mc "\"...mh...\""
 
             
 # game/dominic.rpy:2352
 translate italian dom_two_28af617a:
 
     # n "I curl my arms around Dom, pressing back tenderly into the kiss."
-    n ""
+    n "Circondo Dom con le mie braccia, restiduendo teneramente il bacio."
 
             
 # game/dominic.rpy:2353
 translate italian dom_two_e11c058c:
 
     # n "He pulls me down against him with an overwhelming rush of passion."
-    n ""
+    n "Mi tira verso di lui in un impeto di passione travolgente."
 
             
 # game/dominic.rpy:2355
 translate italian dom_two_c199263a:
 
     # d "\"Everything about you drives me wild…\""
-    d ""
+    d "\"Tutto di te mi fa impazzire...\""
 
             
 # game/dominic.rpy:2356
 translate italian dom_two_360d2f19:
 
     # d "\"Your scent, your kindness, your pretty face… all of it.\""
-    d ""
+    d "\"Il tuo profumo, la tua gentilezza, il tuo bel visino... tutto.\""
 
             
 # game/dominic.rpy:2357
 translate italian dom_two_31e4cb22:
 
     # n "Dom breathes those low words against my skin, quickly sealing my lips again with another fierce, hungry kiss."
-    n ""
+    n "Dom sussurra quelle parole a bassa voce contro la mia pelle, sigillando nuovamente le mie labbra con un altro bacio rovente e avido."
 
             
 # game/dominic.rpy:2362
 translate italian dom_two_2996c48a:
 
     # n "His tongue insistently presses its way forward, and I let it tease inside my mouth, sliding along my own."
-    n ""
+    n "La sua lingua continua a premere insistentemente per entrare, e la lascio scivolare e giocare nella mia bocca."
 
             
 # game/dominic.rpy:2363
 translate italian dom_two_9fa646f8:
 
     # n "There's a sweetly smoky taste on his breath, tingling my senses delightfully as our tongues dance and twirl together."
-    n ""
+    n "Il suo alito ha un sapore dolciastro e affumicato e la cosa mi solletica piacevolmente i sensi menre le nostre lingue danzano e vorticano insieme."
 
             
 # game/dominic.rpy:2365
 translate italian dom_two_fdb40727:
 
     # mc "\"Dom…\""
-    mc ""
+    mc "\"Dom...\""
 
             
 # game/dominic.rpy:2366
 translate italian dom_two_fbe13a97:
 
     # n "I let out a soft whimper when his hand slips under my shirt, drifting across my skin."
-    n ""
+    n "Mi lascio scappare un tenero piagnucolio mentre fa scivolare una mano sotto la mia maglietta, accarezzandomi la pelle."
 
             
 # game/dominic.rpy:2367
 translate italian dom_two_7a04f655:
 
     # n "When he captures my bottom lip between his fangs and playfully nips it, a delicious tingle shoots down my spine, and I clutch onto him tighter."
-    n ""
+    n "Quando cattura il mio labbro fra i suo caninini e inizia a succhiarlo, un brivido meraviglioso mi scorre lungo la schiena e mi aggrappo a lui ancora più forte."
 
             
 # game/dominic.rpy:2368
 translate italian dom_two_ef60de08:
 
     # n "In those beautifully clear blue eyes, there's a heated glimmer that watches me longingly."
-    n ""
+    n "In quei bellissimo occhi blu, c'é un bagliore di passione che mi osserva desideroso."
 
             
 # game/dominic.rpy:2370
 translate italian dom_two_896a2ba8:
 
     # n "If only that gaze was fixed on me forever."
-    n ""
+    n "Se solo quello sguardo fosse fisso su di me per sempre."
 
             
 # game/dominic.rpy:2375
 translate italian dom_two_0e7a7203:
 
     # d "\"You're so warm… every inch of you…\""
-    d ""
+    d "\"Sei così caldo... ogni centimetro del tuo corpo...\""
 
             
 # game/dominic.rpy:2376
 translate italian dom_two_47cf906c:
 
     # n "He purrs out with a mixture of awe and delight, his cool fingers tracing up and down my spine."
-    n ""
+    n "Sussurra con un misto di sopresa e piacere, le sue dita fredde percorrendo su e già la mia schiena."
 
             
 # game/dominic.rpy:2377
 translate italian dom_two_4c496a30:
 
     # n "They explore all the curves and dips of my body, teasing around my hips, slipping around to my chest."
-    n ""
+    n "Esplorano tutte le curve e le fossette del mio corpo, stuzzicandomi i fianchi e scivolando sul mio petto."
 
             
 # game/dominic.rpy:2379
 translate italian dom_two_b5acfe18:
 
     # mc "\"Nnh… a-ah…\""
-    mc ""
+    mc "\"Nnh... a-ah...\""
 
             
 # game/dominic.rpy:2380
 translate italian dom_two_d38b9fb0:
 
     # mc "\"Well… what good is body heat if there's… no one to share it with?\""
-    mc ""
+    mc "\"Beh... a che serve il calore corporeo se... se non c'é nessuno con cui condividerlo?\""
 
             
 # game/dominic.rpy:2385
 translate italian dom_two_25d1f033:
 
     # n "I close my eyes, drowning in the sweetness of his tongue tracing the corners of my lips, while those large, gentle hands caress my entire figure."
-    n ""
+    n "Chiudo gli occhi, affogando nella dolcezza della sua lingua che accarezza gli ancoli delle mie labbra, mentre le sue gentili e grandi mani mi accarezzano tutto il corpo."
 
             
 # game/dominic.rpy:2387
 translate italian dom_two_f0f60422:
 
     # n "This rush of excitement –"
-    n ""
+    n "Quest'impto di passione -"
 
             
 # game/dominic.rpy:2388
 translate italian dom_two_1014209e:
 
     # extend " it's not just from physical stimulation."
-    extend ""
+    extend "non é dato solo dalla stimolazione fisica."
 
             
 # game/dominic.rpy:2389
 translate italian dom_two_c3ea44de:
 
     # n "It's a deep and comforting warmth, as if every ounce of tension's gone from my body."
-    n ""
+    n "É un calore profondo e confortante, come se ogni minima tensione abbia abbandonato il mio corpo."
 
             
 # game/dominic.rpy:2391
 translate italian dom_two_8adcfcf6:
 
     # n "I feel like I can entrust every part of myself to Dom, like I don't need to keep any secrets or hold anything back."
-    n ""
+    n "Mi sento di poter offrire qualcunque parte di me a Dom, come se non dovessi mantenere nessun segretto o trattenere qualcosa."
 
             
 # game/dominic.rpy:2393
 translate italian dom_two_03360592:
 
     # d "\"Please…\""
-    d ""
+    d "\"Ti prego...\""
 
             
 # game/dominic.rpy:2394
 translate italian dom_two_0c8272ce:
 
     # d "\"…Please stay with me, [mc].\""
-    d ""
+    d "\"...Ti prego, rimani con me, [mc].\""
 
             
 # game/dominic.rpy:2395
 translate italian dom_two_835add8d:
 
     # n "Dom whispers against my lips, his words so soft that I can barely hear them."
-    n ""
+    n "\"Dom sussurra sulle mie labbra, le sue parole sono così fioche da sentirle a malapena."
 
             
 # game/dominic.rpy:2397
 translate italian dom_two_eab6915d:
 
     # n "But the pleading tremble in his voice makes my chest ache, and I nuzzle against his cheek affectionately."
-    n ""
+    n "Ma il tremolio di supplica nella sua voce mi fa male al petto... Strofino teneramente il mio naso sulla sua guancia."
 
             
 # game/dominic.rpy:2399
 translate italian dom_two_eb2341b7:
 
     # mc "\"I will, Dom… no matter what happens.\""
-    mc ""
+    mc "\"Lo farò, Dom... succeda quel che succeda.\""
 
             
 # game/dominic.rpy:2401
 translate italian dom_two_01baaab5_2:
 
     # d "\"…\""
-    d ""
+    d "\"...\""
 
             
 # game/dominic.rpy:2402
 translate italian dom_two_f9986c9c:
 
     # n "He heatedly kisses me again as soon as I reply, like he's desperate to seal my promise into an unbreakable bond."
-    n ""
+    n "Mi travolge con un altro bacio subito dopo aver risposto, come se stesse disperatamente cercando di sigillare un patto indissolubile."
 
             
 # game/dominic.rpy:2403
 translate italian dom_two_b786e141:
 
     # n "I squeeze my arms around his neck, wanting to reassure him that I don't plan on letting him go anytime soon."
-    n ""
+    n "Gli stringo le mie braccia al collo, cercando di rassicurarlo e fargli capire che non ho intenzione di abbandonarlo a breve."
 
             
 # game/dominic.rpy:2407
 translate italian dom_two_ec8d3480:
 
     # n "The rest of the night becomes a blur after that, filled with so much passion that I can barely keep up."
-    n ""
+    n "Il resto della notte, dopo quel momento, é completamente sfocato, pieno di così tanta passione che riesco a malapena a stare al passo."
 
             
 # game/dominic.rpy:2409
 translate italian dom_two_6bfc4e78:
 
     # n "Finally, I drift off to sleep, intoxicated by Dom's scent and the comforting embrace of his arms."
-    n ""
+    n "Alla fine, mi addormento, intossicato dal profumo di DOm e dal suo confortante abbraccio."
 
             
 # game/dominic.rpy:2412
 translate italian dom_two_84a60d93:
 
     # n "The only thought in my mind is a desperate hope for this to last forever…"
-    n ""
+    n "L'unico pensiero nella mia mente é la disperata speranza che questo momento possa durare per sempre..."
 
             
 # game/dominic.rpy:2414
 translate italian dom_two_26565e27:
 
     # n "…And a prayer that I'll be strong enough to make the right choice."
-    n ""
+    n "...E una preghiera che io possa essere abbastanza forte da fare la scelta giusta."
 
             
 # game/dominic.rpy:2417
 translate italian dom_two_681d9b7c:
 
     # mc "\"Mmh…\""
-    mc ""
+    mc "\"Mmmh...\""
 
             
 # game/dominic.rpy:2419
