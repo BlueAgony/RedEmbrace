@@ -6231,434 +6231,434 @@ translate italian dom_two_681d9b7c:
 translate italian dom_two_710250d5:
 
     # n "I roll over in my bed, trying to curl up against Dom."
-    n ""
+    n "Mi rigiro nel letto, cercando di accoccolarmi vicino a Dom."
 
             
 # game/dominic.rpy:2421
 translate italian dom_two_598eca71:
 
     # mc "\"…?\""
-    mc ""
+    mc "\"...?\""
 
             
 # game/dominic.rpy:2423
 translate italian dom_two_db78dc93:
 
     # n "He's not here?"
-    n ""
+    n "Non é qui?"
 
             
 # game/dominic.rpy:2428
 translate italian dom_two_ac55cf8b:
 
     # n "When I sit up straight, I realize that sunlight's streaming faintly in through my apartment window."
-    n ""
+    n "Quando mi siedo, mi rendo contro che i raggi di sole stanno debolmente facendo copolineo dalla finestra."
 
             
 # game/dominic.rpy:2429
 translate italian dom_two_43ddeeac:
 
     # n "No sign of Dom, either. {w}He must've left before dawn."
-    n ""
+    n "Nessun segno di Dom. Dev'essersene andato prima dell'alba."
 
             
 # game/dominic.rpy:2431
 translate italian dom_two_bf452002:
 
     # mc "\"…Shit…\""
-    mc ""
+    mc "\"...Cazzo...\"
 
             
 # game/dominic.rpy:2432
 translate italian dom_two_8a4a4c5b:
 
     # n "The memories of last night flood back when an ache runs through my body."
-    n ""
+    n "I ricordi della notte scorsa mi inondano la mente, mentre mente un tagliente dolore mi attraversa il corpo."
 
             
 # game/dominic.rpy:2434
 translate italian dom_two_9f847541:
 
     # n "Ngh… he {i}is{/i} a monster in some ways, I'll give him that."
-    n ""
+    n "Nh... {i}é{/i} un mostro, in un certo senso, devo dirlo. "
 
             
 # game/dominic.rpy:2436
 translate italian dom_two_6fb40777:
 
     # mc "\"The sheets are gonna need to be changed… mmh, I'll do it later.\""
-    mc ""
+    mc "\"Le lenzuola sono da cambiare... mmh, lo farò più tardi.\""
 
             
 # game/dominic.rpy:2443
 translate italian dom_two_04537abc:
 
     # n "I roll out of bed and put on some coffee before settling down to work, all while wearing a happily sleep-deprived smile."
-    n ""
+    n "Rotolo giù dal letto e mi bevo una tazza di caffé, prima di mettermi a lavoro, facendo tutto con un sorriso felice e assonnato."
 
             
 # game/dominic.rpy:2446
 translate italian dom_two_8c776ee7:
 
     # n "As I write, though, my mind keeps drifting between Dom and Bishop."
-    n ""
+    n "Mentre scrivo, però, la mia mente continua a tornare su Dom e Bishop."
 
             
 # game/dominic.rpy:2450
 translate italian dom_two_730741e3:
 
     # n "The mood of the words I type grows steadily darker, like it's mirroring the uncertainty in my heart."
-    n ""
+    n "Il tono delle parole che scrivo devnta sempre più cupo, come se stesse riproducendo l'incertezza nel mio cuore."
 
             
 # game/dominic.rpy:2451
 translate italian dom_two_d84f8374:
 
     # n "I have to keep myself from turning my light-hearted romance commissions into horror stories… that'd be bad for business."
-    n ""
+    n "Devo fare attenzione a non trasformare il racconto felicemente romantico che mi hanno commissionato in una storia dell'orrore... non farebe bene agli affari."
 
             
 # game/dominic.rpy:2454
 translate italian dom_two_485ab8e9:
 
     # n "As I work on my newest composition, though, my mind keeps drifting between Dom and Bishop."
-    n ""
+    n "Mentre lavoro alla mia nuova composizione, la mia mente continua a tornare su Dom e Bishop."
 
             
 # game/dominic.rpy:2458
 translate italian dom_two_9e9b5954:
 
     # n "The tone of my piece grows steadily darker, like it's mirroring the uncertainty in my heart."
-    n ""
+    n "Il tono delle parole che scrivo devnta sempre più cupo, come se stesse riproducendo l'incertezza nel mio cuore."
 
             
 # game/dominic.rpy:2459
 translate italian dom_two_1d812f6e:
 
     # n "I have to actively focus to keep it from turning into something grim and moody, more fitting for a horror game than a fantasy one."
-    n ""
+    n "Devo concentrarmi atticamente per evitare di trasformarla in qualcosa di tetro e malinconico, più adatta a un gioco horror che a uno fantasy."
 
             
 # game/dominic.rpy:2463
 translate italian dom_two_837b0376:
 
     # n "As I work on my latest commission, though, my mind keeps drifting between Dom and Bishop."
-    n ""
+    n "Mentre lavoro alla mia ultima commissione, però, la mia mente continua a tornare su Dom e Bishop."
 
             
 # game/dominic.rpy:2467
 translate italian dom_two_0f4df056:
 
     # n "The colors of my drawing grow steadily darker, like they're mirroring the uncertainty in my heart."
-    n ""
+    n "I colori del mio disegno si fanno sempre più scuri, come se stessero riproducendo l'incertezza nel mio cuore."
 
             
 # game/dominic.rpy:2468
 translate italian dom_two_87e3caab:
 
     # n "I have to keep myself from adding grim shadows and moody lighting, otherwise this picture of a cute couple is gonna turn into a gothic metal album cover."
-    n ""
+    n "Devo trattenermi dall'aggiungere ombre tetre e luci malinconiche, altrimenti questio disegno di una tenera coppietta si trasformerà nella copertia di un album gothic metal."
 
             
 # game/dominic.rpy:2473
 translate italian dom_two_9b98dc3f:
 
     # n "Even as night draws close, and I head out on my way to work, I keep nervously weighing Bishop's offer in my head."
-    n ""
+    n "Anche mentre il buio avanza e esco per andare a lavoro, continuo a valutare nervosamente l'offerta di Bishop nella mia testa."
 
             
 # game/dominic.rpy:2479
 translate italian dom_two_8c2e5310:
 
     # n "How the hell am I supposed to make a decision like this in one day?"
-    n ""
+    n "Come diavolo dovrei prendere una decisione del genere in un giorno?"
 
             
 # game/dominic.rpy:2480
 translate italian dom_two_36af02be:
 
     # n "He gave me that ultimatum yesterday, so I guess he'll come seek me out tonight. {w}The very thought sends shivers down my spine."
-    n ""
+    n "Mi ha dato un ultimatum ieri, quindi presumo che verrà a cercarmi stanotte. {w}Il pensiero mi fa rabbrividire."
 
             
 # game/dominic.rpy:2481
 translate italian dom_two_eae0c9aa:
 
     # n "Bishop isn't outright aggressive like Rex, but he's ten times more unsettling – and radiates that frigid, intimidating aura that makes it hard to think straight."
-    n ""
+    n "Bishop non è apertamente aggressivo come Rex, ma è dieci volte più disturbante - irradia un aurea frigita e minacciosa che rende difficile persino pensare."
 
             
 # game/dominic.rpy:2483
 translate italian dom_two_7b0a34c4:
 
     # n "Damn it…{w} There's no easy way out of this, is there?"
-    n ""
+    n "Cazzo... {w}Non c'é una strada facile per uscire da questa questione, vero?"
 
             
 # game/dominic.rpy:2494
 translate italian dom_two_9a331280:
 
     # mc "\"Coffee? Sure, coming right up.\""
-    mc ""
+    mc "\"Caffé? Certo, arriva subito.\""
 
             
 # game/dominic.rpy:2495
 translate italian dom_two_74fd2558:
 
     # n "I put on a forced grin as I take a customer's order."
-    n ""
+    n "Metto su un sorriso forzato e prendo l'ordine del cliente."
 
             
 # game/dominic.rpy:2498
 translate italian dom_two_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/dominic.rpy:2508
 translate italian dom_two_66c89e86:
 
     # n "…When I start brewing a fresh pot, my mind flashes back to when Dom first came to this run-down place."
-    n ""
+    n "...Quando inizio a versare una tazza calda, la mia mente mi riporta alla prima volta in chui Dom é venuto in questo posto decadente."
 
             
 # game/dominic.rpy:2510
 translate italian dom_two_7b2d662c:
 
     # n "The way he seemed so confused about what to do… {w}I guess that'd happen if your diet doesn't normally include anything except blood, huh?"
-    n ""
+    n "Il modo in cui sembrava così confuso riguardo a cosa fare... {w}Immagino sia una cosa che può succedere quando la tua dieta consiste esclusicvamente di sangue, uh?"
 
             
 # game/dominic.rpy:2513
 translate italian dom_two_f9c054d1:
 
     # n "I think that was the moment I really started to fall head over heels for him and his cute, quiet ways."
-    n ""
+    n "Penso che quello sia stato il momento in cui ho iniziato a invaghirmi di lui e dei sui tenere modi pacati."
 
             
 # game/dominic.rpy:2524
 translate italian dom_two_cdfc7d31:
 
     # mc "\"…I have to do it.\""
-    mc ""
+    mc "\"...Devo farlo.\""
 
             
 # game/dominic.rpy:2526
 translate italian dom_two_c89551e8:
 
     # n "I mutter unconsciously to myself as I pour the black liquid into an empty mug."
-    n ""
+    n "Borbotto inconsciamente a me stesso mentre poggio la tazza ul bancone."
 
             
 # game/dominic.rpy:2530
 translate italian dom_two_91e04647:
 
     # n "I have to accept Bishop's offer… {w}I won't leave Dom alone."
-    n ""
+    n "Devo accettare l'offerta di Bishop... {w}Non lascerò solo Dom."
 
             
 # game/dominic.rpy:2536
 translate italian dom_two_28957468:
 
     # n "My determination grows stronger and stronger as my shift continues, and by closing time, I feel grimly confident."
-    n ""
+    n "La mia determinazione cresce man mano che il mio turno continua e, per l'ora di chiusura, mi sento tristemente sicuro di me."
 
             
 # game/dominic.rpy:2539
 translate italian dom_two_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/dominic.rpy:2541
 translate italian dom_two_b8d3d1ed:
 
     # n "–Why is Dom not showing up, though?"
-    n ""
+    n "Perché Dom non arriva?"
 
             
 # game/dominic.rpy:2542
 translate italian dom_two_fe8473ff:
 
     # n "He usually always walks through the door right now. {w}Did he get delayed?"
-    n ""
+    n "Di solito entrerebbe da quella porta proprio in questo momento. {w}Sarà in ritardo a causa di qualcosa?"
 
             
 # game/dominic.rpy:2547
 translate italian dom_two_9ddb89c7:
 
     # n "I lean against the counter to wait, drumming my fingers impatiently on the grimy surface."
-    n ""
+    n "Mi appoggio al bancone per aspettarlo, tamburellando impaziemente con le dita sulla superficie unta."
 
             
 # game/dominic.rpy:2549
 translate italian dom_two_4d0dd04e:
 
     # n "…But as time goes on, and there's no sign of Dom, a foreboding feeling sinks in my chest."
-    n ""
+    n "...Ma il tempo passsa, e non c'é traccia di Dom, un brutto presentimento mi attanaglia."
 
             
 # game/dominic.rpy:2552
 translate italian dom_two_fdb40727_1:
 
     # mc "\"Dom…\""
-    mc ""
+    mc "\"Dom...\""
 
             
 # game/dominic.rpy:2554
 translate italian dom_two_2bae6a50:
 
     # n "Damn it! Something must have happened to him…"
-    n ""
+    n "Cazzo! Dev'esserli successo qualcosa..."
 
             
 # game/dominic.rpy:2555
 translate italian dom_two_ba289ba1:
 
     # n "What if he's injured? {w}Or… what if he's trying to avoid me? That doesn't seem like him, but…"
-    n ""
+    n "E se fosse ferito? {w}O... se stesse cercando di evitarmi? Non é da lui, però... "
 
             
 # game/dominic.rpy:2558
 translate italian dom_two_72610377:
 
     # mc "\"The warehouse–!\""
-    mc ""
+    mc "\"-Il magazzino-!\""
 
             
 # game/dominic.rpy:2559
 translate italian dom_two_93330718:
 
     # n "If he's not here, then that's the only other place he could be."
-    n ""
+    n "Se non é qui, quello é l'unico altro posto dove potrebbe essere."
 
             
 # game/dominic.rpy:2564
 translate italian dom_two_a3bd4ed3:
 
     # n "Grabbing my keys, I rush out of the diner, only barely remembering to lock the door behind me."
-    n ""
+    n "Afferrando le mie chiavi, mi affretto ad uscire, quasi dimenticandomi di chiudere la porta a chiave."
 
             
 # game/dominic.rpy:2565
 translate italian dom_two_f58b83b3:
 
     # n "I dash down the empty street, tearing my way towards the warehouse as fast as I can."
-    n ""
+    n "Corro lungo la strada deserta, facendomi strada verso il magazzino più veloce che posso."
 
             
 # game/dominic.rpy:2567
 translate italian dom_two_f7042f93:
 
     # n "{i}Please be all right, please be all right…{/i}"
-    n ""
+    n "{i}Ti prego, fa che stia bene, ti prego, fa che stia bene...{/i}"
 
             
 # game/dominic.rpy:2568
 translate italian dom_two_0515aee8:
 
     # n "Repeating those words like a prayer, I run down the dark alleys as a cold sweat breaks out on my back."
-    n ""
+    n "Ripentendomi quella parole in testa come unmantra, mi precipito per i vicoli e inizio a sudare freddo."
 
             
 # game/dominic.rpy:2575
 translate italian dom_two_214ca275:
 
     # n "Finally, I arrive at the warehouse and frantically tear inside."
-    n ""
+    n "Finalmente, arrivo al magazzino e entro freneticamente."
 
             
 # game/dominic.rpy:2577
 translate italian dom_two_e5a8e972:
 
     # mcp "\"Dom!\""
-    mcp ""
+    mcp "\"Dom!\""
 
             
 # game/dominic.rpy:2578
 translate italian dom_two_763e4f16:
 
     # mcp "\"Dom, are you h–\""
-    mcp ""
+    mcp "\"Dom, sei q-\""
 
             
 # game/dominic.rpy:2579
 translate italian dom_two_fe941cdc:
 
     # u "\"[mc]!\""
-    u ""
+    u "\"[mc]!\""
 
             
 # game/dominic.rpy:2581
 translate italian dom_two_6857950e:
 
     # n "A pained voice calls out to me, and I freeze in my tracks."
-    n ""
+    n "Una voce sofferente mi chiama, e mi paralizzo sul posto."
 
             
 # game/dominic.rpy:2583
 translate italian dom_two_1ace3b7e:
 
     # u "\"Ah, you're late.\""
-    u ""
+    u "\"Ah, sei in ritardo.\""
 
             
 # game/dominic.rpy:2584
 translate italian dom_two_6f17ce5e:
 
     # u "\"I'm glad that you could make it, regardless.\""
-    u ""
+    u "\"Sono contento che sia riuscito a venire, tuttavia.\""
 
             
 # game/dominic.rpy:2592
 translate italian dom_two_1a364006:
 
     # n "Bishop steps from the shadows, approaching me with long, purposeful steps."
-    n ""
+    n "Bishop esce dall'ombra, avvicinandosi a passi lunghi e decisi."
 
             
 # game/dominic.rpy:2594
 translate italian dom_two_caa89e7c:
 
     # mcp "\"Bishop…?\""
-    mcp ""
+    mcp "\"Bishop...?\""
 
             
 # game/dominic.rpy:2597
 translate italian dom_two_c03b4fba:
 
     # mcp "\"Why are you… what's happening?\""
-    mcp ""
+    mcp "\"Che ci fai... che sta succedendo?\""
 
             
 # game/dominic.rpy:2610
 translate italian dom_two_0a60905c:
 
     # n "–Two large, heavily-built men are holding Dom in place, grasping onto his arms."
-    n ""
+    n "Due uomini grossi e massicci tengono fermo Dom, che si dimena fra le loro braccia."
 
             
 # game/dominic.rpy:2611
 translate italian dom_two_f7b579a1:
 
     # n "He struggles in their grip, but even his powerful physique is no match for two vampires – their fanged grins gives that much away."
-    n ""
+    n "Si contorce nella loro stretta, ma nemmeno il suo fisico forte riesce a combattere contro due vampiri - i loro sorrisi appuntiti me lo fanno capire."
 
             
 # game/dominic.rpy:2620
 translate italian dom_two_192dacf4:
 
     # b "\"I believe I explained this already, but our beloved Dominic here was – very knowingly – breaking the rules of our coven by playing around with a mortal.\""
-    b ""
+    b "\"Pensavo di averlo già spiegato, ma il nostro amato Dominic stava, perfettamente coscientemente, infrangendo le regole del nostro coven giocando con un mortale.\""
 
             
 # game/dominic.rpy:2621
 translate italian dom_two_476822ea:
 
     # b "\"He was evidently planning to escape with you tonight, despite being fully aware of the agreement we discussed…\""
-    b ""
+    b "\"Stava evidentemente pianificando di scappare con te stanotte, nonostante sia perfettamente al corrente dell'accordo di cui abbiamo parlato...\""
 
             
 # game/dominic.rpy:2628
