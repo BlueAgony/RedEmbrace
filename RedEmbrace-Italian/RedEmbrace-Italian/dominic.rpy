@@ -7869,6 +7869,6 @@ translate italian dom_good_cc72213f:
 translate italian dom_good_76ee8077:
 
     # n "…And I'll be damned if I ever go back on that promise."
-    n "...E che io sia dannato che mai mi dovessi rimangiare la mia parola."
+    n "...E che io sia dannato se mai mi dovessi rimangiare la mia parola."
 
             
