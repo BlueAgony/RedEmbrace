@@ -1206,7 +1206,7 @@ translate italian dominic_d7bc401d:
 translate italian dominic_26e9b4f0:
 
     # n "The early afternoon sun trickles into my apartment, fighting through storm clouds to arrive on my face."
-    n "Il sole del primo pomeriggio si affaccia alla finestra del mio appartamento, combattendo nuvole di tempesta per arrivarmi giusto in faccia.""
+    n "Il sole del primo pomeriggio si affaccia alla finestra del mio appartamento, combattendo nuvole di tempesta per arrivarmi giusto in faccia."
 
             
 # game/dominic.rpy:457
@@ -1409,7 +1409,7 @@ translate italian dominic_d452c94f:
 translate italian dominic_9a199308:
 
     # n "Luckily, nothing happens on the way to my shift, and I flick on the diner's lights with a sigh of relief."
-    n "Fortunatamente, non succede nulla per strada. Accendo le luci della tavolacaldo con un sospiro di sollievo."
+    n "Fortunatamente, non succede nulla per strada. Accendo le luci della tavola calda con un sospiro di sollievo."
 
             
 # game/dominic.rpy:542
