@@ -1522,462 +1522,462 @@ translate italian luka_35a28d4c_3:
 translate italian luka_2fbfc154:
 
     # n "A couple minutes before closing time, I moodily stare at the linoleum floor while wiping a glass."
-    n ""
+    n "Un paio di minuti prima di chiudere, mi ritrovo di cattivo umore a fissare il pavimento di linoleum mentre asciugo un bicchiere."
 
             
 # game/luka.rpy:609
 translate italian luka_8a4a31b5:
 
     # n "None of the people who came in here seemed like they were vampires, but then again, I never guessed Dominic was one either."
-    n ""
+    n "Nessuna delle persone che sono entrate mi è parsa essere un vampiro, però alla fine, neanche avrei mai pensato Dominic lo fosse."
 
             
 # game/luka.rpy:611
 translate italian luka_50641274:
 
     # n "At this rate, I'm gonna go paranoid and end up committed somewhere, seriously."
-    n ""
+    n "Di questo passo, diventerò paranoico e la finirò internato da qualche parte..."
 
             
 # game/luka.rpy:613
 translate italian luka_25fb8218:
 
     # u "\"Hey, diner guy. I'm here to get you.\""
-    u ""
+    u "\"Hey, ragazzo della tavola calda. Sono venuto a prenderti.\""
 
             
 # game/luka.rpy:615
 translate italian luka_0087f337:
 
     # mc "\"––!\""
-    mc ""
+    mc "\"--!\""
 
             
 # game/luka.rpy:618
 translate italian luka_f192dd70:
 
     # n "A familiar voice makes me sharply turn towards the door."
-    n ""
+    n "Una voce familiare mi fa voltare di scatto verso la porta."
 
             
 # game/luka.rpy:623
 translate italian luka_e0bc6002:
 
     # n "––When the hell did {i}he{/i} come in?"
-    n ""
+    n "--Quando diamine è entrato {i}lui{/i}?"
 
             
 # game/luka.rpy:626
 translate italian luka_68dfa11c:
 
     # l "\"Are you ready? I don't have all night.\""
-    l ""
+    l "\"Sei pronto? Non ho tuttal notte.\""
 
             
 # game/luka.rpy:630
 translate italian luka_e239cb01:
 
     # mcp "\"You sure you don't want a drink first? Have you gotten your sugar fix for today?\""
-    mcp ""
+    mcp "\"Sicuro di non voler bere qualcosa prima? Hai già avuto la tua dose di zucchero gioraliera?\""
 
             
 # game/luka.rpy:632
 translate italian luka_6c0a5f33:
 
     # l "\"Keep talking like that and I'm gonna leave, just watch!\""
-    l ""
+    l "\"Continua a parlami in quel modo e me ne vado, stanne certo!\""
 
             
 # game/luka.rpy:635
 translate italian luka_2cce311b:
 
     # mcp "\"You mean you didn't block out your schedule for me…?\""
-    mcp ""
+    mcp "\"Vuoi dirmi che non hai cancellato tutti i tuoi impegni per me...?\""
 
             
 # game/luka.rpy:637
 translate italian luka_e5dc0eb8:
 
     # mcp "\"I'm hurt, Luka.\""
-    mcp ""
+    mcp "\"Mi ferisci, Luka.\""
 
             
 # game/luka.rpy:640
 translate italian luka_4a997b95:
 
     # l "\"Uh-huh, I can tell.\""
-    l ""
+    l "\"Ah-ahn, lo vedo.\""
 
             
 # game/luka.rpy:642
 translate italian luka_0b70644d:
 
     # l "\"Could you quit whining and hurry up, maybe?\""
-    l ""
+    l "\"Puoi smetterla di piagnuolare e muoverti, magari?\""
 
             
 # game/luka.rpy:645
 translate italian luka_eb8301f0:
 
     # mcp "\"Right, right!\""
-    mcp ""
+    mcp "\"Giusto, arrivo!\""
 
             
 # game/luka.rpy:650
 translate italian luka_3f787226:
 
     # n "With an oddly excited feeling, I grab my keys and hurry over to Luka by the door."
-    n ""
+    n "Con una strana sensazione di eccitazione, aafferro le mie chiavi e mi affretto per raggiungere Luka sulla porta."
 
             
 # game/luka.rpy:652
 translate italian luka_5f0bccb4:
 
     # n "I still can't believe he really came… {w}but I'm kind of glad he did."
-    n ""
+    n "Ancora non riesco a credere che sia venuto...{w}ma sono quasi contento che l'abbia fatto."
 
             
 # game/luka.rpy:660
 translate italian luka_e6b54f2b:
 
     # n "We step outside together, and the cool night breeze brushes over my face."
-    n ""
+    n "Usciamo e la brezza fresca della notte mi solletiva il viso."
 
             
 # game/luka.rpy:661
 translate italian luka_215aacc8:
 
     # n "Luka sticks by my side as I start to head towards my apartment, staying fairly close even on the wide sidewalk."
-    n ""
+    n "Luka mi rimane accanto mentre inizio a fare strada verso il mio appartamento, standomi piuttosto vicino nonostante il marciapiede sia largo."
 
             
 # game/luka.rpy:664
 translate italian luka_94d20384:
 
     # lp "\"So… did you see anyone?\""
-    lp ""
+    lp "\"Allora... hai visto qualcuno?\""
 
             
 # game/luka.rpy:667
 translate italian luka_af32c5ae:
 
     # mcp "\"See anyone?… Oh, right.\""
-    mcp ""
+    mcp "\"Visto qualcuno?...Ah, sì, giusto.\""
 
             
 # game/luka.rpy:668
 translate italian luka_c0d2d488:
 
     # n "He wants to know if there were any vampires in the diner. {w}It didn't seem like the crowd was any different tonight, though."
-    n ""
+    n "Vuole sapere se sono venuti dei vampiri alla tavola calda stanotte.{w}Non mi sembrava che la clientela fosse diversa dal solito, però.{w}"
 
             
 # game/luka.rpy:670
 translate italian luka_9984777c:
 
     # mcp "\"Sorry, but no dice. Didn't even see anyone with sharp teeth.\""
-    mcp ""
+    mcp "\"Mi spiace, neanche uno. Non ho visto nessuno dai denti affilati.\""
 
             
 # game/luka.rpy:673
 translate italian luka_045e1235:
 
     # lp "\"Mmh…\""
-    lp ""
+    lp "\"Mmh...\""
 
             
 # game/luka.rpy:674
 translate italian luka_6edb7e6d:
 
     # n "Luka exhales a quiet, disappointed sigh, obviously not too pleased."
-    n ""
+    n "Luka sospira deluso, ovviamente non contento della notizia."
 
             
 # game/luka.rpy:676
 translate italian luka_02cc7906:
 
     # n "Why's he so invested in this, I wonder?"
-    n ""
+    n "Mi chiedo perché ci tenga così tanto."
 
             
 # game/luka.rpy:679
 translate italian luka_410b6a3f:
 
     # mcp "\"…Is there a reason you asked me to watch for vampires?\""
-    mcp ""
+    mcp "\"...C'è un motivo per cui mi hai chiesto di vedere se vengono vampiri?\""
 
             
 # game/luka.rpy:681
 translate italian luka_510e9717:
 
     # mcp "\"If you're working with Isaac, it can't be that hard to find them yourself, can it?\""
-    mcp ""
+    mcp "\"Se lavori per Isaac, non può essere così difficile trovarli per conto tuo, no?\""
 
             
 # game/luka.rpy:684
 translate italian luka_7f7cdb48_3:
 
     # lp "\"…\""
-    lp ""
+    lp "\"...\""
 
             
 # game/luka.rpy:693
 translate italian luka_5d12b34f:
 
     # n "Frowning, Luka turns his head towards me, eyes narrowed in suspicion."
-    n ""
+    n "CPn una smorfia, Luka sposta lo sguardo su di me, i suoi occhi socchiusi, sospettosi."
 
             
 # game/luka.rpy:694
 translate italian luka_76cdc816:
 
     # n "Uh-oh, is he going to snap at me again? This guy really has a hair-trigger temper, doesn't he?"
-    n ""
+    n "Oh-oh, sta per ringhiarmi di nuovo contro? Questo ragazzo scatta all'istante, eh?"
 
             
 # game/luka.rpy:697
 translate italian luka_81492eef:
 
     # l "\"Why do you care? It doesn't affect our deal, right?\""
-    l ""
+    l "\"Che te ne frega? Non ha niente a che fare col nosro accordo, giusto?\""
 
             
 # game/luka.rpy:699
 translate italian luka_4a20b39a:
 
     # n "His voice isn't sulky like normal –– instead, he sounds a little hesitant, almost defensive."
-    n ""
+    n "La sua voce non è imbronciata come al solito, al contrario, sembra un po' esitante, quasi sulla difensiva."
 
             
 # game/luka.rpy:702
 translate italian strings:
 
     old "I'm just curious"
-    new ""
+    new "Sono solo curioso"
     
                 
 # game/luka.rpy:702
 translate italian strings:
 
     old "I deserve to know, don't I?"
-    new ""
+    new "Ho il diritto di sapere, no?"
     
                 
 # game/luka.rpy:702
 translate italian strings:
 
     old "It's more about you than the deal (unlocked)"
-    new ""
+    new "Riguarda più te che l'accordo (sbloccato)"
     
                 
 # game/luka.rpy:702
 translate italian strings:
 
     old "It's more about you than the deal"
-    new ""
+    new "Riguarda più te che l'accordo (sbloccato)"
     
                 
 # game/luka.rpy:709
 translate italian luka_ask_cf3d5278:
 
     # mc "\"…I was just curious, that's all.\""
-    mc ""
+    mc "\"...Ero solo curioso, tutto qui.\""
 
             
 # game/luka.rpy:711
 translate italian luka_ask_677c9687:
 
     # mc "\"It seems important to you, so I'd like to know. I won't tease you about it, promise.\""
-    mc ""
+    mc "\"Sembra una cosa importante per te, quindi vorrei saperlo. Ma non ti prenderò in giro, promesso.\""
 
             
 # game/luka.rpy:713
 translate italian luka_ask_ee26616e:
 
     # n "I reach out to gently ruffle Luka's hair, and to my surprise, he doesn't duck away."
-    n ""
+    n "Allungo il braccio per arruffare teneramente i capelli di Luka che, con mia grande sopresa, non cerca nemmeno di schivarmi."
 
             
 # game/luka.rpy:715
 translate italian luka_ask_8e786e19:
 
     # l "\"Really?\""
-    l ""
+    l "\"Davvero?\""
 
             
 # game/luka.rpy:718
 translate italian luka_ask_85012d3a:
 
     # l "\"You were curious… about me?\""
-    l ""
+    l "\"Eri curioso... di me?\""
 
             
 # game/luka.rpy:720
 translate italian luka_ask_7149a235:
 
     # mc "\"Yeah. Weird, huh? Guess I just can't help myself.\""
-    mc ""
+    mc "\"Già. Strano, vero? Immagino di non poterne fare a meno.\""
 
             
 # game/luka.rpy:722
 translate italian luka_ask_4568790c:
 
     # l "\"…I thought you weren't gonna tease me.\""
-    l ""
+    l "...Pensavo che non mi avresti preso in giro.\""
 
             
 # game/luka.rpy:724
 translate italian luka_ask_a1429f5a:
 
     # mc "\"That one doesn't count, sorry.\""
-    mc ""
+    mc "\"Quella non conta, scusa.\""
 
             
 # game/luka.rpy:726
 translate italian luka_ask_9f3b1c53:
 
     # n "Luka rolls his eyes, but he smirks faintly for a few moments."
-    n ""
+    n "Luka gira gli occhi al cielo, ma sorride debolmene per qualche istante."
 
             
 # game/luka.rpy:729
 translate italian luka_ask_8cca27aa:
 
     # n "Then, his expression grows more serious again, and he lets out a quiet sigh."
-    n ""
+    n "Poi, la sua espressione si fa ancora più seria e lascia andare un lieve sospiro."
 
             
 # game/luka.rpy:736
 translate italian luka_ask_99d52781:
 
     # mc "\"…I deserve to know, don't I? After all, I'm the one doing your dirty work.\""
-    mc ""
+    mc "\"...Ho il diritto di sapere, no? Dopotutto, sono io quello che sta facendo il tuo lavoro sporco.\""
 
             
 # game/luka.rpy:737
 translate italian luka_ask_4eb48709:
 
     # n "A bit annoyed, I raise an eyebrow at Luka."
-    n ""
+    n "Un po' infastidito, sollevo un sopracciglio verso Luka."
 
             
 # game/luka.rpy:739
 translate italian luka_ask_118cf7e7:
 
     # mc "\"Don't get so up in arms about it.\""
-    mc ""
+    mc "\"Non incazzarti così.\""
 
             
 # game/luka.rpy:742
 translate italian luka_ask_71423380:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:743
 translate italian luka_ask_685ad121:
 
     # n "He averts his eyes, looking a bit like a scolded child."
-    n ""
+    n "Distoglie lo sguardo, apparendo come come un bambino appena rimproverato."
 
             
 # game/luka.rpy:750
 translate italian luka_ask_4ef5ba1d:
 
     # mc "\"…If I'm being honest, I'm asking because of you –– not the deal.\""
-    mc ""
+    mc "\"...Se devo essere sincero, te lo sto chiedendo per sapere di te - non c'entra niente con il patto.\""
 
             
 # game/luka.rpy:753
 translate italian luka_ask_71423380_1:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:754
 translate italian luka_ask_58b9b69a:
 
     # n "Luka narrows his eyes at me in a mixture of suspicion and confusion."
-    n ""
+    n "Luka socchiude gli occhi e mi osserva con un misto di sospetto e confusione."
 
             
 # game/luka.rpy:757
 translate italian luka_ask_a852b0a2:
 
     # mc "\"Hey, hey, don't give me that look. I think my curiosity's pretty justified.\""
-    mc ""
+    mc "\"Hey, hey, non guardarmi in quel modo. Credo che la mia curiosita sia piuttosto giustificata.\""
 
             
 # game/luka.rpy:759
 translate italian luka_ask_108bef7d:
 
     # mc "\"You barged your way into my life, and if you're here to stay, I'd like to know more about you… even if it's just a little bit.\""
-    mc ""
+    mc "\"Ti sei imbucato nella mia vita e se sei qui per rimanere, vorrei sapere qualcosa di più su di te... anche se solo qualcosina."
 
             
 # game/luka.rpy:761
 translate italian luka_ask_9a0de588:
 
     # n "I realize how cheesy my words sound after they leave my mouth, but they're completely true."
-    n ""
+    n "Mi rendo conto di quanto siano smielate le mie parole solo dopo che hanno lasciato la mia bocca, ma sono totalmente vere."
 
             
 # game/luka.rpy:762
 translate italian luka_ask_fd6c6972:
 
     # n "A certain protective feeling comes over me whenever I look at Luka. {w}I want to know what he's aiming for, since I don't want him to rush into anything stupid."
-    n ""
+    n "Un certo senso di protezione mi assale ogni volta che guardo Luka. {w}Voglio capire qual è il suo obbiettivo, visto che non voglio che faccai qualcosa di stupido."
 
             
 # game/luka.rpy:765
 translate italian luka_ask_7e2938db:
 
     # l "\"You're a really weird guy, [mc].\""
-    l ""
+    l "\"Sei proprio un tipo strano, [mc].\""
 
             
 # game/luka.rpy:768
 translate italian luka_ask_cd493e19:
 
     # l "\"Like… completely, hopelessly nuts.\""
-    l ""
+    l "\"Tipo... completamente pazzo, senza speranza proprio.\""
 
             
 # game/luka.rpy:769
 translate italian luka_ask_fd260091:
 
     # n "Although Luka rolls his eyes at me, an embarrassed smile warms his face."
-    n ""
+    n "Anche se Luka gira gli occhi al cielo, vedo un sorrisso imbarazzato risacaldare il suo viso."
 
             
 # game/luka.rpy:772
 translate italian luka_ask_a2407831:
 
     # n "He turns his head away to scratch at his cheek, pausing for a moment before he turns back to me."
-    n ""
+    n "Si volta per grattarsi una guancia, rimanendo in silenzio qualche secondo, prima di girarsi di nuovo verso di me."
 
             
 # game/luka.rpy:781
 translate italian luka_ask_cbac4274:
 
     # l "\"…I'm looking for someone.\""
-    l ""
+    l "\"...Sto cercando una persona.\""
 
             
 # game/luka.rpy:783
 translate italian luka_ask_ab308119:
 
     # l "\"I haven't been able to find them on my own, so I thought I'd ask you, since… you seem smart enough.\""
-    l ""
+    l "\"Non sono riuscita a trovarla da solo, quindi ho pensato di chiedere a te, visto che... sembri abbastanza sveglio.\""
 
             
 # game/luka.rpy:787
 translate italian luka_ask_1b75445b:
 
     # l "\"And… vampires like attractive humans, so… there's a chance they'd try to talk to you…\""
-    l ""
+    l "\"E... ai vampiri piacciono gli umani attraenti, quindi... c'è una buona probabilità che vengano a parlarti...\""
 
             
 # game/luka.rpy:789
