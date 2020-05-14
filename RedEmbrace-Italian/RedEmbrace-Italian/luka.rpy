@@ -5309,84 +5309,84 @@ translate italian luka_couch_886d33b2:
 translate italian luka_couch_a173133f:
 
     # n "But the blissful mood I'd been in after I kissed Luka quickly sinks down as I mull over Isaac's words."
-    n ""
+    n "Ma il gioioso stato d'animo che ho da quando ho baciato Luka affonda lentamente, mentre rimurgino sulle parole di Isaac."
 
             
 # game/luka.rpy:2141
 translate italian luka_couch_0189b83d:
 
     # n "For his own safety… {w}I should lie to him, right?"
-    n ""
+    n "Per la sua sicurezza...{w}Dovrei mentirgli, giusto?"
 
             
 # game/luka.rpy:2142
 translate italian luka_couch_43fe7c0a:
 
     # n "Even if he trusts me, and even if I promised to help him…"
-    n ""
+    n "Anche se si fida di me, e anche se ho promesso di aiutarlo..."
 
             
 # game/luka.rpy:2145
 translate italian luka_couch_fa58060f:
 
     # n "Maybe the truth isn't always the kindest thing to give."
-    n ""
+    n "Forse la verità non è sempre la cosa più buona da dire."
 
             
 # game/luka.rpy:2157
 translate italian luka_couch_2ad4b53b:
 
     # mc "\"Ngh… Man, I'm tired.\""
-    mc ""
+    mc "\"Ngh... Cavolo, sono distrutto.\""
 
             
 # game/luka.rpy:2159
 translate italian luka_couch_d842388c:
 
     # n "Earlier today, Luka called me to say Isaac's bringing him to some kind of meeting."
-    n ""
+    n "Prima Luka mi ha chiamato per dirmi che Isaac lo stava portando a una sorta di riunione."
 
             
 # game/luka.rpy:2160
 translate italian luka_couch_19efd626:
 
     # n "No one's bothered us these past few weeks, so I reassured Luka that I'd be fine for just one night by myself."
-    n ""
+    n "Nessuno ci ha dato fastidio nelle ultime settimane, quindi ho rassicurato Luka che me la sare cavato da solo per una notte."
 
             
 # game/luka.rpy:2162
 translate italian luka_couch_ac07b755:
 
     # n "I'll admit I'm a little disappointed, though.{w} It's been a couple days since we shared that kiss, and tonight, I was planning on asking him out more officially."
-    n ""
+    n "Ammetto di essere leggermente deluso, però.{w} É passato qualche giorno da quel bacio e, stanotte, avevo pianificato di chiedergli di uscire in maniera più ufficiale."
 
             
 # game/luka.rpy:2164
 translate italian luka_couch_93ed3922:
 
     # n "Guess it'll have to wait until tomorrow."
-    n ""
+    n "Immagino che dovrò aspettare a domani."
 
             
 # game/luka.rpy:2169
 translate italian luka_couch_f7b3e4ec:
 
     # n "Caught up in my own airy thoughts, I start to round the corner to my apartment ––"
-    n ""
+    n "Preso dai miei pensieri, svolto l'angolo del mio palazzo --"
 
             
 # game/luka.rpy:2171
 translate italian luka_couch_12b6d46e:
 
     # u "\"Hey.\""
-    u ""
+    u "\"Hey.\""
 
             
 # game/luka.rpy:2174
 translate italian luka_couch_d20d0a43_1:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"...!\""
 
             
 # game/luka.rpy:2176
