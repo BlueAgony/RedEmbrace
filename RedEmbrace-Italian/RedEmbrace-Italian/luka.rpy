@@ -4609,7 +4609,7 @@ translate italian luka_couch_fa4a86d9:
 translate italian luka_couch_3b6aa6a7:
 
     # n "I squeeze my arms around Luka's small, wiry body, enjoying his little show of affection while it lasts.{w} I can still hardly believe he worked up enough courage to hug me."
-    n "Stringo le braccia attorno al corpo esile e asciutto di Luka, godermi questa piccola dimostrazione d'affetto finché dura. Ancora non ci credo che è riusciuti a raccogliere abbastanza coraggio per abbracciarmi."
+    n "Stringo le braccia attorno al corpo esile e asciutto di Luka, godendomi questa piccola dimostrazione d'affetto finché dura. Ancora non ci credo che è riusciuti a raccogliere abbastanza coraggio per abbracciarmi."
 
             
 # game/luka.rpy:1856
