@@ -4553,7 +4553,7 @@ translate italian luka_couch_d4c1eb6a:
 translate italian luka_couch_152b3d20:
 
     # mcp "\"Don't worry, Luka. We'll find this piece of shit.\""
-    mcp "\"NOn preoccuparti, Luka. Troveremo quel pezzo di merda.""
+    mcp "\"Non preoccuparti, Luka. Troveremo quel pezzo di merda.""
 
             
 # game/luka.rpy:1831
@@ -4616,693 +4616,693 @@ translate italian luka_couch_3b6aa6a7:
 translate italian luka_couch_63bf90f5:
 
     # n "After a few moments, he pulls back just enough to tilt his head upwards, meeting my eyes."
-    n ""
+    n "Dopo qualche secondo, si allontana il tanto per alzare la testa verso di me, facendo incontrare i nostri sguardi."
 
             
 # game/luka.rpy:1859
 translate italian luka_couch_63fb6f1d:
 
     # mcp "\"What's up? Do I have something on my face?\""
-    mcp ""
+    mcp "\"Che c'è? Ho qualcosa in faccia?\""
 
             
 # game/luka.rpy:1862
 translate italian luka_couch_008b7420:
 
     # l "\"Tch…\""
-    l ""
+    l "\"Tzè...\""
 
             
 # game/luka.rpy:1865
 translate italian luka_couch_24fcb990:
 
     # l "\"I just think you're… pretty cool, is all.\""
-    l ""
+    l "\"Penso solo che... sei piuttosto figo, tutto qui.\""
 
             
 # game/luka.rpy:1868
 translate italian luka_couch_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/luka.rpy:1871
 translate italian luka_couch_4bb8e372:
 
     # l "\"Most guys would've freaked out when they realized vampires were real. But you barely batted an eye.\""
-    l ""
+    l "\"La maggior parte dei ragazzi sarebbe uscita di testa una volta resa conto che i vampiri sono veri. Ma tu hai a malapena battuto ciglio.\""
 
             
 # game/luka.rpy:1873
 translate italian luka_couch_2f265891:
 
     # l "\"I'm even asking you to help me hunt one down, and you're not scared… I can't tell if you're stupid, or just stupidly nice.\""
-    l ""
+    l "Ti sto persino chiedendo di aiutarmi a dare la caccia a uno di loro, e non hai paura... Non so se sei stupido o stupidamente carino.\""
 
             
 # game/luka.rpy:1875
 translate italian luka_couch_0a5fbb8f:
 
     # n "I don't really feel like I deserve the warm, admiring gaze he offers up towards me."
-    n ""
+    n "Non sento di meritarmi davvero lo sguardo caloroso e di ammirazione che mi rivolge."
 
             
 # game/luka.rpy:1877
 translate italian luka_couch_c9506766:
 
     # n "But seeing him so happy…{w} makes me wish that I could see that look more often."
-    n ""
+    n "Ma vederlo così felice...{w} mi fa venire voglia di vedere quello sguardo più spesso."
 
             
 # game/luka.rpy:1880
 translate italian luka_couch_5203f7bb:
 
     # l "\"Don't let it get to your head, okay? You're still an asshat.\""
-    l ""
+    l "\"Non montarti la testa, ok? Sei ancora un idiota.\""
 
             
 # game/luka.rpy:1882
 translate italian luka_couch_b61aedeb:
 
     # l "\"And if you think I'm gonna treat you to half-price coffee again, then you're out of your mind.\""
-    l ""
+    l "\"E se pensi che ti vizierò di nuovo con un caffé a metà prezzo, allora sei anche pazzo.\""
 
             
 # game/luka.rpy:1885
 translate italian luka_couch_7ae73830:
 
     # mcp "\"I'd never take advantage of your generous spirit like that.\""
-    mcp ""
+    mcp "\"Non mi aprofitterei mai di uno spirito generoso come te.\""
 
             
 # game/luka.rpy:1888
 translate italian luka_couch_4000481d:
 
     # mcp "\"Yeah? I dunno, I feel like you owe me at least that much.\""
-    mcp ""
+    mcp "\"Ah, sì? Non so, penso che mi devi almeno quello.\""
 
             
 # game/luka.rpy:1897
 translate italian luka_couch_37190151:
 
     # n "We end up lounging on the couch together until the sun goes down –– time always seems to fly when we're chatting or trading stupid insults with each other."
-    n ""
+    n "La finiamo sdraiati sul divano insieme fino al tramonto -- il tempo vola sempre quando chiacchieriamo o ci scambiano insulti stupidi."
 
             
 # game/luka.rpy:1898
 translate italian luka_couch_d83438f1:
 
     # n "Luka stays curled close to my side, nestling against my arm with a lazy smile hanging on his lips."
-    n ""
+    n "Luka rimane accoccolato al mio fianco, rannichiato al mio braccio e con un sorriso pigro sulle labbra."
 
             
 # game/luka.rpy:1900
 translate italian luka_couch_80dcdc97:
 
     # n "I wish we could stay like this all night, but…"
-    n ""
+    n "Vorrei potessi stare così tutta la notte, ma..."
 
             
 # game/luka.rpy:1911
 translate italian luka_couch_4a6a7ddc:
 
     # mc "\"I should probably start heading home, Luka. Need to get a few things before I start my shift.\""
-    mc ""
+    mc "\"Dovrei proprio tornare a casa, Luka. Devo prendere alcune cose prima di iniziare il mio turno.\""
 
             
 # game/luka.rpy:1912
 translate italian luka_couch_a7e5304e:
 
     # n "Finally, I gently disentangle myself and stand up, offering Luka a hand."
-    n ""
+    n "Alla fine, mi sciolgo dalla stretta di Luka e mi alzo in piedi, offrendogli una mano."
 
             
 # game/luka.rpy:1919
 translate italian luka_couch_e3c76e5f:
 
     # l "\"Your jacket's all messed up.\""
-    l ""
+    l "\"La tua giacca è tutta stropicciata.\""
 
             
 # game/luka.rpy:1922
 translate italian luka_couch_c8216a04:
 
     # mc "\"It is?\""
-    mc ""
+    mc "\"Sì?\""
 
             
 # game/luka.rpy:1923
 translate italian luka_couch_4d100c43:
 
     # n "I glance down to see my collar ruffled, probably from being attacked by that hug earlier."
-    n ""
+    n "Guardo in basso e vedo il mio colletto pieghettato, probabilmente dall'attacco/abbraccio di prima."
 
             
 # game/luka.rpy:1933
 translate italian luka_couch_b3b91132:
 
     # n "But when I reach to fix it, Luka suddenly steps forward, his delicate hands grabbing the lapels."
-    n ""
+    n "Ma quando faccio per aggiustarlo, Luka si alza improvvisamente, le sue delicate mani afferrano il colletto."
 
             
 # game/luka.rpy:1935
 translate italian luka_couch_bcddb873:
 
     # lp "\"You should wear something nicer than this old thing.\""
-    lp ""
+    lp "\"Dovresti vestire qualcosa di ppiù carino di questa vecchia robaccia.\""
 
             
 # game/luka.rpy:1938
 translate italian luka_couch_2aa81a53:
 
     # mcp "\"But it's my favorite.\""
-    mcp ""
+    mcp "\"Ma è la mia giacca preferita.\""
 
             
 # game/luka.rpy:1941
 translate italian luka_couch_76abfe31:
 
     # lp "\"Yeah, well, you're missing a button, and there's a coffee stain here…\""
-    lp ""
+    lp "\"Beh allora, ti manca un botto, e c'è una macchia di caffé qui...\""
 
             
 # game/luka.rpy:1943
 translate italian luka_couch_1f29283f:
 
     # lp "\"We should really go on a shopping tri––\""
-    lp ""
+    lp "\"Dovestri proprio fare un po' di shoppin--\""
 
             
 # game/luka.rpy:1945
 translate italian luka_couch_f42ded0f:
 
     # mcp "\"Luka.\""
-    mcp ""
+    mcp "\"Luka.\""
 
             
 # game/luka.rpy:1948
 translate italian luka_couch_7f7cdb48:
 
     # lp "\"…\""
-    lp ""
+    lp "\"...\""
 
             
 # game/luka.rpy:1953
 translate italian luka_couch_d7849fb5:
 
     # n "He raises his head, and suddenly his two bright eyes are inches away from mine."
-    n ""
+    n "Solleva la testa e improvvisamente i suoi luminosi occhi sono a pochi centimetri dai miei."
 
             
 # game/luka.rpy:1954
 translate italian luka_couch_2db309dd:
 
     # n "Our lips are so close that I can feel the fluttering of his breath."
-    n ""
+    n "Le nostre labbra sono così vicine che posso sentire il solletichio del suo respiro."
 
             
 # game/luka.rpy:1956
 translate italian luka_couch_40dbdf3f:
 
     # mc "\"Did I ever tell you how bad you are at flirting?\""
-    mc ""
+    mc "\"Ti ho mai detto quanto tu sia scarso a flirtare?\""
 
             
 # game/luka.rpy:1958
 translate italian luka_couch_fce3ea63:
 
     # l "\"Wh-what do you…\""
-    l ""
+    l "\"C-che cosa...\""
 
             
 # game/luka.rpy:1959
 translate italian luka_couch_c7609b56:
 
     # mc "\"Really, really bad.\""
-    mc ""
+    mc "\"Davvero molto scarso.\""
 
             
 # game/luka.rpy:1961
 translate italian luka_couch_7ef369c7:
 
     # n "As I whisper a few teasing words against his cheek, Luka swallows audibly."
-    n ""
+    n "Mentre sussuro qualche parole per punzecchiarlo sulla sua guancia, Luka deglutisce rumorosamente."
 
             
 # game/luka.rpy:1963
 translate italian luka_couch_455b5d5b:
 
     # n "I half-expect him to suddenly turn and bolt, but a second later…"
-    n ""
+    n "Una parte di me si aspetta che si volti e scappi via all'improvviso, ma un secondo dopo..."
 
             
 # game/luka.rpy:1970
 translate italian luka_couch_2c9b5d1d:
 
     # n "Without thinking, I lean in to roughly press my lips against his, sealing them together."
-    n ""
+    n "Senza pensarci, mi sperco per premere grossolonamente le mie labbra sulle sue, sigillandole."
 
             
 # game/luka.rpy:1971
 translate italian luka_couch_2d733436:
 
     # n "His mouth is soft, and he tastes a little sweet… kind of like I expected."
-    n ""
+    n "Le sue labbra sono soffici, e ha un sapore dolciastro... un po' come me lo aspettavo."
 
             
 # game/luka.rpy:1973
 translate italian luka_couch_6a962ac1:
 
     # n "He tries to jerk away reflexively, but I tilt my head forward to keep him in the kiss, curling an arm around his waist."
-    n ""
+    n "Cerca di allontanarsi di riflesso, ma inclino la testa in avanti per continuare a baciarlo, circondogli la vita con le mie braccia."
 
             
 # game/luka.rpy:1975
 translate italian luka_couch_3d3a774c:
 
     # l "\"…nh…\""
-    l ""
+    l "\"...nh...\""
 
             
 # game/luka.rpy:1977
 translate italian luka_couch_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/luka.rpy:1979
 translate italian luka_couch_1c4ab55a:
 
     # n "A few moments later, Luka stops squirming."
-    n ""
+    n "Alcuni istanti dopo, Luka smette di dimenarsi."
 
             
 # game/luka.rpy:1980
 translate italian luka_couch_5b9537e2:
 
     # n "His cheeks are completely flushed, but he slowly, tentatively starts to move his lips against mine."
-    n ""
+    n "Le sue guance sono completamente rosso, ma inzia lentamente a muovere le sue labbra sulle mie, con esitazione."
 
             
 # game/luka.rpy:1982
 translate italian luka_couch_55a9e385:
 
     # n "Man, talk about a quick turnaround… although it doesn't take a rocket science to realize he was hoping I'd do this."
-    n ""
+    n "Wow, questa si che è stata un'inversione di rotta rapida... anche se non bisogna essere un genio per capire che stava sperando che lo facessi."
 
             
 # game/luka.rpy:1984
 translate italian luka_couch_0cf8f7d3:
 
     # n "He jerks forward, messily crushing his lips against mine."
-    n ""
+    n "Si spinge in avanti, spalmando disordinatamente le sue labbra sulle mie."
 
             
 # game/luka.rpy:1986
 translate italian luka_couch_d07b2e97:
 
     # n "Phew, I thought he was gonna headbutt me there for a second…"
-    n ""
+    n "Fiù, pensavo che stesse per darmi una testata..."
 
             
 # game/luka.rpy:1988
 translate italian luka_couch_3d3a774c_1:
 
     # l "\"…nh…\""
-    l ""
+    l "\"...nh...\""
 
             
 # game/luka.rpy:1990
 translate italian luka_couch_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/luka.rpy:1992
 translate italian luka_couch_2d733436_1:
 
     # n "His mouth is soft, and he tastes a little sweet… kind of like I expected."
-    n ""
+    n "Le sue labbra sono soffici, e ha un sapore dolciastro... un po' come me lo aspettavo."
 
             
 # game/luka.rpy:1994
 translate italian luka_couch_1d90f220:
 
     # n "I tenderly return his caresses, letting him set the pace so that he doesn't get scared off."
-    n ""
+    n "Restituisco teneramente le sue carezze, lasciandolo decidere il ritmo per non farlo spaventare."
 
             
 # game/luka.rpy:1997
 translate italian luka_couch_14cf8e14:
 
     # n "He looked so excited and nervous that I have to wonder if this isn't his first kiss. {w}Is he really that innocent? Now I almost feel bad."
-    n ""
+    n "Sembrava così eccitato e nervoso che mi chiedo se questo sia il suo primo bacio.{w}É davvero tanto innocente? Ora mi sento quasi cattivo."
 
             
 # game/luka.rpy:1998
 translate italian luka_couch_d765a92d:
 
     # n "But I just moved on impulse back there –– he looked so damn cute that I couldn't help myself."
-    n ""
+    n "Ma ho agito per impulso -- era così incredibilmente carino che non ho potuto farne a meno."
 
             
 # game/luka.rpy:1999
 translate italian luka_couch_522975da:
 
     # n "Besides, I think it's pretty clear by now that he has a crush on me, and I'd be lying if I said I didn't feel the same way."
-    n ""
+    n "Fra l'atro, penso sia chiaro ormai che ha una cotta per me, e mentirei se dicessi che non provo la stessa cosa."
 
             
 # game/luka.rpy:2001
 translate italian luka_couch_e8a8ac58:
 
     # mc "\"Luka…\""
-    mc ""
+    mc "\"Luka...\""
 
             
 # game/luka.rpy:2002
 translate italian luka_couch_ffe0ce06:
 
     # n "I whisper his name softly, letting my tongue slip forward to tease against his lips."
-    n ""
+    n "Sussurro dolcemente il suo nome, lasciando scivolare la mia lingua per farla scorrere sulle sue labbra."
 
             
 # game/luka.rpy:2004
 translate italian luka_couch_3d354e33:
 
     # n "After a moment of hesitation, Luka presses his own tongue along mine, sliding them together in a wet kiss."
-    n ""
+    n "Dopo un momento di esitazione, Luka preme la sua lingua contro la mia, facendole scorrere l'una contro l'altra in un umido bacio."
 
             
 # game/luka.rpy:2005
 translate italian luka_couch_08a86f25:
 
     # n "His grip on my jacket loosens, but he keeps his fingers curled in the fabric, like he's clutching onto a safety blanket."
-    n ""
+    n "La sua stretta sulla mia giacca si allenta, ma tiene le dita aggrappate al tessuo, ma se fosse la sua copertina preferita."
 
             
 # game/luka.rpy:2007
 translate italian luka_couch_034d0db2:
 
     # l "\"Mmh… fu…\""
-    l ""
+    l "\"Mmm... ca..\"
 
             
 # game/luka.rpy:2008
 translate italian luka_couch_d6cf6c77:
 
     # n "He lets out a small sound between a moan and a whimper, leaning heavily against my chest."
-    n ""
+    n "Lascia andare un piccolo suono fra un gemito e un mugolio, poggiandosi pesantemente sul mio petto."
 
             
 # game/luka.rpy:2009
 translate italian luka_couch_15d5986a:
 
     # n "I nip and tug at his lower lip with my teeth, trailing warm, wet kisses all along his mouth and jaw."
-    n ""
+    n "Mordicchio e succio il suo labbro inferiore, disseminado caldi e umidi baci lungo la sua bocca e la sua mascella."
 
             
 # game/luka.rpy:2011
 translate italian luka_couch_08df71c7:
 
     # n "…Is he trembling, or is it my imagination?"
-    n ""
+    n "...sta tremando o è solo la mia immaginazione?"
 
             
 # game/luka.rpy:2013
 translate italian luka_couch_b04a7071:
 
     # n "No, he's definitely shaking a little. Damn, am I overdoing it?"
-    n ""
+    n "No, sta decidamente tremando un po'. Cazzo, sto esagerando?"
 
             
 # game/luka.rpy:2019
 translate italian luka_couch_fb237a51:
 
     # mcp "\"Luka, are you okay?\""
-    mcp ""
+    mcp "\"Luka, tutto bene?\""
 
             
 # game/luka.rpy:2021
 translate italian luka_couch_9c711220:
 
     # mcp "\"If you want, we can stop…\""
-    mcp ""
+    mcp "\"Se vuoi, possiamo fermarci...\""
 
             
 # game/luka.rpy:2024
 translate italian luka_couch_900b5e95:
 
     # lp "\"Tch –– I'm fine!\""
-    lp ""
+    lp "\"Tzè -- sto bene!\"\""
 
             
 # game/luka.rpy:2026
 translate italian luka_couch_799e630f:
 
     # lp "\"Don't act like I'm not used to kissing! I d-do it all the time.\""
-    lp ""
+    lp "\"Non fare finta che non sia abituato a baciare! L-lo faccio sempre.\""
 
             
 # game/luka.rpy:2028
 translate italian luka_couch_dc09dc0f:
 
     # n "…Yeah, sure you do."
-    n ""
+    n "...Sì, certo."
 
             
 # game/luka.rpy:2029
 translate italian luka_couch_e2f075fa:
 
     # n "It takes all my strength to keep from snickering at his flustered response, but I manage to hold back and just nod, instead."
-    n ""
+    n "Devo raccogliere tutte le mie forze per evitare di ridere alla sua risposta irritata, ma riesco a trattanermi e annuire."
 
             
 # game/luka.rpy:2034
 translate italian luka_couch_0c599ef5:
 
     # n "Then, I lean forward once more, pulling Luka in for another deep kiss."
-    n ""
+    n "Allora, mi sporgo ancora una volta, tirando Luka in un altro profondo bacio."
 
             
 # game/luka.rpy:2035
 translate italian luka_couch_c9cf408e:
 
     # n "This time, he responds more eagerly, trailing his tongue along my lips in a slightly clumsy fashion."
-    n ""
+    n "Questa volta, ricambia con più entusiasmo, tracciando le mie labbra con le sue in modo un po' impacciato."
 
             
 # game/luka.rpy:2038
 translate italian luka_couch_681d9b7c:
 
     # mc "\"Mmh…\""
-    mc ""
+    mc "\"Mmh...\""
 
             
 # game/luka.rpy:2041
 translate italian luka_couch_5c47e599:
 
     # l "\"Kh… [mc]…\""
-    l ""
+    l "\"Kh...[mc]…\""
 
             
 # game/luka.rpy:2044
 translate italian luka_couch_17468674:
 
     # n "He's so adorable that I can barely stand it… {w}I just want to pounce on him right here, pin him down, get him to make more of those sweet noises…"
-    n ""
+    n "É così adorabile che riesco a malapena a sopportarlo... {w}Voglio solo saltargli addosso ora, bloccarlo a terra e fargli fare altri dolci suoni..."
 
             
 # game/luka.rpy:2046
 translate italian luka_couch_dcc652a1:
 
     # n "Considering the way he's pressing against me, I don't think he'd mind, either…"
-    n ""
+    n "Considerato il modo in cui preme contro di me, non penso che gli darebbe fastidio..."
 
             
 # game/luka.rpy:2048
 translate italian luka_couch_d5aacd59:
 
     # n "He's so adorable that I can barely stand it…{w} I just want to hold him all night, let him relax, cover his cute face in kisses for hours…"
-    n ""
+    n "É così adorabile che riesco a malapena a sopportarlo... {w}Voglio solo tenerlo stretto tutta la notte, farlo rilassare, ricoprirgli la faccia di baci per ore..."
 
             
 # game/luka.rpy:2050
 translate italian luka_couch_bb843f3b:
 
     # n "I can feel him nudging me towards the couch a little, like he's getting impatient already…"
-    n ""
+    n "Lo sento spostarmi verso il divano leggermente, come se si stesse spazientendo..."
 
             
 # game/luka.rpy:2054
 translate italian luka_couch_6e6f227c:
 
     # u "\"Hello hello, Lu –– oh, my!\""
-    u ""
+    u "\"Hey hey, Lu -- Oh mio dio!\""
 
             
 # game/luka.rpy:2063
 translate italian luka_couch_d20d0a43:
 
     # mcp "\"…!\""
-    mcp ""
+    mcp "\"...!\""
 
             
 # game/luka.rpy:2065
 translate italian luka_couch_c682f5d9:
 
     # lp "\"…!\""
-    lp ""
+    lp "\"...!\""
 
             
 # game/luka.rpy:2068
 translate italian luka_couch_68318e64:
 
     # n "Luka immediately pushes me back, his face going red as a rose, eyes wide in horror and shock."
-    n ""
+    n "Luka mi spinge immediatamente via, la sua faccia si fa rossa come una rosa, i suoi occhi spalancati dallo shock e dall'orrore."
 
             
 # game/luka.rpy:2071
 translate italian luka_couch_a3f2d85f:
 
-    # i "\"Wow, sorry for interrupting! But Luka, you know you {i}do{/i} have a bedroom for this sort of thi––\""
-    i ""
+    # i "\"Wow, sorry for interrupting! But Luka, you know you  have a bedroom for this sort of thi––\""
+    i "\"Wow, scusate l'interruzione! Ma Luka, lo sai che {i}hai{/i} una camera per questo genere di cos---\""
 
             
 # game/luka.rpy:2078
 translate italian luka_couch_e661e14d:
 
     # ip "\"Whoa––!\""
-    ip ""
+    ip "\"Whoa--!\""
 
             
 # game/luka.rpy:2079
 translate italian luka_couch_faef216c:
 
     # n "Isaac ducks as Luka hurls a sofa cushion towards him with all his might."
-    n ""
+    n "Isaac si abbassa per schivare un cuschino lanciato da Luka con tutte le sue forza."
 
             
 # game/luka.rpy:2081
 translate italian luka_couch_324397d1:
 
     # lp "\"Knock next time, four-eyed bastard!\""
-    lp ""
+    lp "\"Bussa la prossima volta, quattrocchi del cazzo!\""
 
             
 # game/luka.rpy:2085
 translate italian luka_couch_45fd7605:
 
     # mcp "\"Hey, Luka, wait––!\""
-    mcp ""
+    mcp "\"Hey, Luka, aspetta--!\""
 
             
 # game/luka.rpy:2086
 translate italian luka_couch_a1292ce0:
 
     # n "But before I can stop him, Luka storms out of the living room at top speed."
-    n ""
+    n "Ma prima che io possa fermarlo, Luka lascia il soggiorno a grande velocità."
 
             
 # game/luka.rpy:2089
 translate italian luka_couch_4bb77209:
 
     # n "The distant slamming of a door is probably him sealing himself away, just like a sulky teenager."
-    n ""
+    n "Il suono distante di una porta che sbatte è probabilmente il suo modo di chiudersi in se stesso, proprio come un adolescente arrabbiato."
 
             
 # game/luka.rpy:2095
 translate italian luka_couch_f135c719:
 
     # i "\"Ah, I feel pretty guilty, now… should've assumed I'd be walking into something.\""
-    i ""
+    i "\"Ah, mi sento piuttosto in colpa, ora.. Avrei dovuto immaginarmelo che avrei interrotto qualcosa.\""
 
             
 # game/luka.rpy:2096
 translate italian luka_couch_8f29f32f:
 
     # n "Sighing, Isaac sets down the grocery bags he'd been carrying onto the counter."
-    n ""
+    n "Sospirando, Isaac poggia le buste della spesa sul bancone."
 
             
 # game/luka.rpy:2102
 translate italian luka_couch_377844c3:
 
     # mc "\"It's no big deal. Just, er, kind of a spontaneous thing.\""
-    mc ""
+    mc "\"Oh, non importa. Sol, em, una cosa improvvisata.\""
 
             
 # game/luka.rpy:2104
 translate italian luka_couch_0750dba9:
 
     # i "\"Spontaneous? You were getting pretty into it. I think I saw tongue!\""
-    i ""
+    i "\"Improvvisata? Ci stavi andando piuttosto dentro. Penso di aver visto la tua lingua!\""
 
             
 # game/luka.rpy:2106
 translate italian luka_couch_ee5194ad:
 
     # mc "\"…How long were you watching us? Christ.\""
-    mc ""
+    mc "\"...Quanto tempo sei rimasto a guardarci? Cristo.\""
 
             
 # game/luka.rpy:2109
 translate italian luka_couch_39c20a69:
 
     # n "Isaac lets out a chuckle at my awkward mutter, shaking his head."
-    n ""
+    n "Isaac si lascia andare a una risatina al mio biascicare imbarazzato, scuotendo la testa."
 
             
 # game/luka.rpy:2112
 translate italian luka_couch_9559aab5:
 
     # i "\"Well, Luka's probably half-dead from embarrassment, so he won't be out for awhile. Maybe you'd better head back.\""
-    i ""
+    i "\"Beh, Luka è probabilmente mezzo morto dall'imbarazzo, quindi non uscirà per un po'. Forse è meglio se torni a casa.\""
 
             
 # game/luka.rpy:2114
 translate italian luka_couch_e86455ca:
 
     # i "\"I'm sure he'll show up again at the diner tonight, though. You've made quite the impression on him, [mc].\""
-    i ""
+    i "\"Tuttavia, sono sicuro che si farà di nuovo vivo alla tavola calda stanotte. Hai avuto un bell'impatto su di lui, [mc].\""
 
             
 # game/luka.rpy:2117
 translate italian luka_couch_60763207:
 
     # n "He pauses for a moment, then, the playfulness gradually fading from his eyes."
-    n ""
+    n "Rimane in silenzio per un momento, poi, l'allegria svanisce gradualmente dai suoi occhi."
 
             
 # game/luka.rpy:2120
 translate italian luka_couch_ae9234c8:
 
     # i "\"Just don't forget what I told you last night, mm?\""
-    i ""
+    i "\"Non dimenticarti di quello che ti ho detto la scorsa notte, hm?\""
 
             
 # game/luka.rpy:2123
 translate italian luka_couch_4f7f8c0b:
 
     # mc "\"I haven't… don't worry.\""
-    mc ""
+    mc "\"Non l'ho fatto... non preoccuparti.\""
 
             
 # game/luka.rpy:2126
 translate italian luka_couch_3eab0432:
 
     # n "Isaac nods at my grim reply, looking a little apologetic, but firm nonetheless."
-    n ""
+    n "Isaac annusce alla mia risposta secca, apparando leggermente dispiaciuto, ma comunque fermo."
 
             
 # game/luka.rpy:2137
 translate italian luka_couch_886d33b2:
 
     # n "He ends up escorting me outside and even dishes out for my cab fare home –– probably some kind of repayment for \"interrupting\" us."
-    n ""
+    n "Finisce per accompagnarmi fuori e sgancia pure i soldi per il taxi fino a casa -- probabilmente per rimediare alla sua \"interruzione.\""
 
             
 # game/luka.rpy:2139
