@@ -6520,994 +6520,994 @@ translate italian luka_apt_4f46a46b_4:
 translate italian luka_apt_2ad74949:
 
     # n "Struck speechless, I stand frozen next to Bishop, who still holds my shoulder in his clawed grasp."
-    n ""
+    n "Senza parole per lo shoc, rimango immobile accanto a Bishop, che ancora mi tiene la spalla stretta fra i suoi artigli."
 
             
 # game/luka.rpy:2691
 translate italian luka_apt_1ced1ae1:
 
     # n "He wants to turn me… into a vampire?"
-    n ""
+    n "Mi vuole trasformare in un... vampiro?"
 
             
 # game/luka.rpy:2694
 translate italian luka_apt_f0f53f9b:
 
     # bp "\"He'll simply join our ranks, a novitiate of the night.\""
-    bp ""
+    bp "\"Si aggiungerà ai nostri ranghi, unun novizio della notte.\""
 
             
 # game/luka.rpy:2695
 translate italian luka_apt_7b197963:
 
     # bp "\"His body will take well to the affliction, as the nature of his blood makes him particularly receptive… And I'm in need of a skilled subordinate.\""
-    bp ""
+    bp "\"Il suo corpo sopporterà bene la sofferenza, dato che la natura stessa del suo sangue lo rende particolarmente ricettivo... E io sono in cerca di un abile sottoposto.\""
 
             
 # game/luka.rpy:2697
 translate italian luka_apt_bc8b1091:
 
     # bp "\"A worthy, simple trade, wouldn't you say?\""
-    bp ""
+    bp "\"Uno scambio facile e conveniente, non trovi?\""
 
             
 # game/luka.rpy:2700
 translate italian luka_apt_4bb06b13:
 
     # l "\"B-but I… [mc] is…\""
-    l ""
+    l "\"M-ma io... [mc] è…\""
 
             
 # game/luka.rpy:2703
 translate italian luka_apt_7e9be949:
 
     # l "\"How can you ask me to just give him up like that?\""
-    l ""
+    l "\"Come puoi chiedermi dai rinunciare a lui così?\""
 
             
 # game/luka.rpy:2706
 translate italian luka_apt_eb35a9b4:
 
     # bp "\"Revenge always has a price, Luka.\""
-    bp ""
+    bp "\"La vendetta ha sempre un prezzo, Luka.\""
 
             
 # game/luka.rpy:2708
 translate italian luka_apt_6f97ea41:
 
     # bp "\"Whether it's a possession, a companion, or within oneself… There is always a price.\""
-    bp ""
+    bp "\"Che sia un possedimento, un compagno, o un parte di te stesso... C'è sempre un prezzo.\""
 
             
 # game/luka.rpy:2711
 translate italian luka_apt_6c67e830:
 
     # bp "\"But isn't it one you're willing to pay?\""
-    bp ""
+    bp "\"Ma non è un prezzo che sei disposto a pagare?\""
 
             
 # game/luka.rpy:2714
 translate italian luka_apt_71423380_1:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:2716
 translate italian luka_apt_4bd348ef:
 
     # n "Bishop's dangling the thing he's always wanted right in front of his eyes."
-    n ""
+    n "Bishop gli sta facendo dondolare davanti quello che ha sempre voluto."
 
             
 # game/luka.rpy:2718
 translate italian luka_apt_e79824c4:
 
     # n "The goal that's been driving him all this time is so close, finally within his grasp…"
-    n ""
+    n "L'obbiettivo che che ha spinto ogni sua azione per tutto questo tempo è così vicino, finalmente a portata di mano..."
 
             
 # game/luka.rpy:2720
 translate italian luka_apt_cb85c766:
 
     # n "And I'm the only thing keeping him from reaching it."
-    n ""
+    n "E io sono l'unica cosa che gli impedisce di raggiungerlo."
 
             
 # game/luka.rpy:2723
 translate italian luka_apt_4a5af88b:
 
     # mcp "\"Luka…\""
-    mcp ""
+    mcp "\"Luka...\""
 
             
 # game/luka.rpy:2725
 translate italian luka_apt_a872f07a:
 
     # n "I can see him starting to waver.{w} No wonder –– Bishop's words are so seductive, and in a cruel way, they make sense."
-    n ""
+    n "Vedo che inizia a dubitare. {w}Giustamente -- le parole di Bishop sono seducenti e, crudelmente, sensate."
 
             
 # game/luka.rpy:2727
 translate italian luka_apt_45134c46:
 
     # n "He gazes at me helplessly, desperately, and I know whatever I say next will seal my fate."
-    n ""
+    n "Mi guarda impontente, disperato, e so che quello che dirà a breve segnerà il mio destino."
 
             
 # game/luka.rpy:2729
 translate italian luka_apt_eaae030e:
 
     # n "My fate…{w} and Luka's."
-    n ""
+    n "Il mio destino..{w} e quello di Luka."
 
             
 # game/luka.rpy:2732
 translate italian strings:
 
     old "It's too late"
-    new ""
+    new "É troppo tardi"
     
                 
 # game/luka.rpy:2732
 translate italian strings:
 
     old "I'll do it"
-    new ""
+    new "Lo farò"
     
                 
 # game/luka.rpy:2732
 translate italian strings:
 
     old "Does revenge really mean anything? (unlocked)"
-    new ""
+    new "La vendetta significa davvero qualcosa? (sbloccato)"
     
                 
 # game/luka.rpy:2732
 translate italian strings:
 
     old "Does revenge really mean anything?"
-    new ""
+    new "La vendetta significa davvero qualcosa?"
     
                 
 # game/luka.rpy:2738
 translate italian luka_final_c3408553:
 
     # mcp "\"Your brother's gone, Luka.\""
-    mcp ""
+    mcp "\"Tuo fratello è andato, Luka.\""
 
             
 # game/luka.rpy:2740
 translate italian luka_final_f80920d5:
 
     # mcp "\"Going after him now… It's too late to change what happened.\""
-    mcp ""
+    mcp "\"Andargli dietro adesso... É troppo tardi per cambiare quello che è successo.\""
 
             
 # game/luka.rpy:2743
 translate italian luka_final_71423380:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:2746
 translate italian luka_final_8ab6af20:
 
     # mcp "\"Is revenge really the most important thing to you?\""
-    mcp ""
+    mcp "\"La vendetta è davvero la cosa più importante per te?\""
 
             
 # game/luka.rpy:2751
 translate italian luka_final_52b16d72:
 
     # n "Luka closes his eyes tightly, inhaling a shuddering breath."
-    n ""
+    n "Luka chiude forte gli occhi, inalando un sospiro spezzato."
 
             
 # game/luka.rpy:2753
 translate italian luka_final_f4f9cb2a:
 
     # n "The seconds that follow seem to go on, and on, and on…"
-    n ""
+    n "Il secondo successivo sembra voler durare ancora e ancora, all'infinito..."
 
             
 # game/luka.rpy:2762
 translate italian luka_final_845d63ff:
 
     # n "Until he finally reopens his eyes."
-    n ""
+    n "Finché finalmente non riapre gli occhi."
 
             
 # game/luka.rpy:2765
 translate italian luka_final_13c8dc4f:
 
     # l "\"…Yes.\""
-    l ""
+    l "\"...Sì...\""
 
             
 # game/luka.rpy:2767
 translate italian luka_final_5586daed:
 
     # n "He chokes out a single, weak word."
-    n ""
+    n "Pronuncia una singola parola strozzata."
 
             
 # game/luka.rpy:2770
 translate italian luka_final_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/luka.rpy:2772
 translate italian luka_final_e50a530a:
 
     # n "Does that mean I was wrong from the beginning, thinking he cared about me…?"
-    n ""
+    n "Questo significa che mi sbagliavo fin dall'inizio, pensando che ci tenesse a me...?"
 
             
 # game/luka.rpy:2775
 translate italian luka_final_5f6efabc:
 
     # l "\"I'm sorry, [mc]…\""
-    l ""
+    l "\"Mi dispiace, [mc]…\""
 
             
 # game/luka.rpy:2778
 translate italian luka_final_fc146979:
 
     # l "\"But this is my last chance to put things right.\""
-    l ""
+    l "\"Ma questa è la mia ultima possibilità di rimettere le cose a posto.\""
 
             
 # game/luka.rpy:2779
 translate italian luka_final_3e1c143f:
 
     # n "His voice breaks, and he turns his head away from me, like he can't look me in the eye any longer."
-    n ""
+    n "La sua voce si spezza e volge il viso lontano da me, come se non riuscisse più a guardarmi negli occhi."
 
             
 # game/luka.rpy:2781
 translate italian luka_final_b2559732:
 
     # n "His expression is so pained…{w} Then why? Why?"
-    n ""
+    n "La sua espressione è così addolorato...{w} Allora perchè? Perchè?"
 
             
 # game/luka.rpy:2784
 translate italian luka_final_4a5af88b:
 
     # mcp "\"Luka…\""
-    mcp ""
+    mcp "\"Luka...\""
 
             
 # game/luka.rpy:2788
 translate italian luka_final_3268e6f0:
 
     # bp "\"Very well. It seems we have an agreement.\""
-    bp ""
+    bp "\"Molto bene. Sembra che abbiamo un accordo.\""
 
             
 # game/luka.rpy:2793
 translate italian luka_final_0b535f2b:
 
     # n "I barely even realize what's happening as Bishop pulls me into his arms, leaning in towards my neck."
-    n ""
+    n "Realizzo a malapena cosa stia succedendo quando Bishop mi tira fra le sue braccia, sporgendomi sul mio collo."
 
             
 # game/luka.rpy:2795
 translate italian luka_final_d4e590be:
 
     # n "Should I feel angry?{w} Sad?{w} Betrayed?"
-    n ""
+    n "Dovrei sentirmi arrabbiato?{w} Triste?{w} Tradito?"
 
             
 # game/luka.rpy:2797
 translate italian luka_final_4aee2c88:
 
     # n "…Or happy, because I can be the key to what he truly wants?"
-    n ""
+    n "...O felice, perchè posso essere la chiave per raggiungere quello che desidera veramente?"
 
             
 # game/luka.rpy:2799
 translate italian luka_final_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/luka.rpy:2801
 translate italian luka_final_2005d172:
 
     # n "Sharp fangs caress along my skin, beginning to press down against my throat."
-    n ""
+    n "Degli affilati canini mi accarezzano la pelle, iniziando a premere sulla mia gola."
 
             
 # game/luka.rpy:2803
 translate italian luka_final_5129c6f9:
 
     # n "They sink into me, and I shudder."
-    n ""
+    n "Affondano dentro di me, e tremo."
 
             
 # game/luka.rpy:2811
 translate italian luka_final_4f46a46b_1:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/luka.rpy:2817
 translate italian luka_final_0db9aeb6:
 
     # n "I told Luka I'd help him –– even though I never imagined it would end up like this."
-    n ""
+    n "Ho detto a Luka che l'avrei aiutato -- anche se non imaginavo sarebbe finita così."
 
             
 # game/luka.rpy:2819
 translate italian luka_final_d4df7199:
 
     # n "His brother means everything to him.{w} He means… more to him than me, I know."
-    n ""
+    n "Suo fratello significa qualcosa per lui.{w} Lui significa... di più per lui di me, lo so."
 
             
 # game/luka.rpy:2821
 translate italian luka_final_29a44e65:
 
     # n "If I refused Bishop's offer or tried to talk Luka out of it, how could I live with myself?"
-    n ""
+    n "Se avessi rifiutato l'offerta di Bishop o avessi provato a far cambiare idea a Luka, come avrei potuto venire con me stesso poi?"
 
             
 # game/luka.rpy:2823
 translate italian luka_final_a733ed8f:
 
     # n "How could I watch Luka suffer, knowing he could've finally had his vengeance and found peace, but his only chance is gone forever?"
-    n ""
+    n "Come avrei potuto guardare Luka soffire, sapendo che finalmente avrebbe potuto avere la sua vendetta e trovare la pace, ma la sua unica chance è svanita per sempre?"
 
             
 # game/luka.rpy:2831
 translate italian luka_final_fd3442b3:
 
     # mcp "\"Bishop…\""
-    mcp ""
+    mcp "\"Bishop...\""
 
             
 # game/luka.rpy:2834
 translate italian luka_final_2fd46d3d:
 
     # mcp "\"…I'll join your coven.\""
-    mcp ""
+    mcp "\"...Mi unirò al tuo coven.\""
 
             
 # game/luka.rpy:2837
 translate italian luka_final_f2fe7208:
 
     # l "\"[mc]…!\""
-    l ""
+    l "\"[mc]…!\""
 
             
 # game/luka.rpy:2840
 translate italian luka_final_5571ed03:
 
     # mcp "\"It's all right, Luka.\""
-    mcp ""
+    mcp "\"Va tutto bene, Luka.\""
 
             
 # game/luka.rpy:2843
 translate italian luka_final_fd36b921:
 
     # mcp "\"Ever since I found out about this world, I knew I was taking a risk by staying here and remaining a part of it.\""
-    mcp ""
+    mcp "\"Da quando ho scoperto questo mondo, sapevo che mi stavo correndo un rischio a rimenrci e farne parte.\""
 
             
 # game/luka.rpy:2845
 translate italian luka_final_1f9b8880:
 
     # mcp "\"If you can finally get what you've always wanted, and I can still get to see your face…\""
-    mcp ""
+    mcp "\"Se puoi finalmente avere quello che hai sempre voluto e io posso ancora vedere il tuo viso...\""
 
             
 # game/luka.rpy:2848
 translate italian luka_final_bdb766a6:
 
     # mcp "\"Then it's a fair trade, yeah?\""
-    mcp ""
+    mcp "\"Allora è uno scambio equo, giusto?\""
 
             
 # game/luka.rpy:2851
 translate italian luka_final_71423380_1:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:2853
 translate italian luka_final_aa93ffdd:
 
     # n "Luka bites his bottom lip, pressing down so hard that a bead of blood wells up around the spot."
-    n ""
+    n "Luka si morde il labbro, stringendo così forte da far sgorgare una perla di sangue."
 
             
 # game/luka.rpy:2854
 translate italian luka_final_c678193f:
 
     # n "His hands tremble, and he clutches tightly at his jacket."
-    n ""
+    n "Le sue mani tremano, aggrappate alla sua giacca."
 
             
 # game/luka.rpy:2856
 translate italian luka_final_d53392fa:
 
     # n "I want to comfort him so badly. {w}After this over and done with, I'll soothe him and tell him everything'll be all right…"
-    n ""
+    n "Vorrei tantissimo avvicinarmi e confortarlo.{w} Dopo che tutto questo sarà finito, lo cullero fra le mie braccia e gli dirò che va tutto bene..."
 
             
 # game/luka.rpy:2859
 translate italian luka_final_5b0b52df:
 
     # n "…Finally, Luka gives a slow, unhappy hint of a nod."
-    n ""
+    n "...Alla fine, Luka annuisce lentamente, la sua espressione colma di tristezza."
 
             
 # game/luka.rpy:2862
 translate italian luka_final_623937d1:
 
     # l "\"I… I don't even know what to say, how to thank you…\""
-    l ""
+    l "\"Io... non so nemmeno cosa dire, come ringraziarti...\""
 
             
 # game/luka.rpy:2866
 translate italian luka_final_f53c2086:
 
     # mcp "\"If this gives you what you want, then…\""
-    mcp ""
+    mcp "\"Se questo ti daràa quello che vuoi, allora...\""
 
             
 # game/luka.rpy:2869
 translate italian luka_final_58183271:
 
     # mcp "\"That's all the thanks I need.\""
-    mcp ""
+    mcp "\"E tutto il ringraziamento di cui ho bisogno.\""
 
             
 # game/luka.rpy:2875
 translate italian luka_final_a8f05549:
 
     # n "For some reason, I feel completely calm as Bishop takes me into his arms, leaning in towards my neck."
-    n ""
+    n "Per qualche motivo, mi sento completamente calmo mentre Bishop mi prendere fra le sue braccia, soprgendosi sul mio collo."
 
             
 # game/luka.rpy:2877
 translate italian luka_final_c979d3f0:
 
     # n "I know I should be afraid, or sad, or overwhelmed with regrets…"
-    n ""
+    n "So che dovrei essere spaventato, o triste, o pieno di rimorsi..."
 
             
 # game/luka.rpy:2879
 translate italian luka_final_4780b188:
 
     # n "But when I think of how Luka could finally be happy when this is all over, the sharp fangs brushing against my skin are distant, unimportant."
-    n ""
+    n "Ma quando penso al fatto che Luka potrà finalmente essere felice, una volta finito tutto questo, gli affilati canini che accarezzano la mia pelle risultano distanti, insignificanti."
 
             
 # game/luka.rpy:2881
 translate italian luka_final_35a28d4c_1:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/luka.rpy:2883
 translate italian luka_final_5129c6f9_1:
 
     # n "They sink into me, and I shudder."
-    n ""
+    n "Affondando dentro di me, e tremo."
 
             
 # game/luka.rpy:2888
 translate italian luka_final_3f2c1f4b:
 
     # n "Something clicks in my mind, at last.{w} Something sad, maybe even weak –– but something I understand."
-    n ""
+    n "Qualcosa clicca nella mia mente, alla fine.{w} Qualcosa di triste, forse debole -- ma qualcosa che capisco."
 
             
 # game/luka.rpy:2891
 translate italian luka_final_d4badc88:
 
     # mcp "\"Revenge… doesn't have any meaning, Luka.\""
-    mcp ""
+    mcp "\"La vendetta... non ha alcun significato, Luka.\""
 
             
 # game/luka.rpy:2894
 translate italian luka_final_e3600867:
 
     # mcp "\"It'll hurt you –– no, it's {i}been{/i} hurting you more than it'll ever hurt your brother's kidnapper.\""
-    mcp ""
+    mcp "\"Ti farà soffrire -- no, ti {i}sta{/i} facendo soffrie più di quanto potrà mai far soffrire il rapitore di tuo fratello.\""
 
             
 # game/luka.rpy:2896
 translate italian luka_final_69936713:
 
     # mcp "\"You're surrounded by creatures you hate, obsessed with hunting someone you hate, stuck in a world you don't belong in.\""
-    mcp ""
+    mcp "\"Sei circondato da creature che odi, ossessionato dal dare la caccia a qualcuno che odi, bloccato in un mondo a cui non appartieni.\""
 
             
 # game/luka.rpy:2899
 translate italian luka_final_89739fe7:
 
     # mcp "\"What would David want you to do, if he was still himself?\""
-    mcp ""
+    mcp "\"Che cosa vorrebbe che faccessi David, se fosse ancora sé stesso?\""
 
             
 # game/luka.rpy:2901
 translate italian luka_final_fd7de4b5:
 
     # mcp "\"Would he want you to risk becoming a slave, too? Would he want his big brother to lose himself in his hatred?\""
-    mcp ""
+    mcp "\"Vorrebbe che anche tu rischiassi di diventare uno schiavo? Vorrebbe che il suo fratello si perdesse nel suo stesso odio?\""
 
             
 # game/luka.rpy:2904
 translate italian luka_final_1c38d258:
 
     # mcp "\"Or would he want you to live on, letting go, letting yourself finally be happy again… even if you never forget his memory?\""
-    mcp ""
+    mcp "\"O vorrebbe che tu continuassi a vivere, che lasciassi andare la cosa, permettendo a te stesso di essere di nuovo felice... anche se non ti dimenticheri mai di lui?"
 
             
 # game/luka.rpy:2906
 translate italian luka_final_e8e2e706:
 
     # mcp "\"Does revenge mean more to you than that…?\""
-    mcp ""
+    mcp "\"La vendetta per te vale più di questo...?\""
 
             
 # game/luka.rpy:2910
 translate italian luka_final_71423380_2:
 
     # l "\"…\""
-    l ""
+    l "\"...\""
 
             
 # game/luka.rpy:2918
 translate italian luka_bad_1_34ba491e:
 
     # mc "\"Nnh…\""
-    mc ""
+    mc "\"Nnnh...\""
 
             
 # game/luka.rpy:2920
 translate italian luka_bad_1_205b6a74:
 
     # n "Bishop's embrace tightens.{w} The life slowly drains from my body, bit by bit, replaced with pure bliss."
-    n ""
+    n "La stretta di Bishop di si fa più stringente.{w} La vita viene lentamente succhiata via dal mio corpo, goccia per goccia, rimpiazzata da pura beatitudine."
 
             
 # game/luka.rpy:2922
 translate italian luka_bad_1_776b5871:
 
     # n "I start to let go of my consciousness, slipping towards a peaceful dark."
-    n ""
+    n "Inizio a lasciare andare la mia coscienza, scivolando in un placido buio."
 
             
 # game/luka.rpy:2924
 translate italian luka_bad_1_5758af45:
 
     # n "…Until cold flesh presses against my lips, forcing something onto my tongue."
-    n ""
+    n "...Finché della pelle fredda non mi preme contro le labbra, costringendomi a fare entrare qualcosa nella mia bocca."
 
             
 # game/luka.rpy:2926
 translate italian luka_bad_1_2ce1969e:
 
     # n "Sweet and metallic –– strange at first, then delicious, then addicting."
-    n ""
+    n "Dolce e metallico -- strano all'inizio, poi delizioso, e dopo ancora... una droga."
 
             
 # game/luka.rpy:2928
 translate italian luka_bad_1_d4887381:
 
     # n "I swallow it greedily.{w} More of it flows down my throat, and it {i}burns{/i}, horribly and wonderfully."
-    n ""
+    n "Lo ingoio avaramente.{w} Lungo la mia gola ne scende ancora, e {i}brucia{/i}, piacevolmente e magnificamente."
 
             
 # game/luka.rpy:2933
 translate italian luka_bad_1_be8b8cdf:
 
     # n "…It isn't until I've gulped down mouthfuls of the sweet liquid that I can finally open my eyes."
-    n ""
+    n "...Solo dopo aver trangugiato fino all'ultima goccia del dolce liquido, riesco finalmente ad aprire gli occhi."
 
             
 # game/luka.rpy:2935
 translate italian luka_bad_1_73cf1261:
 
     # n "I'm still here, still myself, still alive…?"
-    n ""
+    n "Sono ancora qui, sono ancora me stesse, sono ancora vivo...?"
 
             
 # game/luka.rpy:2938
 translate italian luka_bad_1_38f2dbf5:
 
     # mcp "…"
-    mcp ""
+    mcp "..."
 
             
 # game/luka.rpy:2940
 translate italian luka_bad_1_a20fb431:
 
     # n "…No, not alive."
-    n ""
+    n "...No, non vivo."
 
             
 # game/luka.rpy:2942
 translate italian luka_bad_1_361d1fe4:
 
     # n "I have no heartbeat, no need to breathe, even though my chest rises and falls out of habit."
-    n ""
+    n "Il mio cuore non batte, non ho bisogno di respirare, anche se il mio petto si alza e si abbassa per l'abitudine."
 
             
 # game/luka.rpy:2943
 translate italian luka_bad_1_c9bb5e2e:
 
     # n "My vision is sharper, and I'm overwhelmed with a rush of scents and sounds I never noticed before."
-    n ""
+    n "La mia vista è più acuto, e sono sovrastato da una quantità di odori e suoni che non ho mai notato prima."
 
             
 # game/luka.rpy:2948
 translate italian luka_bad_1_14e3c0e3:
 
     # b "\"Welcome to my coven, [mc].\""
-    b ""
+    b "\"Benvenuto nel mio coven, [mc].\""
 
             
 # game/luka.rpy:2950
 translate italian luka_bad_1_a8fd8a5c:
 
     # n "A strange sensation washes over me when I hear Bishop's voice.{w} Commanding, but soothing, sending a delightful shiver down my spine."
-    n ""
+    n "Una strana sensazione mi assale quando sento la voce di Bishop.{w} Imponente, ma tranquillizzante, mi fa scorrere un piacevole brivido lungo la schiena."
 
             
 # game/luka.rpy:2952
 translate italian luka_bad_1_42c45a50:
 
     # n "I feel compelled to smile."
-    n ""
+    n "Mi sento in dovere di sorridere."
 
             
 # game/luka.rpy:2955
 translate italian luka_bad_1_cd809f0f:
 
     # b "\"Now, if you wish to claim what you've been longing for all this time…\""
-    b ""
+    b "\"Ora, se vuoi reclamare quello che hai desiderato per tutto questo tempo...\""
 
             
 # game/luka.rpy:2957
 translate italian luka_bad_1_bcae179f:
 
     # b "\"Then you have my blessing.\""
-    b ""
+    b "\"Hai la mia benedizione.\""
 
             
 # game/luka.rpy:2960
 translate italian luka_bad_1_c682f5d9:
 
     # lp "\"…!\""
-    lp ""
+    lp "\"...!\""
 
             
 # game/luka.rpy:2964
 translate italian luka_bad_1_d54ba5b3:
 
     # n "As Luka shrinks back into the corner, pretty features frozen in fright, a sense of euphoria washes over me."
-    n ""
+    n "Mentre Luka si si accartoccia in un ancora, i suoi dolci tratti paralizzati dalla paura, percepisco un senso di euforia irradiarsi dentro di me."
 
             
 # game/luka.rpy:2966
 translate italian luka_bad_1_57c52922:
 
     # n "Mine…{w} Luka is mine."
-    n ""
+    n "Mio...{w} Luka è mio."
 
             
 # game/luka.rpy:2968
 translate italian luka_bad_1_fc259d60:
 
     # n "All mine."
-    n ""
+    n "Tutto mio."
 
             
 # game/luka.rpy:2974
 translate italian luka_bad_1_edf26053:
 
     # l "\"[mc]…\""
-    l ""
+    l "\"[mc]…\""
 
             
 # game/luka.rpy:2977
 translate italian luka_bad_1_cac50f5d:
 
     # l "\"[mc], n-no, please…!\""
-    l ""
+    l "\"[mc], n-no, ti prego...!\""
 
             
 # game/luka.rpy:2979
 translate italian luka_bad_1_9c1ac452:
 
     # l "\"You –– you can't ––\""
-    l ""
+    l "\"Tu -- tu non puoi --\""
 
             
 # game/luka.rpy:2981
 translate italian luka_bad_1_b2f28e0c:
 
     # n "What a lovely voice.{w} I want to hear more of it.{w} I want to be the {i}only{/i} one to hear it."
-    n ""
+    n "Che voce adorabile.{w} Voglio sentirla ancora. {w}Voglio essere l'{i}unico{/i} a sentirla."
 
             
 # game/luka.rpy:2983
 translate italian luka_bad_1_5b550112:
 
     # n "He may not know it yet, but my chains will be for his own good –– chains to keep him safe, to let him be loved."
-    n ""
+    n "Potrebbe non saperlo ancora, ma le mie catene saranno per il suo stesso bene -- catene che lo tengono al sicuro, che gli permettono di essere amato."
 
             
 # game/luka.rpy:2989
 translate italian luka_bad_1_f36d8c02:
 
     # n "…One day you'll understand, Luka, and your eyes will be filled with love instead of that cruel fear."
-    n ""
+    n "...Un giorno capirai, Luka, e i tuoi occhi saranno pieni d'amore invece di quel crudele terrore."
 
             
 # game/luka.rpy:2991
 translate italian luka_bad_1_9f7001a1:
 
     # n "So come into my embrace.{w} I won't let you run away from me, the one who loves you most…"
-    n ""
+    n "Quindi vieni nel mio abbraccio. {w}Non ti farò scappare da me, colui che ti ama di più..."
 
             
 # game/luka.rpy:2993
 translate italian luka_bad_1_44d603cc:
 
     # n "Not now, not ever again."
-    n ""
+    n "Né ora, né mai."
 
             
 # game/luka.rpy:3005
 translate italian luka_bad_2_85ec15da:
 
     # n "The next night, it's my turn to call Luka and tell him I don't need an escort."
-    n ""
+    n "Domani notte, sarà il mio turno di chiamare Luka e dirgli che non ho bisogno di un accompagnatore."
 
             
 # game/luka.rpy:3006
 translate italian luka_bad_2_101c0724:
 
     # n "He sounds pretty unhappy about it, but finally agrees, under the condition I call him when I get home safely."
-    n ""
+    n "Sembra così triste a riguardo, ma alla fine accetta, a condizione che io lo chiami quando arrivo a casa sano e salvo."
 
             
 # game/luka.rpy:3009
 translate italian luka_bad_2_c54a5087:
 
     # mcp "\"Silly kid, all worried for me…\""
-    mcp ""
+    mcp "\"Sciocco ragazzino, preoccupato per me...\""
 
             
 # game/luka.rpy:3010
 translate italian luka_bad_2_a8a388ae:
 
     # n "I smirk to myself as I flip the last few burgers of the night.{w} With luck, this'll all pan out, and I'll have a great surprise for him tomorrow."
-    n ""
+    n "Sogghigno mentre giro gli ultimi hamburger della notte.{w} Se la fortuna mi assiste, tutto questo darà i suoi risultati e avrò una bella sopresa per lui domani."
 
             
 # game/luka.rpy:3012
 translate italian luka_bad_2_13e44284:
 
     # n "Just imagine his face when I finally get to tell him the information he wants so badly…"
-    n ""
+    n "Immagina la sua faccia quando finalmente potrò dargli l'infomazione che desidera così tanto..."
 
             
 # game/luka.rpy:3014
 translate italian luka_bad_2_19d794d9:
 
     # u "\"Hey, I said medium-rare, not well-done!\""
-    u ""
+    u "\"Hey ti ho detto cottura media, non ben cotta!\""
 
             
 # game/luka.rpy:3017
 translate italian luka_bad_2_f3abe133:
 
     # mcp "\"O-oh, sorry!\""
-    mcp ""
+    mcp "\"O-oh, mi scusi!\""
 
             
 # game/luka.rpy:3019
 translate italian luka_bad_2_bf05659f:
 
     # n "It's pretty hard for me to stay focused for the rest of my shift, but somehow, I manage."
-    n ""
+    n "Mi risulta parecchio difficile concentrarmi per il resto del mio turno, ma in qualche modo, ci riesco."
 
             
 # game/luka.rpy:3025
 translate italian luka_bad_2_22d7d764:
 
     # n "My legs can't carry me back to my apartment fast enough.{w} Excitement and nervousness bubble in my stomach."
-    n ""
+    n "Le mie gambe non possono portarmi al mio appartamento abbastanza in fretta. L'eccitazione e l'ansia mi ribollono nello stomaco."
 
             
 # game/luka.rpy:3027
 translate italian luka_bad_2_cbdfaeeb:
 
     # n "Who's this mystery informant? What kind of price will he ask?"
-    n ""
+    n "Chi sarà questo misterioso informatore? Quale sarà il suo prezzo?"
 
             
 # game/luka.rpy:3029
 translate italian luka_bad_2_a7d718f9:
 
     # n "…Will it be worth it?"
-    n ""
+    n "...Ne varrà la pena?"
 
             
 # game/luka.rpy:3039
 translate italian luka_bad_2_35a28d4c:
 
     # mc "\"…\""
-    mc ""
+    mc "\"...\""
 
             
 # game/luka.rpy:3040
 translate italian luka_bad_2_1c5afb48:
 
     # n "I burst into my apartment, panting heavily."
-    n ""
+    n "Spalanco la porta dle mio appartamento, ansimando pesantemente."
 
             
 # game/luka.rpy:3042
 translate italian luka_bad_2_eaa52ef5:
 
     # n "He's not here yet. {w} But what if I missed him…?"
-    n ""
+    n "Non è qui. {w} E se fossi in ritardo...?"
 
             
 # game/luka.rpy:3044
 translate italian luka_bad_2_814db925:
 
     # n "No, that can't be right. He knows my apartment number, so I bet he knows my shift hours, too."
-    n ""
+    n "No, non puù essere. Conosce il mio indirizzo, quindi immagino che sappia anche gli orari del mio turno."
 
             
 # game/luka.rpy:3046
 translate italian luka_bad_2_39363d12:
 
     # n "In that case, what if ––"
-    n ""
+    n "In quel cosa, e se -"
 
             
 # game/luka.rpy:3048
 translate italian luka_bad_2_2f4d1fca:
 
     # u "\"No need to worry, [mc]. I haven't been waiting long.\""
-    u ""
+    u "\"Non preoccuparti, [mc]. Non è da tanto che aspetto.\""
 
             
 # game/luka.rpy:3051
 translate italian luka_bad_2_f6007deb:
 
     # mc "\"…!\""
-    mc ""
+    mc "\"...!\""
 
             
 # game/luka.rpy:3054
 translate italian luka_bad_2_2eaaf8b4:
 
     # n "A voice suddenly purrs into my ear from behind."
-    n ""
+    n "Una voce improvvisamente mi sussurra nell'orecchio da dietro."
 
             
 # game/luka.rpy:3055
 translate italian luka_bad_2_db051a20:
 
     # n "I swivel to face its source, sucking in a sharp breath."
-    n ""
+    n "Mi volto rapidamente per vederne la fonte, con un respiro tagliente."
 
             
 # game/luka.rpy:3061
 translate italian luka_bad_2_5ebbd9d0:
 
     # n "Tall, elegant, and wearing a deviously charismatic smile…{w} My mystery informant."
-    n ""
+    n "Alto, elegante, con un sorriso carismatico...{w} Il mio misterioso informatore."
 
             
 # game/luka.rpy:3064
 translate italian luka_bad_2_d3c481dd:
 
     # u "\"Good evening.\""
-    u ""
+    u "\"Buonasera.\""
 
             
 # game/luka.rpy:3066
 translate italian luka_bad_2_e831afc1:
 
     # u "\"I believe we had a meeting scheduled for tonight.\""
-    u ""
+    u "\"Se non sbaglio avevamo un incontro segnato per stanotte.\""
 
             
 # game/luka.rpy:3069
 translate italian luka_bad_2_e2010b03:
 
     # n "My fingers instinctively curl into fists."
-    n ""
+    n "Le mie dita si chiudono istintivamente a pugno."
 
             
 # game/luka.rpy:3070
 translate italian luka_bad_2_f9513d85:
 
     # n "This dark aura, his piercing red eyes…"
-    n ""
+    n "Quest'aura oscura, i suoi penetranti occhi rossi..."
 
             
 # game/luka.rpy:3073
 translate italian luka_bad_2_0d5def82:
 
     # mcp "\"…You're one of {i}them{/i}, aren't you?\""
-    mcp ""
+    mcp "\"...Sei uno di {i}loro{/i}, vero?\""
 
             
 # game/luka.rpy:3076
 translate italian luka_bad_2_7d641d6a:
 
     # u "\"Hmh.\""
-    u ""
+    u "\"Hm.\""
 
             
 # game/luka.rpy:3078
 translate italian luka_bad_2_d6c8d47d:
 
     # u "\"As much as I'd like to play coy and ask what you could possibly mean, I have other places to be tonight, so I'll cut to the chase.\""
-    u ""
+    u "\"Per quanto mi piacerebbe fare lo schivo e chiederti che cosa mai potresti voler dire, ho altre cose da fare stanotte, quindi taglierò corto e arriverò subito al sodo.\""
 
             
 # game/luka.rpy:3080
 translate italian luka_bad_2_de61ca8b:
 
     # n "From the moment he speaks, I have to fight the urge not to duck past him and run."
-    n ""
+    n "Dal momento in cui inizia a parlare, devo combattere l'istinto di scansarlo e scappare."
 
             
 # game/luka.rpy:3081
 translate italian luka_bad_2_da0735c8:
 
     # n "He gives off such a strong, cold atmosphere, like I've been pulled under icy waves."
-    n ""
+    n "Emana un'aria così potente e fredda, come se fossi stato trascinato sotto delle onde gelate."
 
             
 # game/luka.rpy:3084
 translate italian luka_bad_2_77475835:
 
     # mcp "\"Who… are you?\""
-    mcp ""
+    mcp "\"Chi...sei?\""
 
             
 # game/luka.rpy:3088
 translate italian luka_bad_2_b0d57525:
 
     # b "\"I am Bishop, the leader of San Francisco's vampire coven.\""
-    b ""
+    b "\"Sono Bishop, il capo del coven dei vampiri di San Francisco.\""
 
             
 # game/luka.rpy:3090
 translate italian luka_bad_2_f0c17798:
 
     # n "…The coven's leader?{w} No wonder he has such a powerful presence."
-    n ""
+    n "...Il capo del coven? {w} Ovvio che a una presenta così potente allora."
 
             
 # game/luka.rpy:3093
 translate italian luka_bad_2_d63b7e90:
 
     # mcp "\"Is that why you know about David's kidnapper? He's one of your vampires?\""
-    mcp ""
+    mcp "\"É per questo che conosci il rapitore di David? É uno dei tuoi vampiri?\""
 
             
 # game/luka.rpy:3096
