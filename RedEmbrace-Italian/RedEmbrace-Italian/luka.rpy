@@ -7682,217 +7682,217 @@ translate italian luka_bad_2_d487da73:
 translate italian luka_bad_2_a0d9f199:
 
     # mcp "\"I… I…\""
-    mcp ""
+    mcp "\"Io... io...\""
 
             
 # game/luka.rpy:3165
 translate italian luka_bad_2_ce7018a7:
 
     # n "Should I really ––{w} can I really do this?"
-    n ""
+    n "Dovrei davvero --{w} potrei davvero farlo?"
 
             
 # game/luka.rpy:3166
 translate italian luka_bad_2_ae4efa95:
 
     # n "I want to, but for some reason, it feels like I'm in a dream, and I don't know what'll happen after I wake up…"
-    n ""
+    n "Vorrei, ma per qualche motivo, mi sento come in un sogno, e non so cosa succederà dopo che mi sarò svegliato..."
 
             
 # game/luka.rpy:3169
 translate italian luka_bad_2_a72b7bae:
 
     # b "\"He {i}needs{/i} you to look out for him, to love him, to protect him.\""
-    b ""
+    b "\"Lui ha {i}bisgno{/i} che tu ti prenda cura di lui, che tu lo ami, che tu lo protegga.\""
 
             
 # game/luka.rpy:3171
 translate italian luka_bad_2_cd40422c:
 
     # n "…I weakly nod."
-    n ""
+    n "...Annuisco debolmente."
 
             
 # game/luka.rpy:3174
 translate italian luka_bad_2_3a74e1e2:
 
     # b "\"Then the choice is easy, isn't it?\""
-    b ""
+    b "\"Allora la scelta è facile, no?\""
 
             
 # game/luka.rpy:3176
 translate italian luka_bad_2_307b6f39:
 
     # b "\"The only thing you have to do is say yes.\""
-    b ""
+    b "\"L'unica cosa che devi fare è dire 'sì'.\""
 
             
 # game/luka.rpy:3178
 translate italian luka_bad_2_23237d4f:
 
     # n "To say yes ––{w}{w=0.4} to say yes –– {w}{w=0.4} to say ––"
-    n ""
+    n "É dire 'sì'--{w}{w=0.4} dire 'sì' -- {w}{w=0.4} dire --"
 
             
 # game/luka.rpy:3181
 translate italian luka_bad_2_4f46a46b_1:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/luka.rpy:3184
 translate italian luka_bad_2_8c82da0b:
 
     # mcp "\"…Yes.\""
-    mcp ""
+    mcp "\"...Sì.\""
 
             
 # game/luka.rpy:3187
 translate italian luka_bad_2_6d452698:
 
     # b "\"Good boy.\""
-    b ""
+    b "\"Che bravo.\""
 
             
 # game/luka.rpy:3188
 translate italian luka_bad_2_89dffb93:
 
     # n "His hand strokes through my hair, a heavenly touch."
-    n ""
+    n "La sua mano mi accarezza i capelli, un tocco paradisiaco."
 
             
 # game/luka.rpy:3191
 translate italian luka_bad_2_77ae7cb8:
 
     # b "\"Close your eyes, [mc], and relax.\""
-    b ""
+    b "\"Chiudi gli occhi, [mc],e rilsatti.\""
 
             
 # game/luka.rpy:3195
 translate italian luka_bad_2_38735f19:
 
     # n "I obey silently, tilting my head back and letting the tension free from my body."
-    n ""
+    n "Obbedisco in silenzio, inclinando la testa all'indietro e lasciando che la tensione sparisca dal mio corpo."
 
             
 # game/luka.rpy:3196
 translate italian luka_bad_2_fbfc3d86:
 
     # n "With these arms around me, I know there's nothing to be afraid of."
-    n ""
+    n "Con le sue braccia attorno a me, so che non c'è nulla di cui avere paura."
 
             
 # game/luka.rpy:3204
 translate italian luka_bad_2_121694cc:
 
     # mc "\"A-aah…!\""
-    mc ""
+    mc "\"A-aah...!\""
 
             
 # game/luka.rpy:3205
 translate italian luka_bad_2_51b97eec:
 
     # n "Sharp fangs suddenly pierce into my throat."
-    n ""
+    n "Degli affilati canini mi penetrano la gola all'improvviso."
 
             
 # game/luka.rpy:3207
 translate italian luka_bad_2_3479e241:
 
     # n "A horrible pain, and then a strange, indescribable pleasure…"
-    n ""
+    n "Un dolore terribile, poi.. uno strano e indescrivibile piacere..."
 
             
 # game/luka.rpy:3209
 translate italian luka_bad_2_34ba491e:
 
     # mc "\"Nnh…\""
-    mc ""
+    mc "\"Nnh...\""
 
             
 # game/luka.rpy:3214
 translate italian luka_bad_2_205b6a74:
 
     # n "Bishop's embrace tightens.{w} The life slowly drains from my body, bit by bit, replaced with pure bliss."
-    n ""
+    n "L'abbraccio di Bishop si fa più stringente.{w} La vita viene lentamente succhiata via dal mio corpo, goccia per goccia, rimpiazzata da pura beatitudine."
 
             
 # game/luka.rpy:3216
 translate italian luka_bad_2_776b5871:
 
     # n "I start to let go of my consciousness, slipping towards a peaceful dark."
-    n ""
+    n "Inizio a lasciare andare la mia coscienza, scivolando in un placido buio."
 
             
 # game/luka.rpy:3218
 translate italian luka_bad_2_b3054b4e:
 
     # n "…Until cold skin presses against my lips, forcing something onto my tongue."
-    n ""
+    n "...Finché della pelle fredda non mi preme contro le labbra, costringendomi a fare entrare qualcosa nella mia bocca."
 
             
 # game/luka.rpy:3219
 translate italian luka_bad_2_2ce1969e:
 
     # n "Sweet and metallic –– strange at first, then delicious, then addicting."
-    n ""
+    n "Dolce e metallico -- strano all'inizio, poi delizioso, e dopo ancora... una droga."
 
             
 # game/luka.rpy:3221
 translate italian luka_bad_2_d4887381:
 
     # n "I swallow it greedily.{w} More of it flows down my throat, and it {i}burns{/i}, horribly and wonderfully."
-    n ""
+    n "Lo ingoio avaramente.{w} Lungo la mia gola ne scende ancora, e {i}brucia{/i}, piacevolmente e magnificamente."
 
             
 # game/luka.rpy:3223
 translate italian luka_bad_2_be8b8cdf:
 
     # n "…It isn't until I've gulped down mouthfuls of the sweet liquid that I can finally open my eyes."
-    n ""
+    n "...Solo dopo aver trangugiato fino all'ultima goccia del dolce liquido, riesco finalmente ad aprire gli occhi."
 
             
 # game/luka.rpy:3228
 translate italian luka_bad_2_73cf1261:
 
     # n "I'm still here, still myself, still alive…?"
-    n ""
+    n "Sono ancora qui, sono ancora me stesse, sono ancora vivo...?"
 
             
 # game/luka.rpy:3232
 translate italian luka_bad_2_4f46a46b_2:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"…\""
 
             
 # game/luka.rpy:3234
 translate italian luka_bad_2_a20fb431:
 
     # n "…No, not alive."
-    n ""
+    n "...No, non vivo."
 
             
 # game/luka.rpy:3235
 translate italian luka_bad_2_361d1fe4:
 
     # n "I have no heartbeat, no need to breathe, even though my chest rises and falls out of habit."
-    n ""
+    n "Il mio cuore non batte, non ho bisogno di respirare, anche se il mio petto si alza e si abbassa per l'abitudine."
 
             
 # game/luka.rpy:3236
 translate italian luka_bad_2_c9bb5e2e:
 
     # n "My vision is sharper, and I'm overwhelmed with a rush of scents and sounds I never noticed before."
-    n ""
+    n "La mia vista è più acuto, e sono sovrastato da una quantità di odori e suoni che non ho mai notato prima."
 
             
 # game/luka.rpy:3241
 translate italian luka_bad_2_413598cb:
 
     # b "\"You take to our beautiful affliction just as well I thought you might, [mc].\""
-    b ""
+    b "\"Sopporto bene il nostro meraviglioso dolore proprio come pensavo, [mc].\""
 
             
 # game/luka.rpy:3243
