@@ -7080,7 +7080,7 @@ translate italian luka_bad_1_34ba491e:
 translate italian luka_bad_1_205b6a74:
 
     # n "Bishop's embrace tightens.{w} The life slowly drains from my body, bit by bit, replaced with pure bliss."
-    n "La stretta di Bishop di si fa più stringente.{w} La vita viene lentamente succhiata via dal mio corpo, goccia per goccia, rimpiazzata da pura beatitudine."
+    n "L'abbraccio di Bishop si fa più stringente.{w} La vita viene lentamente succhiata via dal mio corpo, goccia per goccia, rimpiazzata da pura beatitudine."
 
             
 # game/luka.rpy:2922
@@ -7514,168 +7514,168 @@ translate italian luka_bad_2_d63b7e90:
 translate italian luka_bad_2_b2d47d68:
 
     # b "\"Precisely. I'm glad you catch on quickly, [mc].\""
-    b ""
+    b "\"Esattamente. Vedo che afferi subito, [mc].\""
 
             
 # game/luka.rpy:3098
 translate italian luka_bad_2_cbc3ce3a:
 
     # b "\"Now, forgive my directness, but…\""
-    b ""
+    b "\"Ora, scusami se sono troppo diretto, ma...\""
 
             
 # game/luka.rpy:3105
 translate italian luka_bad_2_296b215a:
 
     # mcp "\"Ngh––!\""
-    mcp ""
+    mcp "\"Ngh--!\""
 
             
 # game/luka.rpy:3106
 translate italian luka_bad_2_30ece961:
 
     # n "Before I can get out another question, Bishop swiftly steps forward, curling an arm around my waist and pulling me against him."
-    n ""
+    n "Prima che possa domandare altro, Bishop si muove rapidamente verso di me, circondandomi la vita con un braccio e tirandomi verso di lui."
 
             
 # game/luka.rpy:3112
 translate italian luka_bad_2_4fafc8b2:
 
     # n "My first instinct is to struggle or throw a punch at his face ––"
-    n ""
+    n "Ilmio primo istinto è cercare di divincolarmi o dargli un pugno in faccia --"
 
             
 # game/luka.rpy:3114
 translate italian luka_bad_2_89da9e0a:
 
     # n "But when I look into his eyes, my anger fades almost instantly."
-    n ""
+    n "Ma quando lo guardo negli occhi, la mia rabbia svanisce quasi istantaneamente."
 
             
 # game/luka.rpy:3116
 translate italian luka_bad_2_60d70668:
 
     # n "My first instinct is to cry out for help ––"
-    n ""
+    n "Il mio primo istinto è chiedere aiuto --"
 
             
 # game/luka.rpy:3118
 translate italian luka_bad_2_fe92b8ab:
 
     # n "But when I look into his eyes, my fear fades almost instantly."
-    n ""
+    n "Ma quando lo guardo negli occhi, la mia paura svanisce quasi istantaneamente."
 
             
 # game/luka.rpy:3120
 translate italian luka_bad_2_4946b3fd:
 
     # n "Red pools that endlessly swirl and gleam, pulling me in…"
-    n ""
+    n "Piscine cremisi che vortinaco e brilano incessantemente, trascinandomici..."
 
             
 # game/luka.rpy:3122
 translate italian luka_bad_2_d57c0226:
 
     # n "Why can't I look away?"
-    n ""
+    n "Perché non riesco a distogliere lo sguardo?"
 
             
 # game/luka.rpy:3125
 translate italian luka_bad_2_bc33046d:
 
     # b "\"I know how you feel about Luka.\""
-    b ""
+    b "\"So cosa provi per Luka.\""
 
             
 # game/luka.rpy:3126
 translate italian luka_bad_2_1390a8c5:
 
     # b "\"I know how much you want his trust… how much you want to make him happy.\""
-    b ""
+    b "\"So quanto desideri la sua fiducia... quanto tu voglia renderlo felice.\""
 
             
 # game/luka.rpy:3129
 translate italian luka_bad_2_1818cfec:
 
     # mcp "\"How… do you…\""
-    mcp ""
+    mcp "\"Come... fai...\""
 
             
 # game/luka.rpy:3131
 translate italian luka_bad_2_090edfa5:
 
     # n "My voice is thin, distant.{w} Everything he says is true –– it's like he can see right through me."
-    n ""
+    n "La mia voce è fioca, distante.{w} Tutto quello che dice è vero - è come se riuscisse a leggermi dentro."
 
             
 # game/luka.rpy:3133
 translate italian luka_bad_2_7c31a186:
 
     # n "But his eyes…{w} They're so mesmerizing, so comforting, so…"
-    n ""
+    n "Ma i suoi occhi...{w}Sono così ipnotizzanti, così confortanti, così..."
 
             
 # game/luka.rpy:3136
 translate italian luka_bad_2_080ca20f:
 
     # b "\"But it's dangerous, isn't it? The two of you against a big, bad vampire, who might just take one of you as a new pet to replace David…\""
-    b ""
+    b "\"Ma è pericolo, giusto? Voi due contro un vampiro grande e cattivo, che potrebbe tranquillamente prendere uno di voi come nuovo cagnolino per rimpiazzare David...\""
 
             
 # game/luka.rpy:3138
 translate italian luka_bad_2_6a229aa3:
 
     # b "\"So what if there was another way to have Luka, [mc]?\""
-    b ""
+    b "\"E se ci fosse un altro modo per avere Luka, [mc]?\""
 
             
 # game/luka.rpy:3141
 translate italian luka_bad_2_8d8672c6:
 
     # b "\"Another way to make him happy… and to make him yours?\""
-    b ""
+    b "\"Un altro modo per renderlo felice... e farlo tuo?\""
 
             
 # game/luka.rpy:3146
 translate italian luka_bad_2_4f46a46b:
 
     # mcp "\"…\""
-    mcp ""
+    mcp "\"...\""
 
             
 # game/luka.rpy:3148
 translate italian luka_bad_2_5095d7cd:
 
     # n "His voice drips warmly into my ear, coaxing, soothing."
-    n ""
+    n "La sua voce gocciola nel mio orecchio, calda, persuadente, rilassante."
 
             
 # game/luka.rpy:3150
 translate italian luka_bad_2_cb66459d:
 
     # n "To make Luka mine…{w} Yes, that's what I want."
-    n ""
+    n "Fare mio Luka... {w} Sì, è quello che voglio."
 
             
 # game/luka.rpy:3155
 translate italian luka_bad_2_f67f60c7:
 
     # b "\"Join me.\""
-    b ""
+    b "\"Unisciti a me.\""
 
             
 # game/luka.rpy:3157
 translate italian luka_bad_2_a06d946d:
 
     # b "\"Accept the embrace into my coven, and Luka will be yours forever.\""
-    b ""
+    b "\"Accetta l'abbraccio ed entra nel mio coven e Luka sarà tuo per sempre.\""
 
             
 # game/luka.rpy:3160
 translate italian luka_bad_2_d487da73:
 
     # mcp "\"Accept the… embrace…?\""
-    mcp ""
+    mcp "\"Accetta... l'abbraccio...?\""
 
             
 # game/luka.rpy:3163
