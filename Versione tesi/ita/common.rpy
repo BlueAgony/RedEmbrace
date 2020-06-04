@@ -1,0 +1,4188 @@
+# game/common.rpy:24
+translate italian start_45a93aae:
+
+    n "…Un'altra normale notte a San Francisco."
+
+
+# game/common.rpy:25
+translate italian start_3929f5f4:
+
+    n "Di solito non ci sono molti clienti a quest'ora. {w}Solo qualche drogato o tizio ubriaco che si prende un hamburger per cercare di smaltire la sbornia."
+
+
+# game/common.rpy:27
+translate italian start_8d2c1ff9:
+
+    n "Ed eccomi qui, a fissare il frullatore che gira rumorosamente, annoiato a morte…"
+
+
+# game/common.rpy:29
+translate italian start_58e77ce3:
+
+    n "La solita routine."
+
+
+# game/common.rpy:41
+translate italian start_63aef1c8:
+
+    n "Alzo lo sguardo quando le porte della cucina all'improvviso si spalancano."
+
+
+# game/common.rpy:43
+translate italian start_c9bde788:
+
+    n "È Troy, il mio capo."
+
+
+# game/common.rpy:44
+translate italian start_830d5842:
+
+    n "Mi rivolge un saluto felice e sorride, dalla sua espressione capisco già che sta per chiamarmi con la sua amichevole voce-"
+
+
+# game/common.rpy:60
+translate italian strings:
+
+    new "Non è il mio nome!"
+
+
+# game/common.rpy:65
+translate italian strings:
+
+    new "Cosa? No! Riprova."
+
+
+# game/common.rpy:77
+translate italian common_3b8fb9fc:
+
+    t "\"Ehi [mc]! Son contento che hai deciso di venire prima.\""
+
+
+# game/common.rpy:80
+translate italian common_41561284:
+
+    mc "\"…Certo, Capo. Non c'è problema.\""
+
+
+# game/common.rpy:81
+translate italian common_9d5d0cee:
+
+    n "Probabilmente non dovrei dirgli che ho semplicemente bisogno di qualche soldo in più."
+
+
+# game/common.rpy:82
+translate italian common_c0916b01:
+
+    n "Voglio dire, pensa che venga qua a {i}divertirmi{/i}?"
+
+
+# game/common.rpy:83
+translate italian common_82d8036e:
+
+    t "\"Un po' lenta la situazione ora, eh?\""
+
+
+# game/common.rpy:84
+translate italian common_ae6faf7e:
+
+    t "\"Vabbè, tieni giusto il posto pulito finché non viene qualcuno.\""
+
+
+# game/common.rpy:85
+translate italian common_cf8cf824:
+
+    t "\"Sono sul retro se hai bisogno.\""
+
+
+# game/common.rpy:87
+translate italian common_86037ede:
+
+    mc "\"OK.\""
+
+
+# game/common.rpy:89
+translate italian common_f7f79d98:
+
+    n "E così, Troy torna a scomparire in cucina, lasciandomi di nuovo solo."
+
+
+# game/common.rpy:94
+translate italian common_85935e82:
+
+    n "Cavolo, dovrebbero chiamarlo il   \"turno dei morti \"…"
+
+
+# game/common.rpy:95
+translate italian common_6d8b2906:
+
+    n "A volte mi sembra di fare il guardiano in un cimitero. Un cimitero che puzza di unto ."
+
+
+# game/common.rpy:99
+translate italian common_35a28d4c:
+
+    mc "\"…\""
+
+
+# game/common.rpy:103
+translate italian common_0c137dcd:
+
+    n "Sospirando, prendo uno straccio e inizio a passarlo sul bancone.""
+
+
+# game/common.rpy:104
+translate italian common_f9f5dd9c:
+
+    n "Sarà una lunga serata."
+
+
+# game/common.rpy:110
+translate italian common_807be6ff:
+
+    mcp "\"…?\""
+
+
+# game/common.rpy:111
+translate italian common_86072c28:
+
+    n "In quel momento - {w}Mi rendo conto che c'è un cliente a uno dei tavoli."
+
+
+# game/common.rpy:112
+translate italian common_f894e407:
+
+    n "…Quando è arrivato? {w}Sono sicuro di non averlo visto entrare."
+
+
+# game/common.rpy:113
+translate italian common_2b90168d:
+
+    n "È un ragazzo con una felpa scura e una postura leggermente curva. Probabilmente ha circa la mia età, magari uno o due anni più grande."
+
+
+# game/common.rpy:114
+translate italian common_cd5dd5c0:
+
+    n "Nonostane sia seduto, si capisce che è piuttosto alto. Sotto la giacca larga si intuisce la presenza in un corpo minacciosamente muscoloso." 
+
+
+# game/common.rpy:119
+translate italian common_f12a2e42:
+
+    n "Beh, losco o meno, un cliente è sempre un cliente. {w}Prendo un menù sotto il braccio ed esco da dietro il bancone, dirigendomi verso di lui. "
+
+
+# game/common.rpy:123
+translate italian common_8479b4f3:
+
+    u "\"…\""
+
+
+# game/common.rpy:124
+translate italian common_e36b7b56:
+
+    n "Alza lo sguardo quando mi avvicino, i suoi luminosi occhi blu mi scrutano con attenzione."
+
+
+# game/common.rpy:126
+translate italian common_e9bd2ed0:
+
+    n "Eppure non dice nulla.{w} Mi fissa e basta." 
+
+
+# game/common.rpy:128
+translate italian common_7f77a406:
+
+    n "…Ma che cavolo? Sta uscendo da qualche brutto trip o cosa?{w} O magari è solo un altro ragazzino maleducato."
+
+
+# game/common.rpy:131
+translate italian strings:
+
+    new "Salutalo cordialmente"
+
+
+# game/common.rpy:131
+translate italian strings:
+
+    new "Chiedi cosa vuole"
+
+
+# game/common.rpy:139
+translate italian common_9c2f4144:
+
+    n "Mostrando il mio sorriso più caloroso, poggio il menù sul tavolo."
+
+
+# game/common.rpy:143
+translate italian common_6d2f8c64:
+
+    mcp "\Salve, signore. Posso portarle qualcosa? Una coca, un hamburger, un milkshake?\"
+
+
+# game/common.rpy:147
+translate italian common_76335e7c:
+
+    u "\"…!\""
+
+
+# game/common.rpy:148
+translate italian common_36160454:
+
+    n "Il ragazzo sgrana gli occhi, sorpreso dalle mie parole."
+
+
+# game/common.rpy:150
+translate italian common_799ec740:
+
+    n "…Ho detto qualcosa di strano? {w}Non mi sembra di essere stato troppo amichevole… Forse dovevo approcciarmi con più naturalezza."
+
+
+# game/common.rpy:159
+translate italian common_3a6cdb55:
+
+    n "Infastidito dal comportamento di questo tizio, trattengo l'instinto di alzare gli occhi al cielo e mi schiarisco la gola."
+
+
+# game/common.rpy:163
+translate italian common_dfee9048:
+
+    mcp "\"Perché sei qui? Vuoi un caffè? Un hamburger? O ti serviva solo un posto per smaltire la sbornia prima di tornare a casa dalla tua ragazza?\""
+
+
+# game/common.rpy:165
+translate italian common_0d56ca6e:
+
+    mcp "\"Se cerchi un posto per rannicchiarti e schiacciare un pisolino, dicono che le fermate degli autobus siano davvero confortevoli.\""
+
+
+# game/common.rpy:168
+translate italian common_8479b4f3_1:
+
+    u "\"…\""
+
+
+# game/common.rpy:169
+translate italian common_e6d2ae0b:
+
+    n "Il ragazzo emette un leggero sospiro, fissandomi ancora per un secondo."
+
+
+# game/common.rpy:175
+translate italian common_a4c4ca21:
+
+    u "\"…Solo un caffè.\""
+
+
+# game/common.rpy:176
+translate italian common_dd87acc5:
+
+    n "Mormorando una risposta, finalmente distoglie lo sguardo dalla mia faccia."
+
+
+# game/common.rpy:177
+translate italian common_56005062:
+
+    n "La sua voce è profonda e roca. Non è fastidiosa, ma lo fa suonare più vecchio di quello che sembra."
+
+
+# game/common.rpy:179
+translate italian common_7aa35692:
+
+    n "Perché sembra così teso? {w}Mi chiedo se abbia un motivo per fare il cupo o se sia semplicemente fatto così… "
+
+
+# game/common.rpy:186
+translate italian common_2eff4a13:
+
+    mcp "\"Un caffè, allora. Torno subito!\""
+
+
+# game/common.rpy:189
+translate italian common_6d80813d:
+
+    mcp "\"Caffè. Ok.\""
+
+
+# game/common.rpy:193
+translate italian common_c89e5ee3:
+
+    n "Mi giro per tornare in cucina, domandandomi se questo tizio lascerà almeno una mancia."
+
+
+# game/common.rpy:194
+translate italian common_0f79be50:
+
+    n "Ma prima che io possa anche solo fare un passo -"
+
+
+# game/common.rpy:202
+translate italian common_d20d0a43:
+
+    mcp "\"…!\"
+
+
+# game/common.rpy:203
+translate italian common_133d277b:
+
+    n "Una mano afferra la mia maglietta, trattenendomi."
+
+
+# game/common.rpy:209
+translate italian common_4e74f869:
+
+    n "Confuso, getto un'occhiata da sopra la spalla verso il ragazzo, che mi guarda con le palpebre socchiuse."
+
+
+# game/common.rpy:212
+translate italian common_127ce949:
+
+    u "\"…È venuto qualcun altro qui stanotte?\""
+
+
+# game/common.rpy:213
+translate italian common_ae7c0d47:
+
+    u "\"Un uomo con una giacca di pelle… e un tatuaggio sulla guancia.\""
+
+
+# game/common.rpy:214
+translate italian common_c4bf9b71:
+
+    n "Sussura, fissandomi così intensamente da farmi venire un groppo in gola che cerco nervosamente di buttare giù."
+
+
+# game/common.rpy:216
+translate italian common_4b4fb043:
+
+    n "Merda. Forse mi sarei dovuto sforzare per essere un po' più cordiale prima."
+
+
+# game/common.rpy:217
+translate italian common_722b2816:
+
+    n "Troy, sarebbe proprio perfetto se adessi uscissi dalla cucina…!"
+
+
+# game/common.rpy:222
+translate italian common_d5f0ae71:
+
+    mcp "\"N-no, non è venuto nessuno del genere stanotte. Perché?\""
+
+
+# game/common.rpy:228
+translate italian common_8479b4f3_2:
+
+    u "\"…\""
+
+
+# game/common.rpy:231
+translate italian common_21d24073:
+
+    n "Alla mia risposta, si lascia cadere sui cuscini della seduta, chiudendo la mano in uno stretto pugno."
+
+
+# game/common.rpy:233
+translate italian common_3704236e:
+
+    n "…Dopo qualche secondo, tira fuori una sigaretta dalla tasca e la stringe fra i denti."
+
+
+# game/common.rpy:235
+translate italian common_3cefe4b8:
+
+    n "La fiamma del suo accendino brilla brevemente sui suoi luminosi occhi blu, uno sguardo colpevole appare sul suo viso."
+
+
+# game/common.rpy:246
+translate italian common_0e9b3b6f:
+
+    u "\"…Scusa\""
+
+
+# game/common.rpy:247
+translate italian common_709687f7:
+
+    u "\"Me ne vado.\""
+
+
+# game/common.rpy:248
+translate italian common_03a355ff:
+
+    n "Borbottando sottovoce, inizia a cercare di alzarsi dalla panca- "
+
+
+# game/common.rpy:254
+translate italian common_be4e5e35:
+
+    extend " ma alzo velocemente il braccio per bloccarlo."
+
+
+# game/common.rpy:258
+translate italian common_76335e7c_1:
+
+    u "\"…!\""
+
+
+# game/common.rpy:261
+translate italian common_fdf46277:
+
+    mc "\"Rimani almeno finché non finisci il caffè!\""
+
+
+# game/common.rpy:264
+translate italian common_b85248aa:
+
+    mc "\"È piuttosto maleducato entrare in una tavolacalda  e andarsene senza ordinare nulla, dopotutto.\""
+
+
+# game/common.rpy:266
+translate italian common_f5d4d284:
+
+    n "È un cliente un po' strano, ma in un certo senso sono curioso di capire perché sia così a disagio…"
+
+
+# game/common.rpy:267
+translate italian common_42dab4ff:
+
+    n "E poi, è la cosa più interessante che sia mai successa durante uno dei miei turni."
+
+
+# game/common.rpy:272
+translate italian common_8479b4f3_3:
+
+    u "\"…\""
+
+
+# game/common.rpy:273
+translate italian common_0621d07b:
+
+    n "Il ragazzo esita, studiandomi con uno sguardo sospettoso."
+
+
+# game/common.rpy:274
+translate italian common_9b6a98df:
+
+    n "Forse pensa che sto con quel tizio con la giacca in pelle che lo agita tanto. Devono avere un bel passato insieme."
+
+
+# game/common.rpy:276
+translate italian strings:
+
+    new "Alza le spalle con nonchalance."
+
+
+# game/common.rpy:276
+translate italian strings:
+
+    new "Calmalo."
+
+
+# game/common.rpy:284
+translate italian common_c15147b0:
+
+    n "Alzo le spalle con nonchalance."
+
+
+# game/common.rpy:285
+translate italian common_a1dca31a:
+
+    mc "\"Senti, non voglio avere nulla a che fare con il votro litigio o quello che è.\""
+
+
+# game/common.rpy:286
+translate italian common_5dc5ae71:
+
+    mc "\"Sto solo cercado di guadagnarmi qualche mancia, d'accordo? Calmati."
+
+
+# game/common.rpy:296
+translate italian common_12223ec7:
+
+    n "Scuoto leggermente la testa, lasciando andare un sospiro tollerante."
+
+
+# game/common.rpy:297
+translate italian common_08c936ea:
+
+    mc "\"Tranquillo, non ho idea di chi sia Mr. Faccia-Tatuata.\""
+
+
+# game/common.rpy:298
+translate italian common_52ec84d1:
+
+    mc "\"Ma il mio capo si arrabbierebbe con me se non chiedessi a un cliente di restare, quindi… perché non rimani ancora un po'?\""
+
+
+# game/common.rpy:304
+translate italian common_8479b4f3_4:
+
+    u "\"…\""
+
+
+# game/common.rpy:305
+translate italian common_3ce8e8bc:
+
+    n "Rimane fermo ancora qualche secondo. I suoi occhi blu penetrano dentro di me con fare inquisitorio, come se stesse cercando di carpire le mie vere intenzioni."
+
+
+# game/common.rpy:309
+translate italian common_f506ff2c:
+
+    n "…Ma finalmente, si siede di nuovo sulla panca, annuendo con riluttanza."
+
+
+# game/common.rpy:314
+translate italian common_166d288e:
+
+    mc "\"Ti faccio quel caffè, allora.\""
+
+
+# game/common.rpy:316
+translate italian common_e7248d1c:
+
+    mc "\"Non scappare via mentre non ci sono!\""
+
+
+# game/common.rpy:321
+translate italian common_761e7dff:
+
+    udp "\"…D'accordo.\""
+
+
+# game/common.rpy:327
+translate italian common_7e4e4ecb:
+
+    n "E così, mi affretto in direzione della cucina, mettendo su una caraffa  di caffè fresco."  
+
+
+# game/common.rpy:328
+translate italian common_2194a0b7:
+
+    n "Troy è al telefono, sta chiacchierando con la sua nuova ragazza, quindi non posso chiedergli se conosce quel tizio. "
+
+
+# game/common.rpy:332
+translate italian common_f0c97f61:
+
+    n "Un cliente strano, persino per quest'ora della notte, eppure…{w}non sembra una brutta persona."
+
+
+# game/common.rpy:333
+translate italian common_4a481687:
+
+    n "Non voglio giocare a fare lo psicologo o altro, ma una parte di me vuole chiedergli come mai è tanto agitato. Però, perché dovrebbe dirlo ad uno sconosciuto?"
+
+
+# game/common.rpy:339
+translate italian common_00be03fb:
+
+    n "Una volta pronto il caffè, prendo la tazza e ritorno al tavolo, latte e zucchero ficcati sotto il braccio libero."
+
+
+# game/common.rpy:345
+translate italian common_62550a91:
+
+    n "-Sorprendentemente, il ragazzo è ancora lì."
+
+
+# game/common.rpy:347
+translate italian common_144ef2a0:
+
+    n "Aveva lo sguardo perso nel vuoto, ma quando mi avvicino, la sua testa si gira rapidamente verso di me."
+
+
+# game/common.rpy:352
+translate italian common_31e5275b:
+
+    u "\"…Grazie.\""
+
+
+# game/common.rpy:353
+translate italian common_1c8f5ae5:
+
+n "Borbotta con imbarazzo, togliendosi la sigaretta dalle labbra e spegnendola nel posacenere."                                                                   
+
+
+# game/common.rpy:364
+translate italian common_168b749f:
+
+    mc "\"Nessun problema.\""
+
+
+# game/common.rpy:366
+translate italian common_f7de221e:
+
+    n "Appoggio il caffè, il latte e lo zucchero davanti a lui."
+
+
+# game/common.rpy:369
+translate italian common_89d041cf:
+
+    n "…Ma rimane quasi imbambolato a fissare il tavolo, come se non fosse sicuro di cosa fare."
+
+
+# game/common.rpy:374
+translate italian common_3ab4b1a0:
+
+    mc "\"Vuoi che, ehm, te lo mescoli io? Il latte e lo zucchero, intendo.\""
+
+
+# game/common.rpy:378
+translate italian common_8479b4f3_5:
+
+    u "\"…\""
+
+
+# game/common.rpy:383
+translate italian common_3000b5c0:
+
+    n "La mia offerta gli fa spalancare gli occhi, ma dopo una breve pausa, annuisce rigidamente  ."
+
+
+# game/common.rpy:385
+translate italian common_21dabce9:
+
+    n "…Ma questo tizio ha mai bevuto un caffè?"
+
+
+# game/common.rpy:387
+translate italian common_96e41956:
+
+    n "Beh, chi se ne frega. Io mi devo guadagnare le mie mance alla fine, no?"
+
+
+# game/common.rpy:389
+translate italian common_7c659794:
+
+    n "Hm. Beh, non è davvero un problema per me, anche se è passato un po' di tempo dall'ultima volta che un cliente me l'ha chiesto."
+
+
+# game/common.rpy:394
+translate italian common_9ee5d2d6:
+
+    n "Afferro il latte e ne verso un po' nella tazza, mescolando fino a far diventare il liquido scuro di un bel color caramello."
+
+
+# game/common.rpy:395
+translate italian common_058d1703:
+
+    n "Dopo aver fatto sciogliere anche qualche chucchiaino di zucchero, gli porgo il caffé con trepidazione."
+
+
+# game/common.rpy:400
+translate italian common_a5360eb2:
+
+    mcp "\"Non è fatto con la French press, ma non è nemmeno veleno. Dai, bevi.\""
+
+
+# game/common.rpy:404
+translate italian common_8479b4f3_6:
+
+    u "\"…\""
+
+
+# game/common.rpy:405
+translate italian common_718f0231:
+
+    n "Prende in mano la tazza e la porta alle labbra, apparendo molto incerto sul da farsi."
+
+
+# game/common.rpy:410
+translate italian common_e1b7de8f:
+
+    n "-Dopo aver buttato giù un bel sorso, sbatte le palpebre, e un’espressione di sorpresa gli si dipinge sul viso."
+
+
+# game/common.rpy:412
+translate italian common_236481ed:
+
+    u "\"…È dolce.\""
+
+
+# game/common.rpy:416
+translate italian common_16f87600:
+
+    mcp "\"Oh, ho messo troppo zucchero? Posso fartene un'altra tazza, se v-\""
+
+
+# game/common.rpy:420
+translate italian common_07f02e0a:
+
+    u "\"No, va bene così. Mi piace.\""
+
+
+# game/common.rpy:422
+translate italian common_7a545102:
+
+    n "Con mio stupore, le labbra del ragazzo si aprono in un sorriso accennato."
+
+
+# game/common.rpy:423
+translate italian common_3e530899:
+
+    n "Lo sguardo dei suoi occhi blu si addolcisce lievemente. Sembra molto meno minaccioso ora."
+
+
+# game/common.rpy:425
+translate italian common_fa712259:
+
+    n "…È proprio un tipo strambo."
+
+
+# game/common.rpy:426
+translate italian common_d826dbe6:
+
+    n "Strambo, ma in un certo senso affasciante, a suo modo. {w}Uno di questa stazza che non sa bere un caffè…"
+
+
+# game/common.rpy:436
+translate italian common_d20d0a43_1:
+
+    mcp "\"…!\""
+
+
+# game/common.rpy:437
+translate italian common_a8ca7439:
+
+    n "-Proprio in quel momento, le porte della tavola calda  si spalancano all'improvviso."
+
+
+# game/common.rpy:438
+translate italian common_db886048:
+
+    n "Una ragazza bionda si dirige a lunghi passi verso il bancone, buttandosi poi su uno degli sgabelli con un rumoso sospiro."
+
+
+# game/common.rpy:456
+translate italian common_42cd3b34:
+
+    mc "\"Ah, gli affari vanno a gonfie vele come al solito. Devo andare a vedere cosa vuole, ma…\""
+
+
+# game/common.rpy:460
+translate italian common_a25df1b0:
+
+    mc "\"Se vuoi dell'altro caffè, o semplicemente qualcuno su cui rovesciare le tu ansie, fammi sapere, ok? Ci si sente piuttosto soli qui alle volte.\""
+
+
+# game/common.rpy:462
+translate italian common_c2c9ade1:
+
+    mc "\"Ah, scusami. Fammi sapere se hai bisogno di qualcos'altro.\""  
+
+
+# game/common.rpy:463
+translate italian common_8dc856d2:
+
+    n "Mi scuso con il mio nuovo 'amico', il cui sguardo è tornato impassibile."
+
+
+# game/common.rpy:467
+translate italian common_b8d6973d:
+
+    u "\"Certo.\""
+
+
+# game/common.rpy:471
+translate italian common_9cd1aa72:
+
+    n "Abbassa gli occhi per fissare le profondità della sua tazza di caffé, senza proferire altra parola."
+
+
+# game/common.rpy:472
+translate italian common_3e6f6fe0:
+
+    n "Mi sento quasi in colpa a lasciarlo solo, ma non è che posso ignorare un cliente. Troy mi strillerebbe addosso fino a perdere la voce."
+
+
+# game/common.rpy:478
+translate italian common_fe6e3f7c:
+
+    n "Dopo essermi affrettato per aggirare il bancone, mi rivolgo incuriosito alla nuova cliente."
+
+
+# game/common.rpy:484
+translate italian common_4f46a46b:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:485
+translate italian common_500eea50:
+
+    n "Guardando meglio però, mi rendo conto che in realtà è un {i}ragazzo{/i} biondo, non una ragazza."
+
+
+# game/common.rpy:486
+translate italian common_fefda630:
+
+    n "È così magro e basso che è molto facile scambiarlo per una ragazza da dietro, ma la faccia è un po' troppo spigolosa per essere una donna."
+
+
+# game/common.rpy:491
+translate italian common_1304607f:
+
+    u "\"…Allora, è una tua abitudine fissare in questo modo le persone che entrano?\"
+
+
+# game/common.rpy:492
+translate italian common_05533184:
+
+    u "\"Pensavo che i camerieri dovessero essere cordiali e accoglienti, non inquietanti. \""
+
+
+# game/common.rpy:493
+translate italian common_5fea5ae4:
+
+    n "Le prime parole che escono dalla sua bocca sono parecchio scortesi, anche se ha una voce acuta e molto cantilenante."
+
+
+# game/common.rpy:498
+translate italian common_68eb8555:
+
+    mcp "\"Ah, no, scusa tanto. Sono solo un po' stanco, tutto qui.\""
+
+
+# game/common.rpy:502
+translate italian common_0d32c368:
+
+    mcp "\"Cosa posso portarti?\""
+
+
+# game/common.rpy:506
+translate italian common_8479b4f3_7:
+
+    u "\"…\""
+
+
+# game/common.rpy:507
+translate italian common_b4ecdd69:
+
+    n "Contrae le labbra con sdegno, sbuffando infastidito."
+
+
+# game/common.rpy:513
+translate italian common_a1a2abac:
+
+    n "Invece di rispondere alla mia domanda, gira la testa per esaminare il locale -"
+
+
+# game/common.rpy:514
+translate italian common_0fbce656:
+
+    extend "\nE il sguardo si ferma sul tizio con la felpa seduto su una delle panche."
+
+
+# game/common.rpy:515
+translate italian common_30a4c7c6:
+
+    n "Il biondino fissa con attenzione l'altro ragazzo, che sembra non aver notato di essere sotto scrutinio."
+
+
+# game/common.rpy:517
+translate italian common_37087af3:
+
+    n "Ma che diamine! Ha davvero intenzione di stare semplicemente seduto lì ed ignorarmi…?"
+
+
+# game/common.rpy:519
+translate italian strings:
+
+    new "Hai qualche problema con quel tizio?"
+
+
+# game/common.rpy:519
+translate italian strings:
+
+    new "Chiedi se vuole ordinare qualcosa"
+
+
+# game/common.rpy:524
+translate italian common_9262f7c2:
+
+    n "…Questo moccioso sta proprio iniziando ad innervosirmi."
+
+
+# game/common.rpy:525
+translate italian common_147e8e2a:
+
+    n "Prima mi fa la ramanzina perchè 'fissavo' e poi si mette a guardare come un allocco un altro ragazzo?"
+
+
+# game/common.rpy:526
+translate italian common_94307e5a:
+
+    n "Il ragazzo con la felpa è un mio cliente, come te, e sembra che abbia già avuto una serata difficile senza che un ragazzino lo guardi male. "
+
+
+# game/common.rpy:539
+translate italian common_c5bc1025:
+
+    mc "\"Ehi, hai qualche problema con quel tizio?\""
+
+
+# game/common.rpy:540
+translate italian common_c954740d:
+
+    mc "\"Se la risposta è no, potresti smetterla di squadrare gli altri clienti? Li farai spaventare e andare via. \""
+
+
+# game/common.rpy:545
+translate italian common_97e30d50:
+
+    u "\"–!\""
+
+
+# game/common.rpy:546
+translate italian common_fd1c5105:
+
+    n "Le mie parole di irritazione gli fanno battere le ciglia per la sorpresa, ma subito dopo la sua espressione distaccata e scocciata ritorna."
+
+
+# game/common.rpy:551
+translate italian common_610c919f:
+
+    n "Si gratta la guancia con una mano, dubitante, poi emette un rumoroso sospiro."
+
+
+# game/common.rpy:557
+translate italian common_5d69b04a:
+
+    n "…Beh, non voglio peggiorare questa situazione già piuttosto imbarazzante."
+
+
+# game/common.rpy:570
+translate italian common_9b14b0f8:
+
+    n "Schiarendomi la gola, gli porgo il menù per attirare la sua attenzione, e subito alza lo sguardo verso di me."
+
+
+# game/common.rpy:572
+translate italian common_a43ce122:
+
+    mc "\" Signore, vuole ordinare qualcosa? Un bicchiere d'acqua, magari?\""
+
+
+# game/common.rpy:577
+translate italian common_8479b4f3_8:
+
+    u "\"…\""
+
+
+# game/common.rpy:578
+translate italian common_6cb7db2d:
+
+    n "Sembra un po' imbarazzato, ma afferra comunque il menù e inizia a sfogliarlo con fare scocciato."
+
+
+# game/common.rpy:586
+translate italian common_0fa1a300:
+
+u "\"Bleah… Voglio solo una bibita. Una qualunque."
+
+
+# game/common.rpy:588
+translate italian common_633d7310:
+
+    u "Ho bisogno di togliermi un brutto sapore dalla bocca.\""
+
+
+# game/common.rpy:590
+translate italian common_e75b3aa6:
+
+    n "{i}Cosa, quello dell'erba che hai provato a fumarti coi tuoi amici?{/i} Vorrei chiedere seccamente, ma probabilmente dovrei avere un po' di autocontrollo."
+
+
+# game/common.rpy:597
+translate italian common_d304e9d5:
+
+    n "Afferro un bicchiere lì vicino e mi dirigo verso il dispenser delle bevande. Lo riempio con una bibita verdognola e zuccherina che probabilmente soddisfa i gusti di un ragazzino come lui."
+
+
+# game/common.rpy:598
+translate italian common_0b99f3af:
+
+    n "È un peccato non abbia una personalità migliore che si sposi con la sua faccia molto tenera. {w}Immagino non indossi mai nient'altro che il broncio. " 
+
+
+# game/common.rpy:601
+translate italian common_4f48391c:
+
+    n "Dopo avergli passato il bicchiere e una cannuccia, il biondino butta con noncuranza un paio di banconote sul bancone."
+
+
+# game/common.rpy:608
+translate italian common_1bc6a350:
+
+    u "\"Ehi, è sempre un mortorio qui?\""
+
+
+# game/common.rpy:609
+translate italian common_9bfb515f:
+
+    u "\"Di solito non vengo in posti del genere… Ma come fate a rimanere aperti se non viene nessuno? Non dovreste essere in bancarotta?\""
+
+
+# game/common.rpy:612
+translate italian common_6b3d9ed5:
+
+    n "…Resistendo al bisogno di lanciargli la bibita in faccia, mi faccio scappare una risatina."
+
+
+# game/common.rpy:617
+translate italian common_4f46a46b_1:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:618
+translate italian common_a980108d:
+
+n "La sua impertinente domanda l'ho gia sentita un migliaio di volte, quindi non mi coglie esattamente di sorpresa ."
+
+
+# game/common.rpy:624
+translate italian common_d6aed22e:
+
+    mcp "\"Siamo aperti anche di giorno. Molte persone tendono a venire, beh, quando non sono le 2  di notte .\""
+
+
+# game/common.rpy:628
+translate italian common_b89826b8:
+
+    u "\"Oh… Sì, direi che ha senso.\""
+
+
+# game/common.rpy:630
+translate italian common_96d56cd6:
+
+    u "Non è noioso quando non viene nessuno, però?"
+
+
+# game/common.rpy:636
+translate italian common_4f46a46b_2:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:637
+translate italian common_2d3f010d:
+
+    n "Sembra così innocente e curioso che mi si rilassano un po' i nervi."
+
+
+# game/common.rpy:641
+translate italian common_d88b1235:
+
+    mcp "\"È davvero noiosissimo. Gran parte della nostra clientela a quest'ora è composta da qualche tizio drogato, ubriaco o entrambe le cose.\""
+
+
+# game/common.rpy:644
+translate italian common_482493df:
+
+    mcp "\"Non sono le persone migliori con cui intraprendere una conversazione, fattelo dire.\""
+
+
+# game/common.rpy:647
+translate italian common_110ab214:
+
+    u "\"…Ah.\""
+
+
+# game/common.rpy:648
+translate italian common_18b43768:
+
+    n "Il biondino sogghigna, tirando fuori la cannuccia dalla carta e ficcandola nel bicchiere."
+
+
+# game/common.rpy:650
+translate italian common_73253bce:
+
+    n "Sorseggia un po' la sua bibita, poi si mette a rigirare pigramente la cannuccia con un dito, poggiando il mento su una mano."
+
+
+# game/common.rpy:652
+translate italian common_c0a6217d:
+
+    n "I suoi occhi sono di un vivace verde brillante e mi guardano con interesse."
+
+
+# game/common.rpy:656
+translate italian common_309eb6cc:
+
+    u "\"Viene anche… qualche tipo strano?\""
+
+
+# game/common.rpy:661
+translate italian common_99441333:
+
+    mcp "\"…Tipo strano? Dovresti essere più specifico di così.\""
+
+
+# game/common.rpy:666
+translate italian common_8479b4f3_9:
+
+    u "\"…\""
+
+
+# game/common.rpy:667
+translate italian common_74a06abb:
+
+    n "Alzando gli occhi al cielo, si ferma per un momento, come se stesse valutando a fondo le parole da pronunciare."
+
+
+# game/common.rpy:671
+translate italian common_ab290750:
+
+    u "\"Tipo… persone fuori dal comune, un po' disadattate magari.\""
+
+
+# game/common.rpy:672
+translate italian common_83950826:
+
+    u "Che non ordinano il cibo o cose del genere. Stanno semplicemente appostati qui, sospetti… quel tipo di persone.\""
+
+
+# game/common.rpy:677
+translate italian common_4f46a46b_3:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:687
+translate italian common_09b4a032:
+
+    n "Alla descrizione del biondino, mi ritrovo a poggiare lo sguardo sul ragazzo con la felpa seduto all'angolo."
+
+
+# game/common.rpy:688
+translate italian common_8152f3eb:
+
+    n "-Anche lui sta guardando nella mia direzione e i nostri sguardi all'improvviso si incrociano."
+
+
+# game/common.rpy:690
+translate italian common_7668077f:
+
+    n "Beh, di sicuro corrisponde al 'tipo di persona' di cui sta parlando questo ragazzino, ma…{w}non ho motivo per dirglielo."
+
+
+# game/common.rpy:691
+translate italian common_9c337681:
+
+    n "Inoltre, non è che ci sono clienti come lui abitualmente. In realtà, è la prima volta che vedo qualcuno che non sa come bere un caffè."
+
+
+# game/common.rpy:709
+translate italian common_f132b008:
+
+    mc "\"…No, non mi sembra di aver mai visto nessuno del genere qui.\""
+
+
+# game/common.rpy:710
+translate italian common_f9daa7ac:
+
+    mc "\"Forse si aggirano per zone più squallide della città. Se si può {i}trovare{/i} una zona più squallida di questa, ovviamente."
+
+
+# game/common.rpy:715
+translate italian common_f0e2bce8:
+
+    udp "\"…\""
+
+
+# game/common.rpy:716
+translate italian common_b6817f53:
+
+    n "-Potrebbe essere la mia immaginazione, ma dopo la mia risposta, sembra che il ragazzo al tavolo si sia rilassato leggermente."
+
+
+# game/common.rpy:722
+translate italian common_867d48d3:
+
+    u "\"Davvero?\""
+
+
+# game/common.rpy:726
+translate italian common_40a56b5f:
+
+    u "\"Mmh… Immagino di sì.\""
+
+
+# game/common.rpy:727
+translate italian common_8c96f0df:
+
+    n "Il biondino appare un po' insoddisfatto e continua a mordicchiare la punta della cannuccia con aria distratta."
+
+
+# game/common.rpy:731
+translate italian common_2cd8acb1:
+
+    mc "\"Perché me lo chiedi? Stai cercando i membri di una gang o qualcosa del genere?\""
+
+
+# game/common.rpy:736
+translate italian common_2ad33a0c:
+
+    u "\"…Si può dire così, diciamo.\""
+
+
+# game/common.rpy:737
+translate italian common_3d6f3b30:
+
+    n "Esita un po' prima di rispondere, muovendosi sullo sgabello."
+
+
+# game/common.rpy:741
+translate italian common_b6dc61bc:
+
+    mc "Non dirmi che stai cercando di entrare in una banda di teppisti. I ragazzini come te non dovrebbero andare in giro con la gente sbagliata."
+
+
+# game/common.rpy:745
+translate italian common_97e30d50_1:
+
+    u "\"–!\""
+
+
+# game/common.rpy:746
+translate italian common_d6da3610:
+
+n "Il mio commento scherzoso fa raddrizzare d'impeto la schiena del ragazzo. La sua faccia corrucciata lo fa assomigliare ad uno scoiattolo arrabbiato ." 
+
+
+# game/common.rpy:748
+translate italian common_aa39a5e0:
+
+    u "\"A chi hai dato del ragazzino?!\""
+
+
+# game/common.rpy:749
+translate italian common_0a3b848d:
+
+    u "\"Ho 22 anni! Devo farti vedere la carta d'identità?\""
+
+
+# game/common.rpy:751
+translate italian common_d26b83d1:
+
+    n "…Wow, mi sa che ho toccato un nervo scoperto."
+
+
+# game/common.rpy:752
+translate italian common_58393a96:
+
+    n "In mia difesa, non sembra per niente che abbia 22 anni.{w} Avrei detto 17 o 18, specialmente considerando come si comporta."
+
+
+# game/common.rpy:758
+translate italian common_a5eee75d:
+
+    mc "\"Rilassati, ti stavo solo prendendo in giro.\""
+
+
+# game/common.rpy:759
+translate italian common_b10fd7a1:
+
+    mc "\"Chiamo tutti 'ragazzino', ok? Brutta abitudine, scusa.\""
+
+
+# game/common.rpy:765
+translate italian common_d75e6fc9:
+
+    mc "\"Scusa, scusa! È che sei così pieno di energie, tutto qui.\""
+
+
+# game/common.rpy:769
+translate italian common_53218190:
+
+    mc "\"Ogni tanto mi scambiano per un liceale, capisco quello che provi.\""
+
+
+# game/common.rpy:775
+translate italian common_6da37521:
+
+    u "\"…Hmpf.\"
+
+
+# game/common.rpy:776
+translate italian common_43f531ce:
+
+    n "Come un gatto che ritrae gli artigli  , il biondino si calma, anche se continua ad arricciare il naso quando mi guarda."
+
+
+# game/common.rpy:777
+translate italian common_4d741242:
+
+    n "Fiù, me la sono cavata per un pelo."
+
+
+# game/common.rpy:782
+translate italian common_b173a763:
+
+    u "\"E comunque, non sto cercando di unirmi a una gang.\""
+
+
+# game/common.rpy:783
+translate italian common_3bed831f:
+
+    u "\"Sto solo cercando… certe persone, tutto qui.\""
+
+
+# game/common.rpy:787
+translate italian common_5c289d32:
+
+    u "\"Ho pensato che potrebbero gironzolare in posto come questo, dato l'aspetto piuttosto squallido. Senza offesa.\""
+
+
+# game/common.rpy:788
+translate italian common_9b7ee228:
+
+    n "Mi sorride beffardo, picchiettando l'unghia contro il lato del suo bicchiere in vetro."
+
+
+# game/common.rpy:794
+translate italian common_35a28d4c_1:
+
+    mc "\"…\""
+
+
+# game/common.rpy:795
+translate italian common_19c3d5ab:
+
+    n "…Non è facile controbatere, purtroppo. {w}Questa non è la parte peggiore della città, ma di certo non è neanche la migliore, e il locale avrebbe bisogno di un nuova mano di vernice."
+
+
+# game/common.rpy:807
+translate italian common_5c9517a3:
+
+    u "\"Ehi, perché non mi fai un favore?\""
+
+
+# game/common.rpy:808
+translate italian common_791e2c7a:
+
+    u "\"Tieni gli occhi aperti, e se vedi qualcuno che corrisponde alla mia descrizione, fammi uno squillo."\"
+
+
+# game/common.rpy:810
+translate italian common_39ce3a0a:
+
+    n "Tirando fuori una penna dalla tasca, afferra un tovagliolo lì vicino e ci scarabocchia qualcosa sopra."
+
+
+# game/common.rpy:811
+translate italian common_fa822fed:
+
+    n "Quando me lo passa, ci trovo un nome e un numero di telefono."
+
+
+# game/common.rpy:815
+translate italian common_797a0544:
+
+    mcp "\"… 'Luka', eh? Davvero vuoi che ti chiami se vedo un cliente sospetto a caso?\""
+
+
+# game/common.rpy:819
+translate italian common_de1ecefa:
+
+    l "\"Hai capito bene.\""
+
+
+# game/common.rpy:823
+translate italian common_944ae2bc:
+
+    l "\"Non sembra che tu abbia molto di meglio da fare, quindi perché non aiutarmi?\""
+
+
+# game/common.rpy:826
+translate italian strings:
+
+    new "E cosa mi offri in cambio…?"
+
+
+# game/common.rpy:826
+translate italian strings:
+
+    new "D'accordo, ci proverò"
+
+
+# game/common.rpy:831
+translate italian common_b1f31d1a:
+
+    n "Alzo un sopracciglio e Luka mi guarda compiaciuto."
+
+
+# game/common.rpy:835
+translate italian common_a956177a:
+
+    mcp "\"Mi offrirai qualcosa per rendere più equo l'accordo, giusto? Non ho motivo di sforzarmi per aiutarti, altrimenti."
+
+
+# game/common.rpy:839
+translate italian common_a6c78571:
+
+    l "\"Offrire qualcosa? Tipo cosa, soldi?\""
+
+
+# game/common.rpy:840
+translate italian common_0e661850:
+
+    n "Contrae le labbra con riluttanza, ma scuoto la testa, incapace di contentere un sorriso."
+
+
+# game/common.rpy:841
+translate italian common_7009e3dd:
+
+    mcp "\"Hm, non saprei…\""
+
+
+# game/common.rpy:845
+translate italian common_19963f59:
+
+    mcp "\"Magari potresti lasciare che io ti fissi per un po' senza arrabbiarti. Che ne pensi?\""
+
+
+# game/common.rpy:850
+translate italian common_249f8dd4:
+
+    l "\"-!\""
+
+
+# game/common.rpy:851
+translate italian common_12638aeb:
+
+    n "Le guance di Luka diventano di un acceso rosso, facendomi capire che l'avevo stuzzicato per bene."
+
+
+# game/common.rpy:855
+translate italian common_fa19c384:
+
+    l "\"Che razza di cosa ripugnante stai cercando di… Sai cosa, mi riprendo il mio numero.\""
+
+
+# game/common.rpy:856
+translate italian common_9288fd2d:
+
+n "Cerca di strapparmi il tovagliolo dalle mani, ma riesco a tenerlo fuori dalla sua portata, ridendo sotto i baffi."  
+
+
+# game/common.rpy:857
+translate italian common_8e4de9cc:
+
+    n "In realtà è davvero divertente verdelo tutto infastidio, specialmente dopo che ha cercato di fare il figo sicuro di sé."
+
+
+# game/common.rpy:864
+translate italian common_a54790f0:
+
+    n "Alzo gli occhi, appallottolando il fazzoletto e infilandomelo in tasca."
+
+
+# game/common.rpy:868
+translate italian common_a486f805:
+
+    mcp "\"Va bene, d'accordo. Cercherò di ricordarmene.\""
+
+
+# game/common.rpy:869
+translate italian common_a1d61479:
+
+    l "\"Ottimo, assicurati di -\""
+
+
+# game/common.rpy:873
+translate italian common_61cd59f5:
+
+    mcp "\"Tuttavia, se prendiamo in considerazione chi sono, è più probabile che ti telefoni ubriaco fradicio convinto che il tuo numero sia quello di qualche ragazza conosciuta in un bar…\""
+
+
+# game/common.rpy:878
+translate italian common_71423380:
+
+    l "\"…\""
+
+
+# game/common.rpy:879
+translate italian common_157efd93:
+
+    n "Mi guarda con aria di riprovero, digrignando i denti. Trattengo a stento una risata ."
+
+
+# game/common.rpy:880
+translate italian common_d18b7dc4:
+
+n "Wow, altro che sensibile. {w}Deve avere un ego di cristallo!."  
+
+
+# game/common.rpy:885
+translate italian common_50970f76:
+
+    mcp "\"Senti, te la do una mano, ok? Rilassati un pochino.\""
+
+
+# game/common.rpy:890
+translate italian common_e65a7b06:
+
+    l "\"…Se non vuoi farlo, basta dirlo. Non c'è bisogno di fare lo stronzo.\""
+
+
+# game/common.rpy:891
+translate italian common_ff4167c8:
+
+    n "Borbotta acidamente, accartocciando la carta della cannuccia con una mano."
+
+
+# game/common.rpy:895
+translate italian common_93423e69:
+
+    mcp "\"Davvero, non è un problema per me. L'hai detto anche te che non ho molto di meglio da fare, ricordi?\""
+
+
+# game/common.rpy:898
+translate italian common_a178bbf8:
+
+    n "Quando gli rivolgo un occhiolino di rassicurazione, Luka, arrabbiato, svia subito il mio sguardo, chiaramente in imbarazzo."
+
+
+# game/common.rpy:900
+translate italian common_85420acc:
+
+    n "Poi, prende un ultimo sorso della sua bibita e salta giù dallo sgabello."
+
+
+# game/common.rpy:905
+translate italian common_c95499ba:
+
+    lp "\"Meglio per te che non riceva nessuna chiamata strana da parte tua.\""
+
+
+# game/common.rpy:909
+translate italian common_1aaf1d5e:
+
+    lp "\"O ti blocco nel momento esatto in cui inizi a dirmi cose sconce!\""
+
+
+# game/common.rpy:910
+translate italian common_e1e8d59b:
+
+    n "Luka urla dirigendosi verso la porta."
+
+
+# game/common.rpy:918
+translate italian common_b1b8f0b5:
+
+    n "Ridacchiando, sventolo un straccio in segno di saluto e lo guardo sparire nel buio pesto della notte."
+
+
+# game/common.rpy:919
+translate italian common_6869fdc3:
+
+    n "CHe ragazzino stupido…{w}chissà in che guai sta cercando di ficcarsi."
+
+
+# game/common.rpy:924
+translate italian common_60861946:
+
+    n "Spero torni a casa al sicuro, però. Sembra proprio l'obbiettivo perfetto per rapinatori o alcuni dei personaggi meno raccomandabili che si aggirano da queste parti."
+
+
+# game/common.rpy:925
+translate italian common_07096694:
+
+    n "Forse avrei dovuto offrigli di chiamare un taxi… E vabbè."
+
+
+# game/common.rpy:929
+translate italian common_334035d3:
+
+    n "Una volta solo con i miei pensieri, all'improvviso mi ricordo del ragazzo con la felpa."
+
+
+# game/common.rpy:933
+translate italian common_36a7a87b:
+
+    mc "\"–!\""
+
+
+# game/common.rpy:938
+translate italian common_36e4e1c8:
+
+    n "Ma quando mi giro per guardare dove era seduto -"
+
+
+# game/common.rpy:940
+translate italian common_a6783812:
+
+    n "Non c'è più nessuno."
+
+
+# game/common.rpy:941
+translate italian common_d31c86a8:
+
+    n "Deve essere sgattaiolato via mentre parlavo con Luka. Cacchio."
+
+
+# game/common.rpy:948
+translate italian common_8d2f2d22:
+
+    n "Un po' deluso, torno al suo tavolo per portare via la tazza, ma noto qualcosa poggiato lì accanto."
+
+
+# game/common.rpy:950
+translate italian common_b352d6ef:
+
+    n " - Una banconota da 10 dollari e qualche spicciolo, per una tazza di caffè?"
+
+
+# game/common.rpy:951
+translate italian common_d2595226:
+
+    n "Parecchio generoso… Ora mi sento terribilmente in colpa per aver dubitato che avrebbe lasciato la mancia.{w}Sembra che abbia semplicemente rovesciato sul tavolo tutto quello che aveva nel portafogli." 
+
+
+# game/common.rpy:952
+translate italian common_50c6517c:
+
+    n "Ha bevuto il suo caffè fino all'ultima goccia, però. Non so bene perché, ma sapere che gli è piaciuto tanto mi rende contento, in un certo senso."
+
+
+# game/common.rpy:957
+translate italian common_656d8c17:
+
+    mc "\"Che serata strana…\""
+
+
+# game/common.rpy:961
+translate italian common_cbc61859:
+
+n "Scuotendo la testa, mi intasco la mia mancia e torno in cucina con uno sorriso da ebete. "
+
+
+# game/common.rpy:967
+translate italian common_454e53c0:
+
+    n "Il resto del mio turno passa senza che succeda niente di interessante."
+
+
+# game/common.rpy:968
+translate italian common_01d5ac6c:
+
+    n "Le persone arrivano e se ne vanno poco alla volta per ancora un paio d'ore, ma nessun altro tipo strano entra."
+
+
+# game/common.rpy:976
+translate italian common_b8c996a5:
+
+    n "Finalmente, saluto Troy ed esco con un lungo sbadiglio."
+
+
+# game/common.rpy:977
+translate italian common_05ba2fc5:
+
+    n "Ora di tornare a casa. Cavolo, sono distrutto…"
+
+
+# game/common.rpy:979
+translate italian common_a9e8aa3e:
+
+    u "\"…Stesso posto… domani…\""
+
+
+# game/common.rpy:980
+translate italian common_dc7f85ef:
+
+    u "\"Certo, che c'è, non ti fidi di me?\""
+
+
+# game/common.rpy:986
+translate italian common_35a28d4c_2:
+
+    mc "\"…\""
+
+
+# game/common.rpy:987
+translate italian common_4f6a08d9:
+
+    n "Qualche pezzo di una conversazione raggiunge il mio orecchio da un vicolo lì vicino."
+
+
+# game/common.rpy:989
+translate italian common_8cef326f:
+
+    u "\"Sì, sì… Assicurati di portare tutta la roba.\""
+
+
+# game/common.rpy:991
+translate italian common_2fdbf9c0:
+
+    n "…La mia curiosità si accende immediatamente."
+
+
+# game/common.rpy:992
+translate italian common_af671d39:
+
+    extend "\nStanno parlando di qualche scambio di droga o roba del genere? Accanto al {i}mio{/i} locale?"
+
+
+# game/common.rpy:998
+translate italian common_136202e7:
+
+    n "Mi appiattisco contro la parete, sforzandomi di sentire di più."
+
+
+# game/common.rpy:1000
+translate italian common_cef12add:
+
+    n "Magari posso acchiappare uno di questi tipi e insegnargli una lezione o due. Non permetterò a dei fattoni di mettere in pericolo Troy o i clienti."
+
+
+# game/common.rpy:1001
+translate italian common_b57a3da0:
+
+    n "Oppure, se ascolto meglio, potrei riferire alla polizia l'orario esatto…"
+
+
+# game/common.rpy:1003
+translate italian common_9f432920:
+
+    n "Se stanno organizzando qualcosa di pericoloso per domani, devo dirlo a Troy. Cavolo, forse non dovrei proprio venire a lavoro…"
+
+
+# game/common.rpy:1010
+translate italian common_d20d0a43_2:
+
+    mcp "\"…!\""
+
+
+# game/common.rpy:1012
+translate italian common_134f1c7d:
+
+    n "Sono passi quelli che sento?{w} Stanno venendo da questa parte…"
+
+
+# game/common.rpy:1014
+translate italian common_367a6bda:
+
+    u "\"Naturalmente. Pagamento in anticipo, però. Non vorresti mai che il tuo fornitore numero uno cambi lato, giusto\""
+
+
+# game/common.rpy:1015
+translate italian common_110ab214_1:
+
+    u "\"…Hah.\""
+
+
+# game/common.rpy:1016
+translate italian common_df75cbb4:
+
+    n "Mentre uno dei due uomini esplode in una fragorosa risata, i passi si fanno più vicini."
+
+
+# game/common.rpy:1020
+translate italian common_4f46a46b_4:
+
+mcp "\"…\""
+
+
+# game/common.rpy:1021
+translate italian common_98852713:
+
+    n "Faccio un passo indietro per nascondermi nell'ombra e mi accovaccio per non farmi vedere."
+
+
+# game/common.rpy:1030
+translate italian common_5ba93062:
+
+    n "Un secondo dopo, due alte figure emergono dal vicolo."
+
+
+# game/common.rpy:1031
+translate italian common_b5b036cf:
+
+    n "Uno di loro rimane nell'ombra e non riesco a vederlo bene in viso, ma c'è qualcosa in lui che mi dà i brividi."
+
+
+# game/common.rpy:1032
+translate italian common_eda86720:
+
+    n "L'altro… Con quel completo elegante e i capelli tutti impomatati… Dev'essere un uomo d'affari."
+
+
+# game/common.rpy:1034
+translate italian common_9777dd85:
+
+    u "\"Ti conviene rispettare la tua parte dell'accordo, Isaac.\""
+
+
+# game/common.rpy:1035
+translate italian common_f86c8fb4:
+
+    u "\"Volta le spalle agli Helgen e te ne pentirai {i}amaramente{/i}.\""
+
+
+# game/common.rpy:1039
+translate italian common_33fb7fc5:
+
+    n "Dopo aver sputato queste parole di sfiducia, l'oscura figura s'incammina per la strada."
+
+
+# game/common.rpy:1042
+translate italian common_b22e8ff1:
+
+    i "\"…Me ne pentirò, eh?\""
+
+
+# game/common.rpy:1044
+translate italian common_39cf0099:
+
+    n "Quello rimasto indetro dei due - Isaac? - mormora queste parole con un sorriso sinistro."
+
+
+# game/common.rpy:1045
+translate italian common_62c70b36:
+
+    n "Anche se sembra un uomo più a suo agio in un ufficio che in un vicolo buio, non sembra minimamente avere paura."
+
+
+# game/common.rpy:1047
+translate italian common_4191054f:
+
+    n "Trattengo il respiro d'istinto, mentre guardo la sua figura elegante fare capolino dal marciapiede, chiedendomi quale sarà la sua prossima mossa."
+
+
+# game/common.rpy:1052
+translate italian common_8d7deff3:
+
+    i "\"…Puoi venire fuori adesso.\""
+
+
+# game/common.rpy:1053
+translate italian common_8390a280:
+
+    i "\"Non mordo, a meno che tu non me lo chieda, ovviamente.\""
+
+
+# game/common.rpy:1057
+translate italian common_98fdf5be:
+
+    mcp "\"-!\""
+
+
+# game/common.rpy:1060
+translate italian common_83ddc6d9:
+
+    n "Isaac si gira proprio nella mia direzione, come se potesse vedere oltre il buio in cui mi nascondo e vedermi perfettamente."
+
+
+# game/common.rpy:1061
+translate italian common_53343768:
+
+    n "Eppure, il cenno di invito che mi rivolge non sembra per niente minaccioso, quindi con riluttanza mi alzo in piedi."
+
+
+# game/common.rpy:1069
+translate italian common_5181e2c1:
+
+    n "Come hai fatto a vedermi…? È praticamente buio pesto in questo punto."
+
+
+# game/common.rpy:1071
+translate italian common_b6221af0:
+
+    i "\"Eccolo qui. Bravo, ragazzo. C'è una ragione per la quale ti nascondevi in quell'angolo come un coniglio?\""
+
+
+# game/common.rpy:1075
+translate italian common_36f2855d:
+
+    i "\"Non stavi mica cercando di {i}origliare{/i}, spero.\""
+
+
+# game/common.rpy:1076
+translate italian common_a751f8e1:
+
+    n "I suoi occhi, come lenti a contatto di oro colato, mi studiano curiosi, ne sono sicuro."
+
+
+# game/common.rpy:1078
+translate italian strings:
+
+    new "Stai progettando qualcosa di losco accanto al mio locale"
+
+
+# game/common.rpy:1078
+translate italian strings:
+
+    new "Mi piace sapere cosa accade da queste parti"
+
+
+# game/common.rpy:1083
+translate italian common_56a61b5c:
+
+    n "…Questo tipo non è un criminale, è solo un damerino   che cerca di farmi paura."
+
+
+# game/common.rpy:1084
+translate italian common_b1a4317f:
+
+    n "Non ci sono ragioni per esserne spaventato, quindi potrei anche dirgli la verità."
+
+
+# game/common.rpy:1088
+translate italian common_8f1c7d00:
+
+    mc "\"Lo vedi questo posto? È dove lavoro.\""
+
+
+# game/common.rpy:1090
+translate italian common_0fecbeac:
+
+    mc "Se c'è qualcosa di losco che succede qui intorno, ovviamente lo voglio sapere.\""
+
+
+# game/common.rpy:1095
+translate italian common_8df6c9d7:
+
+    i "\"…\""
+
+
+# game/common.rpy:1096
+translate italian common_b95981e4:
+
+    n "In risposta al mio tono provocatorio, Isaac alza un sopracciglio."
+
+
+# game/common.rpy:1106
+translate italian common_2c873936:
+
+    n "Non dovrei essere troppo aggressivo. Un uomo come lui potrebbe avere molti brutti assi nella manica."
+
+
+# game/common.rpy:1107
+translate italian common_99a6ca8d:
+
+    n "Alzando le spalle con nonchalance, gli butto la risposta più vaga possibile."
+
+
+# game/common.rpy:1111
+translate italian common_8ac1abe3:
+
+    mc "\"È importante sapere cosa succede a San Fran, no?\""
+
+
+# game/common.rpy:1115
+translate italian common_df5804aa:
+
+    mc "\"Non voglio ritrovarmi nella parte sbagliata della città mentre accade qualcosa di sospetto. È solo istinto di sopravvivenza."
+
+
+# game/common.rpy:1120
+translate italian common_8df6c9d7_1:
+
+    i "\"…\""
+
+
+# game/common.rpy:1121
+translate italian common_ada55988:
+
+    n "-Per qualche motivo, il mio commento fa comparire un sorrisetto sul volto di Isacc, che inclina scherzosamente la testa di lato."
+
+
+# game/common.rpy:1123
+translate italian common_fa595c08:
+
+i "\"Oh quindi stai solo cercando di proteggere te stesso, hm?\""
+
+
+# game/common.rpy:1124
+translate italian common_53abe90b:
+
+    i "\"Che tenero…Lo farei anche io, fossi in te.\""
+
+
+# game/common.rpy:1126
+translate italian common_95f2f62d:
+
+    n "L'accenno di malizia che si insidia nel suo tono suona quasi come se -"
+
+
+# game/common.rpy:1128
+translate italian common_68a1d93e:
+
+    n "No, no, scuramente sto capendo male.{w}Perché mai un facoltoso uomo d'affari come lui dovrebbe flirtare come me?"
+
+
+# game/common.rpy:1134
+translate italian common_e2fbf58a:
+
+    mc "\"Non farmi passare per quello egoista. Ho anche degli amici da proteggere.\""
+
+
+# game/common.rpy:1139
+translate italian common_3b97e549:
+
+    mc "\"Ho i miei clienti e il mio capo di cui preoccuparmi, anche… per questo devo tenere d’occhio i tizi loschi che girano attorno al locale."
+
+
+# game/common.rpy:1143
+translate italian common_fa50a117:
+
+    i "\"Hm-hm, ne sono certo.\""
+
+
+# game/common.rpy:1150
+translate italian common_1c30a4f4:
+
+    n "Con una risatina poco convincente, Isaac passeggia tranquillamente verso di me, fermandosi solo una volta entrato in territorio 'troppo amico'  ."
+
+
+# game/common.rpy:1158
+translate italian common_b8c84243:
+
+    n "- Beh, se il suo obbiettivo è farmi indietreggiare, mi dispiace per lui."
+
+
+# game/common.rpy:1159
+translate italian common_d02a69fc:
+
+    n "Non mi allontanerò impaurito da un elegantone come lui, anche se è più alto di me. Ho ancora un briciolo di dignità."
+
+
+# game/common.rpy:1161
+translate italian common_f29de5b6:
+
+    n "Vorrei ritrarmi, ma riesco a combattere l’agitazione e rimanere fermo."
+
+
+# game/common.rpy:1162
+translate italian common_5a7901df:
+
+    n "È probabilmente solo un uomo d'affari, ma c'è qualcosa di diverso in lui… qualcosa di inquietante."
+
+
+# game/common.rpy:1167
+translate italian common_8df6c9d7_2:
+
+    i "\"…\""
+
+
+# game/common.rpy:1168
+translate italian common_0259a6d3:
+
+    n "Isaac si abbassa per osservarmi in viso, così vicino che potevo vedere ogni dettaglio della mia faccia riflesso nei suoi occhiali."
+
+
+# game/common.rpy:1169
+translate italian common_87812e9d:
+
+    n "Un odore dolce lo circonda, forse una colonia o uno shampoo, che blocca la puzza della vicina discarica."
+
+
+# game/common.rpy:1174
+translate italian common_3cc233b8:
+
+    i "\"Dimmi, come ti chiami?\""
+
+
+# game/common.rpy:1176
+translate italian common_d06f0a20:
+
+    i "\"Io sono Isaac, come immagino tu abbia capito ascoltando il tizio rasato di prima."
+
+
+# game/common.rpy:1177
+translate italian common_602d98e5:
+
+    n "Abbassa la sua voce a un sussurro e il suo sguardo s'illumina di aspettativa."
+
+
+# game/common.rpy:1183
+translate italian common_efbf8139:
+
+    mcp "\"…Mi chiamo [mc].\""
+
+
+# game/common.rpy:1186
+translate italian common_6c79c3cf:
+
+    mcp "\"Piacere di conoscerti, Isaac. Sembri proprio un tipo raccomandabile.\""
+
+
+# game/common.rpy:1187
+translate italian common_feecdcc3:
+
+    n "Borbotto una risposta traboccante di sarcasmo, alla quale Isaac controbatte con un sobrio occhiolino."
+
+
+# game/common.rpy:1191
+translate italian common_2dbdae7f:
+
+    i "\"Qualcosa del genere. Beh, senti, [mc], se posso darti un consiglio -\""
+
+
+# game/common.rpy:1200
+translate italian common_cfa27dd9:
+
+    mcp "\"…Mi chiamo [mc].\""
+
+
+# game/common.rpy:1202
+translate italian common_0d4d3588:
+
+    mcp "\"Non parlo con molti tipi in giacca e cravatta, quindi scusami in anticipo se dico qualcosa di sbagliato.\""
+
+
+# game/common.rpy:1206
+translate italian common_98c9bb0c:
+
+    i "Non ti preoccupare, sono abituato a far pendere le persone dalle mie labbra al primo incontro."
+
+
+# game/common.rpy:1211
+translate italian common_3099e15e:
+
+    i "\"Ma senti, [mc], se posso darti un consiglio -\""
+
+
+# game/common.rpy:1213
+translate italian common_32466686:
+
+    i "\"Dovresti girarare alla larga da questo posto domani notte. Non sto dicendo che ti farai male, però…\""
+
+
+# game/common.rpy:1217
+translate italian common_d592a615:
+
+    i "\"Potrebbe esserci qualche… scontro amichevole."
+
+
+# game/common.rpy:1218
+translate italian common_e5e9f666:
+
+    n "Sembra stranamente elettrizzado all'idea di uno \"scontro,\" e una luce trepidante lampeggia nei suoi occhi."
+
+
+# game/common.rpy:1222
+translate italian common_0479f3fa:
+
+    i "Ovviamente però, se stai cercando un po' di adrenalina, non ti impedirò di venire. Chissà…\""
+
+
+# game/common.rpy:1225
+translate italian common_70fab02f:
+
+    n "Isaac fa una pausa, le sue labbra si schiudono in un sorrisetto malizioso."
+
+
+# game/common.rpy:1227
+translate italian common_6cca6811:
+
+    i "Potresti anche incontrare un tuo amichetto. O forse {i}cliente{/i} è la parola migliore…?\""
+
+
+# game/common.rpy:1232
+translate italian common_4f46a46b_5:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1233
+translate italian common_67f5d2d6:
+
+    n "Un brivido mi scorre per le vene mentre sussurra provocatorio."
+
+
+# game/common.rpy:1234
+translate italian common_758124e3:
+
+    n "Parla come se sapesse qualcosa di me… ma non l'ho mai visto in vita mia."
+
+
+# game/common.rpy:1239
+translate italian common_b7c56be4:
+
+    mcp "\"Cosa stai cercando di dirmi? Qualcuno che conosco farà parte di questo “scontro” amichevole'?\""
+
+
+# game/common.rpy:1243
+translate italian common_d7acecac:
+
+    i "\"Forse. Non lo puoi sapere con certezza finché non vieni, giusto?\""
+
+
+# game/common.rpy:1244
+translate italian common_47af84e9:
+
+    i "\"A meno che il tuo istinto di sopravvivenza non sia troppo forte, certo.\""
+
+
+# game/common.rpy:1250
+translate italian common_4f46a46b_6:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1251
+translate italian common_6852a9a6:
+
+    n "-Lo so che sta cercando di provocarmi, ma questo non impedisce alla mia rabbia di crescere, anche se sto provando in tutti i modi a stare calmo."
+
+
+# game/common.rpy:1252
+translate italian common_917c9d55:
+
+    n "Sicuro pensa che i suoi soldi lo rendano una specie di re. {w}Che gran classe!."
+
+
+# game/common.rpy:1254
+translate italian strings:
+
+    new "Vengo se ti usano come bersaglio per allenarsi."
+
+
+# game/common.rpy:1254
+translate italian strings:
+
+    new "Vengo se è sicuro"
+
+
+# game/common.rpy:1262
+translate italian common_c9a08146:
+
+mcp "\"Passo se c'è qualche possibilità che tu rimanga ferito nella sparatoria.\""
+
+
+# game/common.rpy:1264
+translate italian common_b7cd1a61:
+
+    mcp "\"Quel bel gilet non è antiproiettile, vero?\""
+
+
+# game/common.rpy:1269
+translate italian common_bb747ccc:
+
+    i "\"…wow, ne ho catturato uno bello esuberante.\""
+
+
+# game/common.rpy:1270
+translate italian common_9250d81d:
+
+    n "Si lascia andare ad una fischiettata di approvazione, i suoi occhi spalancati in un’espressione di finta sorpresa."
+
+
+# game/common.rpy:1274
+translate italian common_fe55149b:
+
+    i "\"Sono lusingato che stai tanto in pena per me, ma sarei più preoccupato per te stesso.\""
+
+
+# game/common.rpy:1276
+translate italian common_63fa3c51:
+
+    i "\"Uno con una faccia carina come la tua… può attirare l'attenzione di qualche {i}brutto{/i} ceffo.\""
+
+
+# game/common.rpy:1285
+translate italian common_b2d602f9:
+
+    mcp "\"Non rischierei l'osso del collo per un capriccio, ma se mi assicuri che non  finirò pieno di buchi come un gruviera … "
+
+
+# game/common.rpy:1290
+translate italian common_169e044c:
+
+    n "Quando la mia voce si affievolisce esistante, Isaac inclina la testa da unlato, mordendosi il labbro inferiore con aria furtiva."
+
+
+# game/common.rpy:1291
+translate italian common_e46e74bc:
+
+    i "\"Non ti stavo promettendo che saresti stato al sicuro.\""
+
+
+# game/common.rpy:1294
+translate italian common_c13ae599:
+
+    i "\"Al contrario, a un ragazzo carino come te gli salterebbero addosso immediatamente i brutti ceffi che ci saranno domani.\""
+
+
+# game/common.rpy:1305
+translate italian common_f11c6ca3:
+
+    mcp "\"…Brutti ceffi? Tipo?\""
+
+
+# game/common.rpy:1306
+translate italian common_dedbdd8f:
+
+    n "\"Il mio cuore inizia a battere più forte mentre porgo la mia domanda adIsaac, che in risposta mi offre solo un'alzata di spalle evasiva."
+
+
+# game/common.rpy:1310
+translate italian common_6e99bb4d:
+
+    i "\"Certe persone che girovagano per le strade a quest’ora della notte non sono sempre amichevoli, [mc].\""
+
+
+# game/common.rpy:1311
+translate italian common_4bc7a9dd:
+
+    n "I suoi occhi guizzano in un'altra direzione per un momento. Un improvviso tono freddo e allertato si insinua nella sua voce."
+
+
+# game/common.rpy:1316
+translate italian common_a800b8ba:
+
+    i "\"Ci sono molti predatori là fuori… Cacciatori che {i}adorerebbero{/i} assaggiare uno come te… \""
+
+
+# game/common.rpy:1320
+translate italian common_42f32978:
+
+    n "Quando il suo sguardo torna su di me, un brivido attraversa tutto il mio corpo."
+
+
+# game/common.rpy:1322
+translate italian common_731ca3b8:
+
+    n "Isacc si avvicina per raggiungere il mio viso, accarezzandomi dolcemente la guancia con il retro della sua mano, tutto mentre un sorriso crudele si spalanca sulla sua faccia."
+
+
+# game/common.rpy:1326
+translate italian common_455f846a:
+
+    i "\"Se non fai attenzione, potresti finire con un bel morso addosso - bloccato fra le fauci di un lupo affamato.\""
+
+
+# game/common.rpy:1327
+translate italian common_444c3950:
+
+    n "Il suo sussurrare diminuisce tanto da rendere la sua voce quasi impercettibile, e mi devo leggermente piegare verso di lui per sentirlo."
+
+
+# game/common.rpy:1330
+translate italian common_9740f2fc:
+
+    i "\"Saresti più al sicuro con me, il tuo valoroso Van Helsing… anche se la mia tariffa non è economica.\""
+
+
+# game/common.rpy:1331
+translate italian common_e510ae99:
+
+    n "Le dita di Isaac percorrono il mio collo, fino a raggiungere le mie labbra, dove con un dito mi tormenta l'angolo della bocca."
+
+
+# game/common.rpy:1336
+translate italian common_4f46a46b_7:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1340
+translate italian common_a4c3f724:
+
+    n "Non posso distogliere lo sguardo dai suoi occhi dorati, dentro hanno un vortice che dà l'impressione che si stiano sciogliendo."
+
+
+# game/common.rpy:1341
+translate italian common_783a136a:
+
+    n "Il mio corpo si rifiuta di muoversi."
+
+
+# game/common.rpy:1343
+translate italian common_cb7d5914:
+
+    n "Anche quando Isaac si preme ancora di più su di me, non riesco a fare altro che trattenere il respiro e osservare i suoi bellissimi occhi…"
+
+
+# game/common.rpy:1345
+translate italian common_537374f1:
+
+    u "\"…Isaac!\""
+
+
+# game/common.rpy:1346
+translate italian common_cb05413c:
+
+    u "\"Isaac, che stai facendo?!\""
+
+
+# game/common.rpy:1355
+translate italian common_02ef7c20:
+
+    i "\"…!\""
+
+
+# game/common.rpy:1356
+translate italian common_1a54f9bb:
+
+    n "Quando un urlo trapassa l'aria, Isaac si stacca da me bruscamente, guardandosi alle spalle."
+
+
+# game/common.rpy:1357
+translate italian common_a861c186:
+
+    u "\"Muoviti! Dobbiamo andare!\""
+
+
+# game/common.rpy:1358
+translate italian common_a63c6d38:
+
+    n "La voce lo richiama di nuovo e mi suona stranamente familiare, ma è troppo buio per vedere a chi appartiene."
+
+
+# game/common.rpy:1363
+translate italian common_35a28d4c_3:
+
+    mc "\"…\""
+
+
+# game/common.rpy:1365
+translate italian common_0d5ca077:
+
+    n "-Cosa diamine è successo un secondo fa? Riesco a malapena a ricordarmi che cosa Isaac stesse dicendo."
+
+
+# game/common.rpy:1369
+translate italian common_aef39ed0:
+
+    i "\"Tsk sempre nel momento peggiore. E vabbè.\""
+
+
+# game/common.rpy:1370
+translate italian common_8b8feefe:
+
+    n "Con un sospiro riluttante, Isaac si volta - {w}ma indugia per rivolgermi un sorriso degno dello Stregatto come addio."
+
+
+# game/common.rpy:1374
+translate italian common_6b60a056:
+
+    i "\"Fai in modo di venire domani! Farò sì che ne valga la pena, non preoccuparti."
+
+
+# game/common.rpy:1378
+translate italian common_bf18aed8:
+
+    mc "\"Cos-? Aspetta-!\""
+
+
+# game/common.rpy:1382
+translate italian common_d29f44e3:
+
+    n "Quando riesco a tornare in me, Isaac si è già avviato verso la sagoma in lontananza."
+
+
+# game/common.rpy:1384
+translate italian common_56d6d0eb:
+
+    n "Poco dopo i due spariscono dietro l'angolo, ingoiati dall'oscurità."
+
+
+# game/common.rpy:1389
+translate italian common_aa7ae319:
+
+    mc "\"Ugh… mi sta esplodendo la testa…\""
+
+
+# game/common.rpy:1390
+translate italian common_c9b1edf7:
+
+    n "Non so cosa abbia fatto Isaac, ma ho un mal di testa adesso… Forse è colpa della sua colonia."
+
+
+# game/common.rpy:1392
+translate italian common_55a56b4d:
+
+    n "-Cristo, perché continuo a incontrare tutti questi tizi strani? Troppe stronzate in una notte sola."
+
+
+# game/common.rpy:1393
+translate italian common_53be9b76:
+
+    n "Forse Troy mi ha rifilato qualche tipo di acido nell’hamburger di prima. {w}Sì… è l'unica spiegazione."
+
+
+# game/common.rpy:1399
+translate italian common_3d2d3394:
+
+    n "Scuotendo la testa, rabbrividisco e mi afretto per tornare a casa, tenendo un occhio aperto per evitare i \"brutti ceffi\" di cui parlava Isaac. "
+
+
+# game/common.rpy:1400
+translate italian common_a7222e06:
+
+    n "Fortunatamente, non vedo nessun altro rientrando, a parte qualche gatto randagio o senzatetto su una panchina."
+
+
+# game/common.rpy:1406
+translate italian common_6872d16b:
+
+    n "Non penso di essere mai sato così contento di entrare nel mio freddo appartamento, mi sembra quasi un santurario sacro al momento."
+
+
+# game/common.rpy:1407
+translate italian common_f730039d:
+
+    n "Nessun tipo inquitante o moccioso permaloso, solo il comfort del mio letto scricchiolante e la luce tremolante della mia vecchia TV."
+
+
+# game/common.rpy:1414
+translate italian common_0c149ead:
+
+    mc "\"Domani sarà tutto tornato alla normalità…\""
+
+
+# game/common.rpy:1419
+translate italian common_cd84997d:
+
+    mc "\"Sì… oggi è stata solo una serie di coincidenze fortuite.\""
+
+
+# game/common.rpy:1423
+translate italian common_3b8baf10:
+
+    n "Cerco di tranquillizzarmi con queste parole, intanto mi levo di dosso tutto tranne i boxer e mi infilo sotto le coperte con un gemito esausto."
+
+
+# game/common.rpy:1424
+translate italian common_01d0ff23:
+
+    n "Di solito, non mi lamenterei di incrociare qualche bel ragazzo, ma…{w} c'era qualcosa di strano in ognuno di loro."
+
+
+# game/common.rpy:1426
+translate italian common_d96de288:
+
+    n "Non riesco a capire cosa, ma ho un brutto presentimento."
+
+
+# game/common.rpy:1427
+translate italian common_e3344bbc:
+
+    extend " come se per sbaglio avessi buttato l'occhio in un mondo che non dovevo vedere. "
+
+
+# game/common.rpy:1432
+translate italian common_a5e1d4af:
+
+    n "Vabbè, non importa. {w}Domani sarà la solita vecchia routine… "
+
+
+# game/common.rpy:1434
+translate italian common_411b8761:
+
+    n "…Spero."
+
+
+# game/common.rpy:1439
+translate italian common_681d9b7c:
+
+    mc "\"Mmh…\""
+
+
+# game/common.rpy:1441
+translate italian common_1992e69a:
+
+    mc "\"Uff… sole…\""
+
+
+# game/common.rpy:1442
+translate italian common_43709f2b:
+
+    mc "\"Sole… fanculo a te…\""
+
+
+# game/common.rpy:1447
+translate italian common_cb5044ac:
+
+    n "Sotterro la faccia nel cuscino per nascondermi dalla luce."
+
+
+# game/common.rpy:1449
+translate italian common_f8a86b22:
+
+    n "Cacchio, dev'essere già pomeriggio inoltrato."
+
+
+# game/common.rpy:1450
+translate italian common_f4d4890b:
+
+    n "Stupido turno di notte, è impossibile riposare un numero decente di ore, a meno che non dormi sottoterra o lontano da una finestra."
+
+
+# game/common.rpy:1451
+translate italian common_de4b8679:
+
+    n "Forse dovrei investire in una bara. Più punti stile di una mascherina per dormire, su questo non c'è dubbio."
+
+
+# game/common.rpy:1458
+translate italian common_34cff204:
+
+    mc "\"Nnnnnh…\""
+
+
+# game/common.rpy:1460
+translate italian common_55dd7950:
+
+    n "Bofonchiando, alla fine riesco a costringermi ad uscire dal letto e barcollare fino alla cucina per farmi un caffè."
+
+
+# game/common.rpy:1462
+translate italian common_1bf97cae:
+
+    n "Manca ancora qualche ora a andare a lavoro, quindi posso lavorare un po' al mio progetto da freelancer. "
+
+
+# game/common.rpy:1463
+translate italian common_c0f12c87:
+
+    n "Lavoro alla tavolacalda solo per mettermi da parte qualche soldo, alla fine. "
+
+
+# game/common.rpy:1464
+translate italian common_d4640cb1:
+
+    n "La mia vera passione è-"
+
+
+# game/common.rpy:1467
+translate italian strings:
+
+    new "Scrivere"
+
+
+# game/common.rpy:1467
+translate italian strings:
+
+    new "Suonare"
+
+
+# game/common.rpy:1467
+translate italian strings:
+
+    new "Disegnare"
+
+
+# game/common.rpy:1471
+translate italian common_fe159c70:
+
+    n "Ho sempre voluto diventare un famoso scrittore, ma al momento, tutto quello che posso fare è sfornare e-book per cercare di farmi un nome. "
+
+
+# game/common.rpy:1472
+translate italian common_5086b2bc:
+
+    n "Alle volte mi pagano per un lavoro, come un racconto breve su commissione."
+
+
+# game/common.rpy:1473
+translate italian common_ecbd0cce:
+
+    n "…Anche se più che altro, è porno. {w}Fattelo dire, le persone pagano {i}un botto{/i} di soldi per la loro strana letteratura erotica."
+
+
+# game/common.rpy:1475
+translate italian common_a549bbb2:
+
+    n "Ma un giorno, riuscirò a diventare un grande scrittore. Anche se un famoso scrittore di porno, conta uguale."
+
+
+# game/common.rpy:1480
+translate italian common_c03603de:
+
+    n "Amo fare musica, anche se non ho mai avuto una formazione vera e propria."
+
+
+# game/common.rpy:1481
+translate italian common_38f943b8:
+
+    n "Eppure c'è qualcosa di davvero rilassante nel dare vita a ritmi e melodie nella mia testa, quindi passo molto del mio tempo libero a lavorare a nuove tracce."
+
+
+# game/common.rpy:1482
+translate italian common_940955fe:
+
+    n "Ho lavorato a qualche piccolo gioco e film studentesco, ma mi piacerebbe scalare le classifiche un giorno…   {w}o almeno uscire dal 5% degli artisti meno ascoltati su Cloudsound."
+
+
+# game/common.rpy:1487
+translate italian common_aac35b10:
+
+    n "Sin da quando ero bambino, ci sono sempre state un sacco di creature fantastiche e di ambientazioni che volevo disegnare."
+
+
+# game/common.rpy:1488
+translate italian common_5be7568e:
+
+    n "Sono diventato abbastanza bravo da fare qualche soldo con dei lavcori su commissione qua e là, ma ci sono così tanti grandi artisti più bravi di me al mondo."
+
+
+# game/common.rpy:1489
+translate italian common_b50254e9:
+
+    n "Sto facendo tutto il possibile per migliorare  , sperando che prima o poi, le persone dicano \"Riconosco quest'artista!\", piuttosto di \"che strana anatomia.\""
+
+
+# game/common.rpy:1496
+translate italian common_aa77cdbd:
+
+    n "-Comunque, ho un po' di tempo libero, quindi mi butto sulla mia sedia da ufficio con la mia tazza di caffè fumante in mano."
+
+
+# game/common.rpy:1501
+translate italian common_4f46a46b_8:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1502
+translate italian common_e9a12230:
+
+    n "…Ma appena poggio gli occhi sullo schermo, all'improvviso mi ricordo di quello che è successo la scorsa notte."
+
+
+# game/common.rpy:1510
+translate italian common_3c0804d9:
+
+    n "In quella strada buia…"
+
+
+# game/common.rpy:1517
+translate italian common_6cca6811_1:
+
+    i "\"Potresti anche incontrare un tuo amichetto. O forse {i}cliente{/i} è la parola giusta…?\""
+
+
+# game/common.rpy:1518
+translate italian common_6ec4069d:
+
+    n "Isaac si comportava come se sapesse qualcosa di me, o qualcuno che conosco, ma è chiaramente impossibile."
+
+
+# game/common.rpy:1520
+translate italian common_ef97797b:
+
+    n "C'era qualcosa di irritante in quello che ha detto subito dopo, ma non riesco proprio a ricordarmi le sue parole… {w} è tutto così confuso."
+
+
+# game/common.rpy:1529
+translate italian common_37744e34:
+
+    n "-Inizio a pensare che non sia solo uno spaccio di droga a caso quello di stanotte."
+
+
+# game/common.rpy:1530
+translate italian common_b347f3fd:
+
+    n "Uno sveglio se ne starebbe alla larga, ma se non scopro cosa intedesse Isaac, impazzisco."
+
+
+# game/common.rpy:1534
+translate italian common_b1631dc6:
+
+    mcp "\"Quel pervertito in giacca e cravatta   sta tramando qualcosa, questo è sicuro…\""
+
+
+# game/common.rpy:1536
+translate italian common_e3de8564:
+
+    n "Poggio la testa sulla scrivania e mi strofino gli occhi con una mano."
+
+
+# game/common.rpy:1537
+translate italian common_5c641ec2:
+
+    n "Immagino non ci sia altro da fare, eh… {w}Devo vedere da me cosa succede stanotte."
+
+
+# game/common.rpy:1542
+translate italian common_c3155aa5:
+
+    n "Distratto dai miei stessi pensieri, passo il resto del tempo prima del mio turno lavorando a un nuovo progetto senza troppo entusiasmo."
+
+
+# game/common.rpy:1548
+translate italian common_38ad8333:
+
+    n "Dopo un tempo che sembra infinito, finalmente diventa buio, ed esco per iniziare il mio turno."
+
+
+# game/common.rpy:1564
+translate italian common_d94f33ad:
+
+    n "Ma durante la mia passeggiata, non posso fare a meno di sentrimi molto più nervoso del normale."
+
+
+# game/common.rpy:1565
+translate italian common_578fb251:
+
+    n "Troy stamattina è andato via per un viaggio di lavoro, quindi sono l'unico a lavorare stanotte…"
+
+
+# game/common.rpy:1567
+translate italian common_ca12d215:
+
+    n "E se succede qualcosa, dovrò affrontarla completamente da solo. {w}Grandioso."
+
+
+# game/common.rpy:1581
+translate italian common_4f46a46b_9:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1582
+translate italian common_6f49a593:
+
+    n "-Il locale è insolitamente tranquillo, persino per il turno di notte."
+
+
+# game/common.rpy:1583
+translate italian common_6086700f:
+
+    n "Solo un paio di persone barcollano dentro nel giro di qualche ora; la mezzanotte si trasforma piano piano nelle prime ore del mattino."
+
+
+# game/common.rpy:1590
+translate italian common_47002338:
+
+    n "Mi sento sempre più teso, finché alla fine, non ce la faccio più."
+
+
+# game/common.rpy:1594
+translate italian common_9291ce12:
+
+    mc "\"Ora di chiudere prima. Scusa, Troy.\""
+
+
+# game/common.rpy:1601
+translate italian common_123c3280:
+
+    n "Afferrando le mie chiavi, spengo tutte le luci e lascio il locale, chiudendo tutto."
+
+
+# game/common.rpy:1602
+translate italian common_3d12423d:
+
+    n "Poi, mi faccio strada verso il vicolo lì vicino da cui era uscito Isaac ieri sera."
+
+
+# game/common.rpy:1609
+translate italian common_6e28756e:
+
+    n "…Ma è deserto."
+
+
+# game/common.rpy:1610
+translate italian common_b4b8cda0:
+
+    n "Nessun gangster, nessun uomo in giacca e cravatta.{w} Solo un desolato punto di ritrovo per ratti e bidoni della spazzatura abbandonati."
+
+
+# game/common.rpy:1617
+translate italian common_35a28d4c_4:
+
+    mc "\"…\""
+
+
+# game/common.rpy:1618
+translate italian common_9c96f973:
+
+    n "Forse mi sono perso l'incontro… anche se avrei dovuto sentire dei colpi di pistola, se ci sono stati."
+
+
+# game/common.rpy:1619
+translate italian common_979b2e09:
+
+    n "Immagino che ancora non siano arrivati. Ma non mi va proprio di stare ad aspettare a lungo in questo posto da brividi, specialmente da solo."
+
+
+# game/common.rpy:1623
+translate italian common_200e52d4:
+
+    mc "Bah… Dovrei semplicemente andarmene a casa, probabilmente."
+
+
+# game/common.rpy:1625
+translate italian common_7a196adc:
+
+    mc "\"È la cosa più sensata da fare… Sì.\""
+
+
+# game/common.rpy:1628
+translate italian common_6c03a8ad:
+
+    n "Dopo qualche secondo di riflessione, mi volto verso l'entrata del vicolo."
+
+
+# game/common.rpy:1630
+translate italian common_1f548506:
+
+    n "Non so perché mi senta così delus-"
+
+
+# game/common.rpy:1632
+translate italian common_b11f79b7:
+
+    u "\"Beccato!!\""
+
+
+# game/common.rpy:1636
+translate italian common_36a7a87b_1:
+
+    mc "\"-!\""
+
+
+# game/common.rpy:1642
+translate italian common_d19fb42d:
+
+    n "Dal nulla, qualcuno mi afferra per le spalle."
+
+
+# game/common.rpy:1644
+translate italian common_d137c9fe:
+
+    n "Un secondo dopo, la mia schiena viene sbattuta contro il muro e un paio di braccia forti mi tengono fermo."
+
+
+# game/common.rpy:1655
+translate italian common_827d8772:
+
+    u "\"Ehi, ehi, ehi~\""
+
+
+# game/common.rpy:1656
+translate italian common_9fa26100:
+
+    u "\"Non sei uno di quegli stupidi Seirei! Sei un umano!\""
+
+
+# game/common.rpy:1658
+translate italian common_3966e189:
+
+    n "Due grandi occhi confusi mi scrutano come fossi una specie di mutante."
+
+
+# game/common.rpy:1664
+translate italian common_2b099d45:
+
+    mcp "\"Bah… certo che sono umano!\""
+
+
+# game/common.rpy:1666
+translate italian common_e542dcae:
+
+    mcp "\"Cosa ti aspettavi, un cazzo di ornitorinco?\""
+
+
+# game/common.rpy:1668
+translate italian common_46c9660f:
+
+    n "Dopo avergli ringhiato addosso… {w}Mi blocco immediatamenente."
+
+
+# game/common.rpy:1673
+translate italian common_5433f767:
+
+    mcp "\"Un umano…? C-certo che sono un umano!\""
+
+
+# game/common.rpy:1677
+translate italian common_76863663:
+
+    mcp "\"Cos'altro potrei essere? Non capisc-\""
+
+
+# game/common.rpy:1682
+translate italian common_4f46a46b_10:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1683
+translate italian common_82d84706:
+
+    n "Mi interrompo a metà della frase, osservando il mio aggressore."
+
+
+# game/common.rpy:1686
+translate italian common_06887367:
+
+    n "Questo tizio dai capelli rossi ha un tatuaggio in faccia… e indossa una singolare giacca in pelle."
+
+
+# game/common.rpy:1687
+translate italian common_7afe23e8:
+
+    n "Potrebbe essere la persona di cui parlava il ragazzo di ieri notte…?"
+
+
+# game/common.rpy:1692
+translate italian common_2d56a98f:
+
+    u "\"Whoa, perché ti arrabbi tanto, ragazzo? Non sei il tizio che stavo cercando, tutto qui!\""
+
+
+# game/common.rpy:1693
+translate italian common_cbb0ae2a:
+
+    n "Mi mostra un ampio sorriso di scherno."
+
+
+# game/common.rpy:1695
+translate italian common_fd4c8230:
+
+    n "I miei occhi sono attirati dalla forma dei suoi canini, che ricordano quelli di un animale-"
+
+
+# game/common.rpy:1697
+translate italian common_a339f664:
+
+    n "Lunghi, appuntiti e bianchi come il latte."
+
+
+# game/common.rpy:1704
+translate italian common_8292e48f:
+
+    u "\"…Sai, hai proprio un buon profumo…\""
+
+
+# game/common.rpy:1705
+translate italian common_56f74f54:
+
+    u "\"Piuttosto speciale, in realtà. Davvero dolce.\""
+
+
+# game/common.rpy:1706
+translate italian common_d7186ced:
+
+    n "Si avvicina un po', con uno sguardo lascivo e quelle zanne appuntite in bella vista."
+
+
+# game/common.rpy:1707
+translate italian common_b2270d3d:
+
+    n "Devono essere una specie di modificazione corporea.. {w}giusto?"
+
+
+# game/common.rpy:1712
+translate italian common_7388700e:
+
+    u "\"Sono piuttosto affamato, fra l'altro! Non ho ancora mangiato nulla in tutta la notte… e sembri sempre più buono ogni momento che passa…\""
+
+
+# game/common.rpy:1714
+translate italian common_d8cc1ec0:
+
+    n "-Merda, se non faccio qualcosa, questo depravato mi mangia davvero…!"
+
+
+# game/common.rpy:1716
+translate italian strings:
+
+    new "Cerca di spingerlo via"
+
+
+# game/common.rpy:1716
+translate italian strings:
+
+    new "Parlaci"
+
+
+# game/common.rpy:1724
+translate italian common_e0f37226:
+
+    mcp "\"Lasciami…andare…str - umpf!\""
+
+
+# game/common.rpy:1725
+translate italian common_ebe08d2c:
+
+    n "Gli butto addosso tutta la mia forza per cercare di spostarlo, ma non ne sembra neanche minimamente colpito."
+
+
+# game/common.rpy:1727
+translate italian common_656b90dd:
+
+    n "Al contrario, mi spinge contro il muro ancora più forte, trasformando la sua faccia in una finta espressione addolorata."
+
+
+# game/common.rpy:1731
+translate italian common_a6f16c91:
+
+    u "\"Ehi, non fare così, baby~\""
+
+
+# game/common.rpy:1735
+translate italian common_5658ba45:
+
+    u "\"Voglio sol giocare un po' con te! Fammi fare un assaggino, dai!\""
+
+
+# game/common.rpy:1736
+translate italian common_d40d2ed1:
+
+    n "Mi cinguetta nell'orecchio, avvicinandosi nuovamente. Un senso di terrore assoluto mi stringe la gola come una morsa."
+
+
+# game/common.rpy:1745
+translate italian common_c1fada51:
+
+    mcp "\"Ehi, aspetta, fermo!\""
+
+
+# game/common.rpy:1746
+translate italian common_5e6026a3:
+
+    mcp "\"Se hai fame, posso prepararti qualcosa, il mio locale è giusto dietro l'ang-\""
+
+
+# game/common.rpy:1750
+translate italian common_7fcc2650:
+
+    u "\"No, no, non voglio che mi prepari un cazzo!\""
+
+
+# game/common.rpy:1751
+translate italian common_fbf8d543:
+
+    n "Dopo che il rosso mi interrompe, uno sguardo bramoso gli lampeggia negli occhi."
+
+
+# game/common.rpy:1755
+translate italian common_270c168f:
+
+    u "\"Nah…. Voglio {i}te{/i}.\""
+
+
+# game/common.rpy:1757
+translate italian common_f354dcbc:
+
+    n "Con un ringhio profondo, si lecca le labbra, premendo la faccia sempre più vicino al mio collo."
+
+
+# game/common.rpy:1762
+translate italian common_ffd0b84e:
+
+    n "-Chiudo gli occhi terrorizzato e trattengo il respiro."
+
+
+# game/common.rpy:1763
+translate italian common_a3a7dd76:
+
+    n "Ecco, è il momento. {w}Sto per essere squartato da qualche pazzo in un vicolo. "
+
+
+# game/common.rpy:1766
+translate italian common_5695b5fe:
+
+    n "Il suo respiro affannoso diventa man mano più forte, e posso sentire ogni sua esalazione che mi solletica la gola…"
+
+
+# game/common.rpy:1768
+translate italian common_eabec665:
+
+    n "…"
+
+
+# game/common.rpy:1769
+translate italian common_b1b8f01e:
+
+    n "……"
+
+
+# game/common.rpy:1773
+translate italian common_c15ce09a:
+
+    u "\"Ngh–?!\""
+
+
+# game/common.rpy:1775
+translate italian common_7b012f5d:
+
+    n "All'improvviso, la pressione che mi teneva attaccato al muro svanisce."
+
+
+# game/common.rpy:1777
+translate italian common_598eca71:
+
+    mc "\"…?\""
+
+
+# game/common.rpy:1782
+translate italian common_a1875883:
+
+    n "Quando apro gli occhi -{w}Mi rendo conto che l'uomo non c'è più."
+
+
+# game/common.rpy:1784
+translate italian common_287dbca8:
+
+    n "No, c'è ancora, ma adesso…"
+
+
+# game/common.rpy:1786
+translate italian common_000a8079:
+
+    mcp "\"Tu-!\""
+
+
+# game/common.rpy:1794
+translate italian common_ae49165a:
+
+    u "\"Kh…\""
+
+
+# game/common.rpy:1795
+translate italian common_78418d20:
+
+    n "Con un rumoroso grugnito, un uomo familiare con una giacca scura tira un pugno verso il mio aggressore."
+
+
+# game/common.rpy:1798
+translate italian common_04ab8f4f:
+
+    urp "\"Tzè! Dominic del cazzo!\""
+
+
+# game/common.rpy:1799
+translate italian common_e7aa8ab6:
+
+    urp "\"{i}Sapevo{/i} che eri qui intorno, ahahaha!\""
+
+
+# game/common.rpy:1800
+translate italian common_f877902e:
+
+    n "Il rosso si lascia andare ad un'esuberante risata e schiva il pugno, muovendosi a una velocità incredibile."
+
+
+# game/common.rpy:1801
+translate italian common_a0601354:
+
+    n "Un secondo dopo, dirige uno dei suoi pugni fulminei contro l'altro ragazzo,  Dominic."
+
+
+# game/common.rpy:1807
+translate italian common_01baaab5:
+
+    d "\"…\""
+
+
+# game/common.rpy:1808
+translate italian common_ada965e0:
+
+    n "Con un'espressione impassibile, Domic si sposta lateralmente, senza il minimo sforzo."
+
+
+# game/common.rpy:1809
+translate italian common_2fd88f46:
+
+    n "Il momento successivo, la sua mano sferra un pugno contro la faccia del suo avversario, colpendola in pieno."
+
+
+# game/common.rpy:1813
+translate italian common_8e8913a3:
+
+    u "\"Grh–!\""
+
+
+# game/common.rpy:1814
+translate italian common_821ecd56:
+
+    n "Riesco a captare il suono di qualcosa di affilato che taglia la carne -"
+
+
+# game/common.rpy:1815
+translate italian common_d48b03b5:
+
+    extend "e un istante dopo, del sangue inizia a sgorgare dalla faccia del rosso."
+
+
+# game/common.rpy:1818
+translate italian common_dcb29545:
+
+    u "\"Ahahah… ahahaha!\""
+
+
+# game/common.rpy:1819
+translate italian common_970e8bdf:
+
+    u "\"Dom, adesso sì, che sei incazzato! Wow!\""
+
+
+# game/common.rpy:1820
+translate italian common_09bc352a:
+
+    n "Invece di contrattaccare, l'uomo tatuato si ferma, pulendosi il sangue con una manica."
+
+
+# game/common.rpy:1822
+translate italian common_36a7a87b_2:
+
+    mc "\"-!\""
+
+
+# game/common.rpy:1826
+translate italian common_4cd5b0b3:
+
+    n "…Ma proprio davanti ai miei occhi, le ferite, simili a quelle provocate da artigli, inziano a guarire da sole e richiudersi…"
+
+
+# game/common.rpy:1828
+translate italian common_1578fa89:
+
+    n "Fino a scomparire completamente, lasciandolo senza nessuna traccia."
+
+
+# game/common.rpy:1830
+translate italian common_f0d8b536:
+
+    n "Sto impazzendo? {w}Non è possibile che un umano possa fare una cosa del genere…"
+
+
+# game/common.rpy:1832
+translate italian common_714bfafa:
+
+    n "No, no, tutto questo deve essere un incubo, solo un orribile incubo del cazzo…!"
+
+
+# game/common.rpy:1842
+translate italian common_09897f0c:
+
+    u "\"Non dirmi che sei così agitato a causa di questo ragazzo!\""
+
+
+# game/common.rpy:1846
+translate italian common_bdb1ef76:
+
+    u "\"Sei serio? Lo vuoi prosciugare a tal punto?\""
+
+
+# game/common.rpy:1849
+translate italian common_2753b6d2:
+
+    d "\"…Basta.\""
+
+
+# game/common.rpy:1850
+translate italian common_6fe5e86a:
+
+    d "\"Non metterlo in mezzo a questa storia.\""
+
+
+# game/common.rpy:1851
+translate italian common_786bbd52:
+
+    n "Gli occhi di Dominic si trasformano in fessure mentre fissa il ragazzo con la giacca in pelle, che ride come se avesse appena ascoltato la battuta più divertente del mondo."
+
+
+# game/common.rpy:1854
+translate italian common_ee2e03ef:
+
+    u "\"Ahahah-! Wow, wow! In tal caso, ci metterò le mani sopra per primo!\""
+
+
+# game/common.rpy:1857
+translate italian common_2a7fb391:
+
+    u "\"Perché… Voglio vederti incazzarti molto, molto di più, Dom~\""
+
+
+# game/common.rpy:1858
+translate italian common_85565b93:
+
+    n "In modo piuttosto repentino, la faccia del ragazzo tatuato si congela, il suo sorriso si trasforma in una gelida espressione: era assetato di sangue."
+
+
+# game/common.rpy:1860
+translate italian common_a931c60a:
+
+    u "\"Voglio vederti soffrire…\""
+
+
+# game/common.rpy:1863
+translate italian common_9b236b27:
+
+    u "\"…Finché non smetterai di vederci come dei fottuti fenomeni da baraccone!\""
+
+
+# game/common.rpy:1869
+translate italian common_14f95346:
+
+    n "E con questo, si butta di nuovo addosso a Dominic, sferrando frenetici pugni all'impazzata."
+
+
+# game/common.rpy:1870
+translate italian common_98082d8f:
+
+    n "Questa volta, però, sembra che si stia muovendo ancora più velocemente di prima e ogni pugno è colmo di rabbia."
+
+
+# game/common.rpy:1872
+translate italian common_8ba089a0:
+
+    dp "\"-!\""
+
+
+# game/common.rpy:1873
+translate italian common_f995e16c:
+
+    n "L’assalto è così potente da far indietreggiare Dominic, che perde qualche metro in favore dell'altro ragazzo, chiaramente alimentato dall'ira."
+
+
+# game/common.rpy:1878
+translate italian common_20691297:
+
+    n "-Schivano e cercano di colpirsi a tale velocità che i miei occhi riescono a malapena a seguirli."
+
+
+# game/common.rpy:1879
+translate italian common_8d5dd353:
+
+    n "Una rapidità del genere è inumana, e più li osservo, più il sangue mi si raggela nelle vene."
+
+
+# game/common.rpy:1882
+translate italian common_fc3ac0f7:
+
+    n "È possibile… {w}che siano davvero {i}non{/i} umani?"
+
+
+# game/common.rpy:1883
+translate italian common_4850387a:
+
+    n "Quando la mia mente torna ai canini appunti del tizio rosso…"
+
+
+# game/common.rpy:1884
+translate italian common_fffc8119:
+
+    extend "il mio stomaco si rigira e un brivido mi trapassa il corpo."
+
+
+# game/common.rpy:1889
+translate italian common_9a0e444b:
+
+    u "\"Vieni qui, Dom! Non ti lascerò scappare stavolta!\"""
+
+
+# game/common.rpy:1891
+translate italian common_0dbc1f31:
+
+    n "Con un ululato minaccioso, l'uomo tatuato salta - {w} si dà una spinta sul muro e si lancia verso Dominic."
+
+
+# game/common.rpy:1894
+translate italian common_a5013513:
+
+    dp "\"Umpf…!\""
+
+
+# game/common.rpy:1900
+translate italian common_4fd2f62c:
+
+    n "Questa volta non riesce a schivarlo in tempo, i loro corpi si scontrano e cadono a terra."
+
+
+# game/common.rpy:1902
+translate italian common_34d20ccb:
+
+    n "-Di questo passo, uno di loro finirà squartato."
+
+
+# game/common.rpy:1903
+translate italian common_afdc07e0:
+
+    n "Se provo a fare qualcosa, potrebbero prendersela con me, ma posso stare qui e basta-?"
+
+
+# game/common.rpy:1905
+translate italian strings:
+
+    new "Assisti al combattimento"
+
+
+# game/common.rpy:1905
+translate italian strings:
+
+    new "Cerca di fermarli"
+
+
+# game/common.rpy:1910
+translate italian common_ea03934b:
+
+    n "…No, non dovrei direi niente."
+
+
+# game/common.rpy:1911
+translate italian common_3877201f:
+
+    n "Questi tizi sono chiaramente dei mostri, quindi se mi metto in mezzo adesso, sarò semplicemente fatto a pezzi."
+
+
+# game/common.rpy:1913
+translate italian common_1c9c0ae0:
+
+    n "E poi… il loro scontro è stranamente affascinante da osservare, anche se ogni colpo è potenzialmente fatale."
+
+
+# game/common.rpy:1921
+translate italian common_1d76142b:
+
+    n "…Devo dire qualcosa."
+
+
+# game/common.rpy:1922
+translate italian common_e3e6433d:
+
+    n "Mostro o no, non voglio vedere qualcuno fatto a pezzi davanti ai miei occhi!"
+
+
+# game/common.rpy:1924
+translate italian common_d7e31bb2:
+
+    mcp "\"Dominic! Fermati!\""
+
+
+# game/common.rpy:1925
+translate italian common_50659b09:
+
+    mcp "\"Spingilo via e scappa!\""
+
+
+# game/common.rpy:1929
+translate italian common_e603bb6a:
+
+    dp "\"…!\""
+
+
+# game/common.rpy:1930
+translate italian common_b3ec2fb0:
+
+    n "Dominic sembra aver sentito le mie parole, ma continua a combattere con il violento tizio rosso, che lo sta attaccando con tutte le sue forze."
+
+
+# game/common.rpy:1934
+translate italian common_13ed48af:
+
+    n "Mordendomi il labbro, li guardo picchiarsi freneticamente, i loro grugniti riempiono l'aria, finché a un certo punto -"
+
+
+# game/common.rpy:1936
+translate italian common_daf814b3:
+
+    u "\"…Ehi, che sta succedendo qui?\""
+
+
+# game/common.rpy:1937
+translate italian common_1bbec82d:
+
+    u "\"Signori, potete mettere la cosa in pausa un momento?\""
+
+
+# game/common.rpy:1941
+translate italian common_1feefa32:
+
+    dp "\"…\""
+
+
+# game/common.rpy:1942
+translate italian common_59bd454b:
+
+    urp "\"…\""
+
+
+# game/common.rpy:1944
+translate italian common_9b5c4f7a:
+
+    n "In quell'istante, lo scontro si ferma completamente.”
+
+
+# game/common.rpy:1950
+translate italian common_e6d7ef60:
+
+    n "Una sagoma alta si avvicina dall'entrata del vicolo, la sua faccia compare all'improvviso, illuminata dalla luce del lampione."
+
+
+# game/common.rpy:1953
+translate italian common_e6d2d0fa:
+
+    mcp "\"Isaac…?\""
+
+
+# game/common.rpy:1955
+translate italian common_8df6c9d7_3:
+
+    i "\"…\""
+
+
+# game/common.rpy:1956
+translate italian common_b74d15b3:
+
+    n "Dopo aver fulminato con lo sguardo Dominic e il tipo tatuato, Isaac si gira verso di me, le sue sopracciglia scattano verso l'alto per la sopresa."
+
+
+# game/common.rpy:1960
+translate italian common_653b14b7:
+
+    i "\"Oh, sei venuto alla fine!\""
+
+
+# game/common.rpy:1962
+translate italian common_9e5f4dae:
+
+    i "\"Mi dispiace tu abbia dovuto vedere questi due al loro peggio, ma ti avevo {i}promesso{/i} che Dom ci sarebbe stato, giusto?\""
+
+
+# game/common.rpy:1965
+translate italian common_4f46a46b_11:
+
+    mcp "\"…\""
+
+
+# game/common.rpy:1968
+translate italian common_ff87b45f:
+
+    n "-Oh, quindi è a lui che si riferiva Isaac?"
+
+
+# game/common.rpy:1969
+translate italian common_1ae40a7c:
+
+    n "Come cazzo faceva a sapere che avevo conosciuto Dominic? {w}Non è successo solo qualche ora prima di vedere Isaac?"
+
+
+# game/common.rpy:1970
+translate italian common_0f5856eb:
+
+    n "Non è nemmeno mai entrato nel locale… qualcuno deve averglielo detto."
+
+
+# game/common.rpy:1974
+translate italian common_f19dcebd:
+
+    u "\"Fottiti, Isaac! Non mi impedirai di fare a pezzi questo pezzo di – ouch!\""
+
+
+# game/common.rpy:1978
+translate italian common_b2d3144c:
+
+    n "Prima che il tipo dai capelli rossi potesse finire la frase, Dominic lo spinge via con grugnito."
+
+
+# game/common.rpy:1981
+translate italian common_a05ac4aa:
+
+    n "Si schianta al suolo qualche metro più lontano, emettendo un rantolo di dolore."
+
+
+# game/common.rpy:1985
+translate italian common_ef8ca4b4:
+
+    n "Ridacchiando, Isaac si tira su gli occhiali, senza mostrare un minimo di preoccupazione."
+
+
+# game/common.rpy:1987
+translate italian common_6e1bce41:
+
+    i "\"Davvero, Rex, dovresti imparare a darti una calmata quando serve. Metterai in imbarazzo tutti i tuoi fratelli Helgen.\""
+
+
+# game/common.rpy:1990
+translate italian common_9e690118:
+
+    r "\"…\""
+
+
+# game/common.rpy:1991
+translate italian common_d086af98:
+
+    n "A queste parole, l'uomo con la giacca in pelle sembra perdere tutta la sua sete di sangue, come se Isaac avesse spento un interrutore."
+
+
+# game/common.rpy:1993
+translate italian common_1725c500:
+
+    n "Il ragazzo piagnucola e alza gli occhi al cielo; sembra un bambino a cui hanno appena tolto il suo giocattolo preferito."
+
+
+# game/common.rpy:1996
+translate italian common_0829513f:
+
+    r "\"Uff, va bene… Vecchio scemo…\""
+
+
+# game/common.rpy:2001
+translate italian common_4d192398:
+
+    n "Rex mugugna in risposta. Subito dopo la tensione elettrica nell'aria inzia a sciogliersi gradualmente."
+
+
+# game/common.rpy:2002
+translate italian common_1b73b579:
+
+    n "Solo per essere sostituita da un imbrazzante silenzio, durante il quale ci scambiamo occhiate a vicenda."
+
+
+# game/common.rpy:2004
+translate italian common_23f2234e:
+
+    n "Ma una volta che i miei livelli di adrenalina nelle vene tornano normali, faccio un respiro prefondo e mi rivolgo ad Isaac."
+
+
+# game/common.rpy:2014
+translate italian common_900afc3c:
+
+    mc "\"Allora, hai intenzione di spiegarmi cosa cazzo sta succedendo qui?\""
+
+
+# game/common.rpy:2017
+translate italian common_ba71c648:
+
+    mc "\"Mi dispiace rovinare il momento, ma sarebbe fanstico se potessi darmi una qualche spiegazione su quello che sta accadendo."
+
+
+# game/common.rpy:2018
+translate italian common_28070031:
+
+    n "La mia voce, leggermente spezzata dall'ansia, rompe il lungo momento di silenzio."
+
+
+# game/common.rpy:2020
+translate italian common_00ab1861:
+
+    n "Dominic, Rex e Isaac mi osservano senza dire una parola, ora capisco come si sente un coniglio in mezzo a un branco di lupi."
+
+
+# game/common.rpy:2023
+translate italian common_9b211a09:
+
+    mc "\"Questi tizi… non sono {i}normali.{/i}\""
+
+
+# game/common.rpy:2024
+translate italian common_57651df6:
+
+    mc "\"Ma già lo sai, non è vero, Isaac?\""
+
+
+# game/common.rpy:2027
+translate italian common_0f5d48c9:
+
+    n "Quando gli porgo la domanda, con la voce tremolante, Isaac lancia uno sguardo strano a Dominic."
+
+
+# game/common.rpy:2030
+translate italian common_1feefa32_1:
+
+    dp "\"…\""
+
+
+# game/common.rpy:2031
+translate italian common_6147ddeb:
+
+    n "Per un millesimo di secondo, Dominc sembra trasalire quasi impercettibilmente, i suoi occhi chiusi in una fessura."
+
+
+# game/common.rpy:2032
+translate italian common_fbb402e9:
+
+    n "Ma uno sguardo freddo e indecifrabile compare di nuovo sul suo viso."
+
+
+# game/common.rpy:2035
+translate italian common_9a6bfc8a:
+
+    i "\"Si, [mc], direi che a questo punto è ovvio che non siano 'normali'\""
+
+
+# game/common.rpy:2036
+translate italian common_2cda683a:
+
+    n "Isaac finalmente decide di parlare, e il mio sguardo torna rapidamente su di lui."
+
+
+# game/common.rpy:2038
+translate italian common_ecc862f7:
+
+    i "\"Vedi, dietro la luccicante patina   della nostra amata San Francisco c'è un lato molto, molto più oscuro…\""
+
+
+# game/common.rpy:2040
+translate italian common_d4f07674:
+
+    i "\"Un lato che di solito le persone come te non sospettano nemmeno esista."
+
+
+# game/common.rpy:2041
+translate italian common_c6efcd28:
+
+    n "Si raddrizza la cravatta con una mano, un sorriso impassibile gli si disegna sul viso."
+
+
+# game/common.rpy:2044
+translate italian common_3a741866:
+
+    i "\"Ma una volta assaporata l'oscurità, non si può più tornare indietro.\""
+
+
+# game/common.rpy:2046
+translate italian common_97147209:
+
+    i "\"Per esempio, se ipoteticamente un bel cameriere decidesse di andare a raccontare alla polizia una storiella divertente …\""
+
+
+# game/common.rpy:2049
+translate italian common_bd8786f6:
+
+    i "\"…Un uomo alto e spaventoso con una giacca scura vorrebbe assicurarsi che non potesse mai più dire altro.\""
+
+
+# game/common.rpy:2052
+translate italian common_35a28d4c_5:
+
+    mc "\"…\""
+
+
+# game/common.rpy:2054
+translate italian common_a7a96d0b:
+
+    n "\"Alla tranquilla minaccia di Isaac, il mio sguardo scivola su Dominc incredulo."
+
+
+# game/common.rpy:2055
+translate italian common_05cacfb5:
+
+    n "Le sue labbra sono deformate in una smorfia quando i nostri sguardi si incrociano, e mi sembra di intravedere un leggero senso di colpa."
+
+
+# game/common.rpy:2057
+translate italian common_0c33bc5b:
+
+    n "-Significa che davvero mi uccciderebbe solo per evitare che possa dire in giro quello che ho visto stanotte?"
+
+
+# game/common.rpy:2060
+translate italian common_fed25c03:
+
+    i "\"Ovviamente, è tutta una cosa ipotetica.\""
+
+
+# game/common.rpy:2061
+translate italian common_aa966580:
+
+    i "\"Gli umani come noi possono lavorare con i nostri compagni vampiri tranquillamente, a patto che nessuno abbia la lingua lunga.\""
+
+
+# game/common.rpy:2063
+translate italian common_5ab0d955:
+
+    mc "\"Aspetta… non sei un vampiro allora?\""
+
+
+# game/common.rpy:2066
+translate italian common_8df6c9d7_4:
+
+    i "\"…\""
+
+
+# game/common.rpy:2067
+translate italian common_63600f91:
+
+    n "La mia domanda terrorizzata fa rimanere Isacc in silenzio per un secondo."
+
+
+# game/common.rpy:2070
+translate italian common_781f14b4:
+
+    n "Tuttavia, poco dopo si lascia andare ad una risata e scuote la testa, aggiustandosi la cravatta con una mano."
+
+
+# game/common.rpy:2071
+translate italian common_9291c7e8:
+
+    i "Non proprio, no. Non come Rex e Dominic, comunque."
+
+
+# game/common.rpy:2073
+translate italian common_741bcfba:
+
+    rp "\"Non mettermi sullo stesso piano di quel pezzo di merda, Isaac…!\""
+
+
+# game/common.rpy:2074
+translate italian common_ee4e22b0:
+
+    n "Protesta Rex dal muro sui cui è poggiato, lanciandoci un’occhiataccia."
+
+
+# game/common.rpy:2076
+translate italian common_e0313b0e:
+
+    i "\"Giusto, mi dispiace tanto. Ora tornando alle cose importanti, [mc]…\""
+
+
+# game/common.rpy:2083
+translate italian common_d49e6872:
+
+    n "Proprio come Isaac alza occhi al cielo e ricomincia a parlare, dei passi leggeri echeggiano dal fondo del vicolo."
+
+
+# game/common.rpy:2084
+translate italian common_16f67002:
+
+    n "-Qualche secondo dopo, un ragazzo biondo e bassino corre e si ferma accanto ad Isaac, ansimando."
+
+
+# game/common.rpy:2089
+translate italian common_69c53402:
+
+    l "\"Aaah… fiù…\""
+
+
+# game/common.rpy:2091
+translate italian common_4bdc43df:
+
+    l "\"I-Isaac, scusami sono in ritar-eh?!\""
+
+
+# game/common.rpy:2092
+translate italian common_940e91a3:
+
+    n "A metà frase, Luka si interrompe di colpo."
+
+
+# game/common.rpy:2093
+translate italian common_3fbec868:
+
+    n "Mi fissa con gli occhi sbarrati; io faccio lo stesso, sbigottito."
+
+
+# game/common.rpy:2095
+translate italian common_53835436:
+
+    mcp "\"Luka…?\""
+
+
+# game/common.rpy:2098
+translate italian common_67fc5ed7:
+
+    mcp "\"Aspetta un attimo… Sei stato {i}tu{/i} a dire a Isaac che avevo incontrato Dominic?\""
+
+
+# game/common.rpy:2100
+translate italian common_7ed50faa:
+
+    n "Per quanto bizzarra potesse essere la situazione, i pezzi del puzzle stavano iniziando a incrastrarsi fra loro."
+
+
+# game/common.rpy:2101
+translate italian common_f6577961:
+
+    n "Questo moccioso stava cercando di farmi parlare di tizi 'particolari' - {w}in altre parole, trovargli persone che potrebbero essere dei vampiri…?"
+
+
+# game/common.rpy:2104
+translate italian common_71423380_1:
+
+    l "\"…\""
+
+
+# game/common.rpy:2105
+translate italian common_f461d2de:
+
+    n "Luka passa da sorpreso ad agitato; la sua reazione conferma i miei sospetti e lui distoglie lo sguardo intimidito."
+
+
+# game/common.rpy:2106
+translate italian common_61693677:
+
+    l "\"Sì, e quindi? Era piuttosto chiaro che stavi cercando di proteggerlo…\""
+
+
+# game/common.rpy:2107
+translate italian common_abe6aa15:
+
+    n "Detto questo, lo sguardo di Luka si posa su Dominic con una certa aggressività.”
+
+
+# game/common.rpy:2108
+translate italian common_fcbc0a4c:
+
+    n "Riserva a Rex lo stesso sguardo di odio. {w}Luka li conosce già entrambi?"
+
+
+# game/common.rpy:2111
+translate italian common_66c708e0:
+
+    ip "\"…D'accordo, non ci scaldiamo troppo.\""
+
+
+# game/common.rpy:2117
+translate italian common_7e171d64:
+
+    n "Lasciandosi andare ad un lungo sospiro, Isaac si stringe il ponte del naso fra indice e pollice. "
+
+
+# game/common.rpy:2119
+translate italian common_b58bd83c:
+
+    i "\"Sembra che ci sia qualche problema di comunicazione qui. Vedi -\""
+
+
+# game/common.rpy:2121
+translate italian common_81c7f156:
+
+    u "\"-Ti spacco la testa!\""
+
+
+# game/common.rpy:2123
+translate italian common_1f5d5290:
+
+    n "…Mentre Isaac cercava per la seconda volta di spiegarmi la situazione, un rumore completamente diverso attraversa l'aria come una freccia."
+
+
+# game/common.rpy:2124
+translate italian common_9e2ae72d:
+
+    u "\"Ah, sì? Provaci! Ahahah!\""
+
+
+# game/common.rpy:2125
+translate italian common_22419ebe:
+
+    n "Il rumore non così distante di uno scontro ci inonda le orecchie, proviene da un vicolo vicino."
+
+
+# game/common.rpy:2126
+translate italian common_85da09b8:
+
+    n "Non sono solo due voci. {w}In realtà, sembrano molte di più… come se ci fosse un orribile, sanguinosa festa."
+
+
+# game/common.rpy:2129
+translate italian common_91e1b6fd:
+
+    i "\"Ugh. La situazione sta per diventare davvero comica.\""
+
+
+# game/common.rpy:2131
+translate italian common_35567cf1:
+
+    i "\"Ovviamente decidono di darsele proprio stanotte… animali, davvero.\""
+
+
+# game/common.rpy:2132
+translate italian common_b8c23244:
+
+    n "Nonostante la natura sdegnosa delle sue parole, Isaac sembra tutt'a un tratto sollevato."
+
+
+# game/common.rpy:2138
+translate italian common_9ba3bd6c:
+
+    l "\"Cazzo… perché i clan stanno litigando adesso, di tutti i momenti possibili? Ogni vampiro di San Francisco si trova da queste parti stanotte?\""
+
+
+# game/common.rpy:2139
+translate italian common_27a33361:
+
+    n "Luka sembra irritato, anche se Isaac è chiaramente compiaciuto. Ci deve essere in atto qualche faida fra clan."
+
+
+# game/common.rpy:2145
+translate italian common_92fcd8a8:
+
+    n "Nel momento stesso in cui apro la bocca per fare una domanda, tuttavia, Isaac se ne va correndo - {w}dritto in direzione del casino."
+
+
+# game/common.rpy:2147
+translate italian common_d45ee776:
+
+    l "\"Aspetta, Isaac! Dove stai an-\""
+
+
+# game/common.rpy:2152
+translate italian common_491cafab:
+
+    n "Luka inizia a correre dietro Isaac urlando esasperato e con gli occhi fissi sulla schiena dell'altro."
+
+
+# game/common.rpy:2157
+translate italian common_01baaab5_1:
+
+    d "\"…\""
+
+
+# game/common.rpy:2158
+translate italian common_b89f933a:
+
+    n "Intanto, Dominic si volta nella direzione opposta, apperentemente disinteressato alla faccenda."
+
+
+# game/common.rpy:2161
+translate italian common_a12369e7:
+
+    n "Le sue lunghe falcate lo fanno arrivare in fretta alla fine del vicolo, rendondo chiaro che non volesse rimanere lì."
+
+
+# game/common.rpy:2166
+translate italian common_8e1d5fc2:
+
+    n "-Rex, al contrario, viene dritto verso di… me?!"
+
+
+# game/common.rpy:2168
+translate italian common_8c2f6d0f:
+
+    r "\"Siamo solo tu e io adesso, baby~ Non essere timido!\""
+
+
+# game/common.rpy:2170
+translate italian common_099b0688:
+
+    n "…Oh, cazzo."
+
+
+# game/common.rpy:2171
+translate italian common_4336ae6f:
+
+    n "Questa notte è passata da brutta a terribile nel giro di circa 15 minuti."
+
+
+# game/common.rpy:2172
+translate italian common_d237065a:
+
+    n "Ma se voglio cercare di capire cosa diamine stia succedendo, devo scegliere bene cosa fare adesso -"
+
+
+# game/common.rpy:2174
+translate italian strings:
+
+    new "Rincorri Dominc"
+
+
+# game/common.rpy:2174
+translate italian strings:
+
+    new "Segui Luka (sbloccato)"
+
+
+# game/common.rpy:2174
+translate italian strings:
+
+    new "Segui Luka"
+
+
+# game/common.rpy:2174
+translate italian strings:
+
+    new "Raggiungi Isaac"
+
+

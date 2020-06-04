@@ -15,7 +15,7 @@ Extra
 Exit
 <Esci>
 Buy (1.99)
-(Acquista 1,99)
+<Acquista (1,99)>
 
 Yes
 <Sì>
@@ -42,7 +42,7 @@ Load
 <Carica>
 
 Full Game (All 3 routes)
-<Gioco completo (Tutti i 3 percorsi)
+<Gioco completo (Tutti i 3 percorsi)>
 Free!
 <Gratis!>
 Buy the full game?
