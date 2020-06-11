@@ -2606,7 +2606,7 @@ translate italian common_6852a9a6:
 translate italian common_917c9d55:
 
     # n "He probably thinks his money makes him some kind of king. {w}What a class act."
-    n "Sicuro pensa che i suoi soldi lo rendano una specie di re. {w}Che gran classe!."
+    n "Sicuro pensa che i suoi soldi lo rendano una specie di re. {w}Che gran classe!"
 
 
 # game/common.rpy:1254
