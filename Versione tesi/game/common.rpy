@@ -135,7 +135,7 @@ translate italian common_85935e82:
 translate italian common_6d8b2906:
 
     # n "It feels like I'm watching over a cemetery sometimes. One that smells like greasy burgers."
-    n "A volte mi sembra di fare il guardiano in un cimitero. Un cimitero che puzza di unto ."
+    n "A volte mi sembra di fare il guardiano in un cimitero. Un cimitero che puzza di unto."
 
 
 # game/common.rpy:99
@@ -191,7 +191,7 @@ translate italian common_2b90168d:
 translate italian common_cd5dd5c0:
 
     # n "Even though he's sitting down, I can tell he's pretty tall, and he looks intimidatingly muscular despite the baggy jacket."
-    n "Nonostane sia seduto, si capisce che è piuttosto alto. Sotto la giacca larga si intuisce la presenza in un corpo minacciosamente muscoloso." 
+    n "Nonostante sia seduto, si capisce che è piuttosto alto. Sotto la giacca larga si intuisce la presenza di un corpo minacciosamente muscoloso." 
 
 
 # game/common.rpy:119
@@ -254,7 +254,7 @@ translate italian common_9c2f4144:
 translate italian common_6d2f8c64:
 
     # mcp "\"Hello, sir. Can I get you anything tonight? A coke, burger, milkshake?\""
-    mcp "\Salve, signore. Posso portarle qualcosa? Una coca, un hamburger, un milkshake?\"
+    mcp "\Salve, signore. Posso portarle qualcosa? Una coca, un hamburger, un frappè?\"
 
 
 # game/common.rpy:147
@@ -282,7 +282,7 @@ translate italian common_799ec740:
 translate italian common_3a6cdb55:
 
     # n "Annoyed at this guy's attitude, I force down the urge to roll my eyes and just clear my throat instead."
-    n "Infastidito dal comportamento di questo tizio, trattengo l'instinto di alzare gli occhi al cielo e mi schiarisco la gola."
+    n "Infastidito dal comportamento di questo tizio, trattengo l'istinto di alzare gli occhi al cielo e mi schiarisco la gola."
 
 
 # game/common.rpy:163
@@ -408,7 +408,7 @@ translate italian common_ae7c0d47:
 translate italian common_c4bf9b71:
 
     # n "He murmurs under his breath, staring at me so intensely that I swallow a nervous lump in my throat."
-    n "Sussura, fissandomi così intensamente da farmi venire un groppo in gola che cerco nervosamente di buttare giù."
+    n "Sussurra, fissandomi così intensamente da farmi venire un groppo in gola che cerco nervosamente di buttare giù."
 
 
 # game/common.rpy:216
@@ -422,7 +422,7 @@ translate italian common_4b4fb043:
 translate italian common_722b2816:
 
     # n "Troy, this would be a great time for you to walk out of the kitchen…!"
-    n "Troy, sarebbe proprio perfetto se adessi uscissi dalla cucina…!"
+    n "Troy, sarebbe proprio perfetto se adesso uscissi dalla cucina…!"
 
 
 # game/common.rpy:222
@@ -506,7 +506,7 @@ translate italian common_fdf46277:
 translate italian common_b85248aa:
 
     # mc "\"It's pretty rude to come into a diner and leave without ordering anything, after all.\""
-    mc "\"È piuttosto maleducato entrare in una tavolacalda  e andarsene senza ordinare nulla, dopotutto.\""
+    mc "\"È piuttosto maleducato entrare in una tavola calda e andarsene senza ordinare nulla, dopotutto.\""
 
 
 # game/common.rpy:266
@@ -569,14 +569,14 @@ translate italian common_c15147b0:
 translate italian common_a1dca31a:
 
     # mc "\"Listen, I don't wanna be involved in your guys' spat or anything.\""
-    mc "\"Senti, non voglio avere nulla a che fare con il votro litigio o quello che è.\""
+    mc "\"Senti, non voglio avere nulla a che fare con il vostro litigio o quello che è.\""
 
 
 # game/common.rpy:286
 translate italian common_5dc5ae71:
 
     # mc "\"I'm just trying to make some tips, okay? Calm down.\""
-    mc "\"Sto solo cercado di guadagnarmi qualche mancia, d'accordo? Calmati."
+    mc "\"Sto solo cercando di guadagnarmi qualche mancia, d'accordo? Calmati."
 
 
 # game/common.rpy:296
@@ -646,7 +646,7 @@ translate italian common_761e7dff:
 translate italian common_7e4e4ecb:
 
     # n "With that, I hurry towards the kitchen, setting up a pot of fresh coffee to brew."
-    n "E così, mi affretto in direzione della cucina, mettendo su una caraffa  di caffè fresco."  
+    n "E così, mi affretto in direzione della cucina, mettendo su una caraffa di caffè fresco."  
 
 
 # game/common.rpy:328
@@ -744,7 +744,7 @@ translate italian common_8479b4f3_5:
 translate italian common_3000b5c0:
 
     # n "My offer makes his eyes widen, but after a brief pause, he stiffly nods."
-    n "La mia offerta gli fa spalancare gli occhi, ma dopo una breve pausa, annuisce rigidamente  ."
+    n "La mia offerta gli fa spalancare gli occhi, ma dopo una breve pausa, annuisce rigidamente."
 
 
 # game/common.rpy:385
@@ -779,7 +779,7 @@ translate italian common_9ee5d2d6:
 translate italian common_058d1703:
 
     # n "After mixing in a couple spoons of sugar, I push the coffee towards him expectantly."
-    n "Dopo aver fatto sciogliere anche qualche chucchiaino di zucchero, gli porgo il caffé con trepidazione."
+    n "Dopo aver fatto sciogliere anche qualche cucchiaino di zucchero, gli porgo il caffè con trepidazione."
 
 
 # game/common.rpy:400
@@ -842,7 +842,7 @@ translate italian common_7a545102:
 translate italian common_3e530899:
 
     # n "It makes him seem a lot less intimidating, and the look in his clear blue eyes softens a little."
-    n "Lo sguardo dei suoi occhi blu si addolcisce lievemente. Sembra molto meno minaccioso ora."
+    n "Lo sguardo nei suoi occhi blu si addolcisce lievemente. Sembra molto meno minaccioso ora."
 
 
 # game/common.rpy:425
@@ -870,14 +870,14 @@ translate italian common_d20d0a43_1:
 translate italian common_a8ca7439:
 
     # n "–Just then, the diner's door suddenly swings open."
-    n "-Proprio in quel momento, le porte della tavola calda  si spalancano all'improvviso."
+    n "-Proprio in quel momento, le porte della tavola calda si spalancano all'improvviso."
 
 
 # game/common.rpy:438
 translate italian common_db886048:
 
     # n "A blonde girl strides up to the counter, plopping down on one of the barstools with a loud sigh."
-    n "Una ragazza bionda si dirige a lunghi passi verso il bancone, buttandosi poi su uno degli sgabelli con un rumoso sospiro."
+    n "Una ragazza bionda si dirige a lunghi passi verso il bancone, buttandosi poi su uno degli sgabelli con un rumoroso sospiro."
 
 
 # game/common.rpy:456
@@ -919,7 +919,7 @@ translate italian common_b8d6973d:
 translate italian common_9cd1aa72:
 
     # n "He lowers his eyes to stare at the depths of his coffee cup, not offering another word."
-    n "Abbassa gli occhi per fissare le profondità della sua tazza di caffé, senza proferire altra parola."
+    n "Abbassa gli occhi per fissare le profondità della sua tazza di caffè, senza proferire altra parola."
 
 
 # game/common.rpy:472
@@ -1017,7 +1017,7 @@ translate italian common_a1a2abac:
 translate italian common_0fbce656:
 
     # extend "\nAnd his gaze falls on the hoodie-wearing guy in the booth."
-    extend "\nE il sguardo si ferma sul tizio con la felpa seduto su una delle panche."
+    extend "\nE il suo sguardo si ferma sul tizio con la felpa seduto su una delle panche."
 
 
 # game/common.rpy:515
@@ -1059,7 +1059,7 @@ translate italian common_9262f7c2:
 translate italian common_147e8e2a:
 
     # n "First he makes a jab at me  for 'staring,' then he goes and gawps   at another guy?"
-    n "Prima mi fa la ramanzina perchè 'fissavo' e poi si mette a guardare come un allocco un altro ragazzo?"
+    n "Prima mi fa la ramanzina perché 'fissavo' e poi si mette a guardare come un allocco un altro ragazzo?"
 
 
 # game/common.rpy:526
@@ -1213,14 +1213,14 @@ translate italian common_4f46a46b_1:
 translate italian common_a980108d:
 
     # n "His bratty question is one I've heard a lot before, so it doesn't exactly catch me off guard."
-n "La sua impertinente domanda l'ho gia sentita un migliaio di volte, quindi non mi coglie esattamente di sorpresa ."
+n "La sua impertinente domanda l'ho già sentita un migliaio di volte, quindi non mi coglie esattamente di sorpresa."
 
 
 # game/common.rpy:624
 translate italian common_d6aed22e:
 
     # mcp "\"We're open during the day, too. Most people tend to come here when it's not, you know, 2:00 AM.\""
-    mcp "\"Siamo aperti anche di giorno. Molte persone tendono a venire, beh, quando non sono le 2  di notte .\""
+    mcp "\"Siamo aperti anche di giorno. Molte persone tendono a venire, beh, quando non sono le 2 di notte.\""
 
 
 # game/common.rpy:628
@@ -1332,7 +1332,7 @@ translate italian common_ab290750:
 translate italian common_83950826:
 
     # u "\"Don't order food or anything like that, just kind of lurk around, act shady… that type.\""
-    u "Che non ordinano il cibo o cose del genere. Stanno semplicemente appostati qui, sospetti… quel tipo di persone.\""
+    u "Che non ordinano da mangiare o cose del genere. Stanno semplicemente appostati qui, sospetti… quel tipo di persone.\""
 
 
 # game/common.rpy:677
@@ -1458,7 +1458,7 @@ translate italian common_97e30d50_1:
 translate italian common_d6da3610:
 
     # n "My playful remark makes the blond abruptly straighten his posture, his face screwing up like an angry chipmunk."
-n "Il mio commento scherzoso fa raddrizzare d'impeto la schiena del ragazzo. La sua faccia corrucciata lo fa assomigliare ad uno scoiattolo arrabbiato ." 
+n "Il mio commento scherzoso fa raddrizzare d'impeto la schiena del ragazzo. La sua faccia corrucciata lo fa assomigliare ad uno scoiattolo arrabbiato." 
 
 
 # game/common.rpy:748
@@ -1528,7 +1528,7 @@ translate italian common_6da37521:
 translate italian common_43f531ce:
 
     # n "Like a porcupine retracting its quills, the blond stops bristling, although he still wrinkles his nose at me."
-    n "Come un gatto che ritrae gli artigli  , il biondino si calma, anche se continua ad arricciare il naso quando mi guarda."
+    n "Come un gatto che ritrae gli artigli, il biondino si calma, anche se continua ad arricciare il naso quando mi guarda."
 
 
 # game/common.rpy:777
@@ -1577,7 +1577,7 @@ translate italian common_35a28d4c_1:
 translate italian common_19c3d5ab:
 
     # n "…It's kind of hard to argue with that, sadly. {w}This isn't the worst part of town, but it's definitely not the best, and the diner could really use some repainting."
-    n "…Non è facile controbatere, purtroppo. {w}Questa non è la parte peggiore della città, ma di certo non è neanche la migliore, e il locale avrebbe bisogno di un nuova mano di vernice."
+    n "…Non è facile controbattere, purtroppo. {w}Questa non è la parte peggiore della città, ma di certo non è neanche la migliore, e il locale avrebbe bisogno di una nuova mano di vernice."
 
 
 # game/common.rpy:807
@@ -1668,7 +1668,7 @@ translate italian common_a6c78571:
 translate italian common_0e661850:
 
     # n "He purses his lips together doubtfully, but I shake my head, unable to contain a smirk."
-    n "Contrae le labbra con riluttanza, ma scuoto la testa, incapace di contentere un sorriso."
+    n "Contrae le labbra con riluttanza, ma scuoto la testa, incapace di contenere un sorriso."
 
 
 # game/common.rpy:841
@@ -1717,7 +1717,7 @@ n "Cerca di strapparmi il tovagliolo dalle mani, ma riesco a tenerlo fuori dalla
 translate italian common_8e4de9cc:
 
     # n "It's actually pretty fun seeing him get all flustered, especially after he tries to act so confident and cool."
-    n "In realtà è davvero divertente verdelo tutto infastidio, specialmente dopo che ha cercato di fare il figo sicuro di sé."
+    n "In realtà è davvero divertente vederlo tutto infastidito, specialmente dopo che ha cercato di fare il figo sicuro di sé."
 
 
 # game/common.rpy:864
@@ -1759,14 +1759,14 @@ translate italian common_71423380:
 translate italian common_157efd93:
 
     # n "He scowls at me with his teeth gritted together, and I have to bite back laughter."
-    n "Mi guarda con aria di riprovero, digrignando i denti. Trattengo a stento una risata ."
+    n "Mi guarda con aria di rimprovero, digrignando i denti. Trattengo a stento una risata."
 
 
 # game/common.rpy:880
 translate italian common_d18b7dc4:
 
     # n "Man, talk about sensitive. {w}He must have an ego made of glass!"
-n "Wow, altro che sensibile. {w}Deve avere un ego di cristallo!."  
+n "Wow, altro che sensibile. {w}Deve avere un ego di cristallo!"  
 
 
 # game/common.rpy:885
@@ -1843,7 +1843,7 @@ translate italian common_b1b8f0b5:
 translate italian common_6869fdc3:
 
     # n "Silly kid… {w}who knows what kind of trouble he's trying to work his way into."
-    n "CHe ragazzino stupido…{w}chissà in che guai sta cercando di ficcarsi."
+    n "Che ragazzino stupido…{w}chissà in che guai sta cercando di ficcarsi."
 
 
 # game/common.rpy:924
@@ -1913,7 +1913,7 @@ translate italian common_b352d6ef:
 translate italian common_d2595226:
 
     # n "That's pretty generous… and now I feel terrible for doubting if he was going to tip or not.{w} It looks like he just dumped everything in his wallet onto the table. "
-    n "Parecchio generoso… Ora mi sento terribilmente in colpa per aver dubitato che avrebbe lasciato la mancia.{w}Sembra che abbia semplicemente rovesciato sul tavolo tutto quello che aveva nel portafogli." 
+    n "Parecchio generoso… Ora mi sento terribilmente in colpa per aver dubitato che avrebbe lasciato la mancia.{w}Sembra che abbia semplicemente rovesciato sul tavolo tutto quello che aveva nel portafoglio." 
 
 
 # game/common.rpy:952
@@ -1934,7 +1934,7 @@ translate italian common_656d8c17:
 translate italian common_cbc61859:
 
     # n "Shaking my head, I pocket the tip and head back to the kitchen with a puzzled smile."
-n "Scuotendo la testa, mi intasco la mia mancia e torno in cucina con uno sorriso da ebete. "
+n "Scuotendo la testa, mi intasco la mia mancia e torno in cucina con un sorriso da ebete. "
 
 
 # game/common.rpy:967
@@ -2144,7 +2144,7 @@ translate italian common_b22e8ff1:
 translate italian common_39cf0099:
 
     # n "The one left standing behind – Isaac? – mutters those words under his breath with a dark smile."
-    n "Quello rimasto indetro dei due - Isaac? - mormora queste parole con un sorriso sinistro."
+    n "Quello rimasto indietro dei due - Isaac? - mormora queste parole con un sorriso sinistro."
 
 
 # game/common.rpy:1045
@@ -2319,7 +2319,7 @@ translate italian common_8df6c9d7_1:
 translate italian common_ada55988:
 
     # n "–For whatever reason, my remark makes Isaac break into a smirk, and he tilts his head playfully to one side."
-    n "-Per qualche motivo, il mio commento fa comparire un sorrisetto sul volto di Isacc, che inclina scherzosamente la testa di lato."
+    n "-Per qualche motivo, il mio commento fa comparire un sorrisetto sul volto di Isaac, che inclina scherzosamente la testa di lato."
 
 
 # game/common.rpy:1123
@@ -2375,7 +2375,7 @@ translate italian common_fa50a117:
 translate italian common_1c30a4f4:
 
     # n "With an unconvinced chuckle, Isaac saunters towards me, stopping only when he enters 'too close' territory."
-    n "Con una risatina poco convincente, Isaac passeggia tranquillamente verso di me, fermandosi solo una volta entrato in territorio 'troppo amico'  ."
+    n "Con una risatina poco convincente, Isaac passeggia tranquillamente verso di me, fermandosi solo una volta entrato in territorio 'troppo amico'."
 
 
 # game/common.rpy:1158
@@ -2508,7 +2508,7 @@ translate italian common_3099e15e:
 translate italian common_32466686:
 
     # i "\"You should stay away from this place tomorrow night. I'm not saying you'll get hurt, but…\""
-    i "\"Dovresti girarare alla larga da questo posto domani notte. Non sto dicendo che ti farai male, però…\""
+    i "\"Dovresti girare alla larga da questo posto domani notte. Non sto dicendo che ti farai male, però…\""
 
 
 # game/common.rpy:1217
@@ -2522,7 +2522,7 @@ translate italian common_d592a615:
 translate italian common_e5e9f666:
 
     # n "He seems oddly thrilled by the prospect of \"conflicts,\" and a gleeful light shines in his eyes."
-    n "Sembra stranamente elettrizzado all'idea di uno \"scontro,\" e una luce trepidante lampeggia nei suoi occhi."
+    n "Sembra stranamente elettrizzto all'idea di uno \"scontro,\" e una luce trepidante lampeggia nei suoi occhi."
 
 
 # game/common.rpy:1222
@@ -2669,14 +2669,14 @@ translate italian common_63fa3c51:
 translate italian common_b2d602f9:
 
     # mcp "\"I don't want to risk my neck on a whim, but if you can guarantee I won't end up full of bullet holes…\""
-    mcp "\"Non rischierei l'osso del collo per un capriccio, ma se mi assicuri che non  finirò pieno di buchi come un gruviera … "
+    mcp "\"Non rischierei l'osso del collo per un capriccio, ma se mi assicuri che non finirò pieno di buchi come una gruviera… "
 
 
 # game/common.rpy:1290
 translate italian common_169e044c:
 
     # n "When I trail off hesitantly, Isaac tilts his head to one side, biting his lower lip slyly."
-    n "Quando la mia voce si affievolisce esistante, Isaac inclina la testa da unlato, mordendosi il labbro inferiore con aria furtiva."
+    n "Quando la mia voce si affievolisce esitante, Isaac inclina la testa da un lato, mordendosi il labbro inferiore con aria furtiva."
 
 
 # game/common.rpy:1291
@@ -2704,7 +2704,7 @@ translate italian common_f11c6ca3:
 translate italian common_dedbdd8f:
 
     # n "My pulse starts to race faster as I question Isaac, who only throws me an evasive shrug."
-    n "\"Il mio cuore inizia a battere più forte mentre porgo la mia domanda adIsaac, che in risposta mi offre solo un'alzata di spalle evasiva."
+    n "\"Il mio cuore inizia a battere più forte mentre porgo la mia domanda ad Isaac, che in risposta mi offre solo un'alzata di spalle evasiva."
 
 
 # game/common.rpy:1310
@@ -2739,7 +2739,7 @@ translate italian common_42f32978:
 translate italian common_731ca3b8:
 
     # n "Isaac reaches out towards my face, tracing the back of his hand lightly along my cheek, all while a cruel smile crawls over his lips."
-    n "Isacc si avvicina per raggiungere il mio viso, accarezzandomi dolcemente la guancia con il retro della sua mano, tutto mentre un sorriso crudele si spalanca sulla sua faccia."
+    n "Isaac si avvicina per raggiungere il mio viso, accarezzandomi dolcemente la guancia con il retro della sua mano, tutto mentre un sorriso crudele si spalanca sulla sua faccia."
 
 
 # game/common.rpy:1326
@@ -2928,7 +2928,7 @@ translate italian common_53be9b76:
 translate italian common_3d2d3394:
 
     # n "Shaking my head, I shiver and start hurrying home, keeping an eye out for any of the \"bad types\" Isaac mentioned."
-    n "Scuotendo la testa, rabbrividisco e mi afretto per tornare a casa, tenendo un occhio aperto per evitare i \"brutti ceffi\" di cui parlava Isaac. "
+    n "Scuotendo la testa, rabbrividisco e mi affretto per tornare a casa, tenendo un occhio aperto per evitare i \"brutti ceffi\" di cui parlava Isaac. "
 
 
 # game/common.rpy:1400
@@ -2942,14 +2942,14 @@ translate italian common_a7222e06:
 translate italian common_6872d16b:
 
     # n "I don't think I've ever been so relieved to step into my cold apartment, which feels like some kind of holy sanctuary right now."
-    n "Non penso di essere mai sato così contento di entrare nel mio freddo appartamento, mi sembra quasi un santurario sacro al momento."
+    n "Non penso di essere mai stato così contento di entrare nel mio freddo appartamento, mi sembra quasi un santuario sacro al momento."
 
 
 # game/common.rpy:1407
 translate italian common_f730039d:
 
     # n "No creeps or huffy brats, just the comfort of my creaky bed and the flickering light from my old TV."
-    n "Nessun tipo inquitante o moccioso permaloso, solo il comfort del mio letto scricchiolante e la luce tremolante della mia vecchia TV."
+    n "Nessun tipo inquietante o moccioso permaloso, solo il comfort del mio letto scricchiolante e la luce tremolante della mia vecchia TV."
 
 
 # game/common.rpy:1414
@@ -3082,7 +3082,7 @@ translate italian common_1bf97cae:
 translate italian common_c0f12c87:
 
     # n "I'm only working at the diner to save up some money on the side, anyway."
-    n "Lavoro alla tavolacalda solo per mettermi da parte qualche soldo, alla fine. "
+    n "Lavoro alla tavola calda solo per mettermi da parte qualche soldo, alla fine. "
 
 
 # game/common.rpy:1464
@@ -3173,14 +3173,14 @@ translate italian common_aac35b10:
 translate italian common_5be7568e:
 
     # n "I've gotten good enough to make some money from commissions now and then, but there are so many great artists out there who're better than me."
-    n "Sono diventato abbastanza bravo da fare qualche soldo con dei lavcori su commissione qua e là, ma ci sono così tanti grandi artisti più bravi di me al mondo."
+    n "Sono diventato abbastanza bravo da fare qualche soldo con dei lavori su commissione qua e là, ma ci sono così tanti grandi artisti più bravi di me al mondo."
 
 
 # game/common.rpy:1489
 translate italian common_b50254e9:
 
     # n "I'm doing my best to improve, hoping that eventually, people will say \"I recognize that artist!\" rather than \"what weird anatomy.\""
-    n "Sto facendo tutto il possibile per migliorare  , sperando che prima o poi, le persone dicano \"Riconosco quest'artista!\", piuttosto di \"che strana anatomia.\""
+    n "Sto facendo tutto il possibile per migliorare, sperando che prima o poi, le persone dicano \"Riconosco quest'artista!\", piuttosto di \"che strana anatomia.\""
 
 
 # game/common.rpy:1496
@@ -3243,7 +3243,7 @@ translate italian common_37744e34:
 translate italian common_b347f3fd:
 
     # n "A smart man would keep his distance, but if I don't figure out what Isaac meant, it's gonna drive me crazy."
-    n "Uno sveglio se ne starebbe alla larga, ma se non scopro cosa intedesse Isaac, impazzisco."
+    n "Uno sveglio se ne starebbe alla larga, ma se non scopro cosa intendesse Isaac, impazzisco."
 
 
 # game/common.rpy:1534
@@ -3285,7 +3285,7 @@ translate italian common_38ad8333:
 translate italian common_d94f33ad:
 
     # n "But during my walk, I can't help feeling a lot more nervous than normal."
-    n "Ma durante la mia passeggiata, non posso fare a meno di sentrimi molto più nervoso del normale."
+    n "Ma durante la mia passeggiata, non posso fare a meno di sentirmi molto più nervoso del normale."
 
 
 # game/common.rpy:1565
@@ -3481,7 +3481,7 @@ translate italian common_e542dcae:
 translate italian common_46c9660f:
 
     # n "After I snarl back at him…{w} I immediately freeze."
-    n "Dopo avergli ringhiato addosso… {w}Mi blocco immediatamenente."
+    n "Dopo avergli ringhiato addosso… {w}Mi blocco immediatamente."
 
 
 # game/common.rpy:1673
@@ -3579,7 +3579,7 @@ translate italian common_d7186ced:
 translate italian common_b2270d3d:
 
     # n "They have to be some kind of body mod… {w}right?"
-    n "Devono essere una specie di modificazione corporea.. {w}giusto?"
+    n "Devono essere una specie di modificazione corporea... {w}giusto?"
 
 
 # game/common.rpy:1712
@@ -3810,7 +3810,7 @@ translate italian common_f877902e:
 translate italian common_a0601354:
 
     # n "A second later, he aims a lightning-fast blow of his own towards the other man – Dominic."
-    n "Un secondo dopo, dirige uno dei suoi pugni fulminei contro l'altro ragazzo,  Dominic."
+    n "Un secondo dopo, dirige uno dei suoi pugni fulminei contro l'altro ragazzo, Dominic."
 
 
 # game/common.rpy:1807
@@ -3824,7 +3824,7 @@ translate italian common_01baaab5:
 translate italian common_ada965e0:
 
     # n "With an unchanging expression, Dominic smoothly sidesteps."
-    n "Con un'espressione impassibile, Domic si sposta lateralmente, senza il minimo sforzo."
+    n "Con un'espressione impassibile, Dominic si sposta lateralmente, senza il minimo sforzo."
 
 
 # game/common.rpy:1809
@@ -3887,7 +3887,7 @@ translate italian common_36a7a87b_2:
 translate italian common_4cd5b0b3:
 
     # n "…But before my very eyes, the claw-like gashes on his skin start to repair themselves…"
-    n "…Ma proprio davanti ai miei occhi, le ferite, simili a quelle provocate da artigli, inziano a guarire da sole e richiudersi…"
+    n "…Ma proprio davanti ai miei occhi, le ferite, simili a quelle provocate da artigli, iniziano a guarire da sole e richiudersi…"
 
 
 # game/common.rpy:1828
@@ -4230,7 +4230,7 @@ translate italian common_8df6c9d7_3:
 translate italian common_b74d15b3:
 
     # n "After frowning at Dominic and the tattooed man, Isaac turns towards me, his eyebrows shooting upwards."
-    n "Dopo aver fulminato con lo sguardo Dominic e il tipo tatuato, Isaac si gira verso di me, le sue sopracciglia scattano verso l'alto per la sopresa."
+    n "Dopo aver fulminato con lo sguardo Dominic e il tipo tatuato, Isaac si gira verso di me, le sue sopracciglia scattano verso l'alto per la sorpresa."
 
 
 # game/common.rpy:1960
@@ -4321,7 +4321,7 @@ translate italian common_9e690118:
 translate italian common_d086af98:
 
     # n "As if Isaac just flipped a switch, the leather jacketed man seems to lose all of his bloodlust."
-    n "A queste parole, l'uomo con la giacca in pelle sembra perdere tutta la sua sete di sangue, come se Isaac avesse spento un interrutore."
+    n "A queste parole, l'uomo con la giacca in pelle sembra perdere tutta la sua sete di sangue, come se Isaac avesse spento un interruttore."
 
 
 # game/common.rpy:1993
@@ -4342,21 +4342,21 @@ translate italian common_0829513f:
 translate italian common_4d192398:
 
     # n "–After Rex mutters a reply, the electric tension in the air around us gradually fades."
-    n "Rex mugugna in risposta. Subito dopo la tensione elettrica nell'aria inzia a sciogliersi gradualmente."
+    n "Rex mugugna in risposta. Subito dopo la tensione elettrica nell'aria inizia a sciogliersi gradualmente."
 
 
 # game/common.rpy:2002
 translate italian common_1b73b579:
 
     # n "It's replaced by an uncomfortable, awkward pause, and the four of us exchange glances for a few seconds."
-    n "Solo per essere sostituita da un imbrazzante silenzio, durante il quale ci scambiamo occhiate a vicenda."
+    n "Solo per essere sostituita da un imbarazzante silenzio, durante il quale ci scambiamo occhiate a vicenda."
 
 
 # game/common.rpy:2004
 translate italian common_23f2234e:
 
     # n "But after the adrenaline cloud in my brain finally dissolves, I take a deep breath and turn to Isaac."
-    n "Ma una volta che i miei livelli di adrenalina nelle vene tornano normali, faccio un respiro prefondo e mi rivolgo ad Isaac."
+    n "Ma una volta che i miei livelli di adrenalina nelle vene tornano normali, faccio un respiro profondo e mi rivolgo ad Isaac."
 
 
 # game/common.rpy:2014
@@ -4370,7 +4370,7 @@ translate italian common_900afc3c:
 translate italian common_ba71c648:
 
     # mc "\"Sorry to ruin the moment, but some kind of explanation for all of this would be great.\""
-    mc "\"Mi dispiace rovinare il momento, ma sarebbe fanstico se potessi darmi una qualche spiegazione su quello che sta accadendo."
+    mc "\"Mi dispiace rovinare il momento, ma sarebbe fantastico se potessi darmi una qualche spiegazione su quello che sta accadendo."
 
 
 # game/common.rpy:2018
@@ -4419,7 +4419,7 @@ translate italian common_1feefa32_1:
 translate italian common_6147ddeb:
 
     # n "For a split second, it looks like Dominic winces faintly, his eyes narrowing."
-    n "Per un millesimo di secondo, Dominc sembra trasalire quasi impercettibilmente, i suoi occhi chiusi in una fessura."
+    n "Per un millesimo di secondo, Dominic sembra trasalire quasi impercettibilmente, i suoi occhi chiusi in una fessura."
 
 
 # game/common.rpy:2032
@@ -4510,7 +4510,7 @@ translate italian common_05cacfb5:
 translate italian common_0c33bc5b:
 
     # n "–Does that mean he'd really kill me, just to stop me from telling anyone about what I saw tonight?"
-    n "-Significa che davvero mi uccciderebbe solo per evitare che possa dire in giro quello che ho visto stanotte?"
+    n "-Significa che davvero mi ucciderebbe solo per evitare che possa dire in giro quello che ho visto stanotte?"
 
 
 # game/common.rpy:2060
@@ -4545,7 +4545,7 @@ translate italian common_8df6c9d7_4:
 translate italian common_63600f91:
 
     # n "My shocked question makes Isaac pause for a second."
-    n "La mia domanda terrorizzata fa rimanere Isacc in silenzio per un secondo."
+    n "La mia domanda terrorizzata fa rimanere Isaac in silenzio per un secondo."
 
 
 # game/common.rpy:2070
@@ -4643,7 +4643,7 @@ translate italian common_67fc5ed7:
 translate italian common_7ed50faa:
 
     # n "As bizarre as the whole situation is, the pieces are starting to fall into place."
-    n "Per quanto bizzarra potesse essere la situazione, i pezzi del puzzle stavano iniziando a incrastrarsi fra loro."
+    n "Per quanto bizzarra potesse essere la situazione, i pezzi del puzzle stavano iniziando a incastrarsi fra loro."
 
 
 # game/common.rpy:2101
@@ -4811,14 +4811,14 @@ translate italian common_01baaab5_1:
 translate italian common_b89f933a:
 
     # n "At the same time, Dominic turns to head in the opposite direction, apparently disinterested."
-    n "Intanto, Dominic si volta nella direzione opposta, apperentemente disinteressato alla faccenda."
+    n "Intanto, Dominic si volta nella direzione opposta, apparentemente disinteressato alla faccenda."
 
 
 # game/common.rpy:2161
 translate italian common_a12369e7:
 
     # n "His long strides take him towards the end of the alley quickly, making it clear that he doesn't want to stick around."
-    n "Le sue lunghe falcate lo fanno arrivare in fretta alla fine del vicolo, rendondo chiaro che non volesse rimanere lì."
+    n "Le sue lunghe falcate lo fanno arrivare in fretta alla fine del vicolo, rendendo chiaro che non volesse rimanere lì."
 
 
 # game/common.rpy:2166

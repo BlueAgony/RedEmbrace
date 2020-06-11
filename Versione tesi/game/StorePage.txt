@@ -1,0 +1,138 @@
+Overview
+<Panoramica>
+"There are lots of predators out there... stalkers who'd just love to have a taste of someone like you..."
+<”Ci sono molti predatori là fuori… cacciatori che perderebbero la testa per assaggiare uno come te…”>
+
+Plot Summary
+<Trama>
+The graveyard shift at a dingy diner in San Francisco -- that's where MC's story begins. It's just another normal night, or at least it seems to be. 
+<Il turno di notte in una squallida tavola calda di San Francisco – è qui che la storia MC ha inizio. È un’altra normale notte, o almeno così sembra.>
+...That is, until a certain mysterious customer stops by, bringing the dangerous attention of a few people with him. When it rains, it pours, and suddenly MC finds himself in the middle of a war he didn't even know existed... between vampires.
+How does MC react to the dark, violent world that opens up before him? That's up to you!
+<…Ovvero, finché un certo misterioso cliente entra nel locale, attirando le attenzioni di alcune persone. “Piove sempre sul bagnato” dicono, e improvvisamente MC si ritrova catapultato nel bel mezzo di una guerra di cui non era neanche a conoscenza… una guerra fra vampiri.
+Come reagirà MC davanti al mondo oscuro e violento che gli si spalanca davanti? Sta a te deciderlo!>
+
+Features
+<Descrizione>
+► Genre: Drama, BxB romance, dark modern
+<►Genere: drammatico, romanticismo yaoi, dark modern>
+► Rating: PG-13 (language, violence, sexual themes)
+<► Rating: PG-13 (termini volgari, violenza, riferimenti sessuali)
+► Length: ~60,000 words
+<►Lunghezza: circa 60.000 parole>
+► Endings: 8
+<► Finali: 8>
+► Platforms: Android, Steam, Itch.io
+<►Piattaforme: Android, Steam, Itch.io>
+
+► Changeable MC personality & interests
+<►Personalità e interessi di MC modificabili>
+► Different dialogue & choices based on personality
+<► Dialoghi e scelte differenti in base alla personalità>
+► 11 track OST with a dark, urban vibe
+<►11 tracce originali con una macabra atmosfera urbana>
+► 14 CGs with multiple variations
+<► 14 illustrazioni digitali con variazioni multiple>
+
+Characters
+<Personaggi>
+
+MC
+<MC>
+(renamable, default Ash)
+<Rinominabile, Ash di default>
+Age: 24
+<Età: 24>
+Height: 5'8
+<Altezza: 1,72>
+Race: Human
+<Razza: Umana>
+Changeable personality
+<Personalità modificabile>
+Changeable interests
+<Interessi modificabili>
+Works diner night shift
+<Fa il turno di notte in una tavola calda>
+Favorite food: Pasta
+<Piatto preferito: pasta>
+Favorite color: Purple
+<Colore preferito: viola>
+Pet peeve: Dirty dishes
+<Odia: piatti sporchi>
+Ash has been stuck in San Francisco for most of his life. Even though he dreams of becoming a famous artist (whether in music, digital art, or writing is up to the player!), he currently works the graveyard shift at a run-down little diner.
+<Ash è rimasto bloccato a San Francisco per gran parte della sua vita. Anche se sogna di diventare un artista famoso (sta al giocatore decidere se nella musica, nell’illustrazione digitale o nella scrittura!), al momento fa il turno di notte in una piccola tavola calda decadente>
+
+He's wry, tough, and determined by default, but his personality changes and grows throughout the course of the game!
+<È sveglio, tenace e determinato di natura, ma la sua personalità cambia e si sviluppa nel corso del gioco!>
+
+Dominic
+<Dominic>
+Age: 24
+<Età: 24>
+Height: 6'3
+<Altezza: 1,90>
+Race: Vampire
+<Razza: Vampiro>
+Quiet, cool, withdrawn
+<Silenzioso, tranquillo e riservato>
+Bruiser, bodyguard
+<Massiccio, guardia del corpo>
+Fights for Clan Seirei
+<Combatte per il Clan Seirei>
+Favorite possession: Lighter
+<Oggetto preferito: accendino>
+Favorite city: New York
+<Città preferita: New York>
+Pet peeve: Rashness
+<Odia: imprudenza>
+Despite his intimidating appearance, Dominic prefers to keep to himself. A man of few words, he rarely offers any insight into his thoughts, but his silence suggests a deep conflict going on beneath the surface.
+<Nonostante il suo aspetto minaccioso, Dominic preferisce stare sulle sue. Un uomo di poche parole, raramente apre uno spiraglio sui suoi pensieri, ma il suo silenzio suggerisce un profondo conflitto interiore.>
+
+Isaac
+<Isaac>
+Age: 27
+<Età: 27 anni>
+Height: 6'1
+<Altezza: 1,85>
+Race: Human
+<Razza: Umano>
+Charming, elegant, crafty
+<Carismatico, elegante, astuto>
+Information/weapons bróker
+<Broker di informazioni/armi>
+Neutral to clans
+<Neutrale ai clan>
+Favorite flavor: Coffee
+<Sapore preferito: caffè> 
+Favorite animal: Crow
+<Animale preferito: corvo>
+Pet peeve: Bad coffee
+<Odia: caffè scadente>
+Isaac reeks of "unscrupulous businessman," and makes no effort to hide it. He seems very out of place among the rough, unrefined types who hang around San Fran's seedy parts, though there's a good reason for the company he keeps.
+<Isaac puzza di “uomo d’affari senza scrupoli” e non cerca di nasconderlo. Sembra molto fuori posto fra la gente rozza e grossolana che gira per le zone più squallide di San Fran, anche se c’è un buon motivo per cui ha scelto questo genere di compagnia. >
+
+Rex
+<Rex>
+Age: 21
+<Età: 21>
+Height: 5'10
+<Altezza: 1,55>
+Race: Vampire
+<Razza: vampiro>
+Rebel, impulsive, punk
+<Ribelle, impulsivo, punk>
+Hunter, fighter
+<Cacciatore, combattente>
+Part of Clan Helgen
+<Parte del Clan Helgen>
+Favorite weapon: Fists
+<Arma preferita: pugni>
+Favorite clothes: Leather
+<Abiti preferiti: pelle>
+Pet peeve: Authority
+<Odia: autorità>
+Wild, impulsive, bloodthirsty, and Dominic's polar opposite, Rex wears his vampiric nature like a badge of pride. It's a wonder he's lived as long as he has, considering his reckless nature and insatiable appetite.
+<Selvaggio, impulsivo, assetato di sangue e l’esatto opposto di Dominic, Rex sfoggia orgoglioso la sua natura vampiresca come un vessillo. È un miracolo che sia ancora vivo, considerata la sua natura spericolata e il suo insaziabile appetito.>
+
+Other chars
+<Altri personaggi>
