@@ -1906,7 +1906,7 @@ translate italian strings:
 translate italian dominic_3d3b4de2:
 
     # mc "\"You must miss them.\""
-    mc "\"Ti mancano.\""
+    mc "\"Devono mancarti molto.\""
 
 
 # game/dominic.rpy:735

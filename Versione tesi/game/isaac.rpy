@@ -86,7 +86,7 @@ translate italian isaac_03acd814:
 translate italian isaac_70fdffc2:
 
     # mcp "\"…Your sense of fun is pretty messed up.\""
-    mcp "\"… Quello che intendi con '‘divertimento’ è roba pittosto da psicopatici.\""
+    mcp "\"… Quello che intendi con '‘divertimento’ è roba piuttosto da psicopatici.\""
 
 
 # game/isaac.rpy:41
@@ -100,7 +100,7 @@ translate italian isaac_4a420b55:
 translate italian isaac_5bfca322:
 
     # n "Isaac lets out a bark of laughter, shoving his glasses back up on his face as we run down the street."
-    n "Mentra corriamo, Isaac si lascia andare ad una fragosorosa risata e si rimette a posto gli occhiali."
+    n "Mentre corriamo, Isaac si lascia andare ad una fragorosa risata e si rimette a posto gli occhiali."
 
 
 # game/isaac.rpy:44
@@ -142,7 +142,7 @@ translate italian isaac_e27fb00f:
 translate italian isaac_095afa32:
 
     # i "\"After all, every dead vampire just makes the world a better place… isn't that something worth watching?\""
-    i "\"Dopottutto, per ogni vampiro che muore, il mondo diventa un posto migliore… Non ti sembra qualcosa che vale la pena di vedere?\""
+    i "\"Dopotutto, per ogni vampiro che muore, il mondo diventa un posto migliore… Non ti sembra qualcosa che vale la pena di vedere?\""
 
 
 # game/isaac.rpy:65
@@ -184,7 +184,7 @@ translate italian isaac_f6f9d1f5:
 translate italian isaac_fd27e6cf:
 
     # n "The alley is filled with burly figures clawing and slashing at each other, like wild animals."
-    n "Il vicolo è strapieno di figure massicce che che si ghermiscono e graffiano a vicenda, come animali selvatici."
+    n "Il vicolo è strapieno di figure massicce che si ghermiscono e graffiano a vicenda, come animali selvatici."
 
 
 # game/isaac.rpy:83
@@ -233,7 +233,7 @@ translate italian isaac_6a0540a1:
 translate italian isaac_4ac5354b:
 
     # mc "\"Isaac, this isn't safe! What the hell are we…\""
-    mc "\"Isacc, questa cosa non è sicura!  Che cazzo ci facciamo…\""
+    mc "\"Isaac, questa cosa non è sicura!  Che cazzo ci facciamo…\""
 
 
 # game/isaac.rpy:101
@@ -289,7 +289,7 @@ translate italian isaac_013adece:
 translate italian isaac_a8ccc100:
 
     # n "At some point, it seems like Rex jumped in because I glimpse his red-haired figure in the middle of things."
-    n "Ad un certo punto, deve essere entrato in gioco anche Rex perchè mi sembra di intravedere una figura dai capelli rossi nel mezzo del casino."
+    n "Ad un certo punto, deve essere entrato in gioco anche Rex perché mi sembra di intravedere una figura dai capelli rossi nel mezzo del casino."
 
 
 # game/isaac.rpy:126
@@ -303,7 +303,7 @@ translate italian isaac_31265f87:
 translate italian isaac_337b64d8:
 
     # r "\"I guess I'll have to find a new playmate! Ahahaha!\""
-    r "\"Immagino che dovrò trovare qualcunaltro con cui giocare! Ahahaha!\""
+    r "\"Immagino che dovrò trovare qualcun altro con cui giocare! Ahahaha!\""
 
 
 # game/isaac.rpy:132
@@ -366,7 +366,7 @@ translate italian isaac_b73f3c38:
 translate italian isaac_ed13ac74:
 
     # n "But when I question Isaac, he only shakes his head, letting out a low sigh."
-    n "Ma quando cerco di interrogarlo, lui scuote solo la testa, emetttendo un fioco sospiro."
+    n "Ma quando cerco di interrogarlo, lui scuote solo la testa, emettendo un fioco sospiro."
 
 
 # game/isaac.rpy:152
@@ -415,7 +415,7 @@ translate italian isaac_0f87cfee:
 translate italian isaac_22590905:
 
     # mcp "\"It's more entertaining than TV, except for the part where we could get ripped into shreds at any second.\""
-    mcp "\"È più interessante della TV, a parte il fatto che potremmo essere fatti a pezzi in qualuque momento.\""
+    mcp "\"È più interessante della TV, a parte il fatto che potremmo essere fatti a pezzi in qualunque momento.\""
 
 
 # game/isaac.rpy:169
@@ -464,7 +464,7 @@ translate italian isaac_3af8ce0d:
 translate italian isaac_67cbeeef:
 
     # n "Isaac shakes his head, letting out a patient sigh."
-    n "Isaac scuote la testa, emmettendo un sospiro paziente."
+    n "Isaac scuote la testa, emettendo un sospiro paziente."
 
 
 # game/isaac.rpy:197
@@ -485,14 +485,14 @@ translate italian isaac_147cc7c0:
 translate italian isaac_25554ea8:
 
     # i "\"I was hoping to work out a trade deal tonight, but it seems it's not in the cards. Oh well…\""
-    i "\"Speravo di riuscire a far funzionare un accordo commerciale stanotte, ma sembra che non sia destino. Eh, vabbeh…\""
+    i "\"Speravo di riuscire a far funzionare un accordo commerciale stanotte, ma sembra che non sia destino. Eh, vabbè…\""
 
 
 # game/isaac.rpy:202
 translate italian isaac_d8cb52c3:
 
     # n "He grimaces, wearing a disappointed look."
-    n "Fa una smorfia, i suoi occhi mmostrano una certa delusione."
+    n "Fa una smorfia, i suoi occhi mostrano una certa delusione."
 
 
 # game/isaac.rpy:204
@@ -618,7 +618,7 @@ translate italian isaac_a27bfbdf:
 translate italian isaac_05af5003:
 
     # n "He leans in, lowering his voice to a provocative purr as he brings our faces close together."
-    n "Si avvicina, abbasando la voce fino a un provocante sussurro. Intanto, il suo viso si fa sempre più vicino al mio.\""
+    n "Si avvicina, abbassando la voce fino a un provocante sussurro. Intanto, il suo viso si fa sempre più vicino al mio.\""
 
 
 # game/isaac.rpy:254
@@ -828,7 +828,7 @@ translate italian isaac_98533480:
 translate italian isaac_cbebefb8:
 
     # n "Feeling dazed, I numbly nod my head."
-    n "Disorientato, annusisco passivamente."
+    n "Disorientato, annuisco passivamente."
 
 
 # game/isaac.rpy:328
@@ -891,7 +891,7 @@ translate italian isaac_845bea45:
 translate italian isaac_cb1b7faa:
 
     # i "\"Well! Now that you're officially my assistant, I'll stop by your fine establishment tomorrow night to get things settled.\""
-    i "\"Bene! Ora che sei ufficialmente il mio assistente, farò una visitina al tuo elangante appartamento domani notte per sistemare tutte le cose."
+    i "\"Bene! Ora che sei ufficialmente il mio assistente, farò una visitina al tuo elegante appartamento domani notte per sistemare tutte le cose."
 
 
 # game/isaac.rpy:357
@@ -1024,7 +1024,7 @@ translate italian isaac_9d3e9fd9:
 translate italian isaac_4cd0b497:
 
     # ip "\"I'll show up promptly at closing tomorrow night, so be ready! Make sure to wear your Sunday best!\""
-    ip "\"Mi farò vivo putuale all'ora di chiusura domani notte, quindi tieniti pronto! Assicurati di indossare il tuo abito migliore.\""
+    ip "\"Mi farò vivo puntuale all'ora di chiusura domani notte, quindi tieniti pronto! Assicurati di indossare il tuo abito migliore.\""
 
 
 # game/isaac.rpy:403
@@ -1241,7 +1241,7 @@ translate italian isaac_b1971e2f:
 translate italian isaac_63af986d:
 
     # mc "\"But I feel like I could draw some amazing vampire shit right now… it would probably land me on the cover of a teen goth magazine, though…\""
-    mc "\"Ma sento che adesso potrei disegnare qualche stronzata fighissima coi vampiri… mi porterebbe solo sulla copertina di qualche rivista per ragazzini goth, però…"
+    mc "\"Ma sento che adesso potrei disegnare qualche stronzata fichissima coi vampiri… mi porterebbe solo sulla copertina di qualche rivista per ragazzini goth, però…"
 
 
 # game/isaac.rpy:489
@@ -1269,7 +1269,7 @@ translate italian isaac_0bb05ef8:
 translate italian isaac_87a1b133:
 
     # n "His words from last night are still ringing in my ears."
-    n "Le sue parle della scorsa notte risuonano ancora nelle mie orecchie."
+    n "Le sue parole della scorsa notte risuonano ancora nelle mie orecchie."
 
 
 # game/isaac.rpy:500
@@ -1318,7 +1318,7 @@ translate italian isaac_12e88fc3:
 translate italian isaac_6f0f48d2:
 
     # n "I finish a couple of short songs for the indie game I was hired onto, but I know I'll need to go back and give them another listen when I'm more focused."
-    n "Finisco qualche brevecanzone per il gioco indie per cui mi hanno assunto, ma so già che dovrò ritornarci e ascoltarle con più attenzione."
+    n "Finisco qualche breve canzone per il gioco indie per cui mi hanno assunto, ma so già che dovrò ritornarci e ascoltarle con più attenzione."
 
 
 # game/isaac.rpy:518
@@ -1353,7 +1353,7 @@ translate italian isaac_f98b33b3:
 translate italian isaac_48989624:
 
     # n "I make sure the light is focused on the figure's bared teeth, using the memory of Rex's fangs as reference. {w}It turns out surprisingly well, almost {i}too{/i} well."
-    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è soprendentemento buono, forse anche{i}troppo{/i} buono. "
+    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è sorprendentemente buono, forse anche{i}troppo{/i} buono. "
 
 
 # game/isaac.rpy:532
@@ -1423,7 +1423,7 @@ translate italian isaac_d92bbdef:
 translate italian isaac_94713439:
 
     # u "\"Hey dude, can I get… an ice cream frothy… thing?\""
-    u "\"Hey amico, posso avere un… gelato frullato … quella roba lì?"
+    u "\"Ehi amico, posso avere un… gelato frullato … quella roba lì?"
 
 
 # game/isaac.rpy:567
@@ -1451,7 +1451,7 @@ translate italian isaac_b5bc11dc:
 translate italian isaac_638f2724:
 
     # n "Sometimes I glimpse a shape moving outside of the diner's windows, although it's probably just a random passerby."
-    n "Ogni tanto mi sembra di intravedere una sagoma mnuoversi fuori dalle finestre della tavola calda, ma probabilmente sono solo passanti."
+    n "Ogni tanto mi sembra di intravedere una sagoma muoversi fuori dalle finestre della tavola calda, ma probabilmente sono solo passanti."
 
 
 # game/isaac.rpy:579
@@ -1549,7 +1549,7 @@ translate italian isaac_b657d1a6:
 translate italian isaac_d3aa26db:
 
     # n "I swear, his face looks more punchable every time I see him."
-    n "Giuro che la sua faccia mi ispira pugni ogni volta di piu."
+    n "Giuro che la sua faccia mi ispira pugni ogni volta di più."
 
 
 # game/isaac.rpy:617
@@ -1640,7 +1640,7 @@ translate italian isaac_0e930569:
 translate italian isaac_489c8fd7:
 
     # ip "\"He's out tonight, though, so you probably won't see him. Are you disappointed?\""
-    ip "\"Stanotte è fuori, però, quindi probabilmente non lo inconterai. Deluso?\""
+    ip "\"Stanotte è fuori, però, quindi probabilmente non lo incontrerai. Deluso?\""
 
 
 # game/isaac.rpy:659
@@ -1927,7 +1927,7 @@ translate italian isaac_311de269:
 translate italian isaac_e10b30c7:
 
     # mcp "\"Well, I've had worse. I guess you're good for something after all, Isaac.\""
-    mcp "\"Beh, ho bevuto di peggio. Immagino che sei buono a qualcosa dopottutto, Isaac.\""
+    mcp "\"Beh, ho bevuto di peggio. Immagino che sei buono a qualcosa dopotutto, Isaac.\""
 
 
 # game/isaac.rpy:774
@@ -1990,7 +1990,7 @@ translate italian isaac_a3b35d48:
 translate italian isaac_7ac1b663:
 
     # n "I really never would've thought of him as anything other than an antisocial guy if I hadn't seen him in the alleyway fighting Rex."
-    n "Non avrei davvero mai pensto che fosse altro, oltre che non un tizio asociale, se non l'avessi visto combattere contro Rex in quel vicolo."
+    n "Non avrei davvero mai pensato che fosse altro, oltre che non un tizio asociale, se non l'avessi visto combattere contro Rex in quel vicolo."
 
 
 # game/isaac.rpy:799
@@ -2109,7 +2109,7 @@ translate italian isaac_d79a452f:
 translate italian isaac_ee7f5f68:
 
     # i "\"I want you to listen for something in particular… any vampires talking about a man named 'Bishop.'\""
-    i "\"Voglio che ascolti per cercare di sentire qualcosa in particolare… qualcunque vampiro parli di un uomo chiamato 'Bishop  '.\""
+    i "\"Voglio che ascolti per cercare di sentire qualcosa in particolare… qualunque vampiro parli di un uomo chiamato 'Bishop'.\""
 
 
 # game/isaac.rpy:839
@@ -2144,14 +2144,14 @@ translate italian isaac_a322b7f5:
 translate italian isaac_0fd3c708:
 
     # i "\"If you need to, you can prompt them a little. But don't arouse any suspicion, understand?\""
-    i "\"Se nessario, puoi stuzzicarli tu. Ma non destare sospetti, capito?\""
+    i "\"Se necessario, puoi stuzzicarli tu. Ma non destare sospetti, capito?\""
 
 
 # game/isaac.rpy:848
 translate italian isaac_1c30b8a9:
 
     # n "He looks quite serious all of a sudden, and the intensity of his golden eyes behind those lenses is a little intimidating."
-    n "Tutt'a un tratto, si fa molto serio e l'intensità del suo sguardo dorato che attraversa le lenti è abbastanza intimidante."
+    n "Tutt'a un tratto, si fa molto serio e l'intensità del suo sguardo dorato che attraversa le lenti è abbastanza intimidatorio."
 
 
 # game/isaac.rpy:854
@@ -2200,7 +2200,7 @@ translate italian isaac_9a579fb2:
 translate italian isaac_03c6c6b9:
 
     # n "An airy grin flits back over his face, and Isaac reaches out to squeeze my shoulder."
-    n "Un sorriso spensieriato gli torna subito in faccia, poi allunga il braccio per stringermi la spalla."
+    n "Un sorriso spensierato gli torna subito in faccia, poi allunga il braccio per stringermi la spalla."
 
 
 # game/isaac.rpy:870
@@ -2277,7 +2277,7 @@ translate italian isaac_4f46a46b_7:
 translate italian isaac_55b5ded8:
 
     # n "I shouldn't really care that much about his motives, but now, I can't help but be interested in them."
-    n "Non dovrebbe fergarmene molto delle sue ragioni, ma ora, non posso fare altro che esserne tremendamente interessato."
+    n "Non dovrebbe fegrarmene molto delle sue ragioni, ma ora, non posso fare altro che esserne tremendamente interessato."
 
 
 # game/isaac.rpy:891
@@ -2340,7 +2340,7 @@ translate italian isaac_cf7626f1:
 translate italian isaac_2a15b094:
 
     # n "Soon, Isaac's brow furrows slightly, and he glances to one side with a wry chuckle."
-    n "Subito, Isaac aggrotta la fronte e si volta con una risattina pungente."
+    n "Subito, Isaac aggrotta la fronte e si volta con una risatina pungente."
 
 
 # game/isaac.rpy:918
@@ -2389,14 +2389,14 @@ translate italian isaac_662f55d6:
 translate italian isaac_0bd83cae:
 
     # i "\"It gives mortals a fraction of their power, and mine manifests as hypnosis.\""
-    i "\"Dona ai mortarli una frazione dei loro poteri, e i miei si manifestano con l'ipnosi.\""
+    i "\"Dona ai mortali una frazione dei loro poteri, e i miei si manifestano con l'ipnosi.\""
 
 
 # game/isaac.rpy:933
 translate italian isaac_976bbbcb:
 
     # n "He calmly gazes at me with his brilliant, golden eyes, which are admittedly beautiful even when they're {i}not{/i} swirling mesmerizingly."
-    n "Mi osserva tranquillo con i suoi lumonosi occhi dorati, che sono indubbiamente bellissimi anche quando {i}non{/i} stanno girando vorticosamente per ipnotizzarti. "
+    n "Mi osserva tranquillo con i suoi luminosi occhi dorati, che sono indubbiamente bellissimi anche quando {i}non{/i} stanno girando vorticosamente per ipnotizzarti. "
 
 
 # game/isaac.rpy:936
@@ -2592,7 +2592,7 @@ translate italian isaac_halp_21be8225:
 translate italian isaac_halp_5692fd88:
 
     # mcp "\"But I get the feeling that all of them are out for themselves… they're too unpredictable, too dangerous.\""
-    mcp "\"Ma mi sembra che che stiano tutti un po' uscendo di senno… sono troppo imprevedibili, troppo pericolosi.\""
+    mcp "\"Ma mi sembra che stiano tutti un po' uscendo di senno… sono troppo imprevedibili, troppo pericolosi.\""
 
 
 # game/isaac.rpy:1005
@@ -2662,7 +2662,7 @@ translate italian isaac_halp_1bc7f94f:
 translate italian isaac_halp_5106ae88:
 
     # n "I nudge Isaac's shoulder with a fist, putting on a determined frown."
-    n "Colpisco Isaac sulla spalla con un pugnetto amichevole, corruciando il viso con risolutezza."
+    n "Colpisco Isaac sulla spalla con un pugnetto amichevole, corrucciando il viso con risolutezza."
 
 
 # game/isaac.rpy:1040
@@ -2697,7 +2697,7 @@ translate italian isaac_halp_8f557f6c:
 translate italian isaac_halp_117b5bdc:
 
     # mcp "\"But after that, if I were you, I wouldn't deal with them a second longer than necessary…\""
-    mcp "\"Ma una volta fato questo, fossi in te, non ci avrei nulla a che fare, neanche per un secondo più del necessario…\""
+    mcp "\"Ma una volta fatto questo, fossi in te, non ci avrei nulla a che fare, neanche per un secondo più del necessario…\""
 
 
 # game/isaac.rpy:1051
@@ -2746,7 +2746,7 @@ translate italian isaac_halp_aca3ad9d:
 translate italian isaac_halp_f3c1dc2b:
 
     # n "Huffing, I try to dodge his hand, but Isaac manages to muss up my hair before I have a chance to escape."
-    n "Soffiando come un gattino, cerco di schivare la sua mano, ma Isaac riesce comunque a scompigliarmi i capeli prima che possa sfuggirgli."
+    n "Soffiando come un gattino, cerco di schivare la sua mano, ma Isaac riesce comunque a scompigliarmi i capelli prima che possa sfuggirgli."
 
 
 # game/isaac.rpy:1068
@@ -2858,7 +2858,7 @@ translate italian isaac_halp_0c4145b5:
 translate italian isaac_halp_3b552aca:
 
     # n "–I wasn't expecting to arrive home in such a good mood, but tonight wasn't nearly as bad I thought it'd be."
-    n "-Non pensavo sarei tornanto a casa così di buon umore, ma stanotte non è stata neanche lontamente tanto spiacevole quanto mi aspettassi."
+    n "-Non pensavo sarei tornato a casa così di buon umore, ma stanotte non è stata neanche lontanamente tanto spiacevole quanto mi aspettassi."
 
 
 # game/isaac.rpy:1119
@@ -2935,7 +2935,7 @@ translate italian isaac_halp_81e73c94:
 translate italian isaac_halp_da74d489:
 
     # n "He'd listen closely, ask a few questions, and that was it. We'd chat a little about other random things, and he always brewed me a fresh cup of coffee."
-    n "Lui ascolta attentamente, progendomi qualche domanda, e finisce lì. Poi chiacchieriamo di cose a caso per un po'; mi prepara sempre una tazza di caffè caldo."
+    n "Lui ascolta attentamente, porgendomi qualche domanda, e finisce lì. Poi chiacchieriamo di cose a caso per un po'; mi prepara sempre una tazza di caffè caldo."
 
 
 # game/isaac.rpy:1151
@@ -3047,7 +3047,7 @@ translate italian isaac_halp_13fc072d:
 translate italian isaac_halp_0d51b9b2:
 
     # ip "\"You know, I'm thinking about trying a different roast. I'm getting a little sick of the current one.\""
-    ip "\"Sai, sto penso di provare una nuova miscela di caffè  . Quella di sempre inizia a stancarmi.\""
+    ip "\"Sai, sto penso di provare una nuova miscela di caffè. Quella di sempre inizia a stancarmi.\""
 
 
 # game/isaac.rpy:1205
@@ -3257,7 +3257,7 @@ translate italian isaac_halp_843efbdc:
 translate italian isaac_halp_1f8ff8cb:
 
     # n "His eyes flick back to my face, and he shakes his head."
-    n "I suoi occchi tornano su di me, e scuote la testa."
+    n "I suoi occhi tornano su di me, e scuote la testa."
 
 
 # game/isaac.rpy:1286
@@ -3348,7 +3348,7 @@ translate italian isaac_halp_9c079201:
 translate italian isaac_halp_7fc9f93c:
 
     # ip "\"Are there horrible things all around us, but we only ever notice a fraction of them?\""
-    ip "\"Cose terrbili ci circondano, ma ne notiamo solo una minima parte?\""
+    ip "\"Cose terribili ci circondano, ma ne notiamo solo una minima parte?\""
 
 
 # game/isaac.rpy:1328
@@ -3390,14 +3390,14 @@ translate italian isaac_halp_4f46a46b_4:
 translate italian isaac_halp_b859b36f:
 
     # n "For a brief few seconds, I desperately want to lean in and pull Isaac into a hug."
-    n "Per qualce frazione di secondo, vorrei disperamente avvicinarmi ad Isaac e stringerlo in un abbraccio."
+    n "Per qualche frazione di secondo, vorrei disperatamente avvicinarmi ad Isaac e stringerlo in un abbraccio."
 
 
 # game/isaac.rpy:1342
 translate italian isaac_halp_4075998a:
 
     # n "He looks so lonely, so troubled, that it makes me wonder how much of his cheerfulness is just an act."
-    n "Sembra così solo, così inquieto, che mi chiedo quanto della sua spensieratezzia sia solo finzione."
+    n "Sembra così solo, così inquieto, che mi chiedo quanto della sua spensieratezza sia solo finzione."
 
 
 # game/isaac.rpy:1344
@@ -3418,7 +3418,7 @@ translate italian isaac_halp_7fb4b6fd:
 translate italian isaac_halp_03a99dd3:
 
     # i "\"Dramatic, huh? Maybe I should go into theatre instead of business.\""
-    i "\"Molto melodrammatico , eh? Forse dovrei dedicarmi al teatro invece che al mondo degli affari.\""
+    i "\"Molto melodrammatico, eh? Forse dovrei dedicarmi al teatro invece che al mondo degli affari.\""
 
 
 # game/isaac.rpy:1354
@@ -3488,7 +3488,7 @@ translate italian isaac_halp_459097de:
 translate italian isaac_halp_4569524c:
 
     # n "–My shift kicks off pretty much like normal, with the regular drunk crowd stopping by at intervals."
-    n "-Il mio turno inzia come al solito, con la solita clientela di ubriachi che ogni tanto fa capolino dalla porta."
+    n "-Il mio turno inizia come al solito, con la solita clientela di ubriachi che ogni tanto fa capolino dalla porta."
 
 
 # game/isaac.rpy:1394
@@ -3502,7 +3502,7 @@ translate italian isaac_halp_beeae2b6:
 translate italian isaac_halp_9c079317:
 
     # n "Grabbing a cloth, I head over to the neighboring table and start wiping it down, but I strain my ears to hear the conversation."
-    n "Afferrando uno straccio, mi dirigo verso il tavolo accando e inizio a pulirlo, intanto tendo le orecchie per ascoltare la conversazione."
+    n "Afferrando uno straccio, mi dirigo verso il tavolo accanto e inizio a pulirlo, intanto tendo le orecchie per ascoltare la conversazione."
 
 
 # game/isaac.rpy:1401
@@ -3565,7 +3565,7 @@ translate italian isaac_halp_71ae0117:
 translate italian isaac_halp_b805d384:
 
     # n "By the sound of it, they don't like him, either… but they sound way angrier than the other vampires I've heard before."
-    n "Da come parlano, non va molto a genio nemmeno a loro… Ma sembrano molto più incazzati di quaunque altro vampiro che ho sentito."
+    n "Da come parlano, non va molto a genio nemmeno a loro… Ma sembrano molto più incazzati di qualunque altro vampiro che ho sentito."
 
 
 # game/isaac.rpy:1415
@@ -3810,14 +3810,14 @@ translate italian isaac_halp_fbe3661e:
 translate italian isaac_halp_229bc293:
 
     # n "He hands me a mug and sits beside me, gazing into my eyes questioningly."
-    n "Mi porge una tazza e si siede accanto a me, guardandomi negli occhi con aria nterrogativa."
+    n "Mi porge una tazza e si siede accanto a me, guardandomi negli occhi con aria interrogativa."
 
 
 # game/isaac.rpy:1524
 translate italian isaac_halp_136da328:
 
     # n "The rich coffee smell is irresistible, so I take a small sip before clearing my throat and speaking."
-    n "Il caffè ha un profumo irresistibile, quindi lo assaggio prima di schiarimi la gola e iniziare a parlare."
+    n "Il caffè ha un profumo irresistibile, quindi lo assaggio prima di schiarirmi la gola e iniziare a parlare."
 
 
 # game/isaac.rpy:1527
@@ -3880,7 +3880,7 @@ translate italian isaac_halp_ba2f271d:
 translate italian isaac_halp_71f7c7ef:
 
     # n "This really must be important to him… he's never reacted like this to any of the other reports I've had."
-    n "Dev'essere davvero importante per lui… non ha mai reagito cosè agli altri resoconti che ho fatto."
+    n "Dev'essere davvero importante per lui… non ha mai reagito così agli altri resoconti che ho fatto."
 
 
 # game/isaac.rpy:1544
@@ -3985,7 +3985,7 @@ translate italian isaac_halp_deb437e2:
 translate italian isaac_halp_3e12aac8:
 
     # n "My question makes Isaac's face immediately darken, like I just flicked a switch."
-    n "La mia domanda fa subito incupire l'espressione di Isaac, come se avessi toccato un interrutore."
+    n "La mia domanda fa subito incupire l'espressione di Isaac, come se avessi toccato un interruttore."
 
 
 # game/isaac.rpy:1598
@@ -4244,7 +4244,7 @@ translate italian isaac_1_4f46a46b:
 translate italian isaac_1_bf4ed851:
 
     # n "Did I hear him right?"
-    n "Ho senito bene?"
+    n "Ho sentito bene?"
 
 
 # game/isaac.rpy:1699
@@ -4293,7 +4293,7 @@ translate italian isaac_1_8df6c9d7_1:
 translate italian isaac_1_1f396dca:
 
     # n "Suddenly, Isaac presses me to the window, his hands slamming the glass on either side of me."
-    n "All'improvvisso, Isaac mi spinge contro la finestra, le sue mani sbattono contro il vetro ai lati della mia testa. "
+    n "All'improvviso, Isaac mi spinge contro la finestra, le sue mani sbattono contro il vetro ai lati della mia testa. "
 
 
 # game/isaac.rpy:1718
@@ -4321,7 +4321,7 @@ translate italian isaac_1_46c71dca:
 translate italian isaac_1_574486bc:
 
     # ip "\"I'm nothing more than a tool to Bishop.\""
-    ip "\"Non sono altro che un burattino  nelle sue mani.\""
+    ip "\"Non sono altro che un burattino nelle sue mani.\""
 
 
 # game/isaac.rpy:1728
@@ -4482,7 +4482,7 @@ translate italian isaac_1_cd2d8e3e:
 translate italian isaac_1_ce746c2c:
 
     # n "Our tongues slide and twirl together, so messily that a drop of our mingled saliva falls down the corner of my lips."
-    n "Le nostre lingue si intrecciano e giocano assieme, così freneticamente che una goccia di saliva mi scende dall'angolo della bocca, impossibile dire a chi appartennese."
+    n "Le nostre lingue si intrecciano e giocano assieme, così freneticamente che una goccia di saliva mi scende dall'angolo della bocca, impossibile dire a chi appartenesse."
 
 
 # game/isaac.rpy:1787
@@ -4622,7 +4622,7 @@ translate italian isaac_1_10ab5ac8:
 translate italian isaac_1_b62b88c8:
 
     # n "Damn, it must already be past noon…"
-    n "Cazzo, dev'essere gia pomeriggio…"
+    n "Cazzo, dev'essere già pomeriggio…"
 
 
 # game/isaac.rpy:1836
@@ -4734,7 +4734,7 @@ translate italian isaac_1_484e733a:
 translate italian isaac_1_f9d39b24:
 
     # n "–But all the while, uneasiness weighs in my stomach."
-    n "-Eppure, non riesco a liberarmi di un profondo senso di inquitudine che mi attanaglia lo stomaco."
+    n "-Eppure, non riesco a liberarmi di un profondo senso di inquietudine che mi attanaglia lo stomaco."
 
 
 # game/isaac.rpy:1880
@@ -4748,14 +4748,14 @@ translate italian isaac_1_b5fbe027:
 translate italian isaac_1_01e88f80:
 
     # n "He made it sound like we'd be part of some dangerous revolution – which is exciting and romantic, sure, but still dangerous."
-    n "Sembra che volesse intedere che faremo parte di una qualche pericolosa rivoluzione - che è eccitante e romantico, ma comunque pericoloso."
+    n "Sembra che volesse intendere che faremo parte di una qualche pericolosa rivoluzione - che è eccitante e romantico, ma comunque pericoloso."
 
 
 # game/isaac.rpy:1887
 translate italian isaac_1_ce65da37:
 
     # mcp "\"Ngh… you can really be a wuss sometimes, [mc].\""
-    mcp "\"Uff… sai essere proprio un cagassotto alle volte, [mc].\""
+    mcp "\"Uff… sai essere proprio un cagasotto alle volte, [mc].\""
 
 
 # game/isaac.rpy:1888
@@ -4776,7 +4776,7 @@ translate italian isaac_1_c35adabb:
 translate italian isaac_1_6a0b8566:
 
     # n "He's got it all handled… {w}so I'd like to think."
-    n "Lui sa cosa fare,… {w}o almeno, così mi piace pensare."
+    n "Lui sa cosa fare… {w}o almeno, così mi piace pensare."
 
 
 # game/isaac.rpy:1901
@@ -4951,7 +4951,7 @@ translate italian isaac_1_ae87acf6:
 translate italian isaac_1_9a74f86b:
 
     # n "Trying to contain the trembling in my voice, I gaze wide-eyed at the man's face."
-    n "Cercando di nasconere il tremolio nella mia voce, osservo attentamente il volto dell'uomo."
+    n "Cercando di nascondere il tremolio nella mia voce, osservo attentamente il volto dell'uomo."
 
 
 # game/isaac.rpy:1972
@@ -5049,7 +5049,7 @@ translate italian isaac_1_35a28d4c_3:
 translate italian isaac_1_9f85739c:
 
     # n "When he mentions Isaac, I instinctively tense up."
-    n "Quando nomina Isaac, mi irrigisco immediatamente."
+    n "Quando nomina Isaac, mi irrigidisco immediatamente."
 
 
 # game/isaac.rpy:2003
@@ -5147,7 +5147,7 @@ translate italian isaac_1_9c619860:
 translate italian isaac_1_101a6813:
 
     # b "\"Isaac is currently inside my limousine, waiting for a ride back to my headquarters.\""
-    b "\"Isacc, al momento, si trova nella mia limousine, aspettando che gli dia un passaggio verso il mio quartier generale.\""
+    b "\"Isaac, al momento, si trova nella mia limousine, aspettando che gli dia un passaggio verso il mio quartier generale.\""
 
 
 # game/isaac.rpy:2038
@@ -5210,7 +5210,7 @@ translate italian isaac_1_659ffb95:
 translate italian isaac_1_892b0602:
 
     # n "He reaches out, curling several long fingers around my chin, cupping it gently."
-    n "Allunga il braccio, circondando il mio mento con le sue dita affusolate e stringedolo delicatamente. "
+    n "Allunga il braccio, circondando il mio mento con le sue dita affusolate e stringendolo delicatamente. "
 
 
 # game/isaac.rpy:2057
@@ -5280,7 +5280,7 @@ translate italian isaac_1_c4b27ce9:
 translate italian isaac_1_0e3784e3:
 
     # b "\"But don't mistake his actions for kindness.\""
-    b "\"Ma non fraintere le sue azioni, non si tratta di gentilezza.\""
+    b "\"Ma non fraintendere le sue azioni, non si tratta di gentilezza.\""
 
 
 # game/isaac.rpy:2080
@@ -5357,7 +5357,7 @@ translate italian isaac_1_4f46a46b_3:
 translate italian isaac_1_80d1899e:
 
     # n "His fingers slide from my chin down to my throat, squeezing, and it quickly becomes a little difficult to breathe."
-    n "Le sue dita scivolano dal mio mento alla mia gola, stringedola, e molto velocemente diventa difficile per me respirare."
+    n "Le sue dita scivolano dal mio mento alla mia gola, stringendola, e molto velocemente diventa difficile per me respirare."
 
 
 # game/isaac.rpy:2105
@@ -5462,7 +5462,7 @@ translate italian isaac_1_4f46a46b_4:
 translate italian isaac_1_b2174522:
 
     # n "Blinking, I gaze up into Bishop's eyes, which swirl like bottomless crimson pools."
-    n "Battendoo le ciglia, alzo lo sguardo per osservare gli occhi di Bishop, che girano vorticosamente come piscine senza fondo color cremisi."
+    n "Battendo le ciglia, alzo lo sguardo per osservare gli occhi di Bishop, che girano vorticosamente come piscine senza fondo color cremisi."
 
 
 # game/isaac.rpy:2141
@@ -5602,7 +5602,7 @@ translate italian isaac_final_6e627751:
 translate italian isaac_final_93206548:
 
     # n "I can't keep staring at them. {w}He's trying to hypnotize me, just like Isaac–!"
-    n "Non posso continuare a fissarli. {w}Sta cercando di ipntotizzarmi, come Isaac-!"
+    n "Non posso continuare a fissarli. {w}Sta cercando di ipnotizzarmi, come Isaac-!"
 
 
 # game/isaac.rpy:2186
@@ -5784,7 +5784,7 @@ translate italian isaac_bad_d670accb:
 translate italian isaac_bad_244872a9:
 
     # n "A pleasant numbness spreads through my body, and I relax in Bishop's grip before I know it."
-    n "Un piacevole torpore si irradia nel mio corpo, e prima che possa accorgemene, mi rilasso nela stretta di Bishop."
+    n "Un piacevole torpore si irradia nel mio corpo, e prima che possa accorgermene, mi rilasso nella stretta di Bishop."
 
 
 # game/isaac.rpy:2261
@@ -5875,7 +5875,7 @@ translate italian isaac_bad_7fafca53:
 translate italian isaac_bad_1416e716:
 
     # b "\"There's no need to be shy, [mc]. Let me hear more of your voice.\""
-    b "\"Non c'è bisogno di essere timdi, [mc]. Fammi sentire la tua vocina.\""
+    b "\"Non c'è bisogno di essere timidi, [mc]. Fammi sentire la tua vocina.\""
 
 
 # game/isaac.rpy:2294
@@ -5924,7 +5924,7 @@ translate italian isaac_bad_f04433fc:
 translate italian isaac_bad_91305a00:
 
     # n "He chuckles lowly, and his cold lips press to the side of my neck, against one of the many bruises."
-    n "Ridaccha profondamente, e le sue labbra gelide premono sul mio collo, contro uno dei miei tanti lividi."
+    n "Ridacchia profondamente, e le sue labbra gelide premono sul mio collo, contro uno dei miei tanti lividi."
 
 
 # game/isaac.rpy:2319
@@ -5945,7 +5945,7 @@ translate italian isaac_bad_e5a15f0d:
 translate italian isaac_bad_ae3fca27:
 
     # n "I struggled at first, trying to escape any way I could, but Bishop always found me before I made it out."
-    n "Ho avuto grosse difficoltà ad abituarmi all'inzio, cercavo di scappare in ogni modo possibile, ma Bishop mi trovava sempre prima che riuscissi a uscire."
+    n "Ho avuto grosse difficoltà ad abituarmi all'inizio, cercavo di scappare in ogni modo possibile, ma Bishop mi trovava sempre prima che riuscissi a uscire."
 
 
 # game/isaac.rpy:2323
@@ -6015,7 +6015,7 @@ translate italian isaac_bad_341fdbac:
 translate italian isaac_bad_077404d8:
 
     # n "Bishop strokes my chest, his thumb brushing against one of the tender pink buds."
-    n "Bishop mi accarezza il petto, il suo pollice mi solettica un capezzolo."
+    n "Bishop mi accarezza il petto, il suo pollice mi sollettica un capezzolo."
 
 
 # game/isaac.rpy:2344
@@ -6141,7 +6141,7 @@ translate italian isaac_bad_682442eb:
 translate italian isaac_bad_491ba73d:
 
     # n "Those words repeat in my head as I succumb to the pleasure, {w}and my consciousness fades to a murky, {w}wonderful, {w}painless black."
-    n "Queste parole si ripetono nella mia testa mentre sccombo al piacere, {w} e la mia coscienza svanisce in un torpido e meraviglioso buio indolore."
+    n "Queste parole si ripetono nella mia testa mentre soccombo al piacere, {w} e la mia coscienza svanisce in un torpido e meraviglioso buio indolore."
 
 
 # game/isaac.rpy:2400
@@ -6316,7 +6316,7 @@ translate italian isaac_good_d8240aa0:
 translate italian isaac_good_f8ca5a1a:
 
     # n "Dominic leans down beside me, offering a hand."
-    n "Dominic si accovaccia acccanto a me, offrendomi una mano."
+    n "Dominic si accovaccia accanto a me, offrendomi una mano."
 
 
 # game/isaac.rpy:2485
@@ -6435,7 +6435,7 @@ translate italian isaac_good_4d665994:
 translate italian isaac_good_64961722:
 
     # n "Somehow I managed to resist Bishop, just for a few moments."
-    n "In qualche mdoo sono riuscito a resistere a Bishop, anche solo per qualche istante."
+    n "In qualche modo sono riuscito a resistere a Bishop, anche solo per qualche istante."
 
 
 # game/isaac.rpy:2540
@@ -6589,7 +6589,7 @@ translate italian isaac_good_016a1a90:
 translate italian isaac_good_af1b5bc9:
 
     # i "\"I thought I'd get you a little something to remind you of me while you're drinking it~\""
-    i "\"Ho prensato di prenderti qualcosa che ti facesse pensare a me mentre lo bevi~\""
+    i "\"Ho pensato di prenderti qualcosa che ti facesse pensare a me mentre lo bevi~\""
 
 
 # game/isaac.rpy:2594
