@@ -79,7 +79,7 @@ translate italian rex_30c5660c:
 translate italian rex_c6d7d54b:
 
     # r "\"Why don't we catch up where we left off? You know, before that stupid emo guy came and ruined everything.\""
-    r "\"Perché non riprendiamo da dove ci siamo interroti? Sai, prima che quello stupido ragazzino emo arrivasse a rovinare tutto.\""
+    r "\"Perché non riprendiamo da dove ci siamo interrotti? Sai, prima che quello stupido ragazzino emo arrivasse a rovinare tutto.\""
 
 
 # game/rex.rpy:40
@@ -366,7 +366,7 @@ translate italian rex_4f46a46b_2:
 translate italian rex_e2aba272:
 
     # n "To my shock, Rex steps out in front of me, blocking the man's path."
-    n "Per mia sopresa, Rex si mette davanti a me, bloccando la strada all'altro uomo."
+    n "Per mia sorpresa, Rex si mette davanti a me, bloccando la strada all'altro uomo."
 
 
 # game/rex.rpy:139
@@ -632,7 +632,7 @@ translate italian rex_9a493344:
 translate italian rex_d1f67aca:
 
     # n "I guess I probably shouldn't push the point {i}too{/i} much, or else he might actually decide to make me his dinner."
-    n "Mi sa che è meglio non insistere {i}troppo{/i}, o potrebbe davero decidere di fare di me la sua cena."
+    n "Mi sa che è meglio non insistere {i}troppo{/i}, o potrebbe davvero decidere di fare di me la sua cena."
 
 
 # game/rex.rpy:229
@@ -646,7 +646,7 @@ translate italian rex_35a28d4c_2:
 translate italian rex_6168ac80:
 
     # n "I'm starting to be less afraid and more just annoyed. {w}Does he plan to just mock me all night?"
-    n "Sto inziando ad essere meno spaventato e decisamente più infastidito. {w}Ha intenzione di fare altro oltre a prendermi in giro tutta la notte?"
+    n "Sto iniziando ad essere meno spaventato e decisamente più infastidito. {w}Ha intenzione di fare altro oltre a prendermi in giro tutta la notte?"
 
 
 # game/rex.rpy:233
@@ -723,14 +723,14 @@ translate italian rex_a7f91881:
 translate italian rex_8c311aad:
 
     # n "Sighing to myself, I glare bitterly at the cracked sidewalk beneath my feet."
-    n "Sussurando a me stesso, osservo amaramente le crepe sul marciapede sotto di me."
+    n "Sussurrando a me stesso, osservo amaramente le crepe sul marciapiede sotto di me."
 
 
 # game/rex.rpy:253
 translate italian rex_fc00d67d:
 
     # n "It's just my luck that, somehow, I end up with the blood type that's quality crack to vampires… {w}I wonder if I can get a transfusion to fix it."
-    n "Grazie alla mia solita fortuna, in qualche modo, la finsico per avere un tipo di sangue che è eorina di ottima qualità per i vampiri… {w}Mi chiedo se posso risolvere il problema con una trasfusione."
+    n "Grazie alla mia solita fortuna, in qualche modo, la finisico per avere un tipo di sangue che è eroina di ottima qualità per i vampiri… {w}Mi chiedo se posso risolvere il problema con una trasfusione."
 
 
 # game/rex.rpy:256
@@ -751,7 +751,7 @@ translate italian rex_9e690118_3:
 translate italian rex_922afb0b:
 
     # n "He pauses again, this time fiddling with the lapel of his jacket, chewing on his lip briefly."
-    n "Si ferma di nuovo, stavolta giocherellando con il bavero della sua giacca e moridicchiandosi le labbra."
+    n "Si ferma di nuovo, stavolta giocherellando con il bavero della sua giacca e mordicchiandosi le labbra."
 
 
 # game/rex.rpy:263
@@ -814,7 +814,7 @@ translate italian rex_00e899ed:
 translate italian rex_080ab15e:
 
     # n "Rex's voice drops down to a smug whisper."
-    n "La voce di rex si abbassa ad un sussurro compiaciuto."
+    n "La voce di Rex si abbassa ad un sussurro compiaciuto."
 
 
 # game/rex.rpy:290
@@ -968,7 +968,7 @@ translate italian rex_6e99cedf:
 translate italian rex_3edcfebb:
 
     # r "\"Yeah? Huh…\""
-    r "\"Ah si? Hm…\""
+    r "\"Ah sì? Hm…\""
 
 
 # game/rex.rpy:344
@@ -1150,7 +1150,7 @@ translate italian rex_1b182a88:
 translate italian rex_35848ef9:
 
     # r "\"You hit your head earlier or something?\""
-    r "\"Hai battutto la testa prima, per caso?\""
+    r "\"Hai battuto la testa prima, per caso?\""
 
 
 # game/rex.rpy:422
@@ -1185,7 +1185,7 @@ translate italian rex_2e28e635:
 translate italian rex_04dde778:
 
     # r "\"…Okay, okay. No need to act all spiteful 'n shit.\""
-    r "\"…Ok, ok. Non c'è bisogno di fare il perfido, ecc…\""
+    r "\"…Ok, ok. Non c'è bisogno di fare il perfido, ecc.\""
 
 
 # game/rex.rpy:433
@@ -1276,7 +1276,7 @@ translate italian rex_fb83c130:
 translate italian rex_e3bc6456:
 
     # n "…Whatever.{w} Trying to understand him is probably a waste of time, anyway."
-    n "…Vabbè.{w} Cercare di capirlo sarebbbe comunque una perdita tempo, probabilmente."
+    n "…Vabbè.{w} Cercare di capirlo sarebbe comunque una perdita tempo, probabilmente."
 
 
 # game/rex.rpy:474
@@ -1290,7 +1290,7 @@ translate italian rex_000c5920:
 translate italian rex_b253bc0d:
 
     # n "I've never worried about thugs before – who'd wanna rob a broke-looking guy like me? – but now, every alley seems dangerous."
-    n "Non mi sono mai preocupato dei brutti ceffi finora - chi vorrebe mai derubare uno spiantato come me? - ma adesso, ogni singolo vicolo è un possibile pericolo."
+    n "Non mi sono mai preoccupato dei brutti ceffi finora - chi vorrebbe mai derubare uno spiantato come me? - ma adesso, ogni singolo vicolo è un possibile pericolo."
 
 
 # game/rex.rpy:477
@@ -1374,7 +1374,7 @@ translate italian rex_35a28d4c_4:
 translate italian rex_237177e3:
 
     # n "Those events last night, the fight between Dominic and Rex…"
-    n "Gli eventi della scorsa notte, lo scrontro fra Dominc e Rex…"
+    n "Gli eventi della scorsa notte, lo scontro fra Dominic e Rex…"
 
 
 # game/rex.rpy:513
@@ -1416,7 +1416,7 @@ translate italian rex_b1971e2f:
 translate italian rex_5068a238:
 
     # mc "\"But I feel like I could draw some amazing vampire shit right now… It would probably land me on the cover of a teen goth magazine, though…\""
-mc "\"Ma sento che potrei disegnare qualche stronzata fighissima coi vampiri adesso… mi porterebbe solo sulla copertina di qualche rivista per ragazzini goth, però…\""
+mc "\"Ma sento che potrei disegnare qualche stronzata fichissima coi vampiri adesso… mi porterebbe solo sulla copertina di qualche rivista per ragazzini goth, però…\""
 
 
 # game/rex.rpy:531
@@ -1528,7 +1528,7 @@ translate italian rex_f98b33b3:
 translate italian rex_e5562486:
 
     # n "I make sure the light is focused on the figure's bared teeth, using the memory of Rex's fangs as reference. {w}It turns out surprisingly well - almost {i}too{/i} well."
-    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è soprendentemento buono, forse anche{i}troppo{/i} buono."
+    n "Mi assicuro che la luce metta in evidenza i denti aguzzi della sagoma, ispirandomi all'immagine dei canini di Rex. {w}Il risultato è sorprendentemente buono, forse anche{i}troppo{/i} buono."
 
 
 # game/rex.rpy:575
@@ -1563,14 +1563,14 @@ translate italian rex_9a199308:
 translate italian rex_c5a690cf:
 
     # mcp "\"This crap is doing a real number on my stress levels, I'll say…\""
-    mcp "\"Queste stronzate stanno mettendo a dura prova i i miei nervi, devo dire…\""
+    mcp "\"Queste stronzate stanno mettendo a dura prova i miei nervi, devo dire…\""
 
 
 # game/rex.rpy:594
 translate italian rex_7e159a0f:
 
     # n "Muttering to myself, I switch the sign to \"Open\" after a little bit of prep work, and the night finally begins."
-    n "Bobottando da solo, giro il cartello verso \"Aperto\", dopo aver fatto qualche lavoretto preparativo, e la notte finalmente inizia."
+    n "Borbottando da solo, giro il cartello verso \"Aperto\", dopo aver fatto qualche lavoretto preparativo, e la notte finalmente inizia."
 
 
 # game/rex.rpy:602
@@ -1752,7 +1752,7 @@ translate italian rex_426b5608:
 translate italian rex_a56a0e49:
 
     # n "He ducks out of the way just in time, straightening back up with a delighted snicker."
-    n "Riesce a schivarla giusto in tempo, risollevandosi con un un sorissetto compiaciuto."
+    n "Riesce a schivarla giusto in tempo, risollevandosi con un sorrisetto compiaciuto."
 
 
 # game/rex.rpy:679
@@ -1766,7 +1766,7 @@ translate italian rex_ca7ae914:
 translate italian rex_74e3a205:
 
     # n "I roll my eyes, pointedly ignoring the rest of his blabbering."
-    n "Giro gli occhi al cielo, volutamente ingorando il resto del suo farneticare."
+    n "Giro gli occhi al cielo, volutamente ignorando il resto del suo farneticare."
 
 
 # game/rex.rpy:683
@@ -1871,7 +1871,7 @@ translate italian rex_ca0b4925:
 translate italian rex_f8f06062:
 
     # n "–No, I think I've got it wrong. {w}He just wants me safe so he can use me as a \"blood bag.\""
-    n "No, ho capito male. {w}Mi tiene al sicuro solo perché così puo usarmi come \"sacca di sangue.\""
+    n "No, ho capito male. {w}Mi tiene al sicuro solo perché così può usarmi come \"sacca di sangue.\""
 
 
 # game/rex.rpy:725
@@ -1976,7 +1976,7 @@ translate italian rex_cb69b0fe:
 translate italian rex_27b34f67:
 
     # r "\"Or maybe it was more please-don't-kill-me-eyes… kinda hard to tell the difference sometimes…\""
-    r "\"O forse erano più occhietti da 'ti prego non uccidermi'… Difficile disguerli a volte…\""
+    r "\"O forse erano più occhietti da 'ti prego non uccidermi'… Difficile distinguerli a volte…\""
 
 
 # game/rex.rpy:762
@@ -1997,7 +1997,7 @@ translate italian rex_9888f42e:
 translate italian rex_f9258eb1:
 
     # n "It helps that Rex is acting a little more bearable than yesterday, not just treating me like some kind of captured prey."
-    n "Aiuta il fatto che Rex si stia comportanto in maniera più tollerabile di ieri però, invece di trattarmi come se fossi la sua preda in gabbia."
+    n "Aiuta il fatto che Rex si stia comportando in maniera più tollerabile di ieri però, invece di trattarmi come se fossi la sua preda in gabbia."
 
 
 # game/rex.rpy:766
@@ -2018,7 +2018,7 @@ translate italian rex_355a217e:
 translate italian rex_011b61b4:
 
     # mcp "\"Hey… how'd you get turned into a vampire, anyway?\""
-    mcp "\"Ehi… come ti sei trasfomato in un vampiro, comunque?\""
+    mcp "\"Ehi… come ti sei trasformato in un vampiro, comunque?\""
 
 
 # game/rex.rpy:772
@@ -2039,7 +2039,7 @@ translate italian rex_9e690118_4:
 translate italian rex_93b1f2f2:
 
     # n "Rex's eyes instantly narrow when I mention Dominic's name."
-    n "Rex subito riduce gli occhi ad una fessura appena nomino Domic."
+    n "Rex subito riduce gli occhi ad una fessura appena nomino Dominic."
 
 
 # game/rex.rpy:778
@@ -2242,7 +2242,7 @@ translate italian rex_38e1d3b1:
 translate italian rex_959afd05:
 
     # n "He seems to be struggling to keep up a cheery voice."
-    n "Sembra far fatica a mantere una voce vivace."
+    n "Sembra far fatica a mantenere una voce vivace."
 
 
 # game/rex.rpy:853
@@ -2270,7 +2270,7 @@ translate italian rex_f807ca4b:
 translate italian rex_6ede8858:
 
     # r "\"And bein' a vampire is awesome, once you get used to it!\""
-    r "\"Ed essere un vampiro è fighissimo, una volta che ti ci abitui!\""
+    r "\"Ed essere un vampiro è fichissimo, una volta che ti ci abitui!\""
 
 
 # game/rex.rpy:862
@@ -2319,7 +2319,7 @@ translate italian rex_a0b8c098:
 translate italian rex_34f7e975:
 
     # n "He screws his face up in a playfully annoyed way, nudging a fist against my shoulder."
-    n "Fa una smofia indispettita in modo giocoso, dandomi un pugnetto sulla spalla."
+    n "Fa una smorfia indispettita in modo giocoso, dandomi un pugnetto sulla spalla."
 
 
 # game/rex.rpy:877
@@ -2473,7 +2473,7 @@ translate italian rex_5b45bc22:
 translate italian rex_a317da95:
 
     # mc "\"Just don't expect to be invited in for tea or anything.\""
-    mc "\"Non aspettarti un'invito per un tè o altro.\""
+    mc "\"Non aspettarti un invito per un tè o altro.\""
 
 
 # game/rex.rpy:944
@@ -2655,7 +2655,7 @@ translate italian rex_6d6889a6:
 translate italian rex_6792c22e:
 
     # u "\"You get caught bein' friends with a human, and it'll spell reaaaal big trouble!\""
-    u "\"Se ti beccano a fare  l’amichetto con un umano, sarai in grooooossi guai!\""
+    u "\"Se ti beccano a fare l’amichetto con un umano, sarai in grooooossi guai!\""
 
 
 # game/rex.rpy:1007
@@ -2683,7 +2683,7 @@ translate italian rex_88136c4f:
 translate italian rex_a04d18a8:
 
     # n "Rex mumbles under his breath, his lips pulled together tightly."
-    n "Rex mormora, le sue sue labbra strette dalla tensione."
+    n "Rex mormora, le sue labbra strette dalla tensione."
 
 
 # game/rex.rpy:1019
@@ -3159,7 +3159,7 @@ translate italian rex_1b240013:
 translate italian rex_4574e849:
 
     # n "His voice whispers passionately in my ear."
-    n "La sua voce mi sussura con passione nell'orecchio."
+    n "La sua voce mi sussurra con passione nell'orecchio."
 
 
 # game/rex.rpy:1179
@@ -3446,7 +3446,7 @@ translate italian rex_294c4367:
 translate italian rex_43eb5907:
 
     # n "I probably look like complete shit after all I've been through. Hopefully I'm not mistaken for a crazy bum by people passing by."
-    n "Probabilemente ho un aspetto di merda dopo quello che ho passato. Spero di non essere scambiato per un barbone fuori di testa dai passanti."
+    n "Probabilmente ho un aspetto di merda dopo quello che ho passato. Spero di non essere scambiato per un barbone fuori di testa dai passanti."
 
 
 # game/rex.rpy:1296
@@ -3586,7 +3586,7 @@ translate italian rex_236811ad:
 translate italian rex_b5c81f98:
 
     # n "Muttering under my breath dryly, I decide to distract myself with some commission work for the rest of the day."
-    n "Borbottando sdegnamente a me stesso, decido di distrarmi un po' lavorando a qualche progetto per il resto della giornata."
+    n "Borbottando sdegnatamente a me stesso, decido di distrarmi un po' lavorando a qualche progetto per il resto della giornata."
 
 
 # game/rex.rpy:1347
@@ -3600,14 +3600,14 @@ translate italian rex_618125e1:
 translate italian rex_2258b062:
 
     # n "My mind keeps drifting back to last night, and somehow, the words that fill my screen are really sexy, painting some surprisingly visceral imagery."
-    n "La mia mente continua a tornare sui ricordi della scorsa notte, e non so come, le parole che riempono il mio schermo dipingendo una scena viscerale e incredibilmente sexy."
+    n "La mia mente continua a tornare sui ricordi della scorsa notte, e non so come, le parole che riempiono il mio schermo dipingendo una scena viscerale e incredibilmente sexy."
 
 
 # game/rex.rpy:1350
 translate italian rex_287247df:
 
     # n "The feeling of being fed on is hard to describe, but when I remember the sensations, they make my imagination spring to life –"
-    n "La sensazione che mi ha pervaso mentre Rex beveva dal mio collo è difficle da spiegare, ma quando mi ricordo cosa provavo, la mia immaginazione prende vita -"
+    n "La sensazione che mi ha pervaso mentre Rex beveva dal mio collo è difficile da spiegare, ma quando mi ricordo cosa provavo, la mia immaginazione prende vita -"
 
 
 # game/rex.rpy:1351
@@ -3656,7 +3656,7 @@ translate italian rex_7188a8c5:
 translate italian rex_a8f09002:
 
     # n "When my mind drifts back to last night, and the hot, sweet sensations that flooded through my body, my pen starts to move on its own."
-    n "Quando la mia mente torna sui ricordi della scorsa notte, una sensazione calda e dolce mi pervade il corpo e la mia penna inizia a muoveri da sola."
+    n "Quando la mia mente torna sui ricordi della scorsa notte, una sensazione calda e dolce mi pervade il corpo e la mia penna inizia a muoversi da sola."
 
 
 # game/rex.rpy:1366
@@ -4237,7 +4237,7 @@ translate italian rex_aa7f92db:
 translate italian rex_9b04ba1b:
 
     # n "Sighing, Rex glances up at the pulsing lights on the ceiling, which reflect in his silver irises."
-    n "Sospirando, Rex osserva le luci pulsanti sul soffitto, che si riflettono suisuoi iridi argentati."
+    n "Sospirando, Rex osserva le luci pulsanti sul soffitto, che si riflettono sulle sue iridi argentate."
 
 
 # game/rex.rpy:1644
@@ -4601,7 +4601,7 @@ translate italian rex_one_d33deb1a:
 translate italian rex_one_7fff9c89:
 
     # n "We exchange a few more playful insults and jabs, and I even indulge Rex by dancing with him for a little while."
-    n "Ci scambiamo ancora qualche insulto e fracciatina giocosa, e gli concedo persino un ballo."
+    n "Ci scambiamo ancora qualche insulto e frecciatina giocosa, e gli concedo persino un ballo."
 
 
 # game/rex.rpy:1794
@@ -4622,7 +4622,7 @@ translate italian rex_one_1dbf6935:
 translate italian rex_one_298b524f:
 
     # n "Finally, I hesitantly tell Rex that I should head home to catch some sleep."
-    n "Alla fine, affermo esistante che è ora di tornare a casa e dormire un po'. "
+    n "Alla fine, affermo esitante che è ora di tornare a casa e dormire un po'. "
 
 
 # game/rex.rpy:1803
@@ -4713,7 +4713,7 @@ translate italian rex_one_a50f78d7:
 translate italian rex_one_6192b720:
 
     # n "He darts forward and pulls me into a crushing hug, which I return with a slight grunt."
-    n "Si lancia verso di me e mi tira in un abbraccio da spaccarmi la osse, che restituisco con un leggero grugnito."
+    n "Si lancia verso di me e mi tira in un abbraccio da spaccarmi le ossa, che restituisco con un leggero grugnito."
 
 
 # game/rex.rpy:1852
@@ -4818,7 +4818,7 @@ translate italian rex_one_27b34f73:
 translate italian rex_one_d6956dfa:
 
     # n "It's been a long shift, but tonight, I get to see Rex at the club and grab some on-the-house beers… something I've started to look forward to a lot."
-    n "È stato un turno davvero lungo, ma stanotte, vado a trovare Rex al locale e mi bevo quache birra offerta dalla casa… È da un po' che non vedo l'ora che arrivino queste serate."
+    n "È stato un turno davvero lungo, ma stanotte, vado a trovare Rex al locale e mi bevo qualche birra offerta dalla casa… È da un po' che non vedo l'ora che arrivino queste serate."
 
 
 # game/rex.rpy:1916
@@ -5154,7 +5154,7 @@ translate italian rex_one_ed3e1a47:
 translate italian rex_one_bce172b2:
 
     # n "Instead, he's slumped with his back to the wall, his face buried in his hands."
-    n "Al contrario, è buttato a terra con la schiena apoggiata al muro, la faccia nascosta fra le mani."
+    n "Al contrario, è buttato a terra con la schiena appoggiata al muro, la faccia nascosta fra le mani."
 
 
 # game/rex.rpy:2075
@@ -5203,7 +5203,7 @@ translate italian rex_one_7eee3033:
 translate italian rex_one_2880005b:
 
     # n "But when I get close, the sound of his quiet, choked breaths fills my ears, and I feel an unexpected pang in my chest."
-    n "Ma quando mi avvicino, il leggero suono del suo respiro rotto mi riempe l'udito, e sento un'inaspettata fitta nel petto."
+    n "Ma quando mi avvicino, il leggero suono del suo respiro rotto mi riempie l'udito, e sento un'inaspettata fitta nel petto."
 
 
 # game/rex.rpy:2094
@@ -5273,7 +5273,7 @@ translate italian rex_one_eb97fadf:
 translate italian rex_one_91ba5491:
 
     # mcp "\"I already thought you were lame a long time ago. Crying's not gonna change that.\""
-    mcp "\"Pensavo fossi deboluccio già da un po'. Piangere non camberà le cose.\""
+    mcp "\"Pensavo fossi deboluccio già da un po'. Piangere non cambierà le cose.\""
 
 
 # game/rex.rpy:2119
@@ -5343,7 +5343,7 @@ translate italian rex_one_6ab2a9fe:
 translate italian rex_one_dc4c9425:
 
     # n "At this point, I'm used to him invading my personal space, but this feels very… different."
-    n "A questo punto, sono abitutato al fatto che invada il mio spazio personale, ma questa volta… è diverso."
+    n "A questo punto, sono abituato al fatto che invada il mio spazio personale, ma questa volta… è diverso."
 
 
 # game/rex.rpy:2148
@@ -5420,7 +5420,7 @@ translate italian rex_one_6bbe25d7:
 translate italian rex_one_58f79400:
 
     # rp "\"So much for friends… so much for family.\""
-    rp "\"Alla faccia dell'amicizia… alla faccia della familglia.\""
+    rp "\"Alla faccia dell'amicizia… alla faccia della famiglia.\""
 
 
 # game/rex.rpy:2169
@@ -5525,7 +5525,7 @@ translate italian rex_one_ef2de695:
 translate italian rex_one_8feb60b3:
 
     # mc "\"You're crazy, and impulsive, and you've got a horrible temper, and you seriously need to learn about personal boundaries…\""
-    mc "\"Sei pazzo e impulsivo, e hai un pessimo carattere e devi seramente imparare cosa significhi il concetto di confini personali…\" "
+    mc "\"Sei pazzo e impulsivo, e hai un pessimo carattere e devi seriamente imparare cosa significhi il concetto di confini personali…\" "
 
 
 # game/rex.rpy:2203
@@ -5595,14 +5595,14 @@ translate italian rex_one_8587cfa0:
 translate italian rex_one_542d8ded:
 
     # n "His lips are cool and a little dry, and I trace my tongue along them gingerly, catching the salty drops of his tears."
-    n "Le sue labbra sono fredde e un po' secche, vi ci lascio correre la mia lingua con cautela, acchiappando le gocciline salate delle sue lacrime."
+    n "Le sue labbra sono fredde e un po' secche, vi ci lascio correre la mia lingua con cautela, acchiappando le goccioline salate delle sue lacrime."
 
 
 # game/rex.rpy:2229
 translate italian rex_one_21bde222:
 
     # n "He doesn't move an inch at first, but I keep lavishing his mouth with soft kisses, curling my arms around his neck."
-    n "All'inizio non si muove neanche di un millimetro, ma continuo a bagnargli le labbra con baci dolci, stringedo le mie braccia attorno al suo collo."
+    n "All'inizio non si muove neanche di un millimetro, ma continuo a bagnargli le labbra con baci dolci, stringendo le mie braccia attorno al suo collo."
 
 
 # game/rex.rpy:2231
@@ -5756,7 +5756,7 @@ translate italian rex_one_807be6ff:
 translate italian rex_one_7d9324fa:
 
     # n "Rex murmurs against my lips with a rare, serious look in his eyes."
-    n "Rex sussura sulle mie labbra con uno strano sguardo serio negli occhi."
+    n "Rex sussurra sulle mie labbra con uno strano sguardo serio negli occhi."
 
 
 # game/rex.rpy:2284
@@ -6043,7 +6043,7 @@ translate italian rex_one_52e12e8e:
 translate italian rex_one_9a73f9e7:
 
     # n "…My mind instantly starts to race through a hundred awful possibilities."
-    n "…La mia mente inzia immediatamente a immaginarsi centinaia di possibili orribili scenari."
+    n "…La mia mente inizia immediatamente a immaginarsi centinaia di possibili orribili scenari."
 
 
 # game/rex.rpy:2412
@@ -6092,7 +6092,7 @@ translate italian rex_one_aaaf2c8c:
 translate italian rex_one_25dbc985:
 
     # mc "\"Glad you decided to show up. I'd almost started worrying.\""
-    mc "\"Sono contento che hai deciso di farti vivo, stavo quasi per inziare a preoccuparmi."
+    mc "\"Sono contento che hai deciso di farti vivo, stavo quasi per iniziare a preoccuparmi."
 
 
 # game/rex.rpy:2433
@@ -6211,7 +6211,7 @@ translate italian rex_one_1ebfb583:
 translate italian rex_one_47cc15f2:
 
     # n "Rex squeezes my hand reassuringly, but I feel like it's more to soothe his own nerves than mine."
-    n "Rex mi stringe la mano per rassicurarmi, ma mi da l'impressione che sia più per calmare i suoi nervi, invece dei miei."
+    n "Rex mi stringe la mano per rassicurarmi, ma mi dà l'impressione che sia più per calmare i suoi nervi, invece dei miei."
 
 
 # game/rex.rpy:2471
@@ -6890,7 +6890,7 @@ translate italian rex_final_11471d97:
 translate italian rex_bad_90687829:
 
     # n "…The alley goes deafeningly quiet."
-    n "…Il vicolo si riempe di un assordante silenzio."
+    n "…Il vicolo si riempie di un assordante silenzio."
 
 
 # game/rex.rpy:2729
@@ -7009,7 +7009,7 @@ translate italian rex_bad_4f2cd9db:
 translate italian rex_bad_fd5cee8b:
 
     # n "He sounds so different… {w}So different from his normal laughter."
-    n "Sembra così diverso…{w}Così diverso dalla sua solia risata."
+    n "Sembra così diverso…{w}Così diverso dalla sua solita risata."
 
 
 # game/rex.rpy:2777
@@ -7051,7 +7051,7 @@ translate italian rex_bad_a54d55a2:
 translate italian rex_good_90687829:
 
     # n "…The alley goes deafeningly quiet."
-    n "…Il vicolo si riempe di un assordante silenzio."
+    n "…Il vicolo si riempie di un assordante silenzio."
 
 
 # game/rex.rpy:2799
@@ -7177,7 +7177,7 @@ translate italian rex_good_318553ef:
 translate italian rex_good_1328b65e:
 
     # r "\"I won't d-drain you, even if it means we –\""
-    r "\"Non ti prosciugerò, anche se significa che noi -\""
+    r "\"Non ti prosciugherò, anche se significa che noi -\""
 
 
 # game/rex.rpy:2853
@@ -7219,14 +7219,14 @@ translate italian rex_good_890a9a05:
 translate italian rex_good_83e1c1c8:
 
     # n "…The two Helgen vampires suddenly start to shift uneasily, staring past us."
-    n "…I due Helgen inziano improvvisamente a muoversi nervosamente, guardando dietro di noi."
+    n "…I due Helgen iniziano improvvisamente a muoversi nervosamente, guardando dietro di noi."
 
 
 # game/rex.rpy:2867
 translate italian rex_good_c7a10946:
 
     # n "I can't understand why at first, but then, I realize the group up ahead has stopped."
-    n "All'inzio, non capisco perché, ma poi, mi rendo conto che il gruppo si è fermato."
+    n "All'inizio, non capisco perché, ma poi, mi rendo conto che il gruppo si è fermato."
 
 
 # game/rex.rpy:2870
@@ -7275,7 +7275,7 @@ translate italian rex_good_069ca38e:
 translate italian rex_good_5c1435a4:
 
     # i "\"Please excuse us! We were just on our way to some business negotiations.\""
-    i "\"Vi prego di scusarci! Stavamo andando ad un'incontro d'affari.\""
+    i "\"Vi prego di scusarci! Stavamo andando ad un incontro d'affari.\""
 
 
 # game/rex.rpy:2894
@@ -7534,7 +7534,7 @@ translate italian rex_good_4c07f1c5:
 translate italian rex_good_d33b0a21:
 
     # n "A sulky whine comes from beside me."
-    n "Un dolce piangnucolio mi arriva alle orecchie da un lato."
+    n "Un dolce piagnucolio mi arriva alle orecchie da un lato."
 
 
 # game/rex.rpy:2997
@@ -7569,7 +7569,7 @@ translate italian rex_good_4437502b:
 translate italian rex_good_fcdd4c63:
 
     # n "Snickering, I hug my arm over Rex's own shoulders as we walk along the beach, side by side."
-    n "Ridacchiando, avvolgo Rex in un abbraccio mentre camminiamo sulla spaggia, fianco a fianco."
+    n "Ridacchiando, avvolgo Rex in un abbraccio mentre camminiamo sulla spiaggia, fianco a fianco."
 
 
 # game/rex.rpy:3004
@@ -7618,7 +7618,7 @@ translate italian rex_good_6f6e537c:
 translate italian rex_good_49b57a23:
 
     # n "Now we've gone down to southern Cali, and here in San Diego, we've found a little place cheap enough for us to stay."
-    n "Ora ci troviamo nel sud della California, a San Diego, abbiamo trovato un posticino abbastanza ecconomico dove stare."
+    n "Ora ci troviamo nel sud della California, a San Diego, abbiamo trovato un posticino abbastanza economico dove stare."
 
 
 # game/rex.rpy:3018
