@@ -3530,7 +3530,7 @@ translate italian common_7afe23e8:
 translate italian common_2d56a98f:
 
     # u "\"Whoa, why're you gettin' all mad, man? You're just not the guy I was lookin' for!\""
-    u "\"Whoa, perché ti arrabbi tanto, ragazzo? Non sei il tizio che stavo cercando, tutto qui!\""
+    u "\"Woah, perché ti arrabbi tanto, ragazzo? Non sei il tizio che stavo cercando, tutto qui!\""
 
 
 # game/common.rpy:1693

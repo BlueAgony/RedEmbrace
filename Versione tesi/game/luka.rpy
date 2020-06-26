@@ -44,7 +44,7 @@ translate italian luka_c61713fa:
 translate italian luka_9a333d66:
 
     # lp "\"What are {i}you{/i} following me for?\""
-    lp "\"Perché mi stai seguendo{i}tu?{/i}\""
+    lp "\"Perché mi stai seguendo {i}tu?{/i}\""
 
 
 # game/luka.rpy:30
@@ -8241,7 +8241,7 @@ translate italian luka_bad_resume_1de61df7:
 translate italian luka_bad_resume_5c9384c1:
 
     # n "…Sometimes, I remember how things used to be, before I received this dark gift… back when Luka and I were so innocent."
-    n "…A volte, mi torna in mente come erano le cose una volta, prima che ricevessi il dono oscuro  … quando io e Luka eravamo ancora così innocenti."
+    n "…A volte, mi torna in mente come erano le cose una volta, prima che ricevessi il dono oscuro… quando io e Luka eravamo ancora così innocenti."
 
 
 # game/luka.rpy:3380

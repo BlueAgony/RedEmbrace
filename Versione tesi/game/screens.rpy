@@ -66,7 +66,7 @@ translate italian strings:
 translate italian strings:
 
     old "To play his story, you can buy only his route"
-    new "Per giocare la sua storia, puoi solo comprare il suo percorso"
+    new "Per giocare la sua storia, puoi solo comprare il suo percorso "
     
                 
 # game/screens.rpy:376
